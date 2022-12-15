@@ -1,0 +1,9 @@
+[validator.awa]
+consensus_public_key = "0000d034999667e3bc013ee3fe8a626802249266d4ea7fae07e684a041d9bd9e70"
+account_public_key = "00258921a96c721f76b03e7c3396cc97aebe3bf1b86a355abde1d6ac231f28aed3"
+protocol_public_key = "00d066aa83d864e295b3f409c51159669297d5494ffee73ef066989814cafa9938"
+dkg_public_key = "60000000bae0af24bdaeb444853f17f9fa717940b64fb1c040121c3eda27ac6ac6eabf97f212952b24bca8066cf9867e31c700103e77e08fa181f1ca47dc3c8e21356701dee8086971650fa316e576c3289645b574e0030ee87d60c00cbeb3aa6f445c8d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "143.244.196.53:26656"
+tendermint_node_key = "00da5dafb792f217fe54dd88971a2aeb74706d47cddb76b763fbc1d57bb26d475c"
