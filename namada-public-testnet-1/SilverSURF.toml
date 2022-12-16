@@ -1,0 +1,9 @@
+[validator.SilverSURF]
+consensus_public_key = "0048e6e0702307dce0dc1045d7bcc45fc776ae7044d7206f2931ed818aab81ab4d"
+account_public_key = "0004fdbb67a4262f4ff12a58d0626d9be7c96b042633b6f78578894b1b39a073ab"
+protocol_public_key = "000a4457a67b2ee72c284302f9d20c6115fcc4ea5efd15617f4a29ec44e8b9c395"
+dkg_public_key = "600000004dbfcd0914f017466e256938d80dfb7856a7def2f9024abc7e1f90b4b210bf886243a660629499c0fe7f91659af34b090c3286ea3e4f9b7e29e808794e3c33567a059b440844368a8724d522b9b93f46e4f9d58ad0b180aab2459b87fa928f8e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.73.144:26656"
+tendermint_node_key = "00b33a218db3928df8bffa3ac8be4a2bfee74495bedb34951f4d48c65361a0a732"
