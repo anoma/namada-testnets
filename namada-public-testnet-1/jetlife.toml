@@ -1,0 +1,9 @@
+[validator.jetlife]
+consensus_public_key = "0077435ab905c40dcc4548e5c6e569f0d1569893365de57653e8b7f86b2680d58d"
+account_public_key = "0018ae3336295f3f0a82ed0083c45cdde24c470c388acfed2519bf4a13bec2ffb8"
+protocol_public_key = "0089a07c815073738d199ff1f87638b2e6d7cdc9c7937c626bd7ba75991ed5e52d"
+dkg_public_key = "60000000dc857fda15cc16a8edf630a5bc0d40dd51e5514c688d8638a09ea6e2a9ebbedda54a7007a0042231c4f47d3bbc28be18f3c45601320b8b1d707f8447ccbd2d3562eb464fabf575a8842f531d9e9c7cd12c65496a791f500b066e80ebbd9a280a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "82.65.223.126:26656"
+tendermint_node_key = "006c0fdc16758163779ae8ee3227646a0d075e26c85e5649ca811390b7096d7c76"
