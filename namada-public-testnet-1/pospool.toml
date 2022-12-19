@@ -1,0 +1,9 @@
+[validator.pospool]
+consensus_public_key = "008f5bacaeba1b578b099352664fd6231be6ab0f25ee14dfb6f032a8630a3a4ca7"
+account_public_key = "00d56442c1c1c28b8a50211effaffd1494fc98f7ea1d66571c7da0e85a4ba85e84"
+protocol_public_key = "00609c2220cc41157e11ed5d60a8009fa02dc6cd0a76ea27e4075bf8877b6298c0"
+dkg_public_key = "6000000087000160fa19f0c4f7c5b42933f50e3528e7a2371ed3cf617966f5275bafb0e0e75612a261f5029a7fb89f551e3302009d81455c60bed1dc1435b8ae95e4c1006b963a6173533069f97dde6f7f6558aa7e3337a0b8db6c1fbca330338ec58218"
+commission_rate = "0.10"
+max_commission_rate_change = "0.8"
+net_address = "103.195.101.207:26656"
+tendermint_node_key = "00cd2acb40f0515218db83f33501bf6556377017d7eb3f729f0aba0391a4c9c6a0"
