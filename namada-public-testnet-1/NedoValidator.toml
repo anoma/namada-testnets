@@ -1,0 +1,9 @@
+[validator.NedoValidator]
+consensus_public_key = "004eaebea48c31a33674de89fe738635d1da6c4c847d8dea65bbf360b1532e7655"
+account_public_key = "00be31b442c11aecd2a7f5997d7944c9fe2d596711bf4a949ea5a0ba64cf6332da"
+protocol_public_key = "00b05edd57f2300a55045194966c856b06977a8695474db43ac4da83625fbc01ad"
+dkg_public_key = "6000000069c14753e3331cb5a540732a103cf50e11b3e651c3bc691f8163e96d4e9ce06bd08e10306b78165adc7b1439e5f95b097fe517aa45fd78363c0ace6151b70f082625ce8b169e8cb9993ac0c9d42b775f117785a921a5cac8f406d77b015d6e8b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.202.241.157:26656"
+tendermint_node_key = "001ae6f93123c30899f310ee6c1643d169aba15ceff91a544e9bc74d0ef9e2684f"
