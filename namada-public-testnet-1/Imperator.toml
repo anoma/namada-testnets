@@ -1,0 +1,9 @@
+[validator."Imperator.co"]
+consensus_public_key = "0095f5e2506fa0f3a634c64e2a2684b121d4a7206442a60535bf2ac2b869dbbbde"
+account_public_key = "00e59f5a982fa8ef0e2fc6f9ec55eb63984312b37512581f99bf1269f68a149238"
+protocol_public_key = "00445cc409c94b4bb0cd39ed41b9b4bcf490d3e8282f67fef1cac6253e617bb430"
+dkg_public_key = "600000005bf5f673ba936165c5cc3fba766264736893bdead8d3bc5fada2eb60dff62d5600485444401652c4d07a15351d15cd10217396d621379d0fbb278e4e12f10f89977e98bdc04909419404efe212f8e13bb1a220fa284c3d844361fe9d2db7b403"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.85.226:9010"
+tendermint_node_key = "00f5112ce65d9d35efbc7c23f9e777ae1fa606dc7b7a3353cfd5510d31bdc784a2"
