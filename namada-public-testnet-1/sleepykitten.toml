@@ -1,0 +1,9 @@
+[validator.sleepykitten]
+consensus_public_key = "00beaea534f2e0f872bdb3fd8cceada4d7480defee2ff6ac4441e6337f65e223e4"
+account_public_key = "009a205a090665ebda50904a66d0341ce7c0a16e46fda1f108037849bfe9fdbfa0"
+protocol_public_key = "0024ee2cf3c6b98c31ca74f2e73b3b46e1b672f6dd3689a8b1518a51b743f25a0f"
+dkg_public_key = "60000000878a1094934c888fc91a67a138d690c49f3c90c6502e7731e2fc1035707f437c1872550a7de409c86fcda0dc3969561359bf2beb9f17725cd2d8fbd076ea2fb6c126fcf58ec36b22a9c7b2a7d313d2a235fcaa8983d0c2caec9636d1c9880687"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "157.90.10.107:26636"
+tendermint_node_key = "005b419c00f5ab78c94b3e68a886d93bd4a803a1121aa2836fab4b8de8fdc9addf"
