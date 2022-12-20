@@ -1,0 +1,9 @@
+[validator.shagalicious]
+consensus_public_key = "00a43b678e8918bf4b046fa5c8f97f4e3895d7a2d488683be63ef6014bf4afc800"
+account_public_key = "00fa28275b0442a5338feaf00ad831a215973a6e22d8b0ba8413326511767cb4db"
+protocol_public_key = "0096d3e8d8ceaec9745633fa1e73aa77776864587e06a3f97724bcda969426eb67"
+dkg_public_key = "600000008ad364bfc7309ac21dd57f1b99547a829bc2bbca0d7e77ba11192a62bff356954e0a50b12fb682fdac73736fa8091b015d7ab265dc2b5c1b8b011ca17ae56aaaa226da603b2a41d182a228b740834155141b6ea86aa5651a29b527248c71bc8d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "212.83.179.55:26656"
+tendermint_node_key = "00f2c1a9ad6c46fb113cf2dffcbfc8050728a003ebd76970ee409f68e974ce22e9"
