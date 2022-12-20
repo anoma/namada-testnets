@@ -1,0 +1,9 @@
+[validator.annatwo]
+consensus_public_key = "00047b14927d543a22d83c5acfbfa9ab173c48170d3af2e9f93f78b2f089b6e329"
+account_public_key = "00aab7f4c7da78e0ad8f99ff1740d3691dc2015254e432d91f3940c8c6f2e4eb85"
+protocol_public_key = "007c6638896fce91dba935cf275b3a0c44efa0d55d658c2c95b2ade3fb38e48d7a"
+dkg_public_key = "60000000bb0d79f2ea490c4f5208d03df5b143f09b26d381643eeab728a62b159b3c89fcca843535db20c6ca7dfbe7c714b3de0e1377f886511dc9a1e0ae73991e5329981aa7694e9cbc4fc686d1256928b53076c042e9cabfb3bbe68d12df15163d5182"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "155.133.27.197:26656"
+tendermint_node_key = "007421a602ba1715e344478c881095fcf3123980da93e76e5d5a100f1ea84d6b8b"
