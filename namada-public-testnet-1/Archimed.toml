@@ -1,0 +1,9 @@
+[validator.Archimed]
+consensus_public_key = "003b1f9f92ed41497726d1728b3a74faabadad9bbee0ea9035ca0e47b858c7f3e7"
+account_public_key = "000519a318c1d5bd1ffe773803e63e01002671790c36bda392446d94341a1ae2a1"
+protocol_public_key = "00adecf5a01e1f2779db40818277a7a639b4aadf8c3da6963671d74ef24e108f35"
+dkg_public_key = "60000000aa204401de802f0aa8ebb8547d34a1c0d18cd810b685fb5fd2b5ef001fa432abebf2ceb65fd570081e4cd2bebd58e70678014670cae0b54944f6b26cc5a2367d81f11574fbf681addb8c90a70fc254b2bbe200ec33457e21a9f2e1c7169f3d0a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.16.38.136:26656"
+tendermint_node_key = "006ddc986bba0f7d27ae807672891b9b77f2bedc2c72fb8318618a0cca0f58dbb2"
