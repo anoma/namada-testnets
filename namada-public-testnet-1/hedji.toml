@@ -1,0 +1,9 @@
+[validator.hedji]
+consensus_public_key = "00fd266ea6658df896affe2934270850796d8be6160d63454a55763b7f9e2c111a"
+account_public_key = "0070dfd7d4cb984d3192758aea0c549b16ee6a2cfee7e840fc58d4e26e26a8c0ad"
+protocol_public_key = "00d9d2d09b2cec5aa176482df227070e221da66487aa2638a9f56f60ae9de31bb2"
+dkg_public_key = "600000007a0d209322daa0ee4caa71d58e28aab254ef9c7aa125abd7bbb22e19b47520d448baa90f3e10c18680cd4cd674558909a5a9c9b754df69130ea0e654cfed52525ee3ef14c9ef16868df5b4e4edb34e82796872571ead6f3d926c91c5cfd08989"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "54.37.202.167:26656"
+tendermint_node_key = "00f4d66f90ee001da31680cc1a246e8a1dd8577dded2b1ff49d906766be16c4086"
