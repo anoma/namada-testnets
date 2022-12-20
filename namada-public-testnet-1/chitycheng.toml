@@ -1,0 +1,9 @@
+[validator.chitycheng]
+consensus_public_key = "00b035ddfd7244bbb8c6def8467e0ac6fb572af8b359c0413df6b1498185805e25"
+account_public_key = "00d014cc5e72789394e975c4d4ad72bf97727edbf699907ac199c85bef52793985"
+protocol_public_key = "00f47f1353e0b8cc9c98d91aa9945b2b86be3c24d215b480baffe313c1422f9259"
+dkg_public_key = "6000000076afcf0a967bb903e9fddddd7f6bcb08bb59104f4b24431458a88adc7f9cc8b3f3d91e7ca706d8521866cf2d76abcd1026f9793b0d773e5858b687fdf8d8fae5341bce84717f82b1119f2c72656860c5ebd05546a0ac8e96f5ed825c32ef5a04"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.94.77:26656"
+tendermint_node_key = "0021a165cb95ea3f941a40f8c584f6c0f3453f3beff743c0b519e8e1d967f6f49b"                                                                                        
