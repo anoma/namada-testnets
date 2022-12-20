@@ -1,0 +1,9 @@
+[validator.gol31]
+consensus_public_key = "00fec52a68592ecec3ad6cadfb29508cc679f68e2452bd52f649a3ab7d689f5936"
+account_public_key = "005a7caaaebc3427f163bcde8ad92846a80dedfb2f4009d0f9b9acbe9a210d8afe"
+protocol_public_key = "00d17dd1432940533b8a4ba5ae45fb31003c4e3342e18587859aed40ab5431b315"
+dkg_public_key = "60000000e9b1f280f57d5488a7760e129ddd0cd0990c510bf2e73778d84db8e4aaaa53770a7fa5252c6ef296afe566a0eb79f51876938e1be68ec6a07467fbabede6aa02528fc548cbbae051caed02af53c2b9046ab0fa567966e775d7be57cbb3bd300b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.201.169.176:26656"
+tendermint_node_key = "003a1f1197b65a66d5fb1c467059504db28663afb750d8c9bd77ba1520ebcc738c"
