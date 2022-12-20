@@ -1,0 +1,9 @@
+[validator.CyberNodes]
+consensus_public_key = "00f0ecdbfc21e65c4ae23987433e98cab0c37614821d7b489d3b1c33bccb68ea25"
+account_public_key = "00b37c857554830dbcf0ba5036d6841ac9467903ba7d69df916ada29f1889a5923"
+protocol_public_key = "00c64d18ee9a0c4ad6a781d3d873f4f66fe63ebadf5dab06e04b72a19f684d6dde"
+dkg_public_key = "60000000e50a019aa97e3d776df383c54e214fa11af76f656e6a05743b59fb46ce88a77fd96106ab3b98b8fb1751424f4d4c8900db0e79fe60522667f67a0b3fd87adb8b3cb08292cb355f35f23f0447eddf84687a4f72c024960659a35ba35d5f26aa11"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.7.169:26656"
+tendermint_node_key = "009662a83ef1a1ee48b944bd1274f1bdbfcb5d51e1f34f0e5988537f3471bde947"
