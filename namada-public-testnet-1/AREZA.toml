@@ -1,0 +1,9 @@
+[validator.AREZA]
+consensus_public_key = "0001a6aba32b3b9b9742cabda88a5a8b549e3294a30f6a81ad3d0fd11b80faaa09"
+account_public_key = "00c96ab16171fd7319adf224d971b48ab520b08bb5f238578cb3b7d90dd0a9228c"
+protocol_public_key = "0016fc774f4e5483664b9f9dfd5402e0a7049924356411dfae77fd22ca78bac549"
+dkg_public_key = "600000007401f23f10499b8cd62e3ee940072cc2e0fb883a25f9edeab84a76d785604f15e52b3409a47c28f09bc2d5d68333a40d4aed66bf03a659bd8428ce58c1cd1fee7f57fe88b111a2a8f11c0ea4dbc636a078ab580ada3881f538081b0426095f92"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "77.66.176.244:26656"
+tendermint_node_key = "004bd24da2fd95cabce92fe1dadded94c27f9bd0c2ae92c19dcbad4b5e4c43d75c"
