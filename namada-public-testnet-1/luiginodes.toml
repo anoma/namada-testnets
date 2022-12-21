@@ -1,0 +1,9 @@
+[validator.luiginodes]
+consensus_public_key = "00742397e9dfc34053bfed2dffbe1bd23daedd29f3147b08a8c9e246d9ec07b982"
+account_public_key = "00682626a7c7c8d40843d259061c12384560f9b6df17e8b03651b298e963c8af12"
+protocol_public_key = "008c6a9b70e991f0b81697b0dd1c3ca691c79c5ff02960a5c4e1764e2811b58b4a"
+dkg_public_key = "600000001b9c42546ecf81ff61b50c36f9f217b381f356b5d9841cd936fdddfc2d7a8b97262d98546cefbab7da6e12904792a50260c1a850ab8906b376789d799a59d7942d47a9d85e6acdaf411fd88292e0b5d439acac37f7e0ef4f019ddbccced5aa80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "154.53.55.230:26656"
+tendermint_node_key = "00c4dc115fdc03b2924761d9cd1443e978291acec73b574d9f037d1ff19cbeecd6"
