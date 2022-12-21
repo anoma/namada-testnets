@@ -1,0 +1,9 @@
+[validator.superjax]
+consensus_public_key = "008d6cf174a3a1be4e759505335558269b9c126ac17f2e09ba3bef652e82f2f613"
+account_public_key = "00063f4d076843748bc2685a2c0ecbe468d6e0155b3aeabb016be52b40c97adfd0"
+protocol_public_key = "00098809dbadaf5a9c873a0efab532b6edbf0fda2b0ea21680be3f81555eb19642"
+dkg_public_key = "6000000040c2312e05d942dbdba2bbde6fce7da90260bd7a79fe0a4bad66db4237c79717babea74458bac868aecf0c7661fae10a7c2233a2ae7a49d21e8c09300018750f6201f7136a2078c43b603e9394a063ded3a207008159c35dd4466943fcf59791"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.163.169.166:26656"
+tendermint_node_key = "002be4552a324c6dd438093d0af7e83f3f568143f313a4ee467861a1230cd51005"
