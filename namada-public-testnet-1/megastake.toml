@@ -1,0 +1,9 @@
+[validator.megastake]
+consensus_public_key = "00557b610d2e797d6e565fcff65880346a235cd177ace3f477645914057eef012d"
+account_public_key = "00edb52e39df9437ed044b23fc4e7ae40eec20af3c930015a4874367fae46e60ad"
+protocol_public_key = "002e4419f8e39b68c60aad8048836ec3c20548f1fe01f1e26b5a4dee0ba040e48d"
+dkg_public_key = "6000000058c05992ed82d3af343ec9990da2ed60aa28bb812f75cc653623d8f46877ea66192c71c01c212ceb7c48c8796c92960a8888857a69ea3db9c7f2ffe117aac117438b85212e5ff06e6fef549341d746ee2568df90d7fb52d452c4ba12d336f08d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "14.225.44.58:26656"
+tendermint_node_key = "000403dc2dff97c0bc0d73f0ab0bf5df3a59d80877a0c3771e3196fef23f0f0e87"
