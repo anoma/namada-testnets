@@ -1,0 +1,9 @@
+[validator.mahof]
+consensus_public_key = "00e4b4bbf4d37252cf933d2543164e61a015ead4f3820c28832e752357d8bc1fe1"
+account_public_key = "0037cc0973e518cd8c88602c0d4bb62301516eb2065fc69f8dbe30bcb38ddf08d3"
+protocol_public_key = "00a27b769aa9dfe52408cc6bc2a6f75d9615ea693220d5064e4fe36d5da9cf4de6"
+dkg_public_key = "600000006fb9bd7379f5c8f20b8e78069ebcdbf3b4d79628d8e46f53a0ae3edcf21d1a8c968a08196395a01b958d25c8b70eb01667cd085fdb8977aba6a696737a83200ef9d0226ee6235fa8e06dc2bce32d7924b5ab9877c4a3403b1a886ae35988f681"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.70.184.178:26656"
+tendermint_node_key = "00f880b30437b1c45a1556c71a793abd22768f4c7bf363822dbc95ad5d9bde48fe"
