@@ -1,0 +1,9 @@
+[validator.bellatora]
+consensus_public_key = "00691e943bff17901d315ef9c958e799d262abd9bf8cc2903372f7d9c1170866ad"
+account_public_key = "00fe7e7dfd3dcbebfdcfd883e82c96ab4fd78eb5da764c761998773d5e8a0aa7fa"
+protocol_public_key = "00e5448d59964464883f626d17483ca4d4293a231acbe1e3fc2beee997cb47d44e"
+dkg_public_key = "6000000070a2d3a7f95adf4829d48f9a063187fe7618eb3734da8d8f56fed4bc4a8a2584a009c7cb2178301db53ab3c660d26c02dc98cff5f532c030031518b380411c7ff1ac25eb41b9c7ec8d68a54a0e00fcfa811c53d274e8e95cbc85fd53d8bdf114"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "154.53.40.123:26656"
+tendermint_node_key = "00dfe01abc14e0aae9a5eda078db109287154c780a60bb1b987f0e97298b74a07c"
