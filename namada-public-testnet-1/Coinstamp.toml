@@ -1,0 +1,9 @@
+[validator.Coinstamp]
+consensus_public_key = "0025ee2ad1e5a67f4ca982aa870062e98adefb32a7dbdf313669765d1291cf8b5a"
+account_public_key = "003cebfcc31d6042a4ba90c573fe7b239476d42d1861980ea136493d9a90fd3baf"
+protocol_public_key = "00bc22d5bbf37845784cae8744e44c0b4491e1f7e77f9c7571ba19fc57b77dcb84"
+dkg_public_key = "6000000019f44ede20d8a30fe77d4d667f257803b2e60895c01ff3346a2892f762fc728f63a5cdbf76f898ffe0d33a9474bc74189ead06092cded504b711ccf0fddb4d119b05a2157518fab98770c8a3d1fa105dd21815765f20800403300ec87564da81"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.139.182:26656"
+tendermint_node_key = "0047a7c3809408f207352abb0ad8560b9bce5096d2d6e29cd3fc57030871937648"
