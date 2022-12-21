@@ -1,0 +1,9 @@
+[validator.PCKirana]
+consensus_public_key = "001dd766fa67ef16b5bbdfa5257ecc1cc50743ec31da61645fd4ce28c9773f7bee"
+account_public_key = "00345793ed8fed0c80cadca756d5673ee3fac2975500e68dd74fac4477ce057058"
+protocol_public_key = "00361ce64256dc5553200de2c69de087e5496868a7453d6bae1b847b3639337b5d"
+dkg_public_key = "60000000ce38ddab390822d50cd12a5fdd3281dd3f03a93eeaa9b63fc22a52b7f6cc0ba74095acc503604f114f4eef25104c9704c68e82c7c4e3ebc7d21176938ff9b7669f1d5c932a6b03da2105f35a67c9731fdcbcd31e9fd7865787ade1bbd00afd0e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.136.68.150:26656"
+tendermint_node_key = "00e31282d87a125cbc1f2941e7cf51f7b906f0f1d06989b2d5100f8828cad96b2f"
