@@ -1,0 +1,9 @@
+[validator.nbnnode]
+consensus_public_key = "0045557baf3d3278fa746ef8fdd4cdf436b3860bf5a557d6fb0006fed13e7af835"
+account_public_key = "002549af911c2a3618435d65e938df8807cbfd83d3c9e9b6a12bdaac14d6bf9b51"
+protocol_public_key = "00cedc758ae53bfaa6732fb60e314d8fe30f31008fad9045d0a0e711aae7d693c5"
+dkg_public_key = "60000000694038bfd26f70a8d20475d61e5ea4dcf2d476c1bb4e3307749318198cf3e9a6e9e946678f8b3961e9e49a4c802414105c638d1a5e449ea835eb8a5781158a6b19c7004814d60da6278494a35fda357a7c2725b9766585916b9496f584b83487"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "118.70.129.17:26656"
+tendermint_node_key = "00abe8dbf23f9ef550dfc4ab9bfbd1e8b44c3951dcd6bd8aedc43315f6f758a007"
