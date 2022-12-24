@@ -1,0 +1,9 @@
+[validator.888Tnso]
+consensus_public_key = "00d65953815bd917f6cb9f258ebf35cc6f87317c8afcbb2e1de0558d14dd491f31"
+account_public_key = "0080f2168ce9b60cf98a414b8e0a11537f721873d3acfd39fda9797b9defcb20e3"
+protocol_public_key = "008da61e6fb0c6236a34199d36519862d5ef9b891f828b96711247b6fbfa75d782"
+dkg_public_key = "60000000b0822ed9f525d6653fc7e43c1996cb5250f7f2bf7943c0affbf70c95b81d552f632d64d1e7344cf34069d61d8d332304369fab6a1b3ac574178963ddf74bf7fa7da1efc75854218e5d7be668d638f6170460a1b19a0842ee319a3dab1d585217"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.6.163:26656"
+tendermint_node_key = "0090d7371dc233a907eaebe4cef248810e82ee5eaacd708b2ef8b75365ee3ddd8d"
