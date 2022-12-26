@@ -1,0 +1,9 @@
+[validator.RoomIT]
+consensus_public_key = "00e3071a142173992cfe29c500982dffe087e7844a1eb320d0e0369730392fc808"
+account_public_key = "00cfb8413821676136aab54f6fd1b344d052f3cd5f3cbec84e020c07f548e187d3"
+protocol_public_key = "006c12eb7d80e1496a1d577aa645b9266e52fc00bf0c2bfece8f168c9d76cfb7e9"
+dkg_public_key = "6000000081abec01c6b88dac45af118ff8dc2d5a52961440812bb0d1309b81a7306b8370561bfaa7742c85af761b4ccc1b7cd20b855a2dea728f707450a84d6e04ec4acae2f3f4fe007003d8e0dd79d5e3e4305fd2f64c80f454629f5bab563b10c6398e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "94.130.54.253:26656"
+tendermint_node_key = "00e1752e71fe3b4d5dbe7d42448f8c3094f27b7b6c49fc918b98dbe4b221994cab"
