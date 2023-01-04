@@ -1,9 +1,0 @@
-[validator.farhanaji]
-consensus_public_key = "006332e40e82eb2752ec10df7d49c307fd394fa92e4cf9eb1d460f2cb8f4de478f"
-account_public_key = "00c5aaa6524ccb530438651ef6779f31128091c4cb08727add5a7aaa09031b97b1"
-protocol_public_key = "00ec6aa80583bcd514f3bf7136d157a8cf54728893b390e1d1c2139ed42d4ed58d"
-dkg_public_key = "6000000086d54fca5d7b2d01de958abf9d571f1da2dccd4160ab6e39ae574358145cf2e3b5df8000e0b45cb69bc1a9e6fed67a0470edcb51eff69ab626125d802d3e42544e6d60f4c9e1454e1503bfa3bc6ae80450e41e7c307e646bd98f2c8b662a508b"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "192.34.62.166:26656"
-tendermint_node_key = "000b3b0f693090048fbe4c472d0cc5e9cb3d81a9f3bfaf8463fa71b82e7d8046b5"
