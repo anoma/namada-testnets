@@ -1,1 +1,10 @@
+[validator.ghotoman]
+consensus_public_key = "00a2dd3eaddc2b75e9c846be0dd7d5baee1b236c5d286f7a27b7f9e1e09a1beb57"
+account_public_key = "007d25f022f14804094881612a9b267f01ff8112e2546295ce7f324d34c8cd7cc3"
+protocol_public_key = "00525388583da1db209942fb8282d318142ae1e434b499b0566164b94f23d6e696"
+dkg_public_key = "60000000ed57c625db569087ed0c177a15220839f9be489cafee14d7aeb22d4c856c1c6ce7c2d7faf8dd9e0fc4bc7e94ea4e23107eeef4c219675eac2ee8bc17108d629ded1e59ca9f21fae2c645475802dee9fcb978c4bd0a2641b6dbc25517ba5b6915"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.3.220.63:26656"
+tendermint_node_key = "00d4f5b726cb9575f5cfde64d6dac6263d5a2348403be6891ee2018e6992df1958"
 
