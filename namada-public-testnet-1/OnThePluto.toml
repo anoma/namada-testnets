@@ -1,0 +1,9 @@
+[validator.onthepluto]
+consensus_public_key = "0044fa9b21ba390fdf4ee5b7e0b3172037e748099c2556c4e65aa7e7aa6a35e40e"
+account_public_key = "00c54ac6aca275f287691853a437186ff154cc491c3da91866212ae98e1ec25d54"
+protocol_public_key = "00ec193aae2f834f701af2ddd6254b484e6a899453ce69f0b20e266106840cea48"
+dkg_public_key = "60000000bb28f48bf6e72b386afc313572af72bbd85507f57308d2fb40ba8f1761cf06ee52520314db391882b2bdbb6a3225d602e9f9d5307454eb58f35f0ec2961f0260477d3ef890da2542defa8f6ddeb8440bff94b9ada01ef90324c255377326b584"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.208.57.200:26656"
+tendermint_node_key = "00e57f97b71a4e5cc6c8b28cc4ba6174ccb3ca312be3bb4bc51819c1409899cb2b"
