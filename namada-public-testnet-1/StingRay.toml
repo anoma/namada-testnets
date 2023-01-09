@@ -1,0 +1,9 @@
+[validator.StingRay]
+consensus_public_key = "00685bedf9cb9cb23948c55a8a1f47d6fdeb30aaae865733f4469056569a2f9952"
+account_public_key = "00cc2a8d1b5299e2af144596d7ee8e507bb549d42475646c60fd2513c62e4d8770"
+protocol_public_key = "00a5abfb3f0130565f3cb5c47cd93bd0676f55906d1aea8e1b924ab4445efab3cd"
+dkg_public_key = "60000000c9cbb3f686323fc9955d2fe66be0339ebf0f039c912146458d3fc1ccd98b2df5e7caf04fc6857fd0059ba6528719780c471cd60bc5bb190d5dc5f5d856e9cbff3076da547e07a7f4b50558803bd7681c754b9c3180bcaff476e232a16b981615"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.49.111:26656"
+tendermint_node_key = "002f4dfbc98795477add35a5966da5a568ac5762b699ac06c55693a8156dc613b7"
