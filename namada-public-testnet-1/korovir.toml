@@ -1,0 +1,9 @@
+[validator.korovir]
+consensus_public_key = "00df7a580798a1faf70b34de99ac9ba1a5f3a5e79bbe835aeed5d57a64b0fdd697"
+account_public_key = "004b31a09a37ae2550798d67907da5f42c81e6391cc2399dbbea4dd59c0b957688"
+protocol_public_key = "005a9ffcbe61a9ceb25b9524299ab39afac7f8ad3d70445e3a2af0495270c09789"
+dkg_public_key = "60000000f58ef54b7622ee696c2442bf10d16f85393a174a296021b8ac72c572d6f411ddf9d0f65b099be5f55b594a85b293f21208c7ab70f2d968500c379b83a7f6e58fa5f1a6eaea25153dd172122f23aae32b34cb431eb3906dab0b2a5a517d30e08b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.98.85:26656"
+tendermint_node_key = "0000dc7821d0db78198d1bba9ada3ff14628a63edfc45dbf18688330ac86baa5dc"
