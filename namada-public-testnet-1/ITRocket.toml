@@ -1,0 +1,9 @@
+[validator.ITRocket]
+consensus_public_key = "00375efe13db1533387f4cd1cec3b237f52d7fce0c0608e43df38b8d748fe946b3"
+account_public_key = "0035fced2fac6dc7c966bca91ec9ced4f5294644f0a2acce5dce4036f9a87ceb46"
+protocol_public_key = "00336cca22922004e781b38a4096a3ea00b704d3d99120d2660fe6d1da789d1a13"
+dkg_public_key = "6000000055ef5b526792da27553fea0065fddb5a2198f62514453610f8871d2ad771f09e9362039b21e4b203f1c88c48dbb8540fc66fa985de0f83926431d21c9f449145c63ecb8e3fd0c856a27c4481b4917d6e77fdfa87397cfd87ccf8d22e4d4ccc95"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "149.28.139.137:26656"
+tendermint_node_key = "00434659c3135ed2f9f5e8b45720c018e5a23e6a3f7773feccfe87a1c2c91a93cc"
