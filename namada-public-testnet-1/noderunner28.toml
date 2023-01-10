@@ -1,0 +1,9 @@
+[validator.noderunner28]
+consensus_public_key = "00602850171a1961cd3f1cc4df2ca5eb8d571720e7809adeca3f6a6e659be83a95"
+account_public_key = "0068c7535d5985dc6f5cd8014f8d61e3c76643c0763ace23df3e6645dcb1b4d634"
+protocol_public_key = "001d4f22a5f6011e79ab05f1058cbad1516bcb5fe5e62ab0ba631ee66f256796ec"
+dkg_public_key = "600000002fbeca5157d888bbd277b8b4ebaf25045092d5d5fae713d427e467cf936f3cfe227eb32b890a6a33fbf9167ff3a69807606561af5bb903f58129a4cd41f32c44880412e7aa087a630274c980d843e4e376f14cea7107aea69e9e6d400ea11709"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.161.141.24:26656"
+tendermint_node_key = "00820f2d868cbc906e0c176ec274897bf75c437cdf604f5fa490ddb311f0fb3175"
