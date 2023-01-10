@@ -1,0 +1,9 @@
+[validator.kokorin9]
+consensus_public_key = "009021da84f44e82bfc6f51b68390eabc6c0475f72a9fcdc01dbad376f9dcc3268"
+account_public_key = "000166d0c64eafbe9deb70d6da0b9e6c280443f2b9b607cb4d9319c0dce9f7be1a"
+protocol_public_key = "00616e064587facbe56fb6db999339ea950fae5dd241c81f7f5bb78896075fecf8"
+dkg_public_key = "60000000f4be5775c7062fee9dfdf48a00e8bd4e0f2bde018ca458de34665488ddbe3a2f1a61ba55a994afc6dc44b8ed201b1917fee3d495704abe0620f29e1a7bfecee717d2e6fb3c22ae4fdd621c352224af8b732c12fb8c90228af41b4134ad1f6a80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "128.0.139.225:36656"
+tendermint_node_key = "00fe4f56a6ecdf1a33fdc44719f216ea4724ead95ac522a39204cc7f88e0ec2d45"
