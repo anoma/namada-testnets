@@ -1,0 +1,9 @@
+[validator.Nima]
+consensus_public_key = "001162cf22b8a983c848ce2cae2e9d6a4752049f6550d8e8ff88baf47e12917b22"
+account_public_key = "008b8578c37aadbf011a69f9c0bae1ec461a741b78a562834d32cf775e3e1dfc9c"
+protocol_public_key = "00dd807c63298053f49687004783c59ac3cbf965ce5cdff3b6ccd268fd052316c5"
+dkg_public_key = "60000000fb7d2835418ad6001989a0994babf0e3c874e97934f193294fefce35fd1b7096f2babf725d6009c03777e4fc36ea3d1749d7607ce3cd80b38eede5afbd53417b7a4de1454472f070efcd84c5b217f59186f7e1d3212a6210e43f686ee0dc1a80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.163.142.150:26656"
+tendermint_node_key = "00a13e9a018d1b5bfad0e34564b3e5d8ad97fd9ed3fa01c27c7cbf57eba6eb2984"
