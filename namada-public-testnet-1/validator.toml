@@ -1,0 +1,9 @@
+[validator.cryptobtcbuyer]
+consensus_public_key = "00c87f581b9f1412fbbf1165ef6b9e903d707b4511f0fecbdeb6a63a944db6e265"
+account_public_key = "00c788b1698ae128935ca407a7d250ad854d9b0f704193ff449d043bd35ac4d671"
+protocol_public_key = "00c0bb6a77ad9eb47debe0205597b6e7183e79900cbd8d123adc84355ad12c6988"
+dkg_public_key = "60000000775ca08fe0e308cf7a6bfc0b8c877e3b070b6b14dabb234a9828c14ad5264868fb6727b132c77bb75b696ae52cdbb40b0bb788c30c1d1c6ae3962836f809f37a053acbe4bff98dfd8bfb92404f220487c2fd32b2f47987e867b0b5a9aec63408"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.86.68.204:26656"
+tendermint_node_key = "002dd4d4fa6ffe0e354784680ba42b4be45d83a956f17d51e5bac68164c489a5cf" 
