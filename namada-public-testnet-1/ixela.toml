@@ -1,0 +1,9 @@
+[validator.ixela]
+consensus_public_key = "00d7de6f82e102b6ff5c44bf117a8c3320eafaab7418fa944a06cf7c8e492eaf89"
+account_public_key = "0052083ba9f3818f024a3bd9ad5eda86398d16ba1b8569f561b4aa7934b25d1240"
+protocol_public_key = "00e282cc48eeb513a49c41af5ceb70fae175c95bc8646aec4cab5455217c6e6bdf"
+dkg_public_key = "600000009d6e40de22e722d9515011c41bcbce165d42e71c7a0b4d7f943d801f72cef93e96bcfce2a2cd6a6f6d21894f497eba027a40b328c8ae8369de62933d880625f9ba621062b32ef25c54becc12e339cbed82e6984a19f81b5830ba2f86a31ceb0c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.209.219:26656"
+tendermint_node_key = "00818f104f078e6a915020380e20036ebcd6eb0824e8c3974fed9ffc57af742a8b"
