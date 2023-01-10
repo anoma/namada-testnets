@@ -1,0 +1,9 @@
+[validator.funkylsd]
+consensus_public_key = "00cab24cc8fde6615a16edcb283b8b5459f6626cbea5a3d4e720c4e240ebe9808c"
+account_public_key = "00f16fce298c4264be8b041042433da048651374e95e50c46e8e9b2e9b0059d3cc"
+protocol_public_key = "000813cb0c4f27248e3d4573d7d2525baf6a58230b21ef7371fa645994d8fa0a1e"
+dkg_public_key = "600000005356dc0e204e697d17b7a758e0eb399b5c8ce4fe15ee3b88a967f04c13f1e10a971f4413dc277eabfada264eb9e4e20889ce4eb1715e07ec9e898e1543b3f651c5d17b5fa20207579cae5b771fce51247c1ecf51f398b5a3f6da369e1daaec94"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "91.77.165.172:26656"
+tendermint_node_key = "00e56fe18054d28182b176261c2b4296cd18e1a7d66c9ddd9fc47738830fb2de3a"
