@@ -1,0 +1,9 @@
+[validator.Oneplus]
+consensus_public_key = "00e676b75073db2602decec0978a66acc70430991f78f493da4d0d6104749bb88a"
+account_public_key = "0070dcab11d953ea1003a0dd9ae282482ef2858db16c50d34b785f55f7eb23b688"
+protocol_public_key = "00bf608a3b70f93620cd19ef4917567d25774a2c231a784b91b504149dc70dec33"
+dkg_public_key = "600000006246373483e3970e6d0fd542fbc9985ca85c16e1c2e01e3a7afa48c28a5025ddd88979d30fc3def7466105b11139aa00bc932b9d7f944ffd5bec59569f1b56d4b90e65b7e0a92e8c9c3eafe704f1f059774e2f4ed583084ffebe1b87da806204"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.97.86.236:26656"
+tendermint_node_key = "002ff348acab15278d93cc0c9f2cbd01d2b992858ee9734adf9d62b63557453246"
