@@ -1,0 +1,9 @@
+[validator.romanv1812]
+consensus_public_key = "004538e5eb7b9ccac28b9952c60156727e1442530dc8d7e427f35f0d37ae49a543"
+account_public_key = "00e89265510e8955d18eba27b9ce69b47edd7d412d6e5bdb2b89cb53b1b4ef9c03"
+protocol_public_key = "00f1b4295a1fe398157ce16b756afcb1d09a6ba8ae2a44a6e193577de789e6cca7"
+dkg_public_key = "60000000fff25a450982ad9cbf0607e1dd16e07be5b9f78162a81eae03b2d559469a8c12e56bf55f9d387d37ab79e29604b4800cece5889d9931a3936e856bc7f92990dcc89e84785e8f880afe0fb250f9f529654b7ddbef4bf88f8322a2ca42c5750a03"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.85.170:26656"
+tendermint_node_key = "0043bb787f4aaebe17c5528743b493a13e04db2a2a7fa6ce4ad74be293fafa6948"
