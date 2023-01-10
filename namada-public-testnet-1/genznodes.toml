@@ -1,0 +1,9 @@
+[validator.genznodes]
+consensus_public_key = "0076ce7bf34f557e3cc6f1eedecfcf1abf43e695caf9274bf7da9a115e2fc2eca5"
+account_public_key = "0003e0b36a3f8a48dfd0f8703d3956693cbcb36cfacb242fe1c91201f64b91ed3e"
+protocol_public_key = "00e25582de6134170ea5dd111cb5522dd7d930c01792b0c68f351eb658fd57fc86"
+dkg_public_key = "6000000098f11831037f1117e0b927947646ac4536a3142cb94d61c3c744e493c5a561350295d860f4218b120e681fe252ae570d1ca06f379b3dca19e7a8332cfbc05a9ab55a126c4f1a863fcd041f31b66177bb6f1b6bb239db60a23b0aff48e5a26315"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "45.141.122.178:26656"
+tendermint_node_key = "00dac76687c7fc334f59ef7a3e84e5cc327cde1b41715c9d8c24b1a8b1cb5037ea"
