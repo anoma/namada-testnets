@@ -1,0 +1,9 @@
+[validator.Planemo]
+consensus_public_key = "00b1dfef9aeff3ccac63665f5071c2533eefe3c9ec1b4dd6dd2673527726efb54b"
+account_public_key = "00d1a496dee4a8425bd12fe76bd9ef507aec6d6a3ecac3bae0a3725b35655ea644"
+protocol_public_key = "0067baec6e0affc90fb1a7b826a54d8b41748aa8400e1981581393ef16708b6e86"
+dkg_public_key = "60000000c232085dc8ee0d84a0e039109c5cc013e4abe01cc1874a8886aaae608aaf1513a5e51a6f2bc72bacac8ec5c39bfc5e16400b2b3b47ccc5b06b00c0b230ebebf3448abbf22c033268e7c242be35f97fc38ff95453ae6fd3f0f68a90937c2c7102"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "92.101.121.233:26656"
+tendermint_node_key = "00817833991402a227b46711d67376d981cdf2d1d032afad3fa3b2437c09d3144f"
