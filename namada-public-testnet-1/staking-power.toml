@@ -1,0 +1,9 @@
+[validator.staking-power]
+consensus_public_key = "0003f623bde3dd786e20e807ace8696061004cd69e9e1f0e0eb272f3101666632a"
+account_public_key = "00cd50cfc4318151482ed6f7c68b632ff415ddef0789745f2c843d3fa6f6157852"
+protocol_public_key = "00017753dcadbf57b138a713d72b9e044b6fa5d7c803e8d7c910071850ce07729f"
+dkg_public_key = "60000000d3d3b95f0aaebd9bbeb1f832961e7be3d4ff66c3f5b8e9142e4caa4a7a19ed5cde2ab0b8b2a4967848d0dcdaa773d612e5e90e027f2b155ea60f16aeb397d10c6dc5345c163ac63e52aa20df5d2d575475bb1c3803e5b452ed49b353065e3410"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "49.12.129.137:26656"
+tendermint_node_key = "008c2fdf563d5ae31e1749454e22905fc0424e8b77be5b5fa4791aca74b78931de"
