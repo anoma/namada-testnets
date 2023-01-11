@@ -1,0 +1,9 @@
+[validator.Validavia]
+consensus_public_key = "008dedee88a46ad937aea710fa94ba30f9d31a28cf5fa4a99d1b0c06a77fdc53c3"
+account_public_key = "00efe3f67fb95e8dbe229bcb5fea22c35e6eaa8ae7e5105085ba84d47f82800f0f"
+protocol_public_key = "00a1a14c2d19717ae83a3d34082e215c0e97768f751b7f7f38ec76f3923d97ce97"
+dkg_public_key = "600000008edc516bbe3585c022fd19bc4a91a2ea0d40eedeb172a824555b8b38367e1a1bdab1852af09744777a477a7545124f1491e7f4d1c6656786a27048bab978013f4a5765e1c9cccebe942fd1d1b3ba80ba1f759d1b0c980a27452d5609caa9960c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "2.139.23.24:46656"
+tendermint_node_key = "00bf17ab6cc35adf2fb2e4bb7498738ad528befc82771ff112e01de3c1d82f488b"
