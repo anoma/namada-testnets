@@ -1,0 +1,9 @@
+[validator."Staker Space"]
+consensus_public_key = "006060f4b9e04f1d7d7a75ca5759cc982e69ce1e57dba950fe4f4cbeb8b9228413"
+account_public_key = "00e469a1fb9dcf983ec55ad0f99e3dba145df27cc9ca69263db9bba5e631dbc098"
+protocol_public_key = "00933cdc53f3da43801a2db6efaebea8f89055266f1e0d986ce98de8ed82ad6cc5"
+dkg_public_key = "60000000676c2f150618e0e4ce6587a3183b11dbfcb7d7d1189cb1605f0d7bf5df08450ded22a3abe351f767fd6ee502c599e70dc3b9119d9c2aea7202df063c05c549829655ff913ece7582e04e0dcf552d283800e1abbce6fba632a5887ae6ff11ff0f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "125.253.92.223:26656"
+tendermint_node_key = "00d25927f23d969ab05bcabc2075bdfa0e17cf244ce23d14b78402e8be81afbe0e"
