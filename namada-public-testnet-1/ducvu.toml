@@ -1,0 +1,9 @@
+[validator.ducvu]
+consensus_public_key = "00075fd9576de0fc36feada449339402af1e098c6c060a23ee1ddd947217e52396"
+account_public_key = "0055b6abcfff8d4b81f0d8aa4b84fa915e5108cf8ad123be99c295361257a87564"
+protocol_public_key = "002ca2a7c5e35eb5f012c3f0b57dfeae3759e6c2b3c7321d104ca9ccd0e6008d00"
+dkg_public_key = "6000000056de38348cea91cf9eddbf25273e4e1866c2a7c744478b7c4c01978e42cac4ef13694bfb3ddf8c138e726d4876f2f204f210d017dacd99f829a79a2a8cd27063e8129aedf92c4d86088f094dcd990f4474f869d2a9c55f8193a1cea236d57c85"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.117.62.80:26656"
+tendermint_node_key = "003d20b2eb1265db1a9feb4401ddc9cee9205ec6ef2afa6a5fe268206bf5a2c510"
