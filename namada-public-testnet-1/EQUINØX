@@ -1,0 +1,9 @@
+[validator."EQUINØX"]
+consensus_public_key = "0057ad12317ba70ff3378b04d7ac70c1afb47b23fad8c71923209c228ef2da6d3d"
+account_public_key = "0010065bc4916a6cd9efdf4a8a1e0cec7cc19199bec1b2aa9ff8ebcffbab86283a"
+protocol_public_key = "005dcfd24ee98ce210811fd9db6cc41d8316669f9d52f39375f071aec2632818a5"
+dkg_public_key = "60000000512df07348d127a424ca9ffb82d408536c4387b02ab432800e94a71d10ddc7eaec8fda1619994324c4979f45ea5e7908d64576807852fc09b0b54e83646a2c930ef10a3dd3338abfdca6d3987236e0665dffde3e5eb367abe789727f0f3ef68e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.97.79.100:26656"
+tendermint_node_key = "0023c77defa826ca2303629dfdad5d19de6e33ce7ff646389f0936a683d92f8ff6"
