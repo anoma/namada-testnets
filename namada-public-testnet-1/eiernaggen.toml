@@ -1,0 +1,9 @@
+[validator.eiernaggen]
+consensus_public_key = "007dc3c2996ab3539c7ee3006a2d178977fe9ba9f16c07774edbc1e4ff1823145a"
+account_public_key = "0001dfb333d3774b8daa54ed43d04c01ec7978dd1f611fdeb8669a84212a8a6ed8"
+protocol_public_key = "0044fa84d04fe64718c290bc50c5b6509b5a643c035e2a04826f370d31b3dfe047"
+dkg_public_key = "600000000225e98fef0ba35b5047655c49e948372a5820dca82a7a45d73b22ff69bafd2e2f58cc71e2750b9a105698d9e31d3107c1eed0cd51b4f64bdab3302347b7e9a3eed6e7ff76426ebeaf0dba1dade33c95be9574ba74f287bae57a7673764ac885"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.116.246:26656"
+tendermint_node_key = "00536950a66903ad10c20b9adcaba88d5e1bca0cca30d5816c2ffc6e21bc1a37a9"
