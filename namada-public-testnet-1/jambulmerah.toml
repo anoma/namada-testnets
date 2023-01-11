@@ -1,0 +1,9 @@
+[validator.jambulmerah]
+consensus_public_key = "0046ca6410e5b7e2846bdc11c38b2afefab49e1c5b3fca7b64b783541d0cbfd8a9"
+account_public_key = "00ba581b8084e5d7fd5fd7ef56a0fe677116c299b6e36c5384fdf77c5f0667ebdf"
+protocol_public_key = "007c47c3835b5a0cd9df4c603098ff34d56c129c7550c30e92b3965164ae069c60"
+dkg_public_key = "60000000be14abd3e57fc99c1065951d42de1a6119a9b03fbd762e77f50aed420579bcbfcc7beaa65947cf798de142a0c79d13159daf09c36c5194cb74904389a2a1c16ef613b16eec59b3c98668b40deb9a247301f8a495ad7f2025ba89c7bce43f2c92"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.129.16.21:26656"
+tendermint_node_key = "00f4894800b07d799aae6c263275e587335eae3b2b5c5d1265199d564774059fe3"
