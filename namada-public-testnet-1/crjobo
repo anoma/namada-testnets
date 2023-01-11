@@ -1,0 +1,9 @@
+[validator.cryptojohnboone]
+consensus_public_key = "003f8caa80b744b0dc26f6ba4f057fa5656ef544f175da0cae484b54118a365dc6"
+account_public_key = "0097ab719aa859d2ce8ac771787d55415bbdc1db2e193caf00210ae4c59fb57b83"
+protocol_public_key = "00f2e11bd8e79a17c5e146f3a9ed9e6923ef740a0c277118dc6897d083ca160047"
+dkg_public_key = "6000000038180723af1890e32ed0f2a84aca3f96e22bdbcea3062c3b69983fe41f395adc5c792f66ae056f2d16e75b7442c8a907e2bc08e30599901da271c302ae85ea89e2fb9a2e582078ebe0e12e64ce60cca5ccdb28e62e06b7b5600b06cfa5ca600d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.134.242:26656"
+tendermint_node_key = "005ffc6d2a45c8e7c3ad91b0288ddf9d23872721426f2ac844dd605d035f3eccce"
