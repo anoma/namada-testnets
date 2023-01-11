@@ -1,0 +1,9 @@
+[validator.Palamar]
+consensus_public_key = "00f6307cd291921d05d2629f8c4994e9cc5df28163ad920df513f01427513939ea"
+account_public_key = "00384fb982ba1f4e5f6cedeb9f7c933e01c12136e9aa67f741eb8f83179f6731b0"
+protocol_public_key = "009c8e9d369e887a99e56f381ac499ba132a9759c07b979e883a324a19d725f040"
+dkg_public_key = "6000000009cec2c60d0ed0d3acb86244adadd566f90bd15529d3bb6dc1f675cf763d4e5ae0d6bc7a25d313e776350956e3042008cc2ac272c173398d7a03e271d5724ccad492532f7b002ea56fd4afe519a48cb2eb4b7dc22aebd434bb30f63848e97080"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.202.241.157:26656"
+tendermint_node_key = "0094e326dec44a3ec7ae4ee11fd093f3618ff98200669b788ad3e5d36cf398e331"
