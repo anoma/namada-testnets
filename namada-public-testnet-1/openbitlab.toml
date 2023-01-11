@@ -1,0 +1,9 @@
+[validator.openbitlab]
+consensus_public_key = "0068cc1d7a7d9ed4bed8bb597f5c32b172c70c734a972e43f8939295ec13018ac1"
+account_public_key = "00929d7bd7814d18c86eb6618dd26dd4c9cd597cc328c2873918dad5424f060b74"
+protocol_public_key = "00da0510c70b01a0c9d8d8ccc0d33edddc76082fcaed3d2aa8a9e978e496f9a523"
+dkg_public_key = "600000001c3007e13d8cb0da79ac38bec8288c9cb8071e7269db3d58ffb4337793e1444427745e7cb3df765ff57be1a76052d6039955a298f5c4cc55683cfa269b654d4c5c1e2c4f7bbb6aa26755235f803d0397c6ea894f80d7e2eddf18a08152027b92"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.245.155:26656"
+tendermint_node_key = "00e41c623e74732df117dbe1de2402a0c18bd634c053988c9d1e91e204ac50e924"
