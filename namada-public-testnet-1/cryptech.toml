@@ -1,0 +1,9 @@
+[validator.cryptech]
+consensus_public_key = "00e3a126b697385b58534aa44b3db577d3776b7688a846f707baab8a0bbc017295"
+account_public_key = "00dc70a62bd569d7df89fd409cd2b9bf1b0e907dea2fb8168dfa8fb2150ec87148"
+protocol_public_key = "007835329045ba52f2639f8e49a38d35719fcbb9d7df2e91594ab0a60011a989b1"
+dkg_public_key = "6000000082754aecea28b1b1af07b47239bd7ab0c58bb4acc6a5c2137774a506f39942db6cff0445fb6af699392316e9dfd30c041db27f54bef92b2f07c57e1c93095f413eef7d1a4aec8f69043afa719cecf1c41cd4b1ae94b27c7b632741599e5efb95"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.144.99.248:26656"
+tendermint_node_key = "0030919d90a65c94a0dd90eeda93fa4f78900f57febeec5defd8ddb6dea5a6a5cd"
