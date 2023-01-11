@@ -1,0 +1,9 @@
+[validator.Lex_Prime]
+consensus_public_key = "00a6fc13bedad5fcc63687e48ff4500f913df75afc0a889675b75daec52c8b63dd"
+account_public_key = "004dd0bcc6d0dccf7e6535e080bfb7bcc01fa85b24d67635115c2c81878a47fbd8"
+protocol_public_key = "005dd1dbafee54ea5aed5b74a27c96193d2774979426940b40ce1b0ffd15c0e396"
+dkg_public_key = "6000000095493b5b79f6cf816fe1d8789fe322842f6a36762d3e3330500ad010c5d55a38eb84d7f5ae43dbcddd6dfe2beb67760e917b3504677a20c764b21c5db0e13261af249dd78a81786c07527b516126eb2e3bdd9616b1b27699248093cb69d2d292"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.229.70:26656"
+tendermint_node_key = "00aaca65dee834505d21ea3299b44a1c2eecd21e09101af2ef24a350daf711248e"
