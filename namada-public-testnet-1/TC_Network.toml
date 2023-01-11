@@ -1,0 +1,9 @@
+[validator."TC Network"]
+consensus_public_key = "0085ca89326db7b361dafef1b330189068d99cfac1cfc29357091da29adf2c7f8a"
+account_public_key = "00a0b9c37ea98319c2477c9673e8fbca75ba0df4eb7e702a6053bad31937ed7047"
+protocol_public_key = "00e8e8a6d1c056a0aaac2e1c5e98bfaa85b3b88f9721965f4659e2904665cf7cc7"
+dkg_public_key = "60000000b46247792039fe104b64bab959e1d54bb6cf13d9bb0a8b5f1c4c37c9cef8e99771bb05876fe9a8c1cc94a8519379e90f364adb587def556ea9396dffb0bcf06f11ecf3cc4db15aa60ed8e935ec3d1f1c45a3e144e9c34b15becb31efab5edb8f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.132.221:26656"
+tendermint_node_key = "002ec694895dc3febf2f918a7c3e348c8f7dbb5bc3ab8ba13fcea2f7ed5863c586"
