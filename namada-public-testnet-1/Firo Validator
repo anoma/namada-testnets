@@ -1,0 +1,9 @@
+[validator.Firo]
+consensus_public_key = "00fcc92962dcd2dfd9c85ac2f3f244cbe5208b0e2990647c88e7d3554e3d2224e6"
+account_public_key = "00001b12a8c16bb55ddb22707c6cc6b43a70a44a7421d422655aa7d7520d29f421"
+protocol_public_key = "004ca92785fb2a093cbd619c0eb5a4e0307ea5fb0c11fbe643ae8c7bc179749ef0"
+dkg_public_key = "600000000c07e4f4118aa03eed778b9fd09699f180d837b8a4c249019156dd2db9bf1e2cb7b3eede68210568366fcaa97cabe615424b51ade0374ae987f096db9adabd467a45a8dcff3e695287dd8f44b8cf670b61a8613490ea96584a1f9156cdaa3900"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.163.148.115:26656"
+tendermint_node_key = "00a8455cdc6a99caa92097044c951dfa49a55ebf003cddddd5216f3bd8bb050195"
