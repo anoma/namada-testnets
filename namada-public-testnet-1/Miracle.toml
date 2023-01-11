@@ -1,0 +1,9 @@
+[validator.Miracle]
+consensus_public_key = "002d4ecc73e243f30e0538eabbc6ef3ecd1e13cab0fe5a7a71330fb6b3ec54b3b1"
+account_public_key = "00ad47395baf281ec1a9d9ab43125eb849cabb3ef76c16605f9bb2e43be8c56f2f"
+protocol_public_key = "00abd5e448e1755e84d5ec892f234063f08196f41c4d4fc089aa3900e87ce0fe93"
+dkg_public_key = "600000005f20998f1960dbaf3f43fc8fc116f079c5c3f4a1371eb69d52c023d25950bac4990e5b4fb2c1e45a8ce1d82b961ad6000271ab22133786af68c1e9e73fb0e79970bdeec25acae08b60c86ab062d6ebd16097366552ede541423fb37ee3733589"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "35.228.79.216:26656"
+tendermint_node_key = "00849970ebebf8a9827111bd8e15e6aa1b0f85c9c770b497c62c839b501169c495"
