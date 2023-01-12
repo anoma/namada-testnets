@@ -10,3 +10,7 @@ Testnet configurations and coordination for the Namada.
 - [namada-close-quarters-testnet-3](./namada-close-quarters-testnet-3)
 - [namada-close-quarters-testnet-2](./namada-close-quarters-testnet-2)
 - [namada-close-quarters-testnet-1](./namada-close-quarters-testnet-1)
+My twitter: @cryptor2lover
+discord: trandinhcuong#4223
+email: trandinhcuong@yahoo.com
+element.io: @trandinhcuong:matrix.org
