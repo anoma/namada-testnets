@@ -1,0 +1,9 @@
+[validator.hayabusa]
+consensus_public_key = "00697063aa3204cc33870f83728b742fa79c7734285755d6c023c2eb10fb39003e"
+account_public_key = "00f57cab3dea526c02e2b9ddc9f480e0bf9679352f57596f7518db1d160f026e53"
+protocol_public_key = "00fe38204c39c58b2e75e2746d7960457f5c57bd8cd11e082cf5d724d00c14ddd7"
+dkg_public_key = "60000000d3c19f589c0af0b9437cd5b2c665ea8cf7183675dd99f1351710406e7411edf74c21ef19551d1edac9583af965c9010bc3fb2bc9a782c7b28c4c5d26a798fc02fd380e15daa7b44ce4df16cc1028afda293c34fedd86ae8bdc7633ef0406fc8a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "91.107.143.17:26656"
+tendermint_node_key = "00aa1771597b0a364f7f6784886a10150d541d349a026ff0aeb62d9416638aacf8"
