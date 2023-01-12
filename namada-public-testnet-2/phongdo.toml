@@ -1,0 +1,9 @@
+[validator.phongdo]
+consensus_public_key = "000c75658dbf0a59f6538336dba3ff7710f91ed600a66b208d88ff390e3cf93052"
+account_public_key = "00db4c39cc9ea241683c41837b66ba3bec285c6b23b467a107fbf46507b65dd46c"
+protocol_public_key = "009ccc6434c9141ff0678c628d291ea5a6977a7991ce6068c56fdec706998abfa0"
+dkg_public_key = "6000000008a73925d3523f31d1dac808db6cfcb12123fe1159d105347117d6e11feea585476726a1964733adea35d9bff34ec912d422c1826fd5145016cca2bb3000f6c1e31b2894d46cb67f3b83249c09adf392c86c87041890e4d2b07ef3a1d280eb92"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "94.130.52.235:26656"
+tendermint_node_key = "00bcb5bf2ac028bb8e3b9199dba9cb7bafe2f5d0cacb1b8893851efda99c96f4a3"
