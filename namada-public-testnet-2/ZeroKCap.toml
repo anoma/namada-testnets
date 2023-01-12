@@ -1,0 +1,8 @@
+consensus_public_key = "00f1134107f4555167cd29482f99c349b6d884aba04dee07df93add45567507cbb"
+account_public_key = "006c00c98f950e4997a3575b65cf30e0f7cde03e9e3701773c595f5035d3b8492f"
+protocol_public_key = "00f89e9b19a0cc27372022cb77ed16c7ad2d4ad9cf6bc38e40cc198475d566f334"
+dkg_public_key = "6000000037b269bcfef6567be0b618730f311b67f45406594bc6e37125d519cf08fa080b7c4f6bbbacfacb4dff7eec4519e3c9173bd0e5ce701a090f6d151ed7b710d2cad7b2aa7bd8fc28b082cdf49e8c5c28d279f87dcc682b46f87bc84be863814a8b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.93.20:26656"
+tendermint_node_key = "00ae4cfacd26acf3984b8257bf5b20c140fe066fcb8084bad6b5c5ebeabdd601a3"
