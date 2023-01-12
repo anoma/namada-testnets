@@ -1,0 +1,9 @@
+[validator.Aglet]
+consensus_public_key = "00203bc09254bbcb0abc024c60bbcb7e16ce6e7058149006745c1096eb9ca9edb0"
+account_public_key = "00ce5ee510e2600109337ae859f8067ebe0936d50032e684d6344fca281febab29"
+protocol_public_key = "00849ec17eb28c3836eebffa88554c9cfdf4e04dfdd1c43a32978bbff843e3ab61"
+dkg_public_key = "60000000bfd3512db3172cc9f634d8aeb29d385a44a3963ec8abe3e91a530cbd3ae9dbb71750c44d12467368f4b0baed179e7f067e2946d1bbe2886b9e3afdf806b219e6ce1faaede3ed20e5ceafcd52d8777609774d0f89ed5d1add841c7aab742d928a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "85.239.233.188:26656"
+tendermint_node_key = "007dc824af47a16ddecac9d6fb5c5b93c74e32564f309a44f984e6ac90190f2c3d"
