@@ -1,0 +1,9 @@
+[validator.KAIKAIKAI_VALIDATOR]
+consensus_public_key = "008412fbba7f3f2fd89719b962434aab681aeb26b80a10e67360cf7591ef446e62"
+account_public_key = "00c3b20767a2863bd75ab47692ea48103c0ca5283b4a2d1ee06740eb37027f1d7b"
+protocol_public_key = "00d7738b271927b990a570dbc58b854f858f25cd9bc64100d9d4106ad7a3ac25ba"
+dkg_public_key = "60000000a554e3f2b03a54de2c0b3dd5aab6d2b7d0c49b056d5df381c1c86e39fd95e55f7058b52bb56d32f1d20aae0fb94cdd131c7284c463da0fb193385fa3b204deab90f51de056d151816a4d1f11389036883717f48893ee5b02c0298ddcf58d930f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "66.94.112.200:26656"
+tendermint_node_key = "0005f20f4f837efba91b475cd947a7bb4fa17250bcfd7f5378e50d9d237fbe56fe"
