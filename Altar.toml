@@ -1,9 +1,0 @@
-[validator.Altar]
-consensus_public_key = "003a023475d56880f77b0571011c0b97304d7745541f108ecf3cb59a72569ea8c5"
-account_public_key = "0082842cefd275fd996aa84c84ddcd399ea3cc86b50e46e2f634e4ffa572dec302"
-protocol_public_key = "00d88d9a26c02644afc75a24b8cb6c407613a165b1eac3b57f3322407a6f13b08d"
-dkg_public_key = "60000000cc87bb0ac562dd2f4543ee8b785fef950549c94c082c3bc5a528140d6a052fb111239ce11ed6e8aadf308022939b260fc5a9d8edde9d3257e7aa870446774ab532cb973860bad2a8fddac1b9d04eabec510cd5c337248769b2c1256a9fa0b702"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "213.21.10.201:26656"
-tendermint_node_key = "009e826a2e3d3d9b6b2d209d243e8bc7036b7d20f4f41a06ef44f14d9b06a1aa17"
