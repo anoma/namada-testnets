@@ -1,0 +1,9 @@
+[validator.TPT]
+consensus_public_key = "000d0c0a39b2c889ddae3d51069c41a7288655c11253897f6969be5363a184cce8"
+account_public_key = "00f6be70f35ae3ed8a1e0bf8ca5bf64eb601775dbd0c342466daefc9f7a8c3aa80"
+protocol_public_key = "00c423dde53465de392d7e4b82535d01b9941d4b4f0644fdae3d06183ee74dac8b"
+dkg_public_key = "60000000d918ba7d80f51b5a62638bebbcda550f99ec9e7d5b2caf6ae201fccd4f0db16f320aed80986d766a4dc3da6190fd25185a0d17a057642fc9adb685fad8cc5ba3b4dae352c0e96ffc75a0bc952348d959cef8c1f5689601371defab72278f7c99"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "54.241.139.183:26656"
+tendermint_node_key = "0047e5673bf1c54f7d45af9d7b31f669805024fb80eb7945fa54cfc9b9014ce653"
