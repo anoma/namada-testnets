@@ -1,0 +1,9 @@
+[validator.SocratE263]
+consensus_public_key = "00b7cfa3decc92b12a07491ed9c1eeacfa1a70fccaa9ded545539913d232af1b95"
+account_public_key = "00b7625652f648bb943f1c9064679cfe55969881177253fff8acef2488e48e371d"
+protocol_public_key = "0015c9ee2d4fba88ca73d0a68092bfa2317ac62782db815a6f9f804db124d9e001"
+dkg_public_key = "600000007fb9c01e2ee7dab16650f57fe8b4dca781a9e8029cce67090cef90680b36924590618305a0a512f6ed53d1c535b44410dcc7dd1e01fc43c00ae280b47fa189e18eb5e5f875bd945a5240577e8d3d9baec7bce859cff20493fa33f092a7650c97"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.123.240.206:26656"
+tendermint_node_key = "0054fe1d37b2b8fa089348ad7f236b6a3ef0971b48e4d7259a8f891351489ccec0"
