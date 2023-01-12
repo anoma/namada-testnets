@@ -1,0 +1,9 @@
+[validator.altcoinist]
+consensus_public_key = "007d180c0be250eccd79a2f000e092bfb26b1e7c6c07bd128e05a1153a713cb806"
+account_public_key = "000206681fef308d53c8ca6aee3661b3837dbf01f77f28e1939530f3815f0ede20"
+protocol_public_key = "0054e491f45e23c23416c262ab00dcc4cb7c8224ebafb05b13484c81f7e60ed84a"
+dkg_public_key = "60000000a7bc3d4f7b0fa5961425734e63bbb2e0f5445a2fcd21d97e69ae1d08eec8a078b11bc24783b960c96ca210d49c2bd51292606ddbfd685d83a9233ae300847a13606adcee20cde0fc78838ab4b9043eb033d2971abc4d259c1b73944a4fc0e18f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.75.185:26656"
+tendermint_node_key = "00c1e51841ce66843a82f5a8c6b6e32ddf0e8f66dda73b06685c90449ef931d22b"
