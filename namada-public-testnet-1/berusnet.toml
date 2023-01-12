@@ -1,9 +1,9 @@
 [validator.berusnet]
-consensus_public_key = "004410a0afe14b0fd52a97ae7b326ff030f35705ece08c734d8dd35>
-account_public_key = "00d51c33b07d8191f42fadd6188ec56c051acd7bf6dc851d33ae0a6db>
-protocol_public_key = "00c64a39bb2036b99baaeb142c3320dd3109b210c52ddc74b9a214d8>
-dkg_public_key = "6000000000cff081dff1304cddee55ad37966b1ed9e961495fb4d92f48214>
+consensus_public_key = "004410a0afe14b0fd52a97ae7b326ff030f35705ece08c734d8dd35"
+account_public_key = "00d51c33b07d8191f42fadd6188ec56c051acd7bf6dc851d33ae0a6db"
+protocol_public_key = "00c64a39bb2036b99baaeb142c3320dd3109b210c52ddc74b9a214d8"
+dkg_public_key = "6000000000cff081dff1304cddee55ad37966b1ed9e961495fb4d92f48214"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "195.231.85.75:26656"
-tendermint_node_key = "00a487c6dcf89cb4f3deac4007878bcbe1a089ea9bb22939ccf07c90>
+tendermint_node_key = "00a487c6dcf89cb4f3deac4007878bcbe1a089ea9bb22939ccf07c90"
