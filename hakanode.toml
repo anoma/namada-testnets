@@ -1,0 +1,9 @@
+[validator.hakanode]
+consensus_public_key = "000de5bd0d2f801ef4523c081fcbbe67f7e0edbd98324271ecbe90f0d1b2c5eed0"
+account_public_key = "00977ad696952ebaaf41e7169a9d853affd53b108ba1617475ca9381300406bd1b"
+protocol_public_key = "0095573877a064ed069f63f0760870c74a395d3dd8ef9464ab3d5fcb267176e907"
+dkg_public_key = "60000000443252004ccadbf1191cc801a91eb6960b1270000bdc01fe1511c96e8316fee194271483fa09e7018715a2b59e2559127cbafb39c1234ad0bf855e275645426ee2dcaf254f464a08adabcdf5c6b58765eee05d5315fbcd44d4bb151a387fe308"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.140.20:26656"
+tendermint_node_key = "006d57094498003b9de3242efce6251ec52313844f34edcac114ebfe106b5c8a5d"
