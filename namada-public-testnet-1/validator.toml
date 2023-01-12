@@ -1,0 +1,9 @@
+[validator.boylikegirl]
+consensus_public_key = "00af64396f7fdb6fd71d573347d4e77a829479126e2feb7adea6302f8700c832b6"
+account_public_key = "0005288a98d4b09ebe687e92d8e74a74d3f5c2795cad454414f0e9bd7a9c5a8268"
+protocol_public_key = "00fd028ed194f5fdd6e1abaa1903b99781ee136bf8cb6fdd2ebecaaefa48cae0b3"
+dkg_public_key = "60000000c20a81f3f451ec6ecfc87d7f67c7af7d76290c839abdf325ddf645616bdd97f769c7301d4361984098bdc0c0753f7a15ca4271bbba2063c8d359b5b81c6e70aa16e6f837dfa49a191d65b6c5c6882404fd79f092e56c1bc89f908e62a6d4698a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "140.227.126.41:26656"
+tendermint_node_key = "00c936ad47e07a255034e95533bf85a7ecd2a588c4358f9b6b9b3d4564d24e8aee"
