@@ -1,0 +1,9 @@
+[validator.Rene-stake]
+consensus_public_key = "00f05cffaf29b6a61fb3cdb5adc6d5057e32b59fae7353755e518720bad62dc163"
+account_public_key = "00af9464bf7c158e9feedd901c026cc1627b25e5f1da26ee40ab6bba5f36265227"
+protocol_public_key = "008038cd393c4f6074dc5b7476d661ecd1812dd13d591499dcf26c37e3bd12b536"
+dkg_public_key = "60000000ccd7a97734d80b834323ed03bb5ee3cf219766eced1dc0bf79661fa6513dec2b5d56f3619f4079b741a61cda2a79ee0ffdcfab22d33f37439e9b147a58f3651d14a68637314fe8f04ec7326a145e015baa431f4496372c06346f2e2c484c6e11"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.141.247:26656"
+tendermint_node_key = "003a44e9041a6ecc3724f0112e9427e35f4c3be30468bf02ea30d23287defed1d6"
