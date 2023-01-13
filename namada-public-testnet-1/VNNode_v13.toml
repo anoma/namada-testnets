@@ -1,0 +1,9 @@
+[validator.VNNode]
+consensus_public_key = "005c5a4cbbe65b96788d957d8116e588a926e7ccc19b32bcde30f30d460acef0bf"
+account_public_key = "0030e954b4b9e035fd6a2a3640fa12faf0024796662afc817bdc19eb5bb9ca45d8"
+protocol_public_key = "00ade38bcdf99c08989ad67fd65e0e1b70a0dd4d38a33732e23f407a5ff1981cec"
+dkg_public_key = "60000000fdf14c93753dcd5f6081742d25250314defb6900f489b7f3bada72609dd2877a40f35d95d7b16bd3660da10017563617db2c48c772b2f8062efef81b17508fa7acdb76d2dd5aaee600cff31ca53d836fbe9e7908b95e03a54134fc74388e3f10"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.126.141.224:26656"
+tendermint_node_key = "0085a03f55e8ad6eb0c591e5866a71f83df73f19719289a95c65d8e53158b83e50"
