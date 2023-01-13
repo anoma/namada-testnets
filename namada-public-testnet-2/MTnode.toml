@@ -1,0 +1,9 @@
+[validator.MTnode]
+consensus_public_key = "00d706671a8eef752622be28ffbd9861088df38a8fd41a167a1c15e3464450d224"
+account_public_key = "00b398f0727e9e7c72889351f6bedf37144e95eef915ec71ade7429b9f939cd397"
+protocol_public_key = "00fb7743df2dbe99a4979c3a17aabc9089953f22612f70c9cc7ba331154c9b4141"
+dkg_public_key = "60000000688428df142b9019d11a73e15e316d47fb4cc75d9d0b67bb5691fbecd2c34301d9468be3d3345ca4facb4659e462b509b7f80bfab90315f54013c3c554508e3140c5c33e9d8d166af9f6b627ffbf88a624cbb4da1ae04cd099b4c8a1f8fe3d0c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.1.2:26656"
+tendermint_node_key = "006d2ddaa1684798f8505806ebf887d3a33d27b0f49e48f9ff1afa07d32b2ad035"
