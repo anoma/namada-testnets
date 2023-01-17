@@ -1,0 +1,9 @@
+[validator.nefelum]
+consensus_public_key = "004144df82fb6fd97a397ea60ae6812842aae918668b4fe84241cf7bcfd73ae82c"
+account_public_key = "00b9c81525b8b5673ca6c0624e7c351a86c8feebf9b5b7a19cc73d28e509aef7e9"
+protocol_public_key = "002039bec7ce9e86bcc758f9c5e0826c9c7494c5bb2031b732d2e0aa7fdeb34ae3"
+dkg_public_key = "60000000caec803909d3ad16ed003aae3d3a39c56972bfaf404c2034aecc871bf4f0a4b8380d1a890d37e8c144aba8bba6037f165d9feb9d48d30507639bed3ed98b02c9afe7b5bc167c2f81a24a4125c757f83919cc3c7377c1ffdb4e853f9eae3e1d8d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.238.104.11:26656"
+tendermint_node_key = "009844df142e279afb7156f22d306046a12dce9ff8929ab21717f5d7b5df00bbc3"
