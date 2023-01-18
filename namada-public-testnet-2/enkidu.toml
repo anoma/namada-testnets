@@ -1,0 +1,9 @@
+[validator.enkidu]
+consensus_public_key = "00fa8cc371c94b42be0c9320244cf995ba3a5fb7f9ec792af5e36d7f74cecf87ed"
+account_public_key = "00763e655863ddf2ddade67dfcde62ab4527f2e601a639086ffec3103c7c95e20f"
+protocol_public_key = "007f8c64d60b89c371505b4ce9b398791df163029f43225ec1510d3ea2bf7a8922"
+dkg_public_key = "6000000093874904d9733b0c83183633b8e7985984ba5fd09bdd4f4775dfe4084758854e5cc6769bd2e2c7b10322df5c2432820ce3e2563471d88cc07f56ad6e7cbc6e431576b06a8a886bc6304eb2222a5e6dd4bcc79b9b3b7f792ad7fdc9038a3f3799"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "85.239.237.85:26656"
+tendermint_node_key = "0083b965bdd66d4f756edd5ff9d5c2abf24dbdabdb51fdf63c5eadb447471784e1"
