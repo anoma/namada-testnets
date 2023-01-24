@@ -1,9 +1,0 @@
-[validator.THORNADE]
-consensus_public_key = "00e87b6f282d659daf5f8752a3876dba6af2e0047720878c7306dd518f4e1ebd37"
-account_public_key = "005fb7e12ec38c7c3bbda69d4fd8d0f24f01a93e4a112b600c4a83922d7639cf47"
-protocol_public_key = "0090bc42929e311216d38d6e2664aa3980c9c4549e0fd3ba13eec9a2c172e61790"
-dkg_public_key = "60000000dbbdaa134cc3c805383c707afc3c957a68160db27652e10abbf0f9a90917bbde29d819128547b557674fbad8c8858b1699f3ce7b440c74bd8d499579ad87c7f3c905d22add8486e7064192946cda9d64171fa714febf58db3eb0c69450b0c10f"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "88.171.165.179:26656"
-tendermint_node_key = "00aa9d1ac1f9efa9a6fab741a11c631a702c70e28ec9d61a50ed7736ca949ac4da"
