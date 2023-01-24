@@ -1,0 +1,9 @@
+[validator.KAYAtest]
+consensus_public_key = "001eb1d6ed215d8dc0e1f6a35d632fa1084533da0d93a69237175736ff4a134b0a"
+account_public_key = "0005c781b94eb20144a81de0db09ef99063760b56e711df9529dee02611204bd93"
+protocol_public_key = "00eec5f41979a4d13c981c79a3c1485b4e1d1c08afefa3c0caf88b7bb6cc9bcf26"
+dkg_public_key = "60000000666578b5beec759ca22096679b9e4329b7ba8289e37bf83ff061e5dcb421fe30107f0b15de5cfa6c287276588caaaa1369485e4d250371984b7606b3cc26e702011cded299aeb84a2208defca238e15a647fe24df68070ea76ef29b842543211"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "190.92.221.253:26656"
+tendermint_node_key = "00340e4bd82bceb5e473186bdab60b3e602850cc68b93032479838c84725e20ba0"
