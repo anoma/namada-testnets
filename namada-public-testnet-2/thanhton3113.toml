@@ -1,0 +1,9 @@
+[validator.thanhton3113]
+consensus_public_key = "00cf016a81b985ea23b7dd5f651a9e462356c896c59bc3c68e160848baaa66d38c"
+account_public_key = "008c87c4decad1473db3675b24b2be4f1bb5524f8e2e66c365fa579d01e89b593c"
+protocol_public_key = "00652de3c0cd01eb81803d6a0387875c5b86339d159897d6c980d0f02fc4370b3a"
+dkg_public_key = "6000000064e00d4b134c4258ddf9516e859b9e3d629e786c9095f187f8ec9ac85b9039de6cc1b7fc5428fcb24eccdfa4ad0933073b789e17d46d8e4d249d59c74a8ec06f3691ceeb647e4b8c002cfdb8b262800c8fa6dd5e870130071490f9bf1a5fd407"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.136.74.33:26656"
+tendermint_node_key = "0018c02bb62aeaa19a612c00c42d67a0fa8b2fbc7449520eeadee68b9f40d20b27"
