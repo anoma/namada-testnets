@@ -1,0 +1,9 @@
+[validator.andix]
+consensus_public_key = "0050cd3bcf263eac40155144b9287512e75afbb0144a76112e5059942718c50b96"
+account_public_key = "00e851ef3753da50f16edf42e38ba11b29c85094ba3dcfbbe63826f347163ae50e"
+protocol_public_key = "005c3930c24061e504cf8c0e41449e73cddb517f223be6d93263b32a2d4ac35ee7"
+dkg_public_key = "60000000233008d46d9e9444417e4dcf8346fc93f46c3f0d61aebf3b5469ebc69c1ef493a77ee53dad2ee8793571bd710110ac067a245dbc9a2f73c22c0e14af4edec13d6954672e20f6aa2da341fdfea3fdb788603f3c448e591fc9b6eb02ada8a3b38c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.172.238.226:26656"
+tendermint_node_key = "00586141c52f37f574f87e718aa9fd7c8da805c1b094de0e09b7d877179864b3c3"
