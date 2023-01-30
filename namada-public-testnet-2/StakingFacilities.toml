@@ -1,3 +1,4 @@
+[validator.StakingFacilities]
 consensus_public_key = "00097c8be073b64f7ce4e003caf6a1a6248fef7eb47a2946f87b5bcbd9bcc92d9e"
 account_public_key = "004c4507810c4bfea11123f0713d34e07777f42bffd85c6829d3c75490e27b3f13"
 protocol_public_key = "009acd834ed253bf3cfdd6d94ee462b0fc694d5416ee7e2001b344e82bea2f55eb"
