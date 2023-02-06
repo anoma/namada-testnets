@@ -1,0 +1,9 @@
+[validator.losilo]
+consensus_public_key = "009aa90e8965ee08975ba71301d88aaa95a4aa655bb60b6d55685c50dfe28a3b73"
+account_public_key = "00f88e65191a46aa5b0f583bd69cdd7a10644c34cb9d9bc162fc102a8577639a16"
+protocol_public_key = "00d7c765daa27cb727dbf1d5fce07609223d0148a0e711a675c6585b44189ed8de"
+dkg_public_key = "60000000cf97c76bbdcf2f4f113db0fe038167471d5f873790991a96e96391b0bed9b66a92a443da5f40b199efa02d25ff8d6d0ae0aa6eb720c45fedd6462e1ba3c6f9c5a19825c1d229a524dc8783194b1ea9f138baf15fdb064bf744c1e11128328213"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.86.76.76:26656"
+tendermint_node_key = "0075b03e66ce3a3c979c3fcdb0da593631b72730e5e40cef6b61b82a76642d52f2"
