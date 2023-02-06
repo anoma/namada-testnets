@@ -1,0 +1,9 @@
+[validator.ghostinnet]
+consensus_public_key = "002f75b9fd94842aa0927fce4ba41cc572a0540b08aac6ab54d7ac1ae6385dc8c1"
+account_public_key = "0021a228c0fe10f20abed24e889f4fccc90ac3837d5e22808eb43e5bb56a33fc5d"
+protocol_public_key = "00ee17b4169012558b4dc019543cb7b31e8cac9da7681737398e47dd602e43d5e6"
+dkg_public_key = "60000000d3f989967ebf2df16052d39610c07966b196f6a55b0c8375b1acaad04334f8a3b2ca31d44708f618b6c90d24be369819c337674a884fda491844e9ced8c862aa2b2a80f4e91d0bcf112698cf5b818>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.3.223.33:26656"
+tendermint_node_key = "0069690761d86175efb822dc00955b8d15fd27e9f948bbcab8b4b3f74a2ebdac4d"
