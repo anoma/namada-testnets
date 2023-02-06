@@ -1,0 +1,9 @@
+[validator.Yeksin]
+consensus_public_key = "00e9e32766de86beff3aee427a72bc986ed0cb2498095224125833f93ecb9f5405"
+account_public_key = "00dc83b580a4c399d4777ae544964105ad48e5285246ce9f9fcccd27f0066e7449"
+protocol_public_key = "005ddd02fdb45a9214f01b41df1717dd1023e7d30920bc7a5ac74061d61d96c4fb"
+dkg_public_key = "60000000c578134c423851f63e1908989ac1907f2af617b6f1d1c344b2c6793953845b25f8d01e7d2cb896e457d1254ad83b6d05da8156eab3b5d0625c678a3968e9f4dc55a3a28dc5a19f561d3c2237a2ea1d874def33efefc027554dbd3c674ab2d791"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "168.119.124.130:56656"
+tendermint_node_key = "0012bc8a7cb20b931a23736f9124a74ada9dc4627e48634eb2a8dcbf38de2cefcd"
