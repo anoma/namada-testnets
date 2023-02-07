@@ -1,0 +1,9 @@
+[validator.Illuminati]
+consensus_public_key = "00ea2f3fbbbaffa3ac3cc3c4a8324ff2dbe815fe1330ae4ad4ab0b25418ad4f74a"
+account_public_key = "0014bba23fe5333a43b2971fb528c52747512c165a036addce8f685cb21edcd6cc"
+protocol_public_key = "00cd32631d65b74d0dd143190123fb0277174d2933a3affd885846dbde16b91762"
+dkg_public_key = "6000000094230675289f0e0d51d209ec404650a7400bc8f721c1427168130bce1e9c4104d685fbb0dbfcccea25dd35a782881d1542ecb25846ada70f97b95a1be1587865a7dde89bd004091e889a6d563fec020542bd2a62e5d262100a312671eead4613"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.78.41:26656"
+tendermint_node_key = "000a442d9c9778d3a28b64ec0873bfb8f2037b632c958ab046e51374024712f0fd"
