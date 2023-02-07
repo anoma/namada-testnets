@@ -1,0 +1,9 @@
+[validator.binary_holdings]
+consensus_public_key = "00b509e70a0294dd94f19c3a4480a55a1c5e412b08cd3551168b100a54b0034a80"
+account_public_key = "00fab0e475b070dd5e7ee7ec95654b8625f9d62dcde6198de395a8411de739850f"
+protocol_public_key = "00f529868951bf04b021f823a532a5708ad442674a37a4aca01755def90e6a62f0"
+dkg_public_key = "60000000c4f69ab133a0d0adbbb501bb5518ecd4030e5c23f65bad8e9b457c5af2819883b0465be112b1edef91523574766c66122b56399a5aca13a63cc519f0028c3fd488e363d46438fd0ce971eda24a4c7e01a23b5bdd59fe97dc94f6c50bccf8c08f"
+commission_rate = "0.069"
+max_commission_rate_change = "0.01"
+net_address = "162.19.169.12:26656"
+tendermint_node_key = "0075d99d81f7739668f598e81ca60ce7d84cffb6d4bdcd2056067d4d953191751d"
