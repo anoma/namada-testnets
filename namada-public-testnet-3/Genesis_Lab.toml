@@ -1,0 +1,9 @@
+[validator.Genesis_lab]
+consensus_public_key = "00d01b048a52905ad1dddbb7fa600d170c701f785cc07a1ab6bc2138a1baa70724"
+account_public_key = "00bcb1af1dded7da3c2fa2a1f435956a595e65b8a7e485509fc0ec8f1c3f389cca"
+protocol_public_key = "007a6fa2453468bd0273fb15048323480c7c3ae033f40d927b99270e7d3f2c4c8b"
+dkg_public_key = "6000000048f46570f7ded2ae236382fb2924fc24f610b48f253555f5b76157f8c02ba8cb7b55ce2bb8a455eb76e0eb78f1ff7b1683d93f0f0b82402c971f7550589eaee69478c8a490629fd5cf4d67940589db55d8ec9c3af9093158dbd46fff7795c006"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "65.21.77.175:26656"
+tendermint_node_key = "00d775172c596a5afdafb621e13422b923dc190cfbc82252c953508cefda7b3084"
