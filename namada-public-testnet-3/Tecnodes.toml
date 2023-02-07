@@ -1,0 +1,9 @@
+[validator.Tecnodes]
+consensus_public_key = "002a530802c55505b98bf01219b99e4bc04517f6098958a9f46c8f6e7c83bf1bad"
+account_public_key = "000cd7cd31bd0ce683428ca8215cdf865c998aba99320e5d72279b7b3a792e3400"
+protocol_public_key = "0008e722e9beab397b79364ff48adbb1ef757ff3f16115791c1a6bfa2bac579e82"
+dkg_public_key = "600000005cc6beb52056c3816d5f8f233d11209ced6bbd6cdd48030a2b3f4605addfad938baa85b83e97a0718cd834a57d4ddf07fc5d2a56b848955e943cd00acd85af5e42ec2faa78299af6c83ef10f6243636f75e7e09d85e71c2012b6609980e52e01"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.43.113:26656"
+tendermint_node_key = "0060b7e412073fdc2cac070924f3c543398936bf1dbff66578a6925d2128642f9e"
