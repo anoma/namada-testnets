@@ -1,0 +1,9 @@
+[validator.flowers]
+consensus_public_key = "00c40fda18c55c586e933dcc9a309bd73b1ecacd1b2a00d16180399dc1fa4c8df2"
+account_public_key = "006af739206a0ba45d1add49840f1809267af530eadef57e96ecdd4122f104a80a"
+protocol_public_key = "003d4fd0050b11a99ac8957166e4bf1e81de0701fdbfde78c99d0a20e821d88a01"
+dkg_public_key = "6000000022615dc204d133f96c4ddb4d61303d866c6512a96e010d4993a9927aba13c499f7d3297afaf06bbe24e744bde2354c0c8c26f55b36fbc203006dff663c48b57b7b716f01959b703afe458a76389847c8bd5cd9ef400acec8c60250cef6ba5598"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.223.69:26656"
+tendermint_node_key = "0072e13a698dcf4ce14f51e175607d1c3884b9a4963e72b1e28b99dd3c751d2019"
