@@ -1,0 +1,15 @@
+[validator.Iso_dayI]
+consensus_public_key = "0067a0a214b99a25c98a70ee9213a794f6f0a6c79d3494d4632f3
+9c501de072cf3"
+account_public_key = "00e16fe906f4474186b72c8d24713e71aa7ca3f15fae840b6d3ec8a
+8149bdb4cfa"
+protocol_public_key = "0023b92c7df2296b782a1f839d5139d9a73c68b19549ed3d7e51cf
+47059e521a11"
+dkg_public_key = "600000006882e89c4c393fa47cff90fdcd20e4ba7b299ed9bac0f1f4721
+4af6bf8d11d5180803fc69214ec791d59a1abc6a36718863f450bd9973c673530d01c5d60e29d
+d2354a402be591cb83301341fffd7e0b4e0e7586bcce2cbdc4e5ce5b1d4e6409"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.92.150:26656"
+tendermint_node_key = "001f966e7019c43c0cfd97c46d4fbdf7e18fee7b20cdb64499521a
+b800f68f9682"
