@@ -1,0 +1,9 @@
+[validator."lorgd.eth"]
+consensus_public_key = "00fd0e92564f9d7301572b12e7c7fa89715f46ca853f89fe138e0daeafb16c58fc"
+account_public_key = "00a50afe42c6235298560dd166409a87b3ddf1d4005777a91df5d14a6484195bb5"
+protocol_public_key = "00a2573e3de319b4ecad8ea78058e0e3e934055d37c344a7276b19773bd46f4f1a"
+dkg_public_key = "60000000671a4fbf43ca59550cd39f7b6a212ca2acec98d1c2810f8fccc9a75ba3bfddd2a0fb586324a001cd0fcb41367ac4aa16ca47e966fc1933e8b5548c42223f0765ed2092bc8fbb21f227e38e2bae848ada9c64ae6fd4dfdcd4a6a8dba5acb78d06"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.192.97.11:26656"
+tendermint_node_key = "00ae2ce34c1864364e2822f3041dd3e41fe479afdaa9d2715219b8051ee8507e1f"
