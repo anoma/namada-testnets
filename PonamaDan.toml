@@ -1,0 +1,9 @@
+[validator.PonamaDan]
+consensus_public_key = "00f45079f76b78e45e896c299861498126dfc920bb6e949f9be3675c68e545a864"
+account_public_key = "00e89573123e7497929d11a099e0e6963959cc56fee3d3fdcb69dec2e013dcf8ab"
+protocol_public_key = "001f86af45abda78cd834edda7b695c40c5ec8f583946f38b74f4d88c8a74b1c29"
+dkg_public_key = "60000000de96f0fe6411894bd7164f8bbfb6afdb616dbbc7df787139a34150041395a4e350381b79cf30fe9a1291346fc0744d078c16680e2353bcd167cc519a2cc452bbf8804cbd0e17b4dc45a4b8019a689adf38aab1df6912a6363242b02c18ad4580"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "173.249.57.33:26656"
+tendermint_node_key = "0080cbafaf8c062715a73946c75b6c4378306e9c505ef68e1c07bededcc3bbacd4"
