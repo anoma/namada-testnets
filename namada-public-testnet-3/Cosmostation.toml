@@ -1,0 +1,9 @@
+[validator.Cosmostation]
+consensus_public_key = "00595eacb9b49ef0fe4bd0428484591c7474b27d6435ec78cd0120c4021be03132"
+account_public_key = "00f534d8cb7c704eb3618311ab13d718a3b813f534d2850c0659aa01ba01854416"
+protocol_public_key = "006e5cfd1039cf010a05429d82fa8cc4d3b853bdfbcdbcee556efe88d0c457e497"
+dkg_public_key = "600000009ae3ecaf35633cdf77598348522fdb76da3a47c85d3f21941012213df1975aa5aeb982d4275161fbcc4bfcc2835ec6154be164c9693adbeb905bdfa462614184b811af46741bc60b89199b26ffe056609929aaf9e928b12151038004b9a10209"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "222.106.187.14:54306"
+tendermint_node_key = "003fe6fd23ea6320d7c06df8d393d9ebca6907db8c1b2d6edf8407d89e236818c8"
