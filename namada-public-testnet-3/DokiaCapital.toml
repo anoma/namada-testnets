@@ -1,0 +1,9 @@
+[validator.DokiaCapital]
+consensus_public_key = "00b89d0b989da03adc1ae1dc3e525c7ff95b5a97882e10db8d0320950c7c5947bf"
+account_public_key = "0015383bc2ec9c77369c9832d2dc2d7b3a8f6f2aab1d365889922bc33f7a4ece5b"
+protocol_public_key = "003e48339f59e600b69dabf30f4e9496ce7b6bbd297ba951760912442c37ce133c"
+dkg_public_key = "6000000073684ce91599f7278b8670a305314d26cc5cf60bf76b322304e49e4681be1bb12d464234a3ef001439011f9b17a97c006b900e59e8eb263e6838fa81994b10cfe8337fef520ef3e45012be1babf2e435baf5dc0e3ff1881f5066639691ff8d00"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.120.245.74:26656"
+tendermint_node_key = "003f8e5baed972c8efc6965f7f4933ef3cbf4514cb76ed1515a4f633403ca65dc9"
