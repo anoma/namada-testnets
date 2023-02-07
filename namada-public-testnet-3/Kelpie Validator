@@ -1,9 +1,0 @@
-[validator.Kelpie]
-consensus_public_key = "00870ddc230a1bb2a6f8e186d9985908ababf7cf0ffbc1bcc84903226ba00a6605"
-account_public_key = "008a0572f372481a2cd640c67e371914cdf59ed8b2d7c91e39f2979ee676eaa01e"
-protocol_public_key = "0038ef2dae043800c536e4d774896266f6162608ffec29b03b7ca7ffcdde36f64c"
-dkg_public_key = "60000000c4166f3cfda916a5d30638613d9fbc0108bfedfe35abe0db6169f38cb3eb85fcddbf5a8da25ca818e09e534b5f728e15975c117f89b56a740276454b4f26eaf5e13133e9f9dcc3bfce3cc5fe65e44b52f8ee936ba5a8c5b38473ffc76b36928a"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "144.91.87.99:26656"
-tendermint_node_key = "0009f3fb762379d0a24e286e84546320c5bab758964e6c064a4979b2033ac98907"
