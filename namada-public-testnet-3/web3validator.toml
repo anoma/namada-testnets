@@ -1,0 +1,9 @@
+[validator.web34ever]
+consensus_public_key = "0076240de8dbafb9f6acc3104b18964210b33d56584fe4bae26f26a1c9cb27bfb4"
+account_public_key = "00905baf9d3928970d2d8d869a030e9cd9edf504c4f603394b0183dde49a27b7ff"
+protocol_public_key = "00eac4543497bb062c5399aadf8d8290f35936f7596fd521bf1e48e4e624965a2a"
+dkg_public_key = "600000006ed9b4c7cdb98c3f33e6a365a09510dd017fc2f0b323d159efb2b1286e05476a4bf5b7ffb7e0dc0fe95ff1707dd586047ea6363f2da6ce1516a9de7c94279e5a0a08ad0ea79d3a822dd6a774c67bde2f031bd0cd5ad9eea4ce97ca38b873bf09"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.239.215.59:26656"
+tendermint_node_key = "004b4036c2dd9a268a6456a54d0fc95e39176a28d9d0995b949c9659ac21999c23"
