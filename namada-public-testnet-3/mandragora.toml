@@ -1,0 +1,9 @@
+[validator.mandragora]
+consensus_public_key = "006fbd374143540c2507bd90bf1e8eca12d0cc1e76b0a2bae82defe73d6ca4614c"
+account_public_key = "0054d6a7bc473e0c933201d1c964e3da294f59cd212af61afb7088bf77cb3a222f"
+protocol_public_key = "00603f9b8eab6bb263b6452dd4b2245a5be95f8368c8b19efc2f3dec42b49e44ea"
+dkg_public_key = "6000000012369e5af460162ee7963181407f265bf9bccc39e16420def82430b05bb1e9fd31e014b80a497b6443602e6084b3f30297d67ae35bd544b07c97cfa5ef7df328a4ae53d04c95332a0127a817e353d91fa9ddd0604b78afb4016eeff6d9d1fb95"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.135.125:24656"
+tendermint_node_key = "00371b59d1a61b9beb403913a745bd15cd6a10763b1dfd4d27ede5f6124f332fda"
