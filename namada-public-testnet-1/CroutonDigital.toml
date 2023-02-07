@@ -1,9 +1,0 @@
-[validator.CroutonDigital]
-consensus_public_key = "003fbfe0d0a217410e38c91bc8b88ffbeaa7f656277afb67d4f28d36a5baa062f6"
-account_public_key = "00bf66342ddb40759b4f87dd45c74efc115e4981b600b8bc863b1374343d19443f"
-protocol_public_key = "0071058c394bfe47c7317bafd14132850af8e96ff8de7478acd32b607fc7f5d64c"
-dkg_public_key = "60000000ecdf607abbe8dd8a31642583386defc9614f4eba157da646de374efe62f5207467d3ed2032b7077ee0c22d8e17a2b115b083c952a355e3262ece6ca7e98e21e22cfea85c5c4f1b2f84fd53dc677114ddaa06f87e3de1e8160741a1523e334402"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "142.132.130.196:26656"
-tendermint_node_key = "0028c8b05c72d8770c13339bee2e5c5c399dfd8a4673132b9469b01bc7aa84bd42"
