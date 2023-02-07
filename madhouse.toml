@@ -1,0 +1,9 @@
+[validator.madhouse]
+consensus_public_key = "005246dbd81d7b91cf5d79a3addb759d631b95a7e3ff533e6a759a0bd41829fe17"
+account_public_key = "0090df4b4c8ba5ce6156afd0b1f2c935d1c2084c2c1fae3ce5182798e5c5549638"
+protocol_public_key = "0096a9065f0b0489c6b34ebf297591a670fc19f1a560a8579e9de697e7ef5fc20f"
+dkg_public_key = "60000000aa0695c74c0a92deb4e35f575c17a7206dea9f0a1f1c1b89b67eb041496aabe7f56274ff730309d0d67ad8eb28639f106ac947a5ea2c6af0a00c31bdf171fb864d750bcc41ad4ad28cded762cfe7af131c340833fcf80c512c112cdd19b55d07"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "34.140.72.203:26656"
+tendermint_node_key = "001c0440ce4377b8ad207c10c07c9f186a8e16f603f09e4fba8acf90238245d368"
