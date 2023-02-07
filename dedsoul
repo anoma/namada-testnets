@@ -1,0 +1,9 @@
+[validator.dedsoul]
+consensus_public_key = "007647b1c47d302fc310dbbec0dd2f7d128ce212661bf0c20b11e5555898646636"
+account_public_key = "00404dca7f8a9aa5ebbd6fee898f6d03896e859d16f1b5484c463974c858a0374b"
+protocol_public_key = "005d744ff9a4f1e2e0d0ae4975b147a6590c19120b1085b3c5cf0f07a75f40a5d1"
+dkg_public_key = "60000000040109e8ceb8706c48aa45fc7bc9a034c8bb2bfcd06223bb86ef877a2b052c931288e690dc5d6fcbff151dba9471c90ca212c3e38235c4524eede6f1f37e59a6d22e9853ad811a6cfa0478b0d6b50cc4043642cf1c0385cfa71e23d56b5fb308"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "0.34.212.230:26656"
+tendermint_node_key = "0095a94b21b27ca37528d55a21521f4524fce5c9125d82c975c0ab4fe88d67702b"
