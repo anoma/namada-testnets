@@ -1,0 +1,9 @@
+[validator.rikotu]
+consensus_public_key = "00f239ef932ab5c7f7fed8e59cc689893f3f1496b03cf1674d542e9ff235975626"
+account_public_key = "00d49f8a3d6f9ccde1bf03b076241a370f5699cb0694df5df39018e69cfa7149af"
+protocol_public_key = "007c722ef3380b206055e4faedfa4c975a9031e55106e81ed351810752f4bba047"
+dkg_public_key = "60000000302876a29cf2544ea57cfbe2fb3ee08f741ec65bc1a3f42ed0c334a2005b012585171a91cebee9cdd2ca3e58bcc8bc049bd670310afa8097028c3bf6bc5877758fabf9b1baf1b47eee569b8aa4ec30b71369e573dd2b33ef9b1a6caae1807b14"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.192.97.19:26656"
+tendermint_node_key = "00d7b8a9fa8e91e732d68ef401dd5e1e675980e59025fc58f8e558f5b204f84cfe"
