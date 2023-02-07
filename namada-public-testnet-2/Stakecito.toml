@@ -1,0 +1,9 @@
+[validator.Stakecito]
+consensus_public_key = "0007047a117771d5a3a7d70b8e71f8d9aba2fbc47cd6653b160f460715626ffac6"
+account_public_key = "00cc75d0545a522abf4e2b8dd3670dcbe6eef82e2f47d5c6cafa3b9ea5a3f4ff3b"
+protocol_public_key = "00594639454d88ab319a806d6f4c889d1ea19423ac63121c8d1dfac0ca933b71c3"
+dkg_public_key = "60000000fa2c9e9f47879d786f8031b631283d406f71676367e0295c3d7d457061f99d5fdad1f500e621defb2319f6671ba5bc05343f5cd3202d40aa269cc9956b0824bd6801559d8fc987c2523de2faa9b8912dd56c78483ddbfd48ec4a295dfce28d89"
+commission_rate = "0.05"
+max_commission_rate_change = "0.02"
+net_address = "51.38.53.103:26656"
+tendermint_node_key = "000f28fb855d47263a6630ce7fa29c7c07f9bf2df5bf25ab9c77ab45805a240162"
