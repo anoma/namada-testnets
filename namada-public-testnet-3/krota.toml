@@ -1,0 +1,9 @@
+[validator.krota]
+consensus_public_key = "00c84778599797f82a3d112249e2fa2c0dcb414de7fb659280820fadd637a6dea1"
+account_public_key = "00252b0c8f8b6cc3f2fdef5753647c298091beb40e5face1b4878d4d0de96f078a"
+protocol_public_key = "00c9b700f8527ebe606fada353127b8b155f431aa74f6aba4034db14ee33dd35fa"
+dkg_public_key = "6000000044034bf6b0c519f8b3cda13349cc4850917bc41c9ac2933e2d45b1ecd5008f576f66b7f7633aaeec8afa08b2d4d12913f78e360f8c3d627bec8624fea1bdafe100b465a875194f8d4a55d842e4a8af092881e829b9eb11ca851d28c66cec8c99"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.192.97.15:26656"
+tendermint_node_key = "00ac165a2a34e17975dbd935267d754b54fa3f3e382ff3a4812c4665b274c0bfbb"
