@@ -1,0 +1,9 @@
+[validator.nama1]
+consensus_public_key = "004267b0ccb213e000b13a75a08b3128e84c5adf56cb9e5d60251883cd37bd1ef9"
+account_public_key = "00e1f12afcd3eb6aa347af75bfb55e1e1bb9cca480dbc37650405909faf22b5584"
+protocol_public_key = "002bd907d8aad1334ef339266900fc643dfdfc96f94e8601828f6b2edf5b8878cf"
+dkg_public_key = "600000004adaebcbdaa9f08b30510b50013aed8f2ef5835cf8dff72cf5580bf0fbce69cb135455f140ffe442ebc50d215ab78604577b03e766607e9a10f097141d3a177adecca64556ec9e40f2d8996bceed27dfa811ee49a1d619c9ea562df81e832782"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "31.222.238.170:26656"
+tendermint_node_key = "00c3cd581dcc1b2843a6a5e7da96ee8c63168ee357bc155e70ec243f3b8ffa5cef"
