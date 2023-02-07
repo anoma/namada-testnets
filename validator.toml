@@ -1,0 +1,9 @@
+[validator.Smiter]
+consensus_public_key = "00d1bf70de50cdc7744049fb87954c192b80db50222f1d489be05ab0cb58ec8670"
+account_public_key = "00faf3b96db36cd42314b6be4ae9e18f7474824c2cc953a0ca94123a5a271d2f5f"
+protocol_public_key = "00b023f25da1b0d23aae5b4273e768312f72a6cdc189a0ab74b3734340f1c42bfa"
+dkg_public_key = "6000000011176c1b56005504e7d607051c5e5df0374853c3198ae636ab18916a24b2779ba72797b4b4ccee05bafffe83cc93930eb34214f1e299d2617c656b168e87e3ee0a65aec6e346dd9b3dab8361295788096e5a8343a2adc2774a330bc4a76cfa8f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.114.168:26656"
+tendermint_node_key = "0086edde16590d4c6dd1a14c738f258d819f660cf2bbf156e9f3814605e86fec18"
