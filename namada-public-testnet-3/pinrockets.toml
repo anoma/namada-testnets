@@ -1,0 +1,9 @@
+[validator.pinrockets]
+consensus_public_key = "00d741834f97b3a5ee3d5bb2dac937ebf61430d5a624bbac6b403c19c92e4ebf97"
+account_public_key = "00cf9d3622c211e8d1d5b8e30add5a16ac2fc061f63ea4a1f8b341fedfb346a035"
+protocol_public_key = "006ebfd7c689535f9358b78a68a5deeda520654b2d128512666b3c4cb02f99b08e"
+dkg_public_key = "60000000b0a51fab62fbc4e6676daaff44d440a8c33768a51f4057dd5aa536368602bfeccbdf9eedaf8d15666fbe716158a154032eecba18b31cd2ada65bb57d1f9d277066c76cd6909750e8d1a3894791bc7a317020e3f192734123c811d31454a6c987"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "34.78.134.51:26656"
+tendermint_node_key = "0077b87c6fe64c3acd9c84f8c0fd617ce3fc5257ffd51614f686021fa7760ded8a"
