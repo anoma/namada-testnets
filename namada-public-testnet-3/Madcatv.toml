@@ -1,0 +1,9 @@
+[validator.Madcatv]
+consensus_public_key = "00bfec83cedca9632ad3bfdd63bca4777cc2354b208d0644b82110eaef9e547bbb"
+account_public_key = "008f5fbd999de575da77991e43343025f2d5b949cfe1f2c54a5520cb076918b2de"
+protocol_public_key = "00c7d95a5f78414ad631fc4fa789e6f8a9bbcbcffff411b9bc5007e21747d1417d"
+dkg_public_key = "60000000b4c15393b88118ceb8644892013ba72682c46db98a38c1ccb952a276cefbb863850bfa1ce9e8c70534230b506e44d901d283b53407e4225308dfc9fed38716dd20668c1c02108b3ca6d83ef8bb010c46ccbefffc10eb2062b7ec808800d8bb19"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.192.97.13:26656"
+tendermint_node_key = "009ff307ad558c2d9b9ae7dd16fef6cdb74fcdd2fd55b79df27029a6b71142aeef"
