@@ -1,4 +1,4 @@
-[validator.CHOOSE_A_NAME_FOR_YOUR_VALIDATOR]
+[validator.sidr]
 consensus_public_key = "00b9ffe638d95efff8afd14ee82c39a4ddbf22942adaba36c5e87c8f9160e9ce5b"
 account_public_key = "00d0453c9aa8a1346fab57aa8fd38159bc98a6c666a37f67adf6054560e412f9ed"
 protocol_public_key = "008afef170cda75a0f68021761558ef0d509aeed719f6a6ebccf580560a6e59c2a"
