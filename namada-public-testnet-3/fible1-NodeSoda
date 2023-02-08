@@ -1,0 +1,9 @@
+[validator.fible1-NodeSoda]
+consensus_public_key = "008ccbbf1230b0ff4fdf24b40021bcc6cc212a6de04d34fc030e2caa3bcb5f611c"
+account_public_key = "002c325670f7cd3d28dd4861ab89a2a5124fb5b446555ea15cf7946054bedd7e53"
+protocol_public_key = "002147dfade99fab39e78991878226d0dcc306d65f613471b9192a05c3633d58fd"
+dkg_public_key = "600000007395694f93e5d0245da3394efc37f9c3ea7ff025761e68e0cbf4ab72b72986e8f3d97576b71fda81de51b34396433b110fc914ac711bc1221a4477f8be3aadd77ceecc4f3c3be0843bbcb478eaae5d87ecf5144c173ec2eca59ac36f17080b87"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.156.43:26656"
+tendermint_node_key = "00287b92ec44d94b952316b405c6356bcce34849026352c24c7e0277c4d5c69e0e"
