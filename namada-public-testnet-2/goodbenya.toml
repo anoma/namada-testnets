@@ -1,0 +1,9 @@
+[validator.goodbenya]
+consensus_public_key = "00b99e8f917d3ca1bf7c2ea2148072d84b5c1e03e7eaf24791587affa3414048bc"
+account_public_key = "004d9304559be7f3c3b522339de127ea56683c830d02187b26f8acd9037540fa65"
+protocol_public_key = "00ca9647ccd08cc2e3a102d1c605e597649babe7049f58bedd6d78f9f1624133a8"
+dkg_public_key = "60000000d2800cb6c19673ce09d6087695a726820ad01d8ed962358b0445d482bd202f758963cede15d3a1b3233cf09f8236e70c6ee481ed8d7c2b732527e7ae9a2e8dd9d07aafc6dcd98188478b5c21d7bde13c9dceed88a172998a0ff05dcd174f9390"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.229.95:26656"
+tendermint_node_key = "0083ffec5063f6e446f477de2fcddd8097cfb66d43f43ace5d61294f99969cfea2"
