@@ -1,0 +1,9 @@
+[validator.LORGD2_VALIDATOR]
+consensus_public_key = "000705155a6224bf2e72ac6ffb93afd9c5bd585a2027bd31c4c0456197e78ed7a3"
+account_public_key = "00cbb38495b9f932fdfaa3607df51008ba3bc7e6f4bfe7818b97b929e1c607ec01"
+protocol_public_key = "0011099d5448218915ace821ae61b95c14f8442d8a099a2118d6e91646eac2d6e0"
+dkg_public_key = "60000000d8f8f1c5c7c3edd0640b83db303b8b2c8af4b66d27a855562770456c46ef2d97e15de13f92d9d8002efd10ccca33490c6ce947e0da559b1d53b6357871c09a08f3bd84fd3984cf6a73d4ea5984358e56d02995a7126a958a30b8ccace00fe083"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.239.208.166:26656"
+tendermint_node_key = "002c499b398155779d94fa2d4a7b8204e760376baad494674cc7dcb24bfaab6c63"
