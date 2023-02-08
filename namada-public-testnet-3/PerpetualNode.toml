@@ -1,0 +1,9 @@
+[validator.PerpetualNode]
+consensus_public_key = "0057e5248c1dcc9cce032ee75eeb9c8aab7c99996e1ebdfab2b316d232a3a3bda4"
+account_public_key = "00a8988eaad76a71b4e8ad8b9cd2c1d1417c4803f19fd988ab2dfc566a860516a0"
+protocol_public_key = "00e79fe4800438281c03240890beeb298eecf91ad6c043c5f04be6b399d2617f12"
+dkg_public_key = "600000007a069a41ba777d6bbaea106bca5afb42fd109e28245ec31c1b2729513d7710f30e3194c4fe12289810777f356b9de40d6fe938a1dc5bdc0c53e17aeb9c929234066242623291376fd77951b9a1830065d278242499da66b7d7f7facba201ad8a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "94.207.71.68:26656"
+tendermint_node_key = "00b3fa37fad6c0cf8f4e4dbb31f70c712c46e1246203dbcd7661e7abbf567c7587"
