@@ -1,0 +1,9 @@
+[validator.QGX]
+consensus_public_key = "0016a3dc8154f3770672f3a74d82cd67deac8b1a741f27308ccc0fac24b8a485c5"
+account_public_key = "001cb183c4b8d848ff2b30d6e313ac3b9723faa2a3c1060ec1e494093b281ae4b3"
+protocol_public_key = "002bdc1e7beedc68ba8a985c6ee3c1530b0cb51b9dec99293aff7879a6febff392"
+dkg_public_key = "60000000bfc11b19e15de73799f8b812789bd5ba4a3c2a9cc4fee6a1a48fee01733cdc5334183c9efc00010ad4f73a141e0bed0e22be5d3e7cb5fb3f91aac63b231d16c907340376246bb29b217d9f2a2bb9949872546cf938e692c1064482a10c320d15"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "43.156.91.77:26656"
+tendermint_node_key = "00f8b45d100b1286d738f46acd75fd7eb06aa510e78d1086abc918651413b81001"
