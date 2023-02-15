@@ -1,0 +1,9 @@
+[validator.PentaNodes]
+consensus_public_key = "001ce6239971b804ecf0143953232ad78a21b01ae35e4408fed2a3acc20e080613"
+account_public_key = "00dd34aa77a5e11bdf5712ff6b1b5496a70e8dd15446e31e0fc60c2d92097e2871"
+protocol_public_key = "0014ef929a31d0fd0729003f82d4a39723d4287948c5e5f94a4daceddd6e37ffe5"
+dkg_public_key = "600000009dca07a354fc661bb88c0ff5ca28035e6265cce92575b0ba4afea3016a928a2a27e15fc19a6cc0e8a7c4e2d8d543180b6606121d1bdc02f442dddd788bf02d912f0334d17d5a8d0556ffa2048a7ab2bcb08d501c6d80570abdd620f2636db981"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.85.50.137:26656"
+tendermint_node_key = "00ffc94060fa2aad872f07fc67ac7382795eff3873573e08d1646fb69cfaf31852"
