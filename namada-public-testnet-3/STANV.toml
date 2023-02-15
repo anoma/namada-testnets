@@ -1,0 +1,9 @@
+[validator.STANV]
+consensus_public_key = "00f7ffe094abe9ec7e3a033a6f3fa5a5c96da22d87bbe7200e0f98c6c08f60fbea"
+account_public_key = "00f191d409257ab79eb5441e589ee802d6858ffb26a597797eb725d31442d1bbaa"
+protocol_public_key = "004e556d1862a229c7abef1ba99513e391f079df3abea970d3adf2ef2293df0d31"
+dkg_public_key = "60000000c3a5e6597ab78543c81b9b21f91ce614186a575d006e2c6f4e00c93dd1eaba66a3a6ab256bb12f253a3ba76684de1e0d4243a05a0a08f887851b090a691cc7cae31589e2459ee9aed6c0a5407da3225595102bfff88ae49b8902bbdc63e5d307"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.78.45.230:26656"
+tendermint_node_key = "00f01d739286b4e3e7d1cb65b8c6e453e1a815a64a1acae36705802ba5bf652efd"
