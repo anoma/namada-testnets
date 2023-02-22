@@ -1,0 +1,9 @@
+[validator.penton7]
+consensus_public_key = "006c05d79e1a0c749bb21d2ae1b137ce19c658d4bf11e39dbe5ffdd30d63772949"
+account_public_key = "0076c2c58c6050ea1820d79a5604e176cbd4b1ff1c7d447fe87f406ceea93793f6"
+protocol_public_key = "00a4ec287500207ccbb001c5ea7b852604a74d81b9a25353ee442c095bea120d04"
+dkg_public_key = "600000005d05e9346db511f43004373922ec2f2eae41b227ae50965fd2a76783d74c167b0dfc5e402fb18972521cfcafd2af340e5db0ceae6d2979633e001bded49e2f713c6a42d7044b98da926b495610bb24077dfda00c6d5742f56265e25d3cafe78a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.60.201.80:26656"
+tendermint_node_key = "0014eeb6359ffb8e382392cbd02b4ff6939ae8f064e7700af60530dad2e579343e"
