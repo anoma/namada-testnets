@@ -1,0 +1,9 @@
+[validator.fish]
+consensus_public_key = "0089ac33ba5bcafc98102c825ab0defa035aa1bb2f9225bdba410c1ece905c494e"
+account_public_key = "0067c376b93757d07a8879b91fe3557dc84d3550762186b6cfdff0cdc8c311c56f"
+protocol_public_key = "00b712976eaaf489b8dbe5cb3e502c02b2e5b45584ccdd0192420955596adf63fe"
+dkg_public_key = "60000000a0f27b8fedebad37a8cc199e9c437f7348ec5d53a62c5730aa9f6c77511a6676d6efc09cd4d1f93ec4cca43a151c0910f7485d8028687c515ed9309740463bdb2e19c962c0e541f81076af29cd5116955d57f2a41b078760e46182c6b1fc6089"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.99.98.157:26656"
+tendermint_node_key = "0066cf047bb0a85c2fff282a996c02d1d22ed8b3ba6c87ccb9e99e9017637b30aa"
