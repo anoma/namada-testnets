@@ -1,0 +1,9 @@
+[validator.Moonlet]
+consensus_public_key = "00687d9c191114fe30a02820084b3a63c2a3905932af598403e7439a52af09b835"
+account_public_key = "007f1eb5e5ac8278a8f871b2ac101b1f8016f717f4d48a296e4dcd962e426b96f7"
+protocol_public_key = "000a6a9c523ff523af1a0379b75fceae7235535cd6ebe7d3cf64b4c12ecf693cdc"
+dkg_public_key = "60000000b06d03d32f80cffa48e9317bfa975deee6861301dbc17554730edbed4aca64067212de848c2ac5f9826d6ccc6f39d7123caef2735028aefe4f6787947aeae5c7a596f9ea641b84cf58459574439fb9f17cbd82c5e7e9f9ceb4f14e0da6b93486"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "157.90.176.184:26651"
+tendermint_node_key = "00b78cb81c3ab3fb8486f5dd312db090126836855be26ff2f3b60596882d131142"
