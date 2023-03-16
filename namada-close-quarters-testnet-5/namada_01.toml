@@ -1,0 +1,9 @@
+[validator.namada_01]
+consensus_public_key = "004b616d1960fc9a4afc9648d947268a263020e80eb462b06301cee50b20639cbf"
+account_public_key = "004eec664916349273f33de36f8f132cb958529196a74b8d1b8c64acc406df0eae"
+protocol_public_key = "00d123f5a9f2d60377b5fc1e6d7be3da0485cc10254940ee4c797404c1ea1a5b98"
+dkg_public_key = "6000000071ceb39e0fcded564f96a413ae554e6a7d5ef99df413d1e878ab637dd015707bf7a3555dc8eda34d81a7eee1a3dc1400a9629d6de010df43043756025693c44408e406585ef9f60667bf1beaea8cb20c89a2fc8cf35a195106b02fa9c0cbea85"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "178.172.212.145:26656"
+tendermint_node_key = "00f0006b623e2e7f4e7f98d482b4aa347aba78a2d60df46bc2e07d13bfaab5b317"
