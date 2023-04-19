@@ -1,0 +1,9 @@
+[validator.STAVR]
+consensus_public_key = "00d8197e65312e5fefcdfbb07f8816e92db78929b90e34d16942a71b14da12ea90"
+account_public_key = "00bbe228c2e80bc8f22741b8c8dc71651bca4815d11ee83b8da606082f07082409"
+protocol_public_key = "006edc1d58dc9a58b179a457e2c11f8098847f1146efa3bab628e6fe8cd5d29c94"
+dkg_public_key = "600000001ec0e5300d416c209b40bb3ed9960ce6c536490b140ee5290f2ff38244c759b3d82dbe3fc8a1d5904bd5ca423a4a3c18490861f8f3b1082a0e4cb9ba899cac7fb5affe1c70309a6e4e06a1d1213a0fbfb15cf24e36c87a34b13240ce1c498600"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "93.190.141.68:26656"
+tendermint_node_key = "0008aaf8d42335cad401d70c9a33d31dec36bd0e0c54d2b9783e4a5e68e005fb7b"
