@@ -1,0 +1,9 @@
+[validator.feizi]
+consensus_public_key = "00e1318fcbc850243985fb4f0cda75beb06fd354b6031d003fe2763e7501c7260c"
+account_public_key = "00794cef79934161116f97efaeefb11b439ecde5f49a16ba91dc36cc03c989b2ef"
+protocol_public_key = "00c85e4d4f908a4ab8ae781007b7cd8b1793c2844ec196d59a6cbef69c83f3b365"
+dkg_public_key = "600000009b6fffdde2f501e9a0c1f1b91e9656f1415be4ee1ce1e9d4461551144d2bb321b771be24d9556d72ca7ef94dd6886b1828c3ff19af0d7c08438194962d8ff8d779c001c88181326ecd8c2cf4ac801438dc4bba20a605dc50a9d9617b97ee0213"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.94.77:26656"
+tendermint_node_key = "00126e228abeec9dbe5594a11bb842b1c498a7dadc42b2d3853a7536883067b1e8"
