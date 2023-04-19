@@ -1,0 +1,9 @@
+[validator.thornade2710]
+consensus_public_key = "00a937c070b7685d9a215e1069c30313a46c16e7f9542b4bcec3e22addad3624fa"
+account_public_key = "00ba1d1ecf0770b6a47d1c4111a904987c5948a481dfcd6699cf45bf630f557cd0"
+protocol_public_key = "0058287eb0c5c4faa2c1075dac7f9b4411482e2d1fbd31178dfba856405764319d"
+dkg_public_key = "600000008f3cc10a1c923153431008aec2b036ffedea2e32eed904c6811f3bea3cd6741fd879a5f5929d4a047b6790fbf9b9ac0ec8dd86e4efd0b8c58792ffa5f47c23c0fdd8e165d2d36cfe9f0e986894127c189e1c9ffeb5bda0943c90274affe8ce0a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.171.165.179:26656"
+tendermint_node_key = "007f9fc1d985e81783f627b71362ae6e0189df699bb0cc995143ef6a5418b8bbd0"
