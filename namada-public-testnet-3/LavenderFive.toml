@@ -1,0 +1,9 @@
+[validator.LavenderFive]
+consensus_public_key = "00e1876766b74a342345276ee6b2e8926e50f372b40051f66eb4fa75fdf35edaaa"
+account_public_key = "008682c71e9f051981b07f4fe16ed7983e8c98304d3b7bfe8e21ad9d60029c3fcc"
+protocol_public_key = "0071d5a37cfff7c3e8d05a98a5fc097d12f4b8e1f4a62aaf0be39e0a92086733ff"
+dkg_public_key = "600000007a1ea3ff6a7880d9f929431dba09aacea3cb50ae7e5ef448e5e5bc7521cdf76c18be14055c5c76eae6d008684f241119f0a727fc16742c50034b7ee538c370dc637370b1e512c88d19047bb4a89d5d232d31452e5469845032fe682d051ccd92"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.105.48:26656"
+tendermint_node_key = "0038dc0393ab29a4efb77ca4fa582d03fc04c0b6a257a0e68631e550d0649f8a8a"
