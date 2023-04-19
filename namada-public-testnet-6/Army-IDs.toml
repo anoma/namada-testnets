@@ -1,0 +1,9 @@
+[validator.Army-IDs]
+consensus_public_key = "00f708e88997b30716c7b5859cbb3bd1a8b6044e8811296f853fd555534124967f"
+account_public_key = "0022465745f04c33cfa5fc553f93123b8dc054c7a5b9a72c76246ad7569e23fdc4"
+protocol_public_key = "0067338776b79dc060e26f489dc9bc8a374004c7900cfdc3ac0801a6a0b07e5e1d"
+dkg_public_key = "60000000cc1cfb2643e2d6c218ca923a5747163507c0b9358661bb0ca31428a1cfce564efa66ca19bfd325d8310a651663a647052fee72ea61cda7e2987495c887c6b9d52f68cc5a0408befb74eec3e512b69c3f800e9ab3eee00db4444afb855645440f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.97.65.170:46656"
+tendermint_node_key = "00ba5debc4a5d7a7bbf4c700a0a91ca98f3e5f04d6c2dc55b0c6d7d81294845467"
