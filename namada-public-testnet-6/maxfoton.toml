@@ -1,0 +1,9 @@
+[validator.maxfoton]
+consensus_public_key = "00b480328e8cb7ff7dd59e3efcd2556d5e797f9ac057c2ef28cee316d97c63bdec"
+account_public_key = "00c48b1f71fc0e1bf6f53b2b638abdde5203ccf428392bb34b5803aedc9a2122a5"
+protocol_public_key = "0000d0aaeb154331ecffb6a9c85a43388133b5311e06b42ac1523b60c4b90da74a"
+dkg_public_key = "60000000105ce1e79ef1ec10aaf82f493101fce88f9d59a44f36fb64dd898a7ab0132d0befe790b612e97d54dfbaf73730f4e4092ace328219b3c4bbc783c2d9f13daedf6d7325ec26bd26314e51c4a9a052e434c535bfbace87465176b1d756ec20d50f"
+commission_rate = "0.08"
+max_commission_rate_change = "0.01"
+net_address = "95.165.89.222:24355"
+tendermint_node_key = "00113078f13d334ae94705072165fe18bfdb18be02bec0c286a0f47a67dfdc491b"
