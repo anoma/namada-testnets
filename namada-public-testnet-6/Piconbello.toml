@@ -1,0 +1,9 @@
+[validator.Piconbello]
+consensus_public_key = "00e57a16cb922dda872e101304e29c081577ab7e7b2e5229d46bd4557fcd7f2f94"
+account_public_key = "00a82d8f96da949bb1a25022c7a16b4cde4d6e263417090501a229edd08cda6335"
+protocol_public_key = "00a869f66a4b6f112ff0150fff98cc329607daa3f896ee7cf8bcffbe7eba940f25"
+dkg_public_key = "6000000078b84cc9a2311f7de6d20da4fbf5aaa71d779f800fce1e5eb74de07b3db815de8de8ebf6fd48ab5649a002c7c2670002f678d5718f9e49546fa5a117b7910d0a258a6438a73e9f6f6879430e9c84ab58a343992e49399ca352b0a8bfee3bc208"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.202.217:26656"
+tendermint_node_key = "005ef8db2d4ca926e8fbfdd8a2e95c8c2c214c8561b393225d32ac5bc9235e8a2e"
