@@ -1,0 +1,9 @@
+[validator.furkan]
+consensus_public_key = "00e280b0785ebe90a0738b53312f1624fb34df6c10746fb17f009ececf2712d01b"
+account_public_key = "0093dba74018e6525a0ffcd80b9b496b6b4eb37058d6faaba7533b0d5760e51cc1"
+protocol_public_key = "00e09365113b868512e66fe735b10c17b2eee78f7a44b57475c0aae646cc1e9478"
+dkg_public_key = "600000002ffadb7157780649d6faae64e1f08feaa2c0712d872d07639335886b0356eefba6f9ebe289bcd336be669583e6561414a689dd67bfab784abcd7fc84ecf8af59ca400de5709aebec5932cc659e58500c4a0c93b9e2bb1bd574212dfc80654894"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.185.82.62:26656"
+tendermint_node_key = "008cb5953bf0f58880f1a6f7a29567bb903715f1cb98506dd685d322dca2f3d141"
