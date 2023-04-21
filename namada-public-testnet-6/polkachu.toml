@@ -1,0 +1,9 @@
+[validator.polkachu]
+consensus_public_key = "00f2c108fc2fa978e2dffa54a546931e236abc365107b175b57632aee5a58f63d8"
+account_public_key = "008655c8e3246e69652bbf983c6d581732d79911872a7177b26c7831e670e6a917"
+protocol_public_key = "00f15464f42ee56c314ab14a576ddcca0a74517c5a70b4b19ce5f358c2ac0994db"
+dkg_public_key = "60000000fb1f8a596e91a87bfe3abf60f8e61204efae2ae077aa6d36d2ae90cf630726ce05641e7143dd0ba37cf1a97f0a4d9e048c1ab753bb4853bf1c14d980f3295ed44e0b937d436a9336a368f3d1fa5a19da2b99279b45f84ee141efc3252899790c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.225.158:26656"
+tendermint_node_key = "005e536f19f6c19d5de1e16681dd8d48d2eec6e3041ab7d0e7fb5f2a0c347e3145"
