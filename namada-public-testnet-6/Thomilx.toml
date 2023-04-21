@@ -1,0 +1,9 @@
+[validator.Thomilx]
+consensus_public_key = "00dba04103a7b9d96b8c00d8b3cceb65d8e9a271cf27c52cb46d045ee16a3bd76c"
+account_public_key = "00749f5367e24f29ec514d65a45ed67c7beb8369da7f2d1e1154f0809ce02dfc0e"
+protocol_public_key = "00d0a605f8cb32bf156b7e9b72724d1eee0e278e9ec51cd4bfb5cd2a76762691f8"
+dkg_public_key = "6000000006be717bd8e23dc4995a5594f8effa22c34167c06d40d8280d379f4bfdb5b8d9cdaa03e5568ff43122b48ce4ccb4aa0da9b53f87bd7018dea2d23d3567dfa04bbed90375e83723866b312514a269c36ee6fb23c9e603d896100342be8e226712"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.104.167:26656"
+tendermint_node_key = "0034c9b8eccd233bd5e828bb2ec356caea2fca542343b549b186c0d33a7a407d44"
