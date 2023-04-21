@@ -1,0 +1,9 @@
+[validator.encipher]
+consensus_public_key = "00649ff8d913fc9b8b1159971794d3619a78a2d307d91c3efb59b77d69572e23e5"
+account_public_key = "00def67c0e1cab3d024ed2b832c16e8911a8fe1ef4f5fb73e0bc1a923e2f481f5a"
+protocol_public_key = "0032ba14686a70843b4c0eb4abc2a356b326e7ccbafeeece7422682bead8fccf1e"
+dkg_public_key = "600000008d0f1a74df41720d5d88a5d5f1aad5d08a54dc1db65e0bfcecb1fb6df7e89118c01c10444c7350ae512c28ff71635f19ea6cacfd44a34be9f60e586734636f7d351c2a3385f55deddf710d9f655ba422356e6365f7c77515c17165e08ba9a580"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.31.55:26656"
+tendermint_node_key = "00c5d5e0c34bb7bfe3d64b98a66b157469c0de544b416cdfc737f43d9f3da86402"
