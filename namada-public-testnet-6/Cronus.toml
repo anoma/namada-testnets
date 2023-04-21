@@ -1,0 +1,9 @@
+[validator.Cronus]
+consensus_public_key = "003e8e4f5aa25dc4d1094c9dc285ffdc153575a2c0a4d888f76cf94eb0dd3136e0"
+account_public_key = "008baea5ded80fca5ba8ceffe1d1aa32630e45ac4082aa43c4bd1e27b713d74333"
+protocol_public_key = "00bcad4522b1ee32d9362421fd0278dae735c6444ecb19a28cb5ab926b4b608e23"
+dkg_public_key = "6000000091138558f1f941a3e8f1525aaced5364051e9524dd61c7fca227dd35494b52d78b841a9fb352ad1bf5fbae7185f49e116040b8043337ab0bf45bbd479ab52aeb91b4e65a6e31afba0ba6e3d7a12881d1b1aa67b462c1a8a9d938016427f3d701"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.114.220:26656"
+tendermint_node_key = "00925dfa9bb43058f81ce6821fedfc41438165b1b0043915178f6cd77c13fce57e"
