@@ -1,0 +1,9 @@
+[validator.HashQuark]
+consensus_public_key = "004112dd2678253bef6b1ecff4a7a0d21ccb9a205824e0aa7598512adc9cc077d3"
+account_public_key = "003a92d826b272e912d286c8aed937bc43561cf478d1276ba24e06b70fdf0b7d9e"
+protocol_public_key = "008098765b8df242b32b15ed6c01f42e46e4333998428175263106f513160d156a"
+dkg_public_key = "60000000dc36ac9d9cc15a22247bb67881103afdc7cbc6ceb042fdd49610ae9bbd207269f48f97ba30bf9feefcf38e53ac95c80eaab4e77b2e0f1c15075d513cc03a86ca4877f2d22c0106c718295d05b09ba547460de54476c42c231eabb7c165e2168b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "152.32.192.85:26656"
+tendermint_node_key = "00c38ff8886aae2fad7ea05242a61bce7e39e6bb01020e96d36146d72dbcc067e9"
