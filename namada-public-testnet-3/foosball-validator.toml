@@ -1,0 +1,9 @@
+[validator.foosball-validator]
+consensus_public_key = "000b67d920766c996f13b5ac169782bd1372cc24e60961240da491ef2c18e32641"
+account_public_key = "00f348718c7f318bd5e5ecbb2f5151732444045574ebfb2e351ebeb1a5717051c9"
+protocol_public_key = "003df97f37aa52913aab5f02e47475a174056b87470fd5f6e8ef728f81df88f11d"
+dkg_public_key = "6000000099dd89f5943ec723d34e86baa5ca62aff3ccd246120947da8c743be9c5c9ccf20e3380d45bad807dd78ecfa9170f8614cab6d94228f39cdc0880426088dcf8a4865404d0b0483e35cb9a87bdb746af328e3a3eb5ffd5bf71635a33c21d8af80d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "99.230.250.213:26656"
+tendermint_node_key = "00050a583094ecf87d140fd0bab045bc4821dbebd36771fd8cde3e94707384654e"
