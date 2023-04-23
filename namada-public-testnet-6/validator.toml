@@ -1,0 +1,9 @@
+[validator.tera111]
+consensus_public_key = "00b027bad613a508655463f69a12d0cbb55e616af497e181d0dfc91f82c3c4c6ff"
+account_public_key = "00c0d0c29c1b5c0a21072825d66ff70c0e3e12a622cabc27f2b8ec592fd5f3a5b0"
+protocol_public_key = "00505cf0fa0f97646bd93139eb5816117c504e1d62dbb56fec70b4a410f41337ff"
+dkg_public_key = "60000000825aa9282791c653a9bf30d5fcc61a2dcaa3733666367b3f3872e32769fe348835cb32d367f6b2b48c82b00c6267e20fcc088f151edcad8d610645dd42c43c706591c7f97e87403dbd3a50953fdd73e77dba6d33e684742e0ff63d2ab6754118"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.40.9.144:26656"
+tendermint_node_key = "00fed584908aead405e8e3c15f2c5f75a38c7a46dc7f9cd95651b2bc530b994809"
