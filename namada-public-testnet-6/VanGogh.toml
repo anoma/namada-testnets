@@ -1,0 +1,9 @@
+[validator.VanGogh]
+consensus_public_key = "0036b33bb47ea04afb72e44858023bac06a6f20e5840145068d28f1be24487025c"
+account_public_key = "002ba4d78ce29fb92599b6eb225e553f710f77c0e2f836c5d53a48c3f7d964bd2e"
+protocol_public_key = "00c417bb26082e6e0b3b9b44ebe4e95c03e88f44cbf34c0c14216284d2bb6c6cac"
+dkg_public_key = "600000002d15e317ca594eda9aa1c77ab8a7f2ab61d6c98bf4c459401714b0e7adbe84223160698ce7e8ef051bf46e33eee55810567180e8451385951403fa4cc3ce5916e2235f774a9716956e1e79702172a6e6441dd3837397894b9a5f6dd39908620b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.72.99:26656"
+tendermint_node_key = "00fcaf540223ab3e1fe9bd39b1b7db1fd10b56f4baf7db8f77a06af266a754d648"
