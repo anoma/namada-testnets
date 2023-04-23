@@ -1,0 +1,9 @@
+[validator.antPower]
+consensus_public_key = "00316f073e33d242cf9e27b2aa26892710ec68f0845ebe7eaabaa5b6f06ba7737c"
+account_public_key = "005287aa25b49184a927ee84b3818b45253083fc4cab652b8e6fcc57cf40fbdb22"
+protocol_public_key = "008fbd94fbdf4c9e174141c10d805b4ba1041825df88940433bfe4edbb65c66b22"
+dkg_public_key = "6000000083e2287bae059921b0039f2fa6c3fe0ebc213d2a34a427f1e3d9b42cdb114ab58bc6916b6a3e37bf9ccf3fb47c8098080c472a4a80eb211b460cc67ae470fc08d49e9ddc2cbbf16f26dbde7459b085bfd4782d8afd6a38c4dd09335a5bad7089"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "45.77.136.18:26656"
+tendermint_node_key = "00652e9f29925383a26a7cfcd92c4bb79a84b8e84b51890de6ff082508f6154aaf"
