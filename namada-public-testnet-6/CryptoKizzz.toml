@@ -1,0 +1,9 @@
+[validator.CryptoKizzz]
+consensus_public_key = "00118c3a9da3ace83a29f959ae2e6c5b5046c0ebbdc1110b1cd9e884c50ef0c0aa"
+account_public_key = "00b849beb142f448d530fb593886d3b0ad0fb13effb29b25875cf94a2844ae77d1"
+protocol_public_key = "00d98fd8b2745166e6fe9f5ef577c9859c63a5da6b5599edfe2d8468aa9b4f385f"
+dkg_public_key = "600000004cd415d59a9a5d0b694ae55f7233b52e956b7bfd82279d3b9dabd7e7e2804d99c2985043d9a4e19620e297b85ae20f187fbf76a654fb406a2c19444aad6feb805bb5b9e0b3fa99467c0a0f0cffd1c87b568e60ac40a455736eeef230e1d53f03"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "128.140.87.109:26656"
+tendermint_node_key = "001aa0e5ef9be6c83528ee4fa2817d9f60926122366f30e62ae01b8d4838916c24"
