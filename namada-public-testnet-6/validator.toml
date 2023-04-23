@@ -1,0 +1,9 @@
+[validator.telega2]
+consensus_public_key = "00285e85bfe7feec8e337c22cf6812535dd6e4ef26eae426df4ee176124a1d15c3"
+account_public_key = "00634775ad89697076f6f7c4ca637fd1875e7670ac9a80cdf84c8a1d9be10a2185"
+protocol_public_key = "0017350aca8ea00c436501778cd81aef8ab39af6f301be1e8ca3a8f0bd0d86e29a"
+dkg_public_key = "60000000bb4e95fb830036b2b35aaef4c1a9e29031e1d6cd6d11aeb405f0bdb6e85e647a592abf25aa41b9502f4fe8bbfc08c0000b7f6d23c12aa9d0c62a600a0a9d9bb970cb9821e5c499c425b108568d751ef50ed0560fa7a29bf59f9779f47d4b9110"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.5.55.18:26656"
+tendermint_node_key = "00799cc45eeb6d926021fe99b82d1666a16e207c50088bf8266cb312fa14bb9dd6"
