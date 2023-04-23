@@ -1,0 +1,9 @@
+[validator.neps]
+consensus_public_key = "003f8d7a061f69206e443b8027f3a3f696a9b8c8ba190ec775e7727387d9c823df"
+account_public_key = "0021ee3bf3b290965dcd4d3e62c0e6cffc403e477720e40e12603ee63518142f68"
+protocol_public_key = "00c7e4a0fc4de4ea89b86dc41a0530af34418ce1f3f446fa70cde940e6d84b6558"
+dkg_public_key = "60000000a4b1dc6d7a467151360bae74a3940f8d6d832def999c3e9b79cdbd1cf9859da5ef5b0381bb25340a1c9b6c160ca74e098bf557762c63227382e18e3b240a4fb95646cd3d4568cf8e845765bbe3faf4167358e69ba772853bd172c7e183da6705"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.58.224:26656"
+tendermint_node_key = "005fb86bc6fd60b3b9f8d3d5c31f3affa1718adb4fa7cc4bf739fc65a9c236e8ad"
