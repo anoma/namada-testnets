@@ -1,0 +1,9 @@
+[validator.cryptojmunb]
+consensus_public_key = "00b93ac64f55762d9849a8b46e2f23398532af86cbe1f10f250aece5be9529084c"
+account_public_key = "00e61d3917b085780550e0240d1d8da7409f711d669bcf18e3e8c6b8b62f812b7f"
+protocol_public_key = "00997d9e4c04a4b7742e0fe0c2d5c44726fede206a4e301e946c53e9d4d9708112"
+dkg_public_key = "600000004eb424cb661e01af9f51ed39b764116c7ab8ce9476de64dd1cdca562ea5cd6445b7ae2fbacb93e88dfa9b7ff6812ba0a5ba691ea9b6247463c74482d560924e5b7b992f5e2189044b403170bb1497e15d1436c4a0f8f282afcbee879aea53385"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "128.140.87.109:26656"
+tendermint_node_key = "00b6a0acee9fa67395e659a67c2a73d95caf79021e6a62750eb97705d6f64dd285"
