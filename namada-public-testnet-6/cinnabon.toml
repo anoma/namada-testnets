@@ -1,0 +1,9 @@
+[validator.cinnabon]
+consensus_public_key = "0085058172154095fb2d3a9b74dbb91d92cd00df46a95b04c37f128ee9fbb4953d"
+account_public_key = "002d93ed231fa657768e6417edd102861ecc6741223595fd395c4edb2e4a8683b1"
+protocol_public_key = "003d1f159793ab55fcc960773a62b8e5a1dd6db6742b19f1b964ebc8477f8d0067"
+dkg_public_key = "6000000041758ed6bbdd92f034acc56c2cdcbee35788a7939937cd291fff578b9a5a7c4aa9296978ce53ac52cc376b7435586b0f9e328de37d16c29507ae0a269470d46d7f7f9d66d17a7ae96cf16cec1983e8551fe09abbbdceea2f4b7f617a9ba34716"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.107.122:26656"
+tendermint_node_key = "00f6261cc19db23215b5ab07be955a5ac8f9c4811058ef7ea10d996a07b9e3e081"
