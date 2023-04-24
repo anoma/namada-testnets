@@ -1,0 +1,9 @@
+[validator.AlexIT]
+consensus_public_key = "0065c99fc566979c4885a5131ad54cbf437be4ecf071aa3e07dae8e84df4b51921"
+account_public_key = "0027d430ae6d4c05b6933ce51ba79422609fecf7491206a5995c27443fd328a924"
+protocol_public_key = "001368763d12f374856dbec2c4f5d74ea74bcd23436160cdf0217b22941d4a8250"
+dkg_public_key = "6000000002cc45263b859b70cbbb7aa5866fd64eb4efa2e2bc657f35ad84f0298c510ee865bb1e61eaa8fd2883d26fd86b34240748e0e6a0fa15ca1a751f4dab2689733f245eecbf5c11abbc52981537fb87fbc6ef14080b381e53539f60b3f8fcc1cd00"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.183.54.219:26656"
+tendermint_node_key = "005c7cd6eadabfcbd96ee0a3785c9e5a7a7a72ec8d270912c61593a5539a0b3c9a"
