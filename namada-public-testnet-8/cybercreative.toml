@@ -1,0 +1,9 @@
+[validator.cybercreative]
+consensus_public_key = "0030b67f646f726bf2d6c4e334a8ce1b1a539710bd1bc653a3ae1f211fc67b879c"
+account_public_key = "00169d1f672c4ee9db7430e8b106104e8ea405e82eca83449b1187a63f268719b7"
+protocol_public_key = "00f952c803556a37771483005f1798de863ee081fc386ce3ff6fca8fdd19bfde5d"
+dkg_public_key = "6000000039ea81996383d8dd5dcd06b1d31d4d6bd2a530492186c39060d60e61ca8f0183a03d2e25624c731d8512dd9bde0da5190fd469c9d3c27ce35c8ab2dc6c0c775ce50f97a3da24a348ce3c1b3a41e717dfb28395905b4aef744ca7537916b23a8e"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "193.34.212.47:26656"
+tendermint_node_key = "00016694123d92b7bc156d9d9e281399c560bf76aa50ee79436ef2c92628c49eae"
