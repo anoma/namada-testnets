@@ -1,0 +1,9 @@
+[validator.bbewonderful]
+consensus_public_key = "006740a3a379a81d525c0fcfb72bcb5cc0cb1e68f1dff398938ced55a6b2fb6bdb"
+account_public_key = "000b5ea3de6212a96513a06145674cd93b82f1fbaa58db25286ec249bee9b3fd31"
+protocol_public_key = "00e2aa0507c8482e68a083a8c29bd9055a455521648cadec1063aadd4c0659f70b"
+dkg_public_key = "60000000c0b96963104d248a001b6b3c5665b86eb23f34748f051da1088be6b7a775c1224b1114866b0e5713828a71286d98e60eb4549b77d21028874b52247b331d874b6d2d5dd1a5fc8644aa54c3b67b7cb0b65ae02d54eae6cf0b3cc0676fd868c605"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "74.50.70.118:26656"
+tendermint_node_key = "00e3a73d05be5a1c818e9b3629b7a5f0a3790a9755d56249253164b8e2e835353c"
