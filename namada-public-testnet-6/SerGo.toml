@@ -1,0 +1,9 @@
+[validator.SerGo]
+consensus_public_key = "006324250c4ab0c832afa1ed405e754d63ce547ca5ee79c5efbc3ea627fb4f0ccd"
+account_public_key = "00b3ad5ee64f9b1531e6c133c44baa475567ec724d4a873d30af85049da735c5ce"
+protocol_public_key = "00ee684481eb014ff4efa2bee1de0d21bed6a1b856ee6120747c19ba7fd7321c2e"
+dkg_public_key = "60000000fa9d708501d1864f8a9c46c0f5dd7e062bb6aad55b545a394790634cb580909b626f6d84318b846a2ac7d652adf42b1578959252c1d06d4f15f22e7dd6fa20a8fec3245c2b3863cdde511653aac8db1183b7fc264504b942fb6fb87e4c608099"
+commission_rate = "0.05"
+max_commission_rate_change = "0.1"
+net_address = "testnet.namada.sergo.dev:11743"
+tendermint_node_key = "00bf34b62cbe52b264762d097532aa350fcb67e3be9abee76441b013817fc28365"
