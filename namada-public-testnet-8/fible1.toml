@@ -1,0 +1,9 @@
+[validator.fible1]
+consensus_public_key = "00f42c30baa66141c0d043f216adfa10e11c6ab1806c2bdc34aeb4597ce65a4c6f"
+account_public_key = "00538c79cbbf06f6530e2a58bd69daa78741fcfac58c777fd084bb12eb2aecbb64"
+protocol_public_key = "00600fcd58522af6c02b00d6dc46205f045acd25c9c903ad551d67d74f278470bb"
+dkg_public_key = "6000000052d1914d0880e58c9df583f8a9194b6ea0a9b289aa7d28d3f5003888d1bac89d1b173b6cd986da67cd8721d0fc1ed0138a88e85544b62ca1216ec621b04403fca8138bd89970c626348b6c2d4f8e31a51a12e36d9cced7644309c1c2cdc4e402"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.7.136:26656"
+tendermint_node_key = "00cbdf06c0b83761b8c5af1b90a73f1b679bcc8acd8590387ca0131ecdb845e9b1"
