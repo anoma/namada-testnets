@@ -1,0 +1,9 @@
+[validator.cyberomanov]
+consensus_public_key = "00e3704952fb0511131d23ce26d035897ab53078a87aff2c17ae4078c41470d0a9"
+account_public_key = "00c6029f4939fda2782204fb0eedd98de696fa05038002de2e63dd86d45d6d59d7"
+protocol_public_key = "00a8d353b2079064833ad65053bf1ed4b6e2134ff6c7ff1ed5f3be9a0d7541ee2e"
+dkg_public_key = "600000000b9d2d6a9b238d53a82c6490e1e54ba7d670366fa20cf27b4a145fc19a446c40da6ffc6d05d6f0503a9054443b65a6114b708d7a500b3d6df0c9e06b52fa45314b0c09dea5749eca91ba47fb8f02ddecc0e92873cf46f8e11fa1d38659e56d99"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "193.34.212.34:26656"
+tendermint_node_key = "00a980eacd8bc0f8cc94f9d55f07f142c884ce4fcfa860a9f01595af6f61eefb8d"
