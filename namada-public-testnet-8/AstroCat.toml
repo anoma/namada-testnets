@@ -1,0 +1,9 @@
+[validator.AstroCat]
+consensus_public_key = "009cb724e3ef57e32a807de12c64ada6e3818eca2cc3be65abe6598b5b1fe51aa9"
+account_public_key = "00fcc614d6f5d98b44ec0a7144a59cb4939797db8d4c2603864fde3e8811bcfbe1"
+protocol_public_key = "00bdfab418a2c94bb1bf7605b978b237c0f2500c5bd28abdcfa349b2d219bb1c8a"
+dkg_public_key = "600000000815b6822913cff73e259bbd5f0a65be256e8f715a1492f233a0b9b0987395d646e8dc4d8b02c77f8db1737d9ace7818e6f0a7896afe6b423e15433fd0563d41565ff9874ad6bf2bd8328f0efddb220783b46223a64b5e1ac00273937d4e498d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.163.131.181:26656"
+tendermint_node_key = "00982757b6611a05aa7508d2c4dd6e165c5e81d637858e0c432fcf1050fec13225"
