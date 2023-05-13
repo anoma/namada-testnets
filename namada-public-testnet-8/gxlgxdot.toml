@@ -1,0 +1,9 @@
+[validator.gxlgxdot]
+consensus_public_key = "00e14bf2f783b9010458b98d0be3f65fcbfd6a3e2cbf12c95f2afb1c7dcc8f8b21"
+account_public_key = "006be98cbab75f3ce696f8431d2021dae2d1b8b737eab82d6f3b4361182571e3e3"
+protocol_public_key = "005ef2043838e6ad18ab5c98c334b5897bab9feeb61f122ab85f82f796cc7c29d5"
+dkg_public_key = "600000006d4d00e1d206fdd09410525ae3dd1f799f4ea769a269fd7183bd714b200d76ac75a22239a40338f5201646fdadedd713a247758752d2d02ac60d26021dcd7186f9edc255a6fa57dcbb823782f7935cf6e4fbcd7065042810e5d9783796fa0800"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "66.45.231.30:26656"
+tendermint_node_key = "0092262ddbced6295d275db3d1b5a0303e677afdba6a05019fd63aef281e6a6d91"
