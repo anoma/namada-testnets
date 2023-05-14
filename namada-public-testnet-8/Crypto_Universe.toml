@@ -1,0 +1,9 @@
+[validator.Crypto_Universe]
+consensus_public_key = "00a48bfa994f983e8c576573e808283d60e0b68430fb68b1de1b446fe1703b41cb"
+account_public_key = "005ff25be567861956745942b4c98ace82d48db601035de369f6862e66551dbfbc"
+protocol_public_key = "00aa0935438e2a4debcbb1414265be974f7756205db1c00ae44f25fb4a6b5e3cc9"
+dkg_public_key = "60000000ce17c90e1b0282392b676a9ea68ca99837b1a93440ea6b8ec799e4a8a0f0926db670ae419ac4b305e5fee6e4a75932196743ae5fbd300ac8ac2b28fc53b167aa70c1b46d6aac9bd1e1a1afabfb6e83f411ae4436cf572a711e0d257d71a0190a"
+commission_rate = "0.03"
+max_commission_rate_change = "0.01"
+net_address = "173.212.200.210:26656"
+tendermint_node_key = "0008269bb5d81c3bb5f22147f86b1e2a43ebd0011fbecbf686cbac1d82bea3e6bc"
