@@ -1,0 +1,9 @@
+[validator.datsiukNodes]
+consensus_public_key = "00def3d88b0038cae8fe27c5e9004441d7f4192d719daa2ca00c3f51a03726ca89"
+account_public_key = "00473bc39ff5dc1949445a68b826e5772e899dd34397ba123c9f067e7cf067e1a1"
+protocol_public_key = "0010180a491ba48752e33636e200bc0d14e9e2c7fad07848ce044d5781df31522c"
+dkg_public_key = "60000000557c65d001821372d63cc15073513e889619691eb5c8cb31f54795a100fc2af2931602411d27cd97bfe819fa79b96100d6a0ecd9dc27c5dc396dd69446add482bcbf5a28e48cd5ad4663e92c8cd0e03b1b1c1ab188e8fd3f0ef2686aad5bee8b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "157.230.26.67:26656"
+tendermint_node_key = "005300ff2d28eefd944ec2394195e6186d24fc3d2c3ac7bd078740152379117cde"
