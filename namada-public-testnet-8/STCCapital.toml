@@ -1,0 +1,9 @@
+[validator.STCCapital]
+consensus_public_key = "006ced67075e72e40eeafc29afd3e9caaf797f8e139306133c0f6281b3589be8cc"
+account_public_key = "00ed9f2e8827098a1ba789790c760dabc4560698b1a6725cfc5958af0ea6a8cf03"
+protocol_public_key = "009aa44376a5fefeada3dd8cefa56aab0b156f4c15f47326a5a2656978b53d0d91"
+dkg_public_key = "6000000000fecab04a99883f66fbbe0c9a18bc80f93c505ecda0885e1dfabb7f86b188a36d0a6887035cec986c7b661db0d70e0907c005ed4a3278789d5e6888d4901ac2b967ef47572fbeeb71c53e5fdd1c5ba7983057ca078d0d601f188d472a2e8888"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "78.47.195.204:26656"
+tendermint_node_key = "0002778d2a59a1ca9ab4fd037009177e675fde5817353c73314a4bacb5071438de"
