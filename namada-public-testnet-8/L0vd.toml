@@ -1,0 +1,9 @@
+[validator."L0vd.com"]
+consensus_public_key = "0067d968afc17880b1a83cfd279d43fb8b49b31eb14e8391642f6e324129af9a21"
+account_public_key = "000730bb9addc3a5dd5b904e82d9a190e4b995fae56b62b062b676fc1ab6d4bb4e"
+protocol_public_key = "003d02a961fcd4d65a85bb12a8fb9f8c8ad78d7b3463a08b0b984ad2c77cfabe61"
+dkg_public_key = "60000000356d798376160d472ed0f015daa4bedfe094e03265abbd5420a3da652304587925c31e3ea6d07e582baa1eddd5501f0610964ef8130e25649686e1499ad568463a6dcbc093260d5b370256da38cd863a765e6c23a5ef2bf082a40f625f354414"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.70.45:26656"
+tendermint_node_key = "0006372a70f6fbcaae063d8501bca6cfe2052b553cdc19c8bf5248a718651a5d17"
