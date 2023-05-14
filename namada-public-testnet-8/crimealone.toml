@@ -1,0 +1,9 @@
+[validator.crimealone]
+consensus_public_key = "004546537d552ec3ef12e1c54986f5df43675119e394735157b60d41f4f1ea3b6c"
+account_public_key = "002c33f05dbf4ee004cb842ab4a02025b8c460cca6b5cc850e23b0c0532f157b29"
+protocol_public_key = "0024d219621085248e38807bf507971cad4544dfaf3cde4f4dca9530dd1be4cd31"
+dkg_public_key = "6000000045e51701c4232ef27da01cd74049356e32d37333cbbc2646ac56136aab7d8de05acc347fcb28cf130a4e33d690eee60876501190ff875fae602317865317b6836ddb8a827f593aa014ca0d04c4bdc278a6f5baca27abeadee0d2bec06aec1586"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.96.208:26656"
+tendermint_node_key = "00153d36fc47e9028d02828d7ea84c1e65fbbf02c8631e3f9d67012beda425a01c"
