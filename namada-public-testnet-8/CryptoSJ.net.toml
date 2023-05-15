@@ -5,5 +5,5 @@ protocol_public_key = "00604530f3f48fb62e8a0f7b0a3df47d39f6b240d27f04f1a96967e32
 dkg_public_key = "6000000031ee8b09047236315d4e2df906dc0e6d855abe2fdb547c3e584813fe73d98d7ffe2bf7560ad1c86e81986942897a8e0c3aa921480c66409e2841ae6afa369af775680a0ecdb83d7bf1bb3e5533fde04d610c207c66860d2e407d5b6557c1af0a"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "92.97.156.54:26676"
+net_address = "namada1.cryptosj.net:26676"
 tendermint_node_key = "00366d427ba27f7498a827c3cc50c972069bb6f0b8dede4b1cf2a09fbeeb334d50"
