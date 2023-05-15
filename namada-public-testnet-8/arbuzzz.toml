@@ -1,0 +1,9 @@
+[validator.arbuzzz]						
+consensus_public_key = "00db04157ea0361c75b147c1024d4d1651d79f65a8d6c877085cb5d8212bad5d91"						
+account_public_key = "004ea36d7f4f1beb0b90e1c8475082d608610ff2de2a9ee1b1d36882eccd2516bd"						
+protocol_public_key = "002edf6fe1c1747d54b2ef41d7a6a40cd84838afcdb9b707ded3a253c7121e252a"						
+dkg_public_key = "60000000edce0c99d3a93126555350e2c360e3e8b928f981eadabcb1142a3162ede977d9008b153fe1fb343f08dbe76dc8a619067306a0bc4b2314c96ef99fe1b1a3646f6dbd9cb74f6445407f19b235685c7fbff8d0aedb21bc5567ab25791b290fe711"						
+commission_rate = "0.07"						
+max_commission_rate_change = "0.01"						
+net_address = "154.12.237.160:26656"						
+tendermint_node_key = "00176c017e9ae01a2ce079310392710ddba3c030c809f36b8d7b8c0655b8d241c8"						
