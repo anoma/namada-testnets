@@ -1,0 +1,9 @@
+[validator.HashBamboo]
+consensus_public_key = "001ebb1f794df933d9804738ef619adcab4a1e30bcd7f3673ad6029cf4558cda2d"
+account_public_key = "00c924fa1cd2bfebc410c9ffa2bdc5d5535424492aad03a8e714b7a213e0041e46"
+protocol_public_key = "00d7712d916fb1d401ab6b387b55b0fff997e249241883e1702b721cc3181e0c7a"
+dkg_public_key = "600000007ef4763ebbdb3c9c6b01d0134ed4ef412d61a0c2cbd35afda878f817809ce9da656ce50dbbec35624aa2f9a17b9fa707fe1a90cdeb7aa998d5583178feb97df8019d3c933f3cce4781ae3553b11cfe768b0fe5ae4f119216cbd0fcef1dffb680"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "106.53.104.45:26656"
+tendermint_node_key = "00ec9ba0420564dad851b4cdf777d8f6232a50c529f921f44199569b65131d0a3b"
