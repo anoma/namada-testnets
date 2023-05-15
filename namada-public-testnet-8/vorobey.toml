@@ -1,0 +1,10 @@
+validator.toml						
+[validator.vorobey]						
+consensus_public_key = "007e919b36f819d9c8c8bd536ccbdfbd612d6f2677d8d372eee33d8f500c4e5374"						
+account_public_key = "000423811701c0cffc05f15949adfd4a46483761a8305dca0d7099aa194d3a8589"						
+protocol_public_key = "00c9f2f008e4423ec5e9cb3d440e60a3a551e5f12764f85bf48d3c03688751f8ad"						
+dkg_public_key = "60000000a1cfba98b0f5f83856ffe1de2e0d476f642b9e905dcb0350f12889e8844fa187cd4fbf7ca3bd82ba43cd3cf7babbd0001e053bdc7c09f0401f2fada3ddd590cda81dcaee601ad18bf00b9f3b3f7e70750a63e61eea97e2c6856069284c35ed00"						
+commission_rate = "0.07"						
+max_commission_rate_change = "0.01"						
+net_address = "144.126.147.42:26656"						
+tendermint_node_key = "00ca8ed6ecac684c35bac4f696d5708c83242dc53b4542fc0ad1d4cf52d82c9699"						
