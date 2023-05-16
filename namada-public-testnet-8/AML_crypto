@@ -1,0 +1,11 @@
+[validator.AML_crypto]
+consensus_public_key = "0075c6f52d600666fc4c0525c24eb6cf0ab8644fc57bc029ecae1c8d9a3a82c1e4"
+account_public_key = "009768caeb8dc7c6de6b6ed960df7b76a3b4347df054b4ecb922e3987f48ddd216"
+protocol_public_key = "00a7a67ddfc00f0b6c517879b66eb5ca9ffa22122da8d9110a32389c1ab7c6a34f"
+dkg_public_key = "600000004730a2cd4ca467e635c2f7f228be8a7e4d4db420f72fd6bf3fb96bc3bcb864ce0
+c9a4b809109c986d1d82f7ffb95930a0e217fb265e788e7807aea725d61199664189587fdbc2c7273f2a7a11450
+8812949a1321baa79be6378c85fb00fe5a15"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "3.76.231.145:26656"
+tendermint_node_key = "00b6fa730e2a3f01dbfa2636b29da7f7b714eeb243324973aa4a59b53dd1f7c80c"
