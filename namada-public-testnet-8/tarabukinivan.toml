@@ -1,0 +1,9 @@
+[validator.tarabukinivan]
+consensus_public_key = "001c3faa339ca870d9595742c56567096528b10dd57203fc2e9e18b9cfa1d9478b"
+account_public_key = "007f8d45ff3dcfec04fddb5a36ba7a6ac17a2b899190b192e19f089a20f49210d2"
+protocol_public_key = "00128dd8e4ab145b0744e57689b0ec07ccc498e9148fa9cc0ba73eaf9aa9cc1fe5"
+dkg_public_key = "600000009328783943eab6c20974d6b3ec21aff0d6c0a3aecf50bc0974e035c37c449a526315ca8b237c4204a3c9d3445edaeb09bdfab96051ce851647819f5c3d89ea227841649ad2e2ae82ecf5814d2fef43131ae32acc41da54cf5ac6e1124aa14e01"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.57.232:56656"
+tendermint_node_key = "002c85b29b6b2944e74fce046bdfc4b8e2366f2af42669969a49428705e45cd216"
