@@ -1,0 +1,9 @@
+[validator.belotte]
+consensus_public_key = "00ed39da16e22ad3df8faf750895a264cda35f61b828f710b7f2baafe21d61cb9d"
+account_public_key = "005cef7da05fbb8ae0c4697b61a9937bf7c1f71bc8b45f84afeb9b39a6525c210f"
+protocol_public_key = "00c465a285d5b9270038a0d77377e733ca8a6c4f4f5da32641c15bf0fee90b9330"
+dkg_public_key = "600000006f5a05a0dffcd84c1790f4d883529aa7c0c21e65a8e3de55916f12f5f68b7e77fcae57e4807e27a1f8c6c433a7744319f706b5ee908399d48a91316ea2cffbeb2a0b278e96583ff5bb25ea006d5e4712967c83280e8670ff9164b8f685111c14"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.9.198:26656"
+tendermint_node_key = "00f68695ee509d2bf0d607ce8d3c764b7fa9a48c6e5e56c4ecad05a6b8fe99b068"
