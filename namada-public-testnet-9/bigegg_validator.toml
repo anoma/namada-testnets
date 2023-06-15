@@ -1,0 +1,9 @@
+[validator.bigegg]
+consensus_public_key = "00d7bb1cd1dc3043136017767a7135c1d2e76c9024c85b331fcb9e966f07fa5981"
+account_public_key = "00d49dbca6a0f0ddac2dce6795ddbb72cb3198142f8f3aa2d14802fb7db32c9464"
+protocol_public_key = "003ba85646f0fdaa4e27b72e27a33ec58568acac2e5e5b5b4fdd2e6f195fb2f318"
+dkg_public_key = "60000000e2c1273be95bc841dc0d2454a8713a2eed4fc1f92222d4f8de933618e98e92e2ec93be22a23213646677fbd1bf5d7518e340f0516769ff15ac67ea08f3f20ecea39bedbdfed1d0d84f437f2a750f5803bc069b16fa12a95ab9ffa6ba6327a606"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.9.60.35:26656"
+tendermint_node_key = "001c79687267afe084837e3846a6fbeb92b9d4f5dfe02b9647b71a9519a20a0afb"
