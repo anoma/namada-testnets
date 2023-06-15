@@ -1,0 +1,9 @@
+[validator.LiveRaveN]
+consensus_public_key = "00d7717f0f1ebd1113da0399b53f8f01bcf134fc0115836da2bb217dbe9cd21cda"
+account_public_key = "0044366a6c43020af2dea493ed2f9cd24f5a3d0b26671b469cda8dbfbffe233c3c"
+protocol_public_key = "00ad9ea04573b87003aff02a82a822d6c641d32ca4eba263090a3041a1de8fe668"
+dkg_public_key = "60000000586479300a861481de7c82dd360b175f1eec9ef08f6035eb6f50e8480221f65548b0718a22f7c25357c39965e519a70333c0e6b341b02e84e11c923f94ff6032d0bf473e995a756485ce3f9fc72ff21b5901af438e571169857721b170101a0f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "23.88.5.169:26656"
+tendermint_node_key = "002b5328f1f8618c8deef57de3f7be07ffa582b2917e362180b7b2e8c9f235d7b0"
