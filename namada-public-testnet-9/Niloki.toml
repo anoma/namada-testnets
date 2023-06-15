@@ -1,0 +1,9 @@
+[validator.Niloki]
+consensus_public_key = "00d15429e82443d38ec3a86c1064f74e948aae26f18b23cad975a0d3d944fc2c8c"
+account_public_key = "00878f6a0ffdf1e21948920fdeaa41eebf09d7f7393e51b698db49ccef7dec342a"
+protocol_public_key = "005a851ae2fb70395415e1faeb16793d39eb02aebb29899ba37c9442f3b4afe991"
+dkg_public_key = "600000007ce92eb5bbd84a51047da68cddd3dab5b373aaf1396812116e5e66735f83341c1b410aa4b4e82b92f25d9f82ab7bd30eb14d4a642e9a85cd7c65b004c4d0b89068d459bbc54c89e46a7ea9bef048786911b051aa39969957783187c060b29b17"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.163.255.100:26656"
+tendermint_node_key = "00b85cfab82b27174a0d072bdd19440f103b45069d81f4e0838c30acdb4e523e38"
