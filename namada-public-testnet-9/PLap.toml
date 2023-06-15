@@ -1,0 +1,9 @@
+[validator.PLap]
+consensus_public_key = "0096958e421e7fc9f0cd45d308ad36e9107ca09579f789afae856273de8be0c0a9"
+account_public_key = "005c282cfc4eba5595364662279161f56b9881198c9e6e5968c446a122d178c8ce"
+protocol_public_key = "00459eedffabafc497948053294645b69145a690fafe1d18d9e9548497d96f2be8"
+dkg_public_key = "60000000a5d3fde1cbdab96fb4dcfae71fcc80651a9f09091755508dbf52a2cae3aec856fb5c5d0ce14d9c8c290145db221a1f148d4fd0743a8f282885960a856c9690036dc2a45b84d75fafa4e0ebbd90a88a3f27988dc1dd85fef90fa85dcda7715a96"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "107.155.76.162:26656"
+tendermint_node_key = "0038a84375b79e228d93c39c9b3fa44075daab30164fa713c7f5a4e0c22046a7f7"
