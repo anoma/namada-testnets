@@ -1,0 +1,9 @@
+[validator.arxon]
+consensus_public_key = "00a0437b596bdf6c37929d5dab213561f421ca83bb5a0479677f23400571a1a6f2"
+account_public_key = "0059e4a0a7ac8d440c8ba4733cd53a15b2a3751e7b78bb36bab1a85bdef31eae5d"
+protocol_public_key = "008cf1f1a589176f0767abf089b7bcd677c1862889b01e24fdfe998cd4af3c3b91"
+dkg_public_key = "60000000326b7d2436cba5d04e3ec5441c111f17eda0200753eed68674f1beee38f9762192a2f757a7e79da6b1898077>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.163.56:26656"
+tendermint_node_key = "0015c8154ac1b91c005e439224ea2966651d9808b5583756d5d5248f5501403469"
