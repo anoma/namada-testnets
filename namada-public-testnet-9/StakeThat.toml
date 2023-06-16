@@ -1,0 +1,9 @@
+[validator.StakeThat]
+consensus_public_key = "00f25dc2137106b919638180630c78b006beedd585248bead6eef3b87cbb9a2536"
+account_public_key = "008c5032c0840d4bb0471aec010c1fd5a523eb7363facdecf3f7290a0304772912"
+protocol_public_key = "00e4f0897a10a4d6ea68f0dd0f51e3123b43bc5383e73ee74cc493380ca9be3ea5"
+dkg_public_key = "60000000ea03fb5232c83a5c7eac6065c036be6eab29f41354ba93e18b6b30bb7f8f83b4499b742b99cff1a8f2e25b25c1ec901402f18d8bfa74d41c560cede3ec126c84b22c7f2450400ae6fc5c03f58bacb0ee4744189940f21953aa0298f91f923792"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "207.180.212.189:26656"
+tendermint_node_key = "006074782bdb8cb19417b00343cfa03d7a8ddab65ef0ac4efb26458215654bbba2"
