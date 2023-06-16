@@ -1,0 +1,9 @@
+[validator.MohismStake]
+consensus_public_key = "00580d453d8b8b9e6cc41d5e86c2ac2ed14c643a640755682ba010158a696ad2a6"
+account_public_key = "00add83fa538a77a6c762fb991a8b765626752b50ff084b199a41e04ffcd81ac67"
+protocol_public_key = "00786c4cd74ab68da1590921a7897f96bd6a00e693c414a30b735b122192a5ac2f"
+dkg_public_key = "6000000052c116dd30dbf8f0d4e0c187f6108c4b70c114f69fcff56e442b3d26052f7959f16c7f6faefc4c729d3090f4a42ab50499d922a705fc99460635be07315d5f155ec77e8054d4ef924b24823cdf1bc2ba48de90f0c30ceb9e32a83596479d3f90"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.69.76.171:26656"
+tendermint_node_key = "002c288a5d353c47d0b031d5f3c9b108d1d3ca669b4f6f625fab0afae0a6784c39"
