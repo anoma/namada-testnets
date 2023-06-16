@@ -1,9 +1,0 @@
-[validator.Staketab]
-consensus_public_key = "005e53270eaa4ce64bcf91b850c04d8f1f8a35947a6e332dc1bf8a1fa3778aa177"
-account_public_key = "00ac3d59455959ed353769f58ca516671d8cfe6cceebad1d1cdab29fc449bb9524"
-protocol_public_key = "003ef8dbbf1f0168e7f0bcbdcae0d74810a1e9910aba5c5d3d1b55e6e11484ae12"
-dkg_public_key = "600000000aaf767522dde3491c4c2cc013f1ce59cd0e7318894438cf064f78700f6c6f27794549d853009cfafac758e4c0b70d0784460f8b0bb8060108d47e940adcba136c0f3482229d863c5f28d36be060dfe85a6f6b310de407daff4d1c1e84b9678d"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.133.114:26256"
-tendermint_node_key = "00af3604589a52ec02d4fb5f18684da196d55c8415e5ebd472c0e5eda05ec03e55"
