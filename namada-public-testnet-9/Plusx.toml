@@ -1,0 +1,10 @@
+[validator.Plusx]
+consensus_public_key = "003601531da1edf850a6504e3d155d8cbd78e508a0f315678ea5228507a4b98f1d"
+account_public_key = "002494749dee2ba27002b3a08f91effaff2600a0fdf42d7dcbeab7e739f24bf4bc"
+protocol_public_key = "00be255a79ff665b8aba3b14f632da0170f889e0b5e95b65e829d3371fbc2ada56"
+dkg_public_key = "6000000038540c252cb813da233b38a0f7e357e04a41ffbd26ab0f9718b49ba005c18e3b2b37ab801d6a604cc7110b4edc0aac1674988f7923b5853aa6d698aea2a2477e1de3065b291c6407d94cf945cc6d6eff3136287bb70c8151f1cf56cf663eea12"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "172.96.165.58:26656"
+tendermint_node_key = "0082afc66d17440c4c2fd527a6eec50e950c6423d11148a3f5f2c90913c38026a4"
+
