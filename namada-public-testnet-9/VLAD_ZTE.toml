@@ -1,0 +1,9 @@
+[validator.VLAD_ZTE]
+consensus_public_key = "007490624f8c3de4df4957fbdbc36ba029a00ea5b7d0e3a1b3089fe8dba66f1080"
+account_public_key = "003de3560ac9a9adeb91306aee9d006942a53ffdeb229b7be7d69cb2ac0d7c66db"
+protocol_public_key = "0094ccad6e4b5affcd69c8fd7d30a5750dce72c67ecb57de444a44bd3bf789901e"
+dkg_public_key = "600000001afe57105cb4848f369e0db7bb8a3a9f4ad73ee12827346f911fefdb3034ec4b9216d3c21413b6d228f17ef3f99cc7144a01a9e2b6334d2327e4c6cab50cb5161f917f5f17e57b5f039cbfc1fd89b4ac552ca9c0d4db8adf8badad278d70f794"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "178.170.42.198:26656"
+tendermint_node_key = "002938adbc38bc1be024c7d9fad67c6db6fbfff764ea63dbbb1b6137c41e02fa29"
