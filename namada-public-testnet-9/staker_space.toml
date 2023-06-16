@@ -1,4 +1,4 @@
-[validator."Staker Space"]
+[validator.staker-space]
 consensus_public_key = "006060f4b9e04f1d7d7a75ca5759cc982e69ce1e57dba950fe4f4cbeb8b9228413"
 account_public_key = "00e469a1fb9dcf983ec55ad0f99e3dba145df27cc9ca69263db9bba5e631dbc098"
 protocol_public_key = "00933cdc53f3da43801a2db6efaebea8f89055266f1e0d986ce98de8ed82ad6cc5"
