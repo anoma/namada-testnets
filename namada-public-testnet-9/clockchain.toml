@@ -1,0 +1,9 @@
+[validator.clockchain]
+consensus_public_key = "000e52143bd0ad06bc6a98de1d4caacf1be85d4caf44de4ea4db53fd3d47cfe4b3"
+account_public_key = "00db2fe9bffb22012bb86608c491b60a83147836b9d6740763abb4688d6807be61"
+protocol_public_key = "00bcbbb3063517ac86d7df3c164f7db519aec934c675e7c3eb9052ef60e330ffd3"
+dkg_public_key = "600000009401986abd597d279df5c45e008f70e24ac9451d67bea0b75b94f4e04791e5eac88df68811c7288013e2b71596ebd61473d481f9f1782e161d878ec93cfb1a34069eea354e03b892e394e99803e7392404b12de13da82f278d99702f209ed093"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.181.99:26656"
+tendermint_node_key = "0027e6642c0fdda48ba1be622d95104506724464459244502fcd70fed4c889cbcb"
