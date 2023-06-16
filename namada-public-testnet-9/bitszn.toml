@@ -1,0 +1,9 @@
+[validator.bitszn]
+consensus_public_key = "00fe6ee83edb82ac8f515012d3722d398d1a4d0b4046c62460ed8f2cb53ec296a1"
+account_public_key = "009db5457666591f63b9f56f080620a824dff20fbf6c4eb20b3ce4656a85d86dd6"
+protocol_public_key = "00589af602ce507806ecbc7c31313a385e4630177da6d14f380765ce41911f0ee7"
+dkg_public_key = "60000000280be1f8efee2fba5791b24c8cece015b4f03ecdaa06cfbc4c15ff9a98a2967115896b27fd558048585f63f45756fe00ed7275dfa16caf19d08036d192685431587cb26ea96b8068745f34280640d7e45737cfe8ca89e0b02ea49215b4d98d17"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.61.113:26656"
+tendermint_node_key = "00e26af7fcaf37d870c9e8f6c6927138cbd79ae057e4c2fd60362ac4e3f704cc19"
