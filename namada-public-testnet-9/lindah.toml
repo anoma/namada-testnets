@@ -1,0 +1,9 @@
+[validator.lindah]
+consensus_public_key = "0028087ce254d07d10d5a9d06c15e4771fe6e88080d1c6d429155196a076bee1ef"
+account_public_key = "00121a0da264cc5b4788db6ce5992ab0fd67718d60afe8c44da2ef61f0a1b983a0"
+protocol_public_key = "002de502f30eac43c86e0f3e6241cb44ad491487be27509052fea8d8ae145957ee"
+dkg_public_key = "600000006866e7230f0dcb4b9ff9440d5c0f58cb5ae51839e21debd42851534d625e130ece810c133c13f164ef063ad57c0c0419b074386cae2d4693f943be523bdffd8a47bbca0e0b8058d63c6dcb7c0672fd62cebc41bb780df84f0caec2cee47f7317"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "77.121.211.194:26656"
+tendermint_node_key = "0086387c4bb0103e0347526d55d4d6ac2795357dd583633fc6c58e336fe95ef1b4"
