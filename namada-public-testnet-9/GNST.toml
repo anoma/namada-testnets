@@ -1,0 +1,9 @@
+[validator.GNST]
+consensus_public_key = "0016d25fbf5cfdfc0b9510be8c1b77719ddf2230646f340e4f4c439b9609c76982"
+account_public_key = "00d2f4987f654b7baa250a2dca4779aa6ecb93ca7122ad2f920d5d61272266fa85"
+protocol_public_key = "0050f99e9342cc2ef6ce9ac06bedd231b227bb13f9b0858f6da8a95eedcea40296"
+dkg_public_key = "60000000a9731f1605fc12f48ac7178f249cdea3808050e455ca86f258877eebabea0100d01a9fa4488081ac4d5210cfdd58da132eb456f76789c87cfe207e3097f1b2286f747c6c7be5f45c66b3940d08567e14b9de5dbbbf3d8176c671841ed5c4de84"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.146.243:26656"
+tendermint_node_key = "0073538c30911b9cac0ee12f9623d2e639d4811a2c65fb5bc5e7368238423576dd"
