@@ -1,0 +1,9 @@
+[validator.namadavl]
+consensus_public_key = "00fc71a99af1d1b06eb4177849f3816634190dbd016b3912a52c1ffa40c36e4f64"
+account_public_key = "004f4e724dc9749e6e633015f276b7393ad99f72062fe2962e57a8d92caab4c1a8"
+protocol_public_key = "0070be5a5c2311a6a614f9dbfe2375668cf276a78a2a12267609dc067c4581dcf6"
+dkg_public_key = "600000003ac7b9a720fdf7135d75c6bd9d3d14872afddfcf97faece782f93af6260237bc097816757ea5d30ae0e099149e68c418124cfb9a630c6a2594dcca0ddf88fc4c2a6e66b0ceca59c9d99b6d8b82809a581c9912e2b504a8cc0e9fd21b4e5c7c87"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.250.150.241:26656"
+tendermint_node_key = "00c43495775973617d45a553d842f23d7d60486c8334a68286b032df6c4de6e974"
