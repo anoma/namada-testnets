@@ -1,0 +1,9 @@
+[validator.JeTrix]
+consensus_public_key = "00a97759874706d91a0fcd96f3867acf44b910cc04aff0f48d9a353794d0294c11"
+account_public_key = "00198b33355f3d203f7b4ddc474e705a4a395474e5c0d6494a0ecf3dc599e79300"
+protocol_public_key = "0031a1036b94f56ff391f0c27df0c6c2faf40b98ad1c7acb78c7e81de56b77ead4"
+dkg_public_key = "600000008321f4e253cbb78bdb2574d20f9f2313b414af30b29f1d94629eddc8c2e8bb2f105349a3953a2ad20c25a317b9f2ab0b002fa0a883fa8c84a8e94208b88b174801fb3d9435ba9295f2acdcdc7c60079073578bb1576e2cb6ee9964ba1db4e989"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "85.10.198.169:26656"
+tendermint_node_key = "005de179f5846590c91fbe69be14fe531e69579a10a89d02fd9d512a044c057a08"
