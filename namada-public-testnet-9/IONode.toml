@@ -1,0 +1,9 @@
+[validator.IONode]
+consensus_public_key = "00a4192b2223f9e58608a4402dc06c0e2936b557a52d2d6c2abeb919ad7460e079"
+account_public_key = "007a1c6f708adec5d5091753444213c627d3c9c6250f66b68ebe0d03fcdecb95f2"
+protocol_public_key = "00d249f88fc5d4065e259df9ad41fe30508bffe48c78e4233e3b20e96e2045d624"
+dkg_public_key = "60000000ad3e92c9635aeb894d3dfba7b0e5fddd1edf488d6a810121847b46fbc8c1e6b568d3cb8e03cb4a030db1cf354fc0120c448796f15e3c150c5dcada58ab884a3ccd454dc6e3d2a446ce8153a6fcce0b7313d82e9ba46dd112bde2d11f4e41178d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "81.0.219.243:26656"
+tendermint_node_key = "006682659fe39047e1fa59ee789ddd2feaf30ab5801c3230e30eac0895fe786690"
