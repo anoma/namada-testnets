@@ -1,0 +1,9 @@
+[validator."Mr.BOND#7368"]
+consensus_public_key = "009efc9c9b5ec9cdae9df6916a91169ffa6337b8a7e19a980aaf51c0e62945dc43"
+account_public_key = "00c6cc37b8b80b40d292cc22349ad700754ba58da60d416ec4748867f8cf5651d0"
+protocol_public_key = "00e05502c28a32dbb6d2cf42f48a71971a7a0e2a1a14af65a3151f60a8fcd19f09"
+dkg_public_key = "60000000e649c74c03588dda74106a90e89eb96c4a17cf9f1f29316e4d1ec9eead86f6f1f980e37e5861e7e2bdbd2d0a0a0f380c871bff05628f68f8d47338c2dd58daf7ebb149343e34493fe42672029eeace6c16deeb6ff35d217c3f606aaab8195304"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.99.14.147:26656"
+tendermint_node_key = "0055e1e91269300eb024fc3dd16d622daa876e3fe402fb15ac1ce0ed5bb22e9125"
