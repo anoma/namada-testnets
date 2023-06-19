@@ -1,0 +1,9 @@
+[validator.nodesUP]
+consensus_public_key = "0093fb6ff8169a4434cf0db17b405abe47517c1529c8762c14da701eb27f46e161"
+account_public_key = "00eafc2d7a5320d0e259f2b3bb2d39ce558ee7c5235a132ed74f94109518b76795"
+protocol_public_key = "00850ee52f821b886d536272e6575ce48b13596ddefba76f718cf109adb4267b07"
+dkg_public_key = "600000004538febe0486822fd5914cda27dc5508c8a3ebcf547a8f299fb983b01b83630cae139ca7df715fa3c3d5e46af5334b150505d398c65cdb20be1c8ebe8c74facbf2bec96543062f689eb3c5ab755f58086fd38b4fffd5a59a7f7fb7535e400187"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "78.46.99.59:26656"
+tendermint_node_key = "0018a076f8d4b9270655563a8e765c311fd0bd227e327f2bab0bd3b754436ff9c3"
