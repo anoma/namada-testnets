@@ -1,0 +1,9 @@
+[validator.w3coins]
+consensus_public_key = "00fdba85a66cdedd33b3ffa449b66881490ffb53248abbaad81aa8be7522bf4383"
+account_public_key = "00671e44086c2aeb555c9b25cfb5a376f4ea9f308c9c1d807692e5b4da2d1c3ef6"
+protocol_public_key = "00d83fe2895e912882871d608d027e10ed580c0eba0566472a611a2e8a45129379"
+dkg_public_key = "60000000a63a43ae6e8612403ac211ea1466607bf4facdf95d30a08c45a2dbdd1f6287e48cdaa1dec275456ba49c504fe834150a47728b81b45157d995293632b7b84df3e763575d5b60fc5db0a73354c480c310d13d701e88aadb422dd53e6f953e2e8f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.235.117.93:26656"
+tendermint_node_key = "00b7871048e615b0ef50537ef9260488e76ffedce2c26631fad4b942b199a94246"
