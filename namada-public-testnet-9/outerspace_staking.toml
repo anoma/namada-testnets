@@ -1,0 +1,9 @@
+[validator.outerspace_staking]
+consensus_public_key = "00ee9c4e1a08c9f18d9e71775afb0b814d42571554d58d1de8c7b20f3b99f69e96"
+account_public_key = "00e6b5187585fc141f98cd8e364b0ba7c5fc438401a562a9d24fc42358d8b27ab3"
+protocol_public_key = "00f8fc49fb8a87d53f62e368b4c1df9902fad560e1eecc4803c83ced97d6988480"
+dkg_public_key = "600000001e3c489a4474c2e0eab89e39a24fe17cb6c3a11129f0bcac65686ca1b7fac815d962a6b6cdd9c196723db7a0f21d721364af38a3dfca6d44eea8b33992bde38fcc728cea802f84d7e1c4194b8885e629e73a528e929e11b565a6050abaa1918f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.75.32:26656"
+tendermint_node_key = "004c9c3c562f60ec96161519c2105240b80a5c949b5ea02ae31b8e145894746c33"

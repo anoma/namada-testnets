@@ -1,0 +1,9 @@
+[validator.gugu]
+consensus_public_key = "00536c631848e4fc586926543f2d1e7c68a1bd8f0f1b3b56d8539c9e84c00b0f2c"
+account_public_key = "00b8fa04ac08c50c140ef684614fbcecaf43bad1154aa17c0300e3d9a66dd094eb"
+protocol_public_key = "006d3aff9b7e61630dff59d09f088f8a48c308f883cd9e3d241a43212d6905b87d"
+dkg_public_key = "60000000821d10e59c94c64ce05a8a015614207d16b7563faa34fa9311092a872163d83c8896b7facb548ebfcbe520e7775bfe0174df325514abd7d0d74d2ab0d927adcbef099342df36c5918c75779064c70d45dc8e8c83d181261b1beb73a79be86085"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.197.251.177:26656"
+tendermint_node_key = "0049cd606eddbcd8bfd96deb5e21fc570310502d49db64c27e4ba4c1cb77227b86"
