@@ -1,0 +1,9 @@
+[validator.gatewayfm]
+consensus_public_key = "00ab9edd6290c92e6b507b44e6164c5e3bb2aca49811ac9c9d8e48e60486bb6c14"
+account_public_key = "006795220c93bad687cbf6a3fae6feb622b94e1beac9e56843af0ecf73aaa48cf8"
+protocol_public_key = "00bb33781c2da1a288378ebf3af52750a4c5598b92d4c9f37c2df63ca415db855d"
+dkg_public_key = "6000000029a348211e7bbc905bdd4aba1a1bb0f611bfddbf0126df27c95cf3033e83897af583f5e2513620754d802566fa76961725de1b538e9a0d50f6d48ceb3c108d430d62de5d90dbf0511fe4450739e65528d3ffe4531e9b0867cacb4c878f91cd10"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "31.171.240.179:26656"
+tendermint_node_key = "008a8ed3b2aea6ddad872945a4327d21e0484fc9dd85180aa89edd6b986be64d6f"
