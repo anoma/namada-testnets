@@ -1,0 +1,11 @@
+[validator.kiko]
+consensus_public_key = "00bc02f36946ec0cb62b79af91156acad44be84b1e1fd55a89c6e2ed3b9388517d"
+eth_cold_key = "01031e39939c4d097ec01e851ef5115db16f585f7b98cd76c31b7b83ba2b7f76c4de"
+eth_hot_key = "0102bf07ba54c2845cff958a71680875959eaba7e48d51fe2adf35e3e19d5fc032c7"
+account_public_key = "000b873f85e777effcf4c23e401f6f0ccb2f5f22fc6215ec1755de184644a1e30d"
+protocol_public_key = "000a04bf24f9c43f5f71d42ce87c256797b4f9556d6fa3892201816b66aa52ddd2"
+dkg_public_key = "60000000ed04aa28b581e72a5540ec5b12daab127b027b8d6dec0fe3b152e52cdf302d212d6652a68a03e7c3ec78ef7f2606730f73a1220fcf4a0808dc7f04b5afef5ec2f0d50d28237010e6059575d10842355c558eeac9c1c00baa6b1a96fc571fe781"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "81.0.246.109:26656"
+tendermint_node_key = "00cb90aa5a2cd0a558039ae03c76d7df4ef8b603f4f64d86fe59fc35564fa22b90"
