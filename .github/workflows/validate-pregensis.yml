@@ -26,6 +26,6 @@ jobs:
       - name: Check pre-genesis file validity
         run: |
           pip3 install toml
-          .github/workflows/scripts/check.py 
+          .github/workflows/scripts/validate.py
         env:
           CHAIN_ID_FOLDER: ${{ secrets.CHAIN_ID_FOLDER }}
