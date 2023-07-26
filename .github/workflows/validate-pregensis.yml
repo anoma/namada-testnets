@@ -1,6 +1,9 @@
 name: Validate pre-genesis files
 
 on:
+  push:
+    branches:
+      - main
   pull_request:
     branches:
       - main
@@ -26,6 +29,6 @@ jobs:
       - name: Check pre-genesis file validity
         run: |
           pip3 install toml
-          .github/workflows/scripts/check.py 
+          python3 .github/workflows/scripts/validate.py --folder $CHAIN_ID_FOLDER
         env:
-          CHAIN_ID_FOLDER: ${{ secrets.CHAIN_ID_FOLDER }}
+          CHAIN_ID_FOLDER: ${{ vars.CHAIN_ID_FOLDER || 'namada-public-testnet-11' }}
