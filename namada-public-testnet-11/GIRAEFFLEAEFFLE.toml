@@ -1,0 +1,11 @@
+[validator.GIRAEFFLEAEFFLE]
+consensus_public_key = "006bc570e9753eec8b42c99f913a25919ed28a748f6b6db764a9ab168189cd7cee"
+eth_cold_key = "0103ae5be699266ac0e363029fe0cb349d2e8e3a55ddea1e1ff75aa51bf361c27c91"
+eth_hot_key = "01028ac49a35efe354512da3329ed4de1ae83f07f43b4f92151fdfb5c43ae8da9e7d"
+account_public_key = "00b7c0f4a384fa3f5dceb84fd1dfe21c894a08930baf96b2e0a6c970e806371068"
+protocol_public_key = "005d3ed53e51895b97b2d83f61e05ef9670dff652df83a0505ea30f8b1c15d5939"
+dkg_public_key = "600000005ec5e547987d827c2bd713c8cd8baf4fbc73132b37cd8dd98a75bd960c5ace19c368c0cd298903fecd8fc4c521a665048067af2dc9b41e049cfe5c34144ccd9cd127494ea7bd9a8138f77f8cd7390a8f8c078e24963bec7a604dbaf16ad03788"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.181.122.65:26656"
+tendermint_node_key = "00bdda1266d2bc1ef3c8314a34bdf06f2317c05f539b393fb344a590a070bc686b"
