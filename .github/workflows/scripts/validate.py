@@ -60,14 +60,17 @@ def main(args):
     dir_name = args.folder
     filenames = os.listdir(dir_name)
     is_correct = True
+    total_pregenesis_files = 0
 
     for filename in filenames:
         if filename.endswith(".toml"):
+            total_pregenesis_files += 1
             data = toml.load(os.path.join(dir_name, filename))
             if not is_valid_pregenesis_file(data):
                 print("Invalid pregenesis file: " + filename)
                 is_correct = False
-    
+
+    print("Checked {} files.".format(total_pregenesis_files))
     if is_correct:
         print("All pregenesis files are valid")
         exit(0)
