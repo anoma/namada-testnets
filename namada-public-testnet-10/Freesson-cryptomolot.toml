@@ -1,9 +1,0 @@
-[validator.Freesson-cryptomolot]
-consensus_public_key = "009161b6b1612c9ae691ed5f459dcef41293d5786898ec28e0feb671460164e2ef"
-account_public_key = "0055a02a790e8437dc7f7dd0503bb458bb125023cbb460a1ce09e884baa8deb345"
-protocol_public_key = "00be0f85f6e677687867fb868d2b4ae4aed984a52857f93eac9fb545a4ab04345f"
-dkg_public_key = "6000000030a4d24cc8bc79b05725b81d8d79c3ffe7e3184f3ea6276f46f7da6e451975f9ae97043e75419e9f363563ffba3f6b0adb6edf3fb8e2de0be34677a4dd3330682db26bd1f78ed15aa7bafc06d819613cbdd63add531360ebf5d4e3c74a038b15"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.27.123:26656"
-tendermint_node_key = "009526b0f732cb0ca7568bdd7943e06434152b7d440e89aa7aa30ce437d89b1c7e"
