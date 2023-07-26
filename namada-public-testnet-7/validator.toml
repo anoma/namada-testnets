@@ -1,0 +1,9 @@
+[validator.Brightlystake]
+consensus_public_key = "0086b055bffa19398723faea35913f223bddab80774cb7c71a1ee3f5726ac90958"
+account_public_key = "0063cd70122ea76e45f49b3dac083313d7a259743b5cbc9eb7c443d706491387d3"
+protocol_public_key = "00658a590307ba5e93c9fb2cb15f72ba3dc854851cf237a4bb689524b0e91fc0d7"
+dkg_public_key = "60000000442b72ce7e87ca7ee68fe6c4a7188fc81352c269ed91cee2a88be18ac69d3d52ac3ce552274d296e3c5f3fbdf7385c194b1176424ccd8c9c419b974296b402d5237bf6b02199d637cb2d1c3d6ca0fea6263d47e01725867d345ab20d8dce1497"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "65.109.69.163:26156"
+tendermint_node_key = "00fbff004a99950a3ea0e6f643db06ab5bdbfc1c5ee8f9986c8174cd01f9e925ad"

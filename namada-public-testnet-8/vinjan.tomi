@@ -1,0 +1,9 @@
+[validator.vinjan]
+consensus_public_key = "001ba2f1aa2b0742c3aecbbc9c114a57f57496892c18b6365c06355b97871e0ad2"
+account_public_key = "00b6785181c392298d45c436f52f957eb4e960fcb943745fea3c1fcfffe6acdee5"
+protocol_public_key = "00fcb937a0128e8663b4fc2c6006b4e8f583bec8c8d3104d639558f0d90d79fe5b"
+dkg_public_key = "600000006b3b7a7f687b1126363c69a53a128f48b4d820641f7aa6b208ccaa3632366a5aea90823c1e9500011476da4356560304e0b7f7d9c621557b29f0afe56e1c97a16827ce30867ecf9ec1e0b8c0e70cd574f1332de1a205a73d20d13cda77ebde8c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.153.36:26656"
+tendermint_node_key = "00d141c5eed6a7cc3bba0790393fdeeb4ea583def82a3e0ea6f084feac1bde2624"

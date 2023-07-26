@@ -1,0 +1,9 @@
+[validator.ERN_VENTURES]
+consensus_public_key = "001457ab8da7263381c5af9df06d27eddf064e12296fa1f5fe57a7d2ab39e08bc7"
+account_public_key = "0071ca644681e827f6a54b7b7653bba2fa0bdca61eb2a66d4bb7c97a2c164eeac4"
+protocol_public_key = "0049dc73facf594103910f1fd9dc699685c80c318cfd0dc833c60f67e6e46516e6"
+dkg_public_key = "600000006aa7573f8b3b23d03d1294c854068e4160f1dd1e4b3da7acf558eedf61c1c485b0e6dd56cdd28626089c80ae44f9d40d054064903936abba61c6867e22c2874ae944aff80bb8780d87da7ac68f38c856421679ffce435a907f8028f9bd3e4b01"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.108.52:26656"
+tendermint_node_key = "0046f950a95fa6a4f221b39bf189e5557fc7613347ee3ceec1e2605c9924431f40"
