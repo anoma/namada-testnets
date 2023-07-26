@@ -1,0 +1,11 @@
+[validator."CryptoSJ.net"]
+consensus_public_key = "00cb5d6450ab1d6a82c264d460093777dcacee753d24b5c757f74a0ff12c42dfa4"
+eth_cold_key = "0102598252578e679292ae7a7a0b7e16ff3f32992ac744661246dee8eb6f4fe7e987"
+eth_hot_key = "0102a06096a92aae89b432736ac361e850d1939641e55e1b5b4702ec932ab50b889e"
+account_public_key = "00936daf5eb9db3f8b7cdfff738d1fd871d55142f980d3cceeb69a90cda7d63b1e"
+protocol_public_key = "00fcc13aff111dc530f8de43c3fa3a83aaf69c53cfbe260e8c8987cea25bcaf1e5"
+dkg_public_key = "600000001e845dc44a217e409c66c6af446bef895402648b1d9cdf6e38b201f54d7fe5a4ca43600d19de3bdc38a07f6b520806182fe266811605589c5977467fdaeea64963509fa4f17e3ec34c1122b796e0b311d22efe2364cdeeec14991ae5214a9416"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "92.97.155.201:26676"
+tendermint_node_key = "008d8e298687cddcaa0611dffba386407752e6f4d06ae3fc090c399a5ca488be41"
