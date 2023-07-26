@@ -5,5 +5,5 @@ protocol_public_key = "00e1580c3678f8454bca5ff9dcdc6cafb4de55d2a5e70792e91e5a680
 dkg_public_key = "60000000c62078c58e872e5cd7f3d648cecb9d0ef741845360f6d1fdcb6af18f6517d888ea7ccbf68e20f0f4006db934ea01d41753c474e9d72d1f93931302dc0fc49edd81c37e3037cb405f8140d81231fc39afaec017f20cfb307ba2724d6708f02d01"
 net_address = "34.159.27.16:26656"
 tendermint_node_key = "00574ab9326fb8e62a1564c99530c586f255452041744ef6b9205c7367dcc04550"
-commission_rate = 0.05
-max_commission_rate_change = 0.01
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
