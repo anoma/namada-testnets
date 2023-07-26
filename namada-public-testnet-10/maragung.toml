@@ -1,0 +1,9 @@
+[validator.maragung]
+consensus_public_key = "00263ed0cadd8b3e564ba1dea07f0b7e2b0f4641d50bb0117ea9a4b2502c2e85d0"
+account_public_key = "0007b95d02fa808757f83359b735a11338b0be82267ffec373a675f67b4394fa59"
+protocol_public_key = "009953119867c09626d51fced1a3b3383bba41dd51b593173230cf2ac5d3aa556c"
+dkg_public_key = "600000006aaef15f0c31959a2d9aba0028f1aa3ab404c42cb8d4674ba569d188f9b260f73755ba920ec557dbaba432d31966231830615d7>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "103.149.46.12:26656"
+tendermint_node_key = "00ef6bf5c6881d012b83669842ad12f608c6a4317675a0b8b04426097494ae135e"

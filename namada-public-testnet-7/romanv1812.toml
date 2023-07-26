@@ -1,0 +1,9 @@
+[validator.TestnetPride]
+consensus_public_key = "009c688c2dd901a8f419844dc7e67cb313b93f483680bc810b3ef659209643efb5"
+account_public_key = "004d8a6ccb481d6dd32c1a1f96761a358f0dd5c58641f728dafaae0e547d1bc5b9"
+protocol_public_key = "0080c7897fb28c8797eab9a2af13a1998b2daa20b1aaec3de4143ea6fe93cbe3fa"
+dkg_public_key = "60000000797e7dcf29ed86f687277e49fdb4c7e1c0577c24ce57b9d6ae88c03c374c8302b62a13db62e723cfadbd87bfb63ca006389e0e2bc12ce960293c977a5ad483e0c1f597f6f870d711ab10622d15ec47569236bb347c10996dd7b7f771b7b56b8b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.85.170:26656"
+tendermint_node_key = "0054f9e34a3532a79ab11ae5a643730c8fd2c8e45ca82ca682755bd8a1a9ce6aae"
