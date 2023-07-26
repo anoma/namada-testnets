@@ -1,9 +1,0 @@
-[validator.KonsorTech]
-consensus_public_key = "00cb0705c2e9d690c22ac5b6464954dc9f86d337553a0a7473ea1e369ad82fe52f"
-account_public_key = "00e0124f1e3f9c31348ff4b44a34afc9836eb6352a123efbeaca543afbe8f74cab"
-protocol_public_key = "00c50b43af3145e51327722ceef646a0958338099fbd6640577b477de0df2dc8ea"
-dkg_public_key = "6000000018f0da938f510d8d727591f3b546d4b7126e9135f928e02e3a3a4b1051b0a8af94469b4d752242bd56772adfeebe2a009f0824f66e8b609785228b855da207945063980e0c10ec18e65f500e1bf2c1a08c09e65c1b90fa98fb94ffedfb2fb804"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "37.120.171.213:14656"
-tendermint_node_key = "0066c2ac194b0c81c117cb778fb65bf2fc8fb4048793f0bba3abb54ec20e5df669"

@@ -1,9 +1,0 @@
-[validator.Sandman]
-consensus_public_key = "006531bbe54c61a439be1fd05f96f8126cacda134261fdfcf319d43a11b90e69e5"
-account_public_key = "001ce2f5bdf5ba1197412b6e6e63205be3ccb7ed9b013f4396460e9ab4aa6d7b45"
-protocol_public_key = "0082305c50ba5f241f1ff48f6e3ef015d6de9ebf4316576e9291b2310472cf4cdd"
-dkg_public_key = "60000000e185852c27b6298944203d634747457895f20e871b313942b801f4658fa466fa01cb183b4ff760285e58c828a8da300cd4ec7614f3389e44b4e19ab926d29580b6f1ff93e8af215f83a7eae89470bb97c7f861210ba66f5cbfa606862df23519"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "23.88.74.54:26656"
-tendermint_node_key = "0013a00a59eefc29106976d23398b4b4ccc408b630eff95f0a1c555deee77c2ad7"

@@ -1,9 +1,0 @@
-[validator."nodepro.xyz"]
-consensus_public_key = "00419b6dd97e23dfbc38468ffb1087ca82d0f507cd64499b584d2eb00024e0c09c"
-account_public_key = "00ba51f1d9a85d2b8e4e80f94fc2e61a23f84736d96454488958d5a10c56cc1d4f"
-protocol_public_key = "000049f0e1ec1c07622554e0c04528f9f98225b58d306bfcb170463382fc8ca931"
-dkg_public_key = "60000000f0cce3f27affe92456ad94ab642bf718e649fdb3b09052533edfc4a252bde0173f14ad1c84a6bfe64cc0e099e34611044c5ff4b362d7019c304a4833952c2dca3ae65c99e0bccfb56f08390aeb469af7a2c4e4bb122d9a75d11d2036c5ba8485"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "194.163.132.91:26656"
-tendermint_node_key = "002144b5ebeb61e852370e65843b2d8a2ae8446a8bdd02d389482d04965b52a105"

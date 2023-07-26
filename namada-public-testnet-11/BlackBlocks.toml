@@ -1,9 +1,0 @@
-[validator.BlackBlocks]
-consensus_public_key = "00ab37f190e47fcc551ac60084167c09e73867090bb6254ea7f2e94be57c3e6300"
-account_public_key = "004dcb878f3179937872c5b500b97ec98c88b3e8a890765d7dce238070792b198b"
-protocol_public_key = "00389a7476f9e76f26c7eb7a79561779577c597455fad78a4aaef0b95017f96f27"
-dkg_public_key = "6000000026ce0b26351781dbea98134c5f3b3343d24cd721f24f8e93569da5b57a87ce3f90c120b3e570319ec48cd9d306c0c50ae4c85bfd28e87aa568fa77a62e56a165cef0c1dd33d332a4dbdf6177a23f32a981fadf9beaf84d375b67ca026415a814"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.131.189:26656"
-tendermint_node_key = "0057ec2146e58bb7be5265ad6816de0cdfa6c71c305aac8e37f1ceb9634b254f93"

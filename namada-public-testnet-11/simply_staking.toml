@@ -1,9 +1,0 @@
-[validator.Simply]
-consensus_public_key = "007ce52d23b8c96a89bdb44fa18e4e4e4891c7f30131ca46afc7078e49aaf67f29"
-account_public_key = "007b3a78d6e765fb4062fac94846e832e135bee83d017f8d8ec5f1408e06da5360"
-protocol_public_key = "00ada2dbb5b6ce5c4906df861b5b87dcecdd356eabd98cf284ef86a9e790e3f2d6"
-dkg_public_key = "60000000f5155477b858ba29cb623c27aae140942577446b2abf49459d6a2ab28916e46bc315477c6eea0ba006a47107248edc117aaad177fad28573e19359802efaaede4eaeb448be66bd5a6d0fc8325241e284cd370295a661abb5281d2f0344390408"
-commission_rate = "0.05"
-max_commission_rate_change = "0.2"
-net_address = "80.64.208.172:26656"
-tendermint_node_key = "001238f59f1e406ae8d8dcc74292eee77ee4c1363ddec5cc6b9ca49d2222da35c2"

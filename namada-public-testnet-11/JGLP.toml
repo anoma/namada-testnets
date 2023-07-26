@@ -1,9 +1,0 @@
-[validator.JGLP]
-consensus_public_key = "00be4269848512a45478d5251040a009d47f2104e8f288657fd3bb709f5e011ded"
-account_public_key = "0050cb57af84a52cfb2695a59522cda6b3861956280a3dbad971741d145ea5b168"
-protocol_public_key = "00dd24b3f4c81ec339c2c39c868eeec144f3267201924ed2b4af4cb886feff2413"
-dkg_public_key = "6000000021a05d2acb958f688b02d740eb17adbb0ce3a095c166fea3bbc8bf96073427979fdfafbbd7fcdd518bbdf76185c87a1618703934a9f2d8b6ec0407fdd1d7eb7436d1303b3d75a8c808fa87f06218bb8254a704d0e5943e4aca656e7672cdfb05"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "185.188.249.209:26656"
-tendermint_node_key = "009b16d1b4e0c7d7993e469f5121fc3f4e56710eb7d9fb381e03ece467d1871a72"

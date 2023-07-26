@@ -1,9 +1,0 @@
-[validator.Kryz]
-consensus_public_key = "00e024fc64b1f4eed697a37f8b0266c482f259cfe588bb6228e82fab2fbbe24db4"
-account_public_key = "00250c6edff9432cdace1aff0c0baa0c3968dcbb0f2bacf665132cc76322eaa115"
-protocol_public_key = "0024ba9c7161adb494ae32419310d118cd8b37cb86e1735c72e26d6619cdcc8f9f"
-dkg_public_key = "60000000120fb0cd9587cf7dcc67bd206a77f7c22178e8c80697b6d2cc3aaefca5847f99319f5f9973f105cb59ed32da51ba640d542bd573ef578d0dfb6ca6ffe23511cf353fbdee18119344f8c9001607fedfa0fede305e68439343f4e008cf6d134b0a"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "136.243.103.53:26656"
-tendermint_node_key = "00f190f699160dda75f5c07dbbbf016add92645733e97e104033a617c2d96c288a"

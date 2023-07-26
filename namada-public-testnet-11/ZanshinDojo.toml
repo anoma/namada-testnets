@@ -1,9 +1,0 @@
-[validator.ZanshinDojo]
-consensus_public_key = "0030a9a1552cff186af305cdd3eaaa7b6e229bf01b37cf95c89e599fec7eaa7bbd"
-account_public_key = "00f536df3b09a4f7b2eb310c497cab33502ef4ae02e1bf63d599b07b66712dfc1c"
-protocol_public_key = "00e4185edd757bc728976f2715fa62887075cade3b4577daace7567e0d4f18e281"
-dkg_public_key = "600000004ada3fbe9d14df896c2a95bad060de8caf8674e10b1a1f028c733194e4801c0ea5ac4dce8de2f2c28a3480674d9954176e985e9cfbd6bc1ad01e2a84a23c896212b872bf9591bff9ad992370833b98715f503bc0c821e1bfe94782a7388b6294"
-commission_rate = "0.1"
-max_commission_rate_change = "0.01"
-net_address = "70.59.12.70:26656"
-tendermint_node_key = "00bc8a6c7836ee43262e19c3cb21e38a47f3e92194583b129e430ca65400b96c10"

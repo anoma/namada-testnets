@@ -1,9 +1,0 @@
-[validator.AirGap]
-consensus_public_key = "001d0ac7e9d1f950c80ea324b20db540eedb7e7e8bc0bfdb453d33489bca9b0dfe"
-account_public_key = "0050eb2c5f21993b752e422ac626f7e8060b96c5944369983017fbfcc317d7e8d4"
-protocol_public_key = "00d0ce5a0a54bf2af3c967b886cf96cd179c9931e21d4a20b1b7b04740a8de263f"
-dkg_public_key = "60000000be39cc77b2586b4aa3b9dadccd0a00c6f7718d8a7f12472e257ff42cc9a1571d1c0a2943d679263e6d844aced17a82089a03bb87fb918a0f17a3f68fac58b86ea44c3e7c37e775c8825380181b0605288aba049f0222d2a16da1b8ef60c72703"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "95.216.154.254:26656"
-tendermint_node_key = "004fb322073b09a5e4327e29b2ad83e2bda52d8987b880f7be4e1f9d93df52d882"

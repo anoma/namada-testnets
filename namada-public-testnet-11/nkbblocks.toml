@@ -1,9 +1,0 @@
-[validator.nkbblocks]
-consensus_public_key = "009084c4991bd6250d59a07807aea738a16629574ea7a0d675ae04e46e2db6f42c"
-account_public_key = "00e6c9a22b963559448ea003bce5f4d0ff40f9cdf178a0a37163d6010a626c5eb5"
-protocol_public_key = "00a44c15f2996e4f306ac92d90245f6e00d4addf12b8d414805d3ee305c07f03af"
-dkg_public_key = "60000000952a66994c78caafd8d4bd267b2bb35085706112e2e3e93d88c899d215877618fc7b9b2cdafdf441ffec05c9eabc9f0098957abe45afdcfa4914c7dff9417edb9e992b63cf8307a2491060201e7e4f50fd85467f08d0192ff43c56d00501ea90"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.139.150:26656"
-tendermint_node_key = "00de6690acd8f8c7e2ed83a9fbaeff5591523be4e359cb28652897244d344b1a22"

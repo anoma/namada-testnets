@@ -1,9 +1,0 @@
-[validator.roadz]
-consensus_public_key = "0067d3f95e1b0052a3efc8949f39cf215ce1bec47c366cb43cde14e6e3b80a0bcb"
-account_public_key = "006a53d3a3ce0f377ee178b2fcd28204cf4eb225c80e6d3cc6888150257c623ff6"
-protocol_public_key = "009f3ff2a1744cf5860ebdcab8f3dc05b7c99fed8593eed37223efed9529cf2d51"
-dkg_public_key = "6000000010fe3933da48d51eb1030b5d4c871db54a7b9ed6dc17f7b3e92c5814c961fa4aaababe5882003360d750b3a070620e0707e66c63975397014ba7ae3240e826ff16c218ef05d7b0182e555a4048cd0a290d163b3fd5665205f2a9cf1979eb6389"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "185.209.223.64:26656"
-tendermint_node_key = "00215239647be6ed3e5a0a6282cc2f99a6564a96093f7114ac3a932d3cc58d7a92"

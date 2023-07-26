@@ -1,9 +1,0 @@
-[validator.moodman]
-consensus_public_key = "000f9c6a348281b9920058646e9b4a291b750befccb2042717f36c94272d5fbe76"
-account_public_key = "002adce45e2a7e5472d9fd6e19ffbb9194be10bd10db9e365eb303bad7b75e179b"
-protocol_public_key = "00b721142b1d75c58c3a713af33fdf89b342bcfd5d2a879ff0f288364e8932fd9a"
-dkg_public_key = "60000000bcede5560261622df50bab0f21b64d51a544c63e6e81b230cbde11c778b715537073f177231e5d4c66cf8396d5d7fb17b8af2fe16939fd599c1eb8d7da1b787540dc28a317f1f1da8f98ebb540f8f6fb3fabecfd6ea272b580fe865d16c91294"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "194.34.232.124:26656"
-tendermint_node_key = "0089be14651be964fe5d1a11863163a7aa6e88e122f20d43040cabafa869bce12a"

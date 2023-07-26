@@ -1,9 +1,0 @@
-[validator.apepperony]
-consensus_public_key = "00857754a4a92831c9000fa85940c53d2dc9d32a31e1e7289b0b497b00fd0489af"
-account_public_key = "00d9aee63f7419eed5305095166ae336b1bb0ef75733850b1efe0f77a3fa058503"
-protocol_public_key = "0053b02deeb1b830f25e57eba682f53f254c515c623fb59f60e2b778e307a95144"
-dkg_public_key = "600000003dea7a14cc3ca9aeb905f0d6682b559285ddda9d8661a4cf59f3c16e02516a78814f52d1b8dc736cd8a4a639fd4d7e0b927bb211f486cd31d5fbb6a63df459484133cd2427fc9e40c4633fa43d47b420406d333423201bbdf1a92c6fa50fba85"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "217.209.26.198:26656"
-tendermint_node_key = "001dbfb69b9cd0ee03852a78df5f61155cb9f2893a0553d226cf2c783ba8bc166c"

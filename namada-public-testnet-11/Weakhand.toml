@@ -1,9 +1,0 @@
-[validator.Weakhand]
-consensus_public_key = "0026709961c048fc1035b5928e5d655d904e59e8a6201c1392f2a0e84ecaf671fd"
-account_public_key = "006db62c8e9112bdcec82af9d3c68225d69d50cf10fc163d6a05e55ee3df29a72d"
-protocol_public_key = "00bc07af4a2882f1f9b6c62c09fa80ae476e5f8e20b8967428f4cd410656aa5a35"
-dkg_public_key = "60000000e012d69bfdc56b013714146f9c84b4f34c966adeb8acbf3fbb5b86155a6ac7cf56c5e7cd0c11df1c11b01310e5cf560f22c3efe3de3bc5d9dfab7b1b03adb288a1e8f2e3d400641364ccb182199abb8e0009865947f34a28f68eef73d40ed609"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "162.55.1.2:26656"
-tendermint_node_key = "009ddb5120bed0b42fbedadaa5625100ad04657e036c4cd120945c7f97a721ce5d"

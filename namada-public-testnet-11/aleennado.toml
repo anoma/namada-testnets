@@ -1,9 +1,0 @@
-[validator.aleennado]
-consensus_public_key = "0007b2628723d0251bfdeb390db924b9baef166758ed3048b80d26af4a9777d9ed"
-account_public_key = "008ce942afb63577a067049b658755f66a52fcd3537fda52516e8239a51be531dd"
-protocol_public_key = "00cf28d96d5efc3426ddd87c60b9645c8879276500f190443b9eeb7ae4a214e53a"
-dkg_public_key = "600000004e53fb7e4cf49ed89e28c310c8ee5abf8158ba15ec817234f93213b23cf72219ac326e6047e1e424f193148d9195fa1358fef86d84cb12a696930b0afba5733bcb2a2a8b5406a7abb52065e61c7e5cccc9f393f82d6a4b8e847b59e84931e48f"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "144.76.182.73:26656"
-tendermint_node_key = "00d74a60e519ce113890a8d6df548fd74e911e554c9ac997d1d5dd262b77f5be7b"

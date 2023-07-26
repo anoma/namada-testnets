@@ -1,9 +1,0 @@
-[validator.Validatrium]
-consensus_public_key = "0048080af9fb919a5465146682737da8cf9f9f59aa8bd0380d8af42863f701056f"
-account_public_key = "004bf0ba932bd7c2839e13906b85606317519fa45dbbd442665630884031bf5bbf"
-protocol_public_key = "00c48e6a1fbdfc130178e8a31dd684cb2e4a4d53b8e7c2a101f89bf5337e6051fc"
-dkg_public_key = "60000000ad58b9d1699446df688f6cfcc72b1ea29297777f7c5957e7619315935bf8671a376f72eca1a103c5c30fa878254dca0bafc5a8b6e6b69ecae42583447ae0927185eac92c2df1e48cad164b9955bb4c07cb54889d2956046bf79d9d9af63d6810"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.101.19:20156"
-tendermint_node_key = "00734a9a0caa61ae5170d715cf501fae28e97161247592c1d9f8b9d61e26db9eec"

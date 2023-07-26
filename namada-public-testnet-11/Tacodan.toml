@@ -1,9 +1,0 @@
-[validator.Tacodan]
-consensus_public_key = "001b6e96f53141139c68bd42888c12953b2af0144dffedac7dfc6ae5529eb3846d"
-account_public_key = "00e4979af4636bc75a0a5f2484717ea9140cf833d80e066d9d5a45a8861f469ece"
-protocol_public_key = "003bb389a99dde376588162bb663675c1cd6237d431b41379ee532bd2ca0e56257"
-dkg_public_key = "600000001148e4694519470b87054b7ca048c448735ccbcd81d3eb182beae9fd5382d51528f95166c2dabaf49c045dce2e558618df8939aaa57b9aaa15e1cf6dcb71555033492e537df5dd642c457eb37262be42a7e8df6fafa9d712e47d4691c81a0c95"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "206.116.159.111:26656"
-tendermint_node_key = "00ae5c07a0b2843c533e32274036bead21c18edbda9eb3dd908aa29b26ddd71363"

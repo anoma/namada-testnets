@@ -1,9 +1,0 @@
-[validator.zssbecker]
-consensus_public_key = "00b284ca7543679f39b2cee275359e3c46eba007ab5995a962cfba7e9921e6d190"
-account_public_key = "00bec5bf7f133730dd22b9781848e17982ddb3c94d10cf19aeacd2a9a369c98ea9"
-protocol_public_key = "00aac494a7b3ed4b89aff52f16b7eb925397216a5003302d8441b3abd60d6152eb"
-dkg_public_key = "600000007b88e4df301f0445046f46919254f380f4f3c9174af1b08a8534abdbc8d0bde58c19f4b268eb55b1809163f5b120f40fec9f08bd0576756617ebfbcad42e5d956db9603b8fa2878ca30e27b24ccb15171490f5b0a41ffccd504392fadeab1210"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "198.74.112.63:26656"
-tendermint_node_key = "00a9a5528e1645a21d60145d1e4d1806ff01fabef641beb07a9a12879950f8d608"

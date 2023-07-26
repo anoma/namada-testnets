@@ -1,9 +1,0 @@
-[validator.Lefey]
-consensus_public_key = "00f5dff83a9070dc94d2de1f2f8f0ae7fdf2a1104ef98b0552c60ce686f0cfc253"
-account_public_key = "006ea9116d5c69f6a650bd0fd5a1988a867fece954cca455523036fe0fe241bdab"
-protocol_public_key = "000bd68ce4f96f889925d047b27569a52a41e71f40aabb340a10274e54321feec0"
-dkg_public_key = "60000000f3ae39996ddcb6fdf585ddb5dead529f8695527474d138ee357897a10afa609933af2115b84f033e2ce8661b1042b70b3c5f4448e8944503db4c4c6148254411a6ae29366adff74b80bb06c1258ac377ae00293604797090a850fc5c246c6b13"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.229.93:26656"
-tendermint_node_key = "00851f868d0a7663ced83d3ee4e172bb987f0030c11e958ddacc2ed0424370f15a"

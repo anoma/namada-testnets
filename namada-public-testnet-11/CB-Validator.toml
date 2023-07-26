@@ -1,9 +1,0 @@
-[validator.CB-Validator]
-consensus_public_key = "00c75ac27688fc2a56aa975cb8d8e8bdd72a48443fe44f16678a528687ed3112f5"
-account_public_key = "00435a867a892d5ee293ea170c5ad5827b442a824db0b772bfbb9605441ab57c8c"
-protocol_public_key = "00399d67c4818cf50750118022dd84e4b18f56c5fbd7b28bf31f1584cdf8cbeab5"
-dkg_public_key = "6000000013befe449da6cf936f028ef18cd30276d14d9017d956ada77bdab859cf0684142c9325e3a04cf898654402553bc1ff1066360082b5cd2ba5239f528121eee9df123bd7eb5c244a7a80ef28c57093d69f820baf6d2ec43bda0c37d08596d50716"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.229.248:26656"
-tendermint_node_key = "00f8626adfd4826799b90b57c8b2cb29bc1294ed8be4908123c0afcb6d1b114187"

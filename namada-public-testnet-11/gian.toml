@@ -1,9 +1,0 @@
-[validator.gian]
-consensus_public_key = "004a61860f1cfc506f33539613bbbe18b615fe2b28390102a9c8106012b9d00484"
-account_public_key = "0058878aee5d71fcdd624f19953833b7b97f1eb326b8e5793d2afb337566cbcb57"
-protocol_public_key = "008d60a15a1dcaaa944ff0b02d737f455fe2cb30ef2a8b441d59c40a5a3f211a1f"
-dkg_public_key = "6000000015e6e3165002c97a3c56888489f9d2489975d9017021fa9bf6e0ed9fe54008f26ed4c218ecdaf9a0bfa69af1ef94130fd8d4b5fd61ba38c6692a41f8c034e30783e3914e0fa909af2af1dc78d1ec6e1933cb4700205483891f3d9c2af6aa6a85"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "63.32.210.222:26656"
-tendermint_node_key = "00ef849d718e3f04eb62aa973291dbb2bf9776d01b9b4a2ad78340062c40b5ede6"

@@ -1,9 +1,0 @@
-[validator.Enigma]
-consensus_public_key = "00fdf92b4991b7996e19c6e1b82741d0a654b76e368f304b6ab5569cfa3f15b990"
-account_public_key = "00f8c1bc9c2ca7d7b230fc2fb1950a3817924ff6fe7ef42eb3b5df845f7a284464"
-protocol_public_key = "00d15883701a9f4dd8ac4e99808fd39c0c7fcb23bbdf78020e32904a8e4e25ce4c"
-dkg_public_key = "60000000a65c9b3828d6a21f76b1ffb60423c0e76b3e65ba629e355e7309a81a08db7c97ba1b3d3a8926ce6d3522e4856e49950a6217b8d407acb9f2d8c23b54fcc995bfd6825b85b6febdfe0b327ee30f349c58b83c0c4eeb987dde249fd0fea7fbbf82"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "135.181.216.54:3000"
-tendermint_node_key = "00f87bfb67b305e6423f1386b523dcf6644c513c05873815b067e701e85c58ae40"

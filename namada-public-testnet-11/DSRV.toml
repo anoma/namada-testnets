@@ -1,9 +1,0 @@
-[validator.DSRV]
-consensus_public_key = "00ba67433ce72e911e87d0e702aab2d2b9fff19ba979e5c54369bf4703f7751ffd"
-account_public_key = "00cb78550c306b41273c10f2c2528cd211d31fb2c18e0cbe34a40437abd8a90fc3"
-protocol_public_key = "00d68c6252c54ecdda6a9150ead5ddacffab3175a954153f88dca569f8ec52f288"
-dkg_public_key = "60000000259804774f359d7bca1aa57d07d353e2531e63d25a4148d9be5639b33bde4dfb259f46132d19de1755b1004609efdc0ddc7e0c9f966e92b73870159570a311ee8ed1b91c78562b79326c8d21a7920fa0b4fd0cb173b1a5001412314304dea710"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "167.71.55.25:26656"
-tendermint_node_key = "001bead87fe0837453f345a8406c521fb83142c9f103571bac0d22830ebf142c18"

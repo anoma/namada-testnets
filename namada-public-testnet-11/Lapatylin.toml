@@ -1,9 +1,0 @@
-[validator.Lapatylin]
-consensus_public_key = "00c4212b496600f63e34a5324a97d516c7a6b98782eeac2cd285e3683ce7bab515"
-account_public_key = "0007ad2ee67f06c6df79971fd773c6bfe5e9b0f509b2a8e177ec0e43da6d742d43"
-protocol_public_key = "00c57d63a6d8e3985260fd8381bc3df0c4674dde9d10ab2553d8951513fb6fedb8"
-dkg_public_key = "600000003210b05390cdc9b382df5f88b98170b9042cdcf00cdfef91011eeea3eee639523ae57263fe0ec024ce6a838007012202ad663a515118c0fb53115c66a034836219bf899a05ce3bd86003e6677d1dc33e040bcbba8c5d248eb08da1cdab06bb0a"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.124.121:26656"
-tendermint_node_key = "00fab438db64ee0b0adf007ac27483ae39aeb33bc452c3a029ae2f7d3337d14a2b"

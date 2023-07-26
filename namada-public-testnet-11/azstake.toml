@@ -1,9 +1,0 @@
-[validator.azstake]
-consensus_public_key = "00d2c5c238c377a6d5d94f373850197a496f295f23dc66450a14ab9284c592521c"
-account_public_key = "0093d632adb83f6490705cab3c1477d8632908533441205f79bb3b019dfb6ab83f"
-protocol_public_key = "00da08f0337c3297c5e85d812b816e6144e3ae2d6e7e7c2d7e59f15dcf1d832e6e"
-dkg_public_key = "60000000f08c7dbb07be42bfced58113bb06a18c5b873aeafec0bf92d23b65b3812c9c2c50dc65510400372facd7c98c34f2a40fc1877c6e354202e1021ff42c75d08f49acee068ba0a13714928185ed8e86442a9756ed2c6fe098bff89876a65db2a282"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "23.88.66.239:26656"
-tendermint_node_key = "0031c015b967f711cf8a20c2dfebaa2c660b8c6ecb6a432989e5a7a299a96b3b4a"

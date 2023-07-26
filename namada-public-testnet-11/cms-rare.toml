@@ -1,9 +1,0 @@
-[validator.cms-rare]
-consensus_public_key = "0061843b5a2c496dbb2d8bc8b3c60bad34cf761701df99c680f850fe4315cc492d"
-account_public_key = "001a0af51ff3d35d45ea26eaebf58f94e68dae88289af4b0e9e139b3071a262b4c"
-protocol_public_key = "00859dd1f794b136547e62c2483481f9bb17ada4a4dac7f9fc059711e7c7396739"
-dkg_public_key = "6000000023e0b06cdad4b375d087e8c29bacba5a7dcac50cf52be3745a1aca9cd13e65c5c8ef6c481477d830531a4cab2a80d61310054e8c594ba76341052cc616f501134d890c8cf4837a044b401845b435442e6d206d22ec8ee6ec80d0fb09be05f501"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "185.172.191.12:26656"
-tendermint_node_key = "00136949d402898d1b829278a9bcc70b2a7c432b8122fd0fffe9929afceab76beb"

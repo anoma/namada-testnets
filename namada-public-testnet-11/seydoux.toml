@@ -1,9 +1,0 @@
-[validator.seydoux]
-consensus_public_key = "000e317d14884a04a432e7903436708c46d7269f97f460b0f93a874f37010bd787"
-account_public_key = "000f91b804d5a4df4278e6a0167c9ea50712905fbfa48b52c5c9ec3103e4020e6c"
-protocol_public_key = "00665cb18439b29f8fd219c42fd205827fdc9827c91e107a75cff6c4f230ab7e88"
-dkg_public_key = "600000003402c123c365f3ef2faffdb41c6a2baf61b28c650141c7e650055cce266ea592e871d9ac82e3dfd9fee58439add43c0bdc20f8926748980b75aa79a31f8f40d5eade6737c31b5b2fddc4729c2f1d71b4af0887bdb1e9c5313fd36a2906c5df0e"
-commission_rate = "0.07"
-max_commission_rate_change = "0.01"
-net_address = "65.109.116.22:26656"
-tendermint_node_key = "0019cbaed65eefc3fe30f7a630840d95db6b7c2402dc903f109df6864f206fcf93"

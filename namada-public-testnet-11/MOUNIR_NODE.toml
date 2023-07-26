@@ -1,9 +1,0 @@
-[validator.MOUNIR_NODE]
-consensus_public_key = "00f77ab52b567a116382cd0dfbbddb01325f63ecad7d8a6f55780cd1ac020942ae"
-account_public_key = "00aed28d2369b7bde86ce25348d8fddd4d1312a2b00bebe0dc6c46b47e0fa42fb0"
-protocol_public_key = "0019e2d35eff5bcf4850f32813d09351153656c13b1df3c62c58928265aa501e90"
-dkg_public_key = "60000000c65caf14ecb10146ed72a656294ac5a0b7d1c8b2cd11ff0cd930dbebf21d46c4c2d0f93f77f4b6ea0c96667013cc1612ef8c1e46ac71970e29ad036cfdcc035d392abf08b0084731a4da94bf5bcb6bc3d2e2ab7e8fb64a34c1079f1fa0af0698"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "88.208.242.218:26656"
-tendermint_node_key = "00768a1e9cc15f91e8be225b68ea5d29f421bcc94ecbeabe076dd84e3f443b6be9"

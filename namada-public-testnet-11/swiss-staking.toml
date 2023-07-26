@@ -1,9 +1,0 @@
-[validator.swiss-staking]
-consensus_public_key = "0086d8d93d303054597b311ff3171417f11fc8410ddd30105f7a51b89dff25c99c"
-account_public_key = "001fb03abec811cd9b2c297a819d36f52154af751c9fb9940291e71c7384812e92"
-protocol_public_key = "00c9d3c4fa70960d4e9e1b4554a74527a2b1c521501cb5133c7f7990676b99f50d"
-dkg_public_key = "60000000d182d2599a0048b4ed8ca6d0aa079b11f0290b5f2c454fb96f89cef715b2144e1ff688f94a7abe5b7d5d29b1c9aed319cb7078208628fff914723baee7052114544aae0db416bbc4706ed4bae712400869a97cd8a9652db1eac9f7e1f407c280"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "173.212.223.233:36656"
-tendermint_node_key = "00a0f3afc5f42c98aefd437c5325dcc0fa2a6e84b8eae1eaab8e6e3dc8069679da"

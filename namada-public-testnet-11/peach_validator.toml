@@ -1,9 +1,0 @@
-[validator.Peach]
-consensus_public_key = "00333f93c4c7d4a9e3337148543f79ebb64741a97ceca08e09219d1a1f83d8bdf2"
-account_public_key = "000bd5a5b0903cbf06dfa2df6f4be9d79f787e954b3d6121508d117c416b943eef"
-protocol_public_key = "004ebfbf4fe36a862352ef283f963b5cee51380f3571c2e255987d409b14efbdb0"
-dkg_public_key = "600000003a9f1f3fdb6fdbc8e4b53b7aaecc37fa22ceb28b2c244a281a8e995d2ed09d866a6bf61941964dad49921563bee73e05f4a4bc1f32f97810de1435dc4a84f17cd131bfff627e4f075ad9213d2cc88e636fe44941598b16f21891886a0919a807"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.232.227:26656"
-tendermint_node_key = "009e174382e52adeb6ce03bbea508bdad058fc744ed09bd8ca5358634d7526d958"

@@ -1,9 +1,0 @@
-[validator.TdrSys]
-consensus_public_key = "0088bb792ccadcb40cf5f5e2d7256124a3b2d42c4b6c3b8a8d53d373cc009ac203"
-account_public_key = "000cfffe01eeeaab6c93e4532a9f9a30b91c42b4361298b86fabec5a655a33dd5d"
-protocol_public_key = "00eac647c90e0cdf713376fd4b4ba6c9b7ad0fad3ae1cc27fa9fef8944171801e7"
-dkg_public_key = "6000000068ae22242d54ab6591a1c1faa032acf181e0fb799221259942d0b2ccb671b4e128b711cc99e7816f56ecbf06772b41017bf35445cd880dc48d7d224d6bf276e5d83c1af8ed7c82ce6956f984f66f11aaac4a5c3714fb97b793aedaa943b3f98c"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "5.9.70.180:26656"
-tendermint_node_key = "0025cf96b5a727d490f6731a45429dc1db579073f15a5846e9a96156fa42ed74fa"

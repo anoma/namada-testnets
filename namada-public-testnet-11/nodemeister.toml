@@ -1,9 +1,0 @@
-[validator.nodemeister]
-consensus_public_key = "00678154f8cea2f394a2169ea8652975a9fd90a6d835ca6e48ffe17c8549d2367d"
-account_public_key = "00d6628b1dc1e0c9ca2e09665bc0faeb741e8d5cc252e1400de1a2363d6931a82b"
-protocol_public_key = "00b3a0b7da2025866df04885a10a34ee6d4eae15501f5492031480ab1143ef517d"
-dkg_public_key = "6000000023f42d9de8ceac8964fa3bd84e4ff8480924a8cec9e089870d567a59c2a1de6ba3b2d8bcda0331d47c5a8d59d3b58814b63c230c81092e701ef4fd6a60f7f1e76108e1152c46cac6ec445432393ace1a92a6eb0c20e132e7fccda38ceeaf1185"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.199.210:26656"
-tendermint_node_key = "003307bc8aa0c8f7e0447bdac2c9c9f9f2762c1d179121c5e3714dc938cabc6ac4"

@@ -1,9 +1,0 @@
-[validator.FairStaking]
-consensus_public_key = "0064d2e4b44b1b52bf26855cf53a563d0535c545f774902b2dd4cfc03fd2949ecb"
-account_public_key = "00023c50da0883784854cd99302779a638dd40f4e67a78c8e94c7acfd92086e631"
-protocol_public_key = "006b042a7b01bd9513c99c6a353a6ade3dfca10e1e01484bc17492927a8c5217ce"
-dkg_public_key = "600000001895c4b27eb73fc991c8d55c032d0616ba0e548c2fa1677cab34dee79cad586d87e2a084feebaed5a10648648a7a3b10ec02085a1c4fd164f091a8cf15e6d2e86b8645850de6732522b44d38664c97929aa3999ac6e011f8aa4e4eab9c7a4585"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.0.131:26656"
-tendermint_node_key = "008e8fdcd6e59c50278678073724da00ba5f30035924255a21d20a04a7e6b8fbe1"

@@ -1,9 +1,0 @@
-[validator.jasondavies]
-consensus_public_key = "008672a14a9e0c8e89d45899a4ab9590d2470625002a63c149c9a53220725fb429"
-account_public_key = "00d93f7086aaf20ab4b90129b93487126827356a33d13ffd72b359df9e2930d49b"
-protocol_public_key = "0026d91fcd3c0e5dfe1adb022cdd792f391fed305f2fdbb0b2112be385ee2045a7"
-dkg_public_key = "60000000f5c2c12727d18d20782718ed5a7fe4b77be7ca3184b22e15ffede4a3ea49a6c10e8c853be160dc798b725750be4c120c826bd66987a2edde7525c4aeaa51979804da1d2c08c30d245de5eedcc62e2e28ff6980f7abcfa660bf661fa3b8473b8c"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "54.36.166.159:26656"
-tendermint_node_key = "00a8bf44aa6ca3aa6eda9ed6edbf3fbf17296d34cc4d3667e239ff42d021ba13e3"

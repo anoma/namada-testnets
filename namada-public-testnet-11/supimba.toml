@@ -1,9 +1,0 @@
-[validator.supimba]
-consensus_public_key = "00a27505b18e3f5184703de00c03438fc889af5407ff95c21446c278e62ca8a69c"
-account_public_key = "00e7027d6c4645768b775ef6c40e14ccdede08f04b3bf6e78a8dd2c947e459834e"
-protocol_public_key = "00dc343b6d4342747a9e2fe3f18de6c0fb30383fe1b157f4da50767ab11209eda4"
-dkg_public_key = "60000000bae6a21f5b0b8f8108683760a5d95734bef7203aabd8bced0ff4a8c7a51d04e74d8fe303f0d640223dba3bf77e5eb0048f7d05be1a0c2b473b0eda22a7510a838915b3b443545db627cb9f24d33a3975a11e4d2dfe261a34d3c7c2cfc8f4c986"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "144.76.72.166:26656"
-tendermint_node_key = "000e2d5c08d4a2bff45f86fa1e15752761fe5f9ecf679a7efd6ba78a61169c0af6"

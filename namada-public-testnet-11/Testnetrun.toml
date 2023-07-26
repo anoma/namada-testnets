@@ -1,9 +1,0 @@
-[validator.Testnetrun]
-consensus_public_key = "0062bae25a371a3c39cb376900b61a9f3f8480f2616fec371f9acc90dac224b577"
-account_public_key = "00234ee4a9dd31a511430d85565ff4ca9c4e020d7ad66d2d94b14106ef2ced148f"
-protocol_public_key = "00fdea01438acdee0048b2b77f01cd0d205b2007b894112cd89cc97d78f0b3827d"
-dkg_public_key = "600000006811192a16e908973d0731050910caad9fed9bcb64b4bfe756d3e2b6b24462858ced2bdc21f3e497ff08dd573d0ab404f4aa50691733310e55fab93f1063ff7f028d75ba01978db0c3cf5fcb4b6bf47efc4ee00546f15eed2150541ddf7c6000"
-commission_rate = "0.05"
-max_commission_rate_change = "0.05"
-net_address = "144.76.28.163:26656"
-tendermint_node_key = "00601f6c835054ea328fcd57bcc7167ff68511efbaca04c8ccc3198f63e8e313a9"

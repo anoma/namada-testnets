@@ -1,9 +1,0 @@
-[validator.UbikCapital]
-consensus_public_key = "0099226b0b8ddc4dfa10bb5570ac41cffedff26359ccfc92e610710aa478e06ffe"
-account_public_key = "00e233c0c5555c3b6520d3696e4fc04d9dddb639ef68fa2ddaff5d6e7e38097a39"
-protocol_public_key = "001d7313cc403648a265bf039d45a5e09858d49b18799c8a81a7004685b481cca7"
-dkg_public_key = "600000008804864de96c7fe76a86c17b808397f0492763dab826c12a34943c03b4cbb90977698ec4ef5cae1396f62ed5f5379608a9ac731e0b63a85fedd9efe75b55b5022cdef12ec7fe949b03c17b20c038db71383ce64c8d10557782d31fdcf801d90c"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "178.63.15.35:26656"
-tendermint_node_key = "009334a99f0f3ca6342b126dcf86cd8219c1582033e79fbf03140a25f915d40f80"

@@ -1,9 +1,0 @@
-[validator.scania]
-consensus_public_key = "00862bfcf540dd5cf54055f327676a492af2b40e9821fe1cc08f16aaf6f14f3019"
-account_public_key = "0081aff6380e595e7e83578bdaee66f370d52f111695c1d72a3545b13e31793fee"
-protocol_public_key = "008ff06dc4760adb1c489d553cc8ae91ee5a850f1453742ffdfe70a7b1fbd75779"
-dkg_public_key = "600000000d013f97f4d9cd94f03e48489f4e7a05fbe5ab2893a8e2bd4f605e965f0ce4355b7a9c1ac1b7e59bf0edddd357b3e70db567a47f50f46f934f0a2a88646bc94223c7a3c0009ee5bcc23d7c4fe00919f68ebc36b7c72589ed81a46ed3a4451d10"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "212.51.129.74:26656"
-tendermint_node_key = "00ea016dedd65b8d6641656822a0044777820668d16bf63afff105cc1d4c00c29e"

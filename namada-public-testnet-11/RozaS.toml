@@ -1,9 +1,0 @@
-[validator.RozaS]
-consensus_public_key = "00a9ab3c130c8dfe14a53f003dae743c08070280f3dbe44ad20c2ebccf41cd748e"
-account_public_key = "00b2641669edb2ea05d4715a51260ec573bf49e3f185c25c373b82fbe30604df29"
-protocol_public_key = "008a129f37d535025474e109a7a8e3ce9fab8482c2f851fba33bd66c9f50e0b59e"
-dkg_public_key = "60000000b372e36bbdcf815727d4ebd7bdad4dc7063eeee92fd9982b9ff186d8088a7ea1dc6c5aeee3329fa6b7893853f9a8dc0428ded962d4da19db43a198e27c3300557f746de6ecf6c17b83b706dfb0214cca5f90469a059fe78b8117b9fc1e8d7f8a"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "88.198.52.89:26656"
-tendermint_node_key = "00d7f2fc9c3120af10491e590d603669ba80d86a4fde653d57bf05b0ce66ee67d6"

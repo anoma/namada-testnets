@@ -1,9 +1,0 @@
-[validator.bondedzone]
-consensus_public_key = "001924daf77d75856eadb8529218905423fc8ff9457d1ad4b91b0dd13ae6c1b628"
-account_public_key = "00547b5e673722c2d477f2278b906dc1a029601971e6bf13b4c21f6cecf759c133"
-protocol_public_key = "006546215fcbc69be8d35820233deac0e763804bcedcbb638c4932ee224023d50c"
-dkg_public_key = "60000000c0ed65134eaa8d6f2cfc959ac4d78465bd8317817e0cda8f0c1c8d3d9495067cc5831e05a14ee37bd7806af5c1e7491445380db213418223fbcdf6a8e56f5965890fe72004e7bcede8705896a324fac92e07e30823bd36541cd7acc2f142be83"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.108.131.190:26656"
-tendermint_node_key = "00ba9a5dd0b65814a9a930cae8da5cfc38b68bb56bd20f4776ab8a92af35d2e48c"

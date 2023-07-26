@@ -1,9 +1,0 @@
-[validator.Atomstaking]
-consensus_public_key = "001ca8defa72b370f4562c9ca266515e00cf7d789f707c190543a82bef0b7698fd"
-account_public_key = "0035773b894aacc7b8bbf6b7592b426bdf0e247183d74e801af16f76bdbfd12113"
-protocol_public_key = "003eb669b9b3632e36db63485e973d6fc156145bc9c1c06b6a80b8eb8da6503f7b"
-dkg_public_key = "60000000ac39bbd200fc996479f5fed05ae4c321a0469b51cbb35c56677e5ff321011a9310f1adc74b35fc7f477e6ec74d15e71003b1528ba11556120df703cfa349d9ac5101ca5f62b863239ff74a6323f492a46c18eaf2331d1f2c89cc8265879dfb8b"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "13.250.9.214:26656"
-tendermint_node_key = "0080a6cadc0800c78359b1c2e93e0d7f1a88a6cad8510eec68c9002a08354f698f"

@@ -1,9 +1,0 @@
-[validator.2pilot]
-consensus_public_key = "00d32637e43ca16dac1d4f1ae9a0ba03974698841e4bc662a6e94c97bb4c409a8c"
-account_public_key = "0067672bd73751481b09eb17a426f3745d468b5bd54d0f944841dd1c76fab43e1d"
-protocol_public_key = "00567566e9e02e021b3449e8f964e405d65c7b1c37f0a433d9cace4a30b14e2d93"
-dkg_public_key = "6000000081c6d4903509fa653d33890114899f72b6e875fade65a27eae520dfabcbd8456d11344f1a7ee9ede2de39ccf1f8d5c17f75a9efa02b7f716b7fbdca89290b921de1b4598e23bf8312534380eb2eb28e14d7f9e5576debd9666cd9a430d9f6c06"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "149.102.138.221:26656"
-tendermint_node_key = "007d59b3ea43d0e498a9c4c3cad900eb23c2b0c199e7caa00c9e640091e8859e1c"

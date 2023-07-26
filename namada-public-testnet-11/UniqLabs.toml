@@ -1,9 +1,0 @@
-[validator.UniqLabs]
-consensus_public_key = "0091099945decdb95ae7e031c3f84a2c2faa7b466fe5908177de10925d668b8ab3"
-account_public_key = "006bb0ad3bd58fb4044a2f04d0a4d48e8d84db0db987d06edf93cf96de15617614"
-protocol_public_key = "004fb68648517dc7584fb754a906cb0903b685c9555f9642f69c89d094ffa7ea4c"
-dkg_public_key = "60000000f854a1392fbad7dda58f32833135f58391f897a4270c8b0ec565c34bab963b197d3448935e4df0386f8acdbb17383f0689bcf7d1c6c202411613328cac4d128ae170ad4081bb9c52b90fd7a9f4aafebbc896e6596352e109cde3224461d0b291"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "82.208.21.89:26656"
-tendermint_node_key = "000bb498303f07766d0d679eaccf60f246ec0f7cc36585775b04dca12b27d36911"

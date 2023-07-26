@@ -1,9 +1,0 @@
-[validator.ptzruslan]
-consensus_public_key = "009778cad689264b3aae68664cea88d4dfef88f772ad5855cefdf62064cdab7321"
-account_public_key = "001958a03ccab5a544994e55da341278eaecdde0c24c0258be2e250695b79bfb71"
-protocol_public_key = "0078275845b6009c435840844da059dd956132163e861472d238d38cf468ab31cf"
-dkg_public_key = "600000007dd0a0c0f36befb44caf7471394b3be8920f1da650ae27d437bc7c08cca753b43494cc8e2f2bd2e53fef581a49719717d9afb694272c1467917f4ab9f40d6bbff4d33f42828f1246d3acd993ec412acd08f3c0201cfb0874295b47a2a3921a82"
-commission_rate = "0.05"
-max_commission_rate_change = "0.02"
-net_address = "92.100.157.81:26656"
-tendermint_node_key = "007a269f24854e9897ffac56c2733fd40a643ce7765c13e28508cfc4a53769d99a"

@@ -1,9 +1,0 @@
-[validator.amadison79]
-consensus_public_key = "0026a2afb998f06ed2a1a67ad11c46d7dbcc66dc80a40a292a60b3058fb2eaf2f5"
-account_public_key = "0087a28b4e8607cedf83ed5fc26f46bcae510ea0709fe5724b768675224f0e485b"
-protocol_public_key = "002cdfb21b2f68ec52fc541362638a1eb9d1106a9a01625781eac4890d675c74f4"
-dkg_public_key = "600000001131e10e7ae471291fa14603ce6422c0f1c4b309386ae693a967f108d81f05f2563f7d4fffe7c37a98aeb356a5b0c903272de9993b60e74721f4850ecc523ca45f3537406983bc2c030ce64a9c86d030203e3ad4191e37a0fe63e4d09f6f7996"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "109.205.182.127:26656"
-tendermint_node_key = "00f54b9d77047bd0d3967b952c7b5424b322fdeaa033c429eb61902b8f3fc7bfcd"

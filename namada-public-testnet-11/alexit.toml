@@ -1,9 +1,0 @@
-[validator.alexit]
-consensus_public_key = "008fb35c3ca42793ea7fe6086832cda830ce29783158b75ea751e678b7c45e1c9c"
-account_public_key = "001eae1ccd5de8a450c2b261f6b41c3270dfbac5b41c2652c96a77e7aeff663016"
-protocol_public_key = "007659b45b33f5bb3b8f227268e6ea685ee033e1a944808dc367a0c0aa52867f35"
-dkg_public_key = "600000002694b09b3f4ecb8329e138240b76b7d17c367d47a928f296ecb8c38c8a30286b11574f0169e90db0088f3b3c9c45a901a08aadd8374c5b9afac0d829fdb85d95d06f7247ef1c3bbbf784ee37298f065996f45e93504435dd8e3c04f1d45b220d"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "62.183.54.219:26656"
-tendermint_node_key = "00bcf1b6f805bb3df8dd3658a89268a618e4534bc9b12710115a4f954b8cf1b517"

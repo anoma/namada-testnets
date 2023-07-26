@@ -1,9 +1,0 @@
-[validator.Conqueror]
-consensus_public_key = "00b5ec8d0aa9916aeb2233d72a44447117bbe80b30e664489e245a25c7223660f0"
-account_public_key = "0011382e73dc1d1dbb91f69313a770057e377e5117c2aeeba2f500f9d039d64027"
-protocol_public_key = "0034e11697c31c8e97dbaf22ab7d6a098906096b3d8c3852a7c8ca22ce438d14d1"
-dkg_public_key = "600000002158384fc44280ea7db2d82909bb56778530bfc29c040adce134fe7dbedf4b37ca493a1fa5e95ba46ad3a7a7da9a580e4496bb5cc915eb67e66a1952f6afb1e035834dc3b36eb148b068d2dd6c1a9f1705d484fa26758d5e807ab20c30efb706"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.109.106.214:26656"
-tendermint_node_key = "00cc4fd2fe6de6955839506b815fdd5c063f999673c79a92fc1ae73ae78d517386"

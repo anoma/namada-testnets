@@ -1,9 +1,0 @@
-[validator.stakefish-testnet]
-consensus_public_key = "00c9ff67907855d9fd2f2d9c08b2e50f6d2304b1ae426027925e84a45b7481387c"
-account_public_key = "00838c27f9324d2c7fd74e6fa15ef37cbb227b32a2ea4487a3aa546ffaf4bf16cc"
-protocol_public_key = "005edb61aa6774fcea07396b6762535492b168aaa0a078e84f4f998a50c04170ad"
-dkg_public_key = "60000000b490d82b437a2ce3bbf9edace5c96d85b172832d9f9122bec352cd02f5b7e5a804b451e64b832120d3262ac9e25603065bcfb083767e43d8119cbcf73a9fcbe147b2aa36fd29e38763968bd1024dd87c5822af5908a7432575ec393819290915"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "18.202.229.149:26656"
-tendermint_node_key = "005f2d6b892c9ef5375d386479d7bccf921c3c1d811de7af35204ca92794bfad61"

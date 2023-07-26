@@ -1,9 +1,0 @@
-[validator.StakeUp]
-consensus_public_key = "00f7bc48d8f9363df076b2adfe601d8b7a82479eac6785d5e5a32ee0a8fe232787"
-account_public_key = "0072cdcbd5b7d87de29f04898c5bc7f8c3f0a15a40c95a9de899c7e5ecce1202e7"
-protocol_public_key = "00e595a6d1c675677c1f473e7751fa67d451a8af5bf1c6d325d71a54817a36a0a8"
-dkg_public_key = "6000000015a9ad24dff87c7dce57df983ef510e10cadfb63008a8918fe272b28d624b962b742f6f46da90973cb54baadfd08ca167a7c0a454d03f4f6cb0299a0bcd62a896b0b6b2b0979aa20e8e55991d02a76c35e3d69f787c8f6f8a7d79da7cead5297"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "213.239.207.175:26656"
-tendermint_node_key = "0096aeaddbefe323e580c0ecdf3a88a03d8831e36f9be8ea304d01f825fd0809d0"

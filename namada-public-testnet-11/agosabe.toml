@@ -1,9 +1,0 @@
-[validator.agosabe]
-consensus_public_key = "0074b5e90cd18eeb88d54c4eb84bfea51f65e48eb472ae1deffb0582b3bf1fb948"
-account_public_key = "00a65d9e559b8d6a417b9df4a2eaf2c6a160085eb0dd36aa5f2fa52521a5276f0c"
-protocol_public_key = "00199690d612f0d4a3b9a9a71fd50de7edc5df8414b0d63c4e77cf656ef4009492"
-dkg_public_key = "600000004ed4fee0e33ef9de9abadc21d8cf33aa7ef0e0c7cacaf5b043ee1b09b7a050a1ef6c7c93e950ca91010f837c797fd1067bf7a1827838557233eabebc07bb0e50fe2a3dec757de3daabf5e92fc0269142fb796e2a8a8be9b7201deaeb1ffe3f92"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "164.68.102.10:26656"
-tendermint_node_key = "001d44f8d425d6e54e49864cb49bff3f2f129325ece00ffe62b5bc6727ac2cc4c7"

@@ -1,9 +1,0 @@
-[validator.o2Stake]
-consensus_public_key = "005b75c06ce24d3ccbb05deb8f0291efa192d94d871bef47c6009fb2c9dc38c5cd"
-account_public_key = "00b428e8611294dccbd35fc1f49a7f2d72df5c63f6b1a529cba19f91eac36882da"
-protocol_public_key = "00e92891c0d3838ab30cbcd3a4a02f5d0bbf33b2a1973ce05c9f1e5609e2045dff"
-dkg_public_key = "60000000634ba235ad4bf93ff1d70512f5b5814349b47c123b097a90dd6d8c5e9f8434b36bf6a893bbc41226d1fbbce22c58e5070b146bb5d4636ccb21d132ffb6b5c67021b2b959c31166435f294fddd60f2783a242420b27da377c9702fd9dcd857c02"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "65.21.121.208:26656"
-tendermint_node_key = "0054d197cf1e76b96b06f094706df3f2b219b47a1b8151e1a25c879ff5a3665980"

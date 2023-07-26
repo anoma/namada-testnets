@@ -1,9 +1,0 @@
-[validator.Chainflow]
-consensus_public_key = "006342cdd4260960a3e76f0aba7e2af97f7decc7060f04767f0fa4d2f50741536b"
-account_public_key = "00c42c7353a93fc72b7440a431dd1937cc2bae0d2728b8ca9eaf7c6549e338646c"
-protocol_public_key = "0085ef8a489dc2d6821f522a8e0ad697d0e5f4ba1a0b7de2bf9dc40b27abfcff53"
-dkg_public_key = "600000008fc55ba0920b79e799e784c376341bb6592436ea7fbc04bb7773d62fb4d126a891c1aa5c99a7aa158dcaedf0b2e5f1020c90474d501d0d5ed5f5d5915f23c55083f7d0f5e0ae5695cedb2a63914a8a33f078ec532001a7af18378b6b2ea1ae99"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "103.50.32.17:26656"
-tendermint_node_key = "00a58b44f6d0a3f2c2eb9738c2e63073978b354c730a1e97b1092a158fa5b91f21"

@@ -1,9 +1,0 @@
-[validator.Midora]
-consensus_public_key = "0072dadb7e67262cd704305046dd36b1ac2c46e97f2824014f50d810147fbdaf85"
-account_public_key = "00681d34bbf94cfffbf447a7cfe9830a8bbef426d2860a6816fee5a6ae2246f863"
-protocol_public_key = "000fe85d8ee9e14e46c76e6d4a45983d62cb98e816a56c79ffcc8f19802cec8e5b"
-dkg_public_key = "600000006c51295998b92fba11ab249c39d7d2108f8233789aa4fb5cabe2e2bc85ae2e3e8f6a3d2b994c4ae33f18fa1eb59a631268280de2dfcb88e125fbcfb7e2b46e1b74f05ca4a4dfa54e0b4c8659f8450152ec7c41d4721c020b72f9e492894f9700"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "89.58.45.204:26656"
-tendermint_node_key = "007ed2cadd270a177f1739352ebd3eaa45e63ad133ac1128f2c46bca0629b6eeb3"
