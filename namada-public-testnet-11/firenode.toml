@@ -1,0 +1,9 @@
+[validator.firenode]
+consensus_public_key = "0034cc3ed2b648395da25eceb8aa0f75645c2abbe53816f6bedb6212b65c294002"
+account_public_key = "003f34d012c33a0f3b7fa658d81096c0b0f8a704df6a8231bc0fc67ae9ceab6bd8"
+protocol_public_key = "0022d4503756e17b14d707f9e002ff927ef8ce3140030596cf5bc81494d4abbad7"
+dkg_public_key = "60000000c93e846aaa7bdfcea014b576c671ff4307fcf6b5ccb3cc51242efdee8ec3ba8db19b582e9addf9d50a8c25c6a033d717beba5b5f4f7c0c4bac0bc3a2c8ae559cd126577834fcb4e0031458a8056b10ed6fbc4ffeec25e0c505934414afc81e80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.82.155:26656"
+tendermint_node_key = "00b4cfe261a444f4ce79b272e0ccdb8fd005265337b1d2cbb16b4a0f41e46604f6"
