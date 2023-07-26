@@ -1,0 +1,31 @@
+name: Validate pre-genesis files
+
+on:
+  pull_request:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  GIT_LFS_SKIP_SMUDGE: 1
+
+jobs:
+  check:
+    timeout-minutes: 30
+    runs-on: [ubuntu-22.04]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - name: Check pre-genesis file validatity
+      - run: |
+          pip3 install toml
+          .github/workflows/scripts/check.py 
+        env:
+          CHAIN_ID_FOLDER: ${{ secrets.CHAIN_ID_FOLDER }}
