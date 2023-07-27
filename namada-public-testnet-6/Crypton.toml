@@ -1,0 +1,9 @@
+[validator.Crypton]
+consensus_public_key = "0019c2b45baf0c91e54cdced961f11cd153f229546efd3f56243b45c3b9ba97c6e"
+account_public_key = "00d21a7defd48e2f8250bf87668b9ad6d1202e0dc9c6eec3e425f1f0353379bbc0"
+protocol_public_key = "0076d4fdc30c74082f09fb0a154ef8a03071a6c15f573e0214e9d684d9dfaa83f2"
+dkg_public_key = "60000000feb08ab6a61318b2a839c414034d82ebeb1e16d94934571eae6d7e862951e0e7318fec6ec212efb15ab9193513236117c5e96541febe21bbff6a4f71b0669ae217e87ebd7850ace6a43803d4a09b57b6a1ac79aa5e8a6c3ea0efef7b0a2f6d80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "128.140.3.224:26656"
+tendermint_node_key = "00fb563d36ab7b64451566f937d81a286457ea1775ba079545d2480c1679d279da"
