@@ -1,9 +1,0 @@
-[validator.NodeJom]
-consensus_public_key = "00ba322f4a0dd3ec0cf19285225dbc9139fc34de21932a54ccfb85434c602a5ee7"
-account_public_key = "00afc65ac6460750e125fec9983d37e8ced2f56802b84e4f9944dec436668e88be"
-protocol_public_key = "00f6313af95a8f4550ecad01adfa39604ccd9575ae51f0b7972a559c4a76654c2a"
-dkg_public_key = "60000000b115b40e064773bc79f2fb8b497b01ef4f67e5c77a1bca153d121577fda1f7dc6b8c0a2a76d0eecd642ec36647587908564391e705aec53ac13e4d37a9e3374ed981395d659ed780b45f2e6ba587590be30573205995003f2e0d17c96c05c187"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "31.220.83.2:26656"
-tendermint_node_key = "00ee7220e136e36b273b1749f12e2461ab51367ce0aacbe0e62c01e8fe7585fe19"
