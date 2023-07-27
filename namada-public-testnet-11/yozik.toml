@@ -1,0 +1,11 @@
+[validator.yozik]
+consensus_public_key = "00ab8ee3f71dfcb03c370dc2cba32e16c92a5b04ff0a8851e936a3c0ffb80fde6d"
+eth_cold_key = "0103df7ec2c9937d67d3e43ad21b90aeea21dd12a6d535b1d520591dc097953bfbac"
+eth_hot_key = "01035366bf64aea44e77ac932d29197e27d5750f72f6da17ad11523cc7c9abb58f8a"
+account_public_key = "00980051b3b2c1e7badac69482f3cde855eb8ac5c64aad7e70cb271c1850a7f468"
+protocol_public_key = "00a3e531de9bb3ed5a0b0173b734a18fd11f2f2cecf32da56b9d91a47a05fc1e14"
+dkg_public_key = "600000004094f8ba6d98b51dd1f1137cb6f03d086f88e998ace56ba76b3b10444d3e8c5e691283ef35c569d03d0d12e46d27c0093f24c364f895d559f4e1d7ba3e2fe12ca906ad84e61f111705c8f358c4a446af128a2e5c09bdd531a8df232cd5a5e88a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "62.171.188.115:26656"
+tendermint_node_key = "009c6ddd8eb023935e980fd7582b69f1f624b6e67126c8b03124822d7be780220d"
