@@ -16,17 +16,18 @@ def is_valid_update(data: Dict) -> bool:
 
 def main(args):
     dir_name = args.folder
-    filenames = os.listdir(dir_name)
+    filename = args.filename
     is_correct = True
     total_pregenesis_files = 0
 
-    for filename in filenames:
-        if filename.endswith(".toml"):
-            total_pregenesis_files += 1
-            data = toml.load(os.path.join(dir_name, filename))
-            if not is_valid_update(data):
-                print("Invalid update pregenesis file: " + filename)
-                is_correct = False
+    if filename.endswith(".toml"):
+        data = toml.load(os.path.join(dir_name, filename))
+        if not is_valid_update(data):
+            print("Invalid update pregenesis file: " + filename)
+            is_correct = False
+    else:
+        print("Invalid file: " + filename + " (not a toml file)")
+        is_correct = False
 
     print("Checked {} files.".format(total_pregenesis_files))
     if is_correct:
@@ -41,6 +42,7 @@ def main(args):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(prog='NamadaValidatePregenesisUpdate', description='Validates all update pregenesis tomls')
     parser.add_argument('--folder', help='The name of the directory to validate.', default="namada-mainnet")
+    parser.add_argument('--filename', help='The name of the file to validate.', default="bengt.toml")
     args = parser.parse_args()
 
     main(args)

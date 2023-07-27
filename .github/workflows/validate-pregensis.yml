@@ -38,7 +38,11 @@ jobs:
           keyword="update"
 
           if [ "$pr_name" == *"$keyword"* ]; then
-            python3 .github/workflows/scripts/validate_previous_genesis.py --folder $CHAIN_ID_FOLDER
+            changed_files=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+            num_changed_files=$(echo "$changed_files" | wc -l)
+            if [ $num_changed_files -eq 1 ]; then
+              python3 .github/workflows/scripts/validate_previous_genesis.py --folder $CHAIN_ID_FOLDER --filename $changed_files
+            fi
           fi
         env:
           CHAIN_ID_FOLDER: ${{ vars.CHAIN_ID_FOLDER || 'namada-public-testnet-11' }}
