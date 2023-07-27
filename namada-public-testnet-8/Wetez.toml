@@ -1,0 +1,9 @@
+[validator.Wetez]
+consensus_public_key = "0014c895b8b0ae06e6d67ef87f1f89a811dfd96fc65456c8c85f868abee18fe21b"
+account_public_key = "009dd39d21be95bdd1bdcdf52f0bc79258edf9c11d3bc4050128a447d49187f428"
+protocol_public_key = "00ebccd7d4eabf831585888263b71ff59cea9788dd2f4efbfb89c7d36b3590fdd2"
+dkg_public_key = "600000006c54d316af80a57ddd04fa4fa81e8c6521706a9af034f91634c4f2e0b583a9cc94172881dafe82a1342583a3a3d0bf119f4725852098e9b18e5a494833d6bc7d352886f3b2ecb2d154a8770354a5269f0a723add965de7c7b7ecbe6fb10db488"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "178.63.105.179:26656"
+tendermint_node_key = "0004f1b07699066e83e175c9d4bea2291ad4118a29b257724c0a5125c7e4500c0b"

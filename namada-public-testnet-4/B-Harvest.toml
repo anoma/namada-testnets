@@ -1,0 +1,9 @@
+[validator.B-Harvest]
+consensus_public_key = "0071e2d36cfc95b62a5ed443a1bb97f624735d0cc11136924e97221d7fa31bd7fa"
+account_public_key = "007a80d2865d5e223f52a9a1b6f63619552de2b2efe08ac9bca0cbcce7e3515ff0"
+protocol_public_key = "0044d4dd437736b896f8afc819c6d3f5548b879a5a870d443f0427e112442efca6"
+dkg_public_key = "60000000afffe430e57ce6d2acb29643902c5884968f19dc5a58212c54b973e7f6cfcbbc0c93b37ab2c893c6941563d5e3db601766492ff8e05d5576b682206a0805e316388f7ec7f38546150917dcdffff3fb1af42e76e3c18c115672adeb1cfa83180a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "43.201.126.213:26656"
+tendermint_node_key = "0092148c31035067f45ae55d08bb3b5548f81b3c4c489602ee130db138651c7e95"

@@ -1,0 +1,9 @@
+[validator.PPNV]
+consensus_public_key = "00661f58dfd595585b26b3c7b56722f8737b71b5f1d8bc2b91996d3c7613f6937a"
+account_public_key = "00729414d9db3be7ab11cc4d90ecde7c02cc2ec33230435b5331dde58d5500c280"
+protocol_public_key = "00043c4384748c4050e8deacb43f41c1bd1c138ab8ba95ba6df4499f42561be5fb"
+dkg_public_key = "600000001f6940fdac4f921eadcc0c5ccd72dd45428bad9e226700571b34d970ff2389d1ba2619f2f118ae544683afdc1c003500af7d72d6381477e66f7000822a878e17cfe0e04afe154362facee893784b714e30bb609e98a3e56d7e42343cf767ef85"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.239.216.252:26656"
+tendermint_node_key = "00cd566e41bff9e40a0f49fa5fd72fe35d2adf5355ae361807b8a8d84f517c45b5"
