@@ -1,0 +1,9 @@
+[validator.itrocket]
+consensus_public_key = "0060219cd8a84b9dcf98d0a13b446e8ffd49a88c3a5f8b854449ede54945981fa2"
+account_public_key = "001c645000352e66fbff5d355a5e023e74de6661a3428a39c1098123f3d7fe87bf"
+protocol_public_key = "00079540fb194e94bdeb2c2810a7881a3b434cff819560b0194f61859a83d5bfe9"
+dkg_public_key = "600000001fdcc2000765fa09a1ee76dceb6f99940f08b910d3958788e852ff36b76a5d94474e78cc1a9fe70bff4ab6ac11b4af0f5a447feabc4bea248fd729c1cf6884d968176d100547135ba248d64c44f18d47572f32e6f2ff9aca9701b1dd98355719"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.72.253:26656"
+tendermint_node_key = "0007d70552949ad5cf2fe62a4de438debacd835ef7e77420ebc6fc8a8e490531ea"
