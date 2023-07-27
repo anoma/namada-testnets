@@ -1,0 +1,11 @@
+[validator.Holymoon]
+consensus_public_key = "003c9f8543bf296f2176d5ede97e3d1aabd28c8c9edeb27c96b1e8677360a7aae7"
+eth_cold_key = "01031980afedf803c0d8d4d68535dc5efd1921fafbc6edd719dc7753617e38282ddb"
+eth_hot_key = "0103e4b282b58a3b096743789d43177ad3c31c0648befb3d7979cb9a429ba73ad2bd"
+account_public_key = "001237d2868fda56f665a3edf6ce4374cf316b101bc75366d9d4f24db29d7dab6e"
+protocol_public_key = "0036d12e7e99deb38d1a2964a7acf8b107f94eaa35a3a6111f88251eb07960d3eb"
+dkg_public_key = "60000000859c6160e42846cad47bbf450b7558dfefb65c73d9b11aaaa0e2d4cf727c3d6f8df66e77f7ec10425f86184d1501520cef730fd2e967d5be9c833315adbffdb129d8a37a3119f2f649a5136bb7fabe76364cb5f8fcf2d5d14004df5aca1d4712"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.237.170:26656"
+tendermint_node_key = "00fcf053c44764d5dc8dc2ed122a5d57dd170f2ff68331d7b209fa3c7974038e15"
