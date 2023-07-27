@@ -1,0 +1,9 @@
+[validator.moyuball]
+consensus_public_key = "00371f8f3872abbbe021f7679f959ba5acbcf96b0e8e40c89e5cf22077bfaa82ef"
+account_public_key = "003a4676ee539a03aa24b43b3a8003d1b2edeeafbf27fa55d254475de1edc211b8"
+protocol_public_key = "006fcd490545eca415573b30b810908c1d9ea95d9be2143153b4f99b217063d3ed"
+dkg_public_key = "600000007996857d63243510b9019bbba4f517f404b026caa9f21a841f60b465fe581adbe2d6ca57cdec9dfbf66d5ef8004bee1910695c843dd02ad3f18fb9bcf069c81c4d417da7c53d459c4774e77a4e494aa528a4d170f6662d6c31efc5daf9e5418e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.212.21:26656"
+tendermint_node_key = "006e2b260f07141a54520d9b53cadf0ca11fd346c289d5e88fa9d74d6d14082dcc"

@@ -1,0 +1,9 @@
+[validator.VikNov]
+consensus_public_key = "004764354d7e92b4e6e8cb81e4b3ad8481c130bd9400dc55fae0bb9aaa26aafa7a"
+account_public_key = "00dfc31e27b6cc63cf2a66778d53fc95ac65581f602c70b9d2956dfd965902a37f"
+protocol_public_key = "00cfc2bb733833458af20ed57fdbb0f0379d9f71ed2896cf5dbf9a8316a880c6dd"
+dkg_public_key = "60000000cf13b7bf7693d798baa1aaf774fa6a83119098a2ce55c9154bc3b9132ac2001a58b1313c6d4f06ea403e3ac94bed8506c30e23d645788b77ba820b95887a5fc2c42a72c5c7db4a31af0098edc2b60693bda8efcb24f77b5868e40c4d2335c215"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "77.120.115.145:26656"
+tendermint_node_key = "00e26cec4224cc38e83756a1e72671860418b718d082e0624a8895ee618fc37cf2"

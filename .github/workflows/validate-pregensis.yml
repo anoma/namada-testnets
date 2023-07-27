@@ -1,0 +1,34 @@
+name: Validate pre-genesis files
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  GIT_LFS_SKIP_SMUDGE: 1
+
+jobs:
+  check:
+    timeout-minutes: 30
+    runs-on: [ubuntu-22.04]
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10' 
+      - name: Check pre-genesis file validity
+        run: |
+          pip3 install toml
+          python3 .github/workflows/scripts/validate.py --folder $CHAIN_ID_FOLDER
+        env:
+          CHAIN_ID_FOLDER: ${{ vars.CHAIN_ID_FOLDER || 'namada-public-testnet-11' }}
