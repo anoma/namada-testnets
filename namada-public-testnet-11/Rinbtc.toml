@@ -1,0 +1,11 @@
+[validator.Rinbtc]
+consensus_public_key = "0028fdeb39f60593a4805a36bd53e04151f8fce561d8d5040d76cb56ce3a06a708"
+eth_cold_key = "01033182c22d85890d8ce028932d85df42c1e5e35bf767aeb8945f7fa54ced2aa985"
+eth_hot_key = "0102cbfce194a0042596effb00aff35fd29e179dfd19e3575eaac3fa6b360801e9f8"
+account_public_key = "00dad3a959b0b18af01f4ad49547126fdcd8f0a5c0b3ffd15a378bee1b9074134d"
+protocol_public_key = "003e5bfd1b454994a2e6b00b7c74ef4d627110dd66ee2ab3695db6827734285920"
+dkg_public_key = "600000002c6aef0e5891f4e3f73e069e8210d62cca04a1b1e7eba1545c1406afdb5c2aac8a2cf45f7e4a2b488c8990bc2da98e01fcbfb97c3a860476aac8dd2daf42077e1d1c86f23c636fbfb870bed48053a0c93a8aaabf3d7c12a8f32d4b2d744aea80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "173.212.235.238:26656"
+tendermint_node_key = "002b82b61510fea03655108910823c8fc18a17aa286178125de3f543a95fe4131e"
