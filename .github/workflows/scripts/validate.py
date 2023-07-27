@@ -69,6 +69,9 @@ def main(args):
             if not is_valid_pregenesis_file(data):
                 print("Invalid pregenesis file: " + filename)
                 is_correct = False
+        else:
+            print("Invalid file: " + filename + " (not a toml file)")
+            is_correct = False
 
     print("Checked {} files.".format(total_pregenesis_files))
     if is_correct:
@@ -86,4 +89,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     main(args)
+
 
