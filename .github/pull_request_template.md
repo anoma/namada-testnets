@@ -9,4 +9,4 @@ Thanks in advance!
 - [ ] Only one toml is added in this PR
 - [ ] The file being added is indeed a .toml file
 - [ ] The toml being added is to the correct folder, and only to the correct folder
-- [ ] The `eth_hot_key` and `eth_cold_key` is present
+- [ ] The `eth_hot_key` and `eth_cold_key` are present
