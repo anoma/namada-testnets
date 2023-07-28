@@ -1,0 +1,9 @@
+[validator.cupid]
+consensus_public_key = "00fedba69d827ed03647bbf01b2fd197890b957aa9f92d707094c01c9dbd4837f8"
+account_public_key = "00287f356eaefb7e071a060d8304538bcb2c6ae2f2ece2582d13e9854a6c2d1ae7"
+protocol_public_key = "00e668cd944ffcf8e986e2a20cefa65c47aa2859e45aa21e9ff4b5e062a6076cd3"
+dkg_public_key = "600000004f6a19bedf7c05fc8d31dad4ef6d40be41f0236751558bae3a1cbb0bd7d6e889683c244d0f5c8284572e53942d3fd504918322b8817ab08ca18be93ad8ddf1fc0abb614d5997b5a2153c580c73ccbd742b7121f5852a4ac43bb192b7a78a5b0e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.226.62:26656"
+tendermint_node_key = "00bf720601db888f0826db03996275aab25ed0a30d4d1e237b43e9bbc0c9c3c7be"

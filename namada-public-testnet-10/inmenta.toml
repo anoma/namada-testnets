@@ -1,0 +1,9 @@
+[validator.inmenta]
+consensus_public_key = "00e2c8eefb583a58c093dfde75cfc2c175233ffe9f77aaa42255488d9b5293523e"
+account_public_key = "00c203746cb38846445ddf84e8cb236f7412455b155e0a5b733f315d03817fbd2c"
+protocol_public_key = "00ab403fa678d78ed250106bba22ec71630aff9de269ba1f04652ac759c01d5706"
+dkg_public_key = "600000003536f03c6d3a6195edcd8a1b1d7d3f2576c484ea8090407476f4b0eac6a3259903cb03f3f4c29e60c515821927fcbd03d3f58b6be93feb7d31c86b995c654c1feb9c03386ba9f2ee6f999ca6993061208f80e589dc366cf421ce573ff1667f0e"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.72.14:26656"
+tendermint_node_key = "00aa64b13eca3efb1afb0d577e2680a5666383935a0f89c7751cf9c1a178c1bceb"
