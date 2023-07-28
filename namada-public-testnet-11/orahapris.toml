@@ -1,0 +1,11 @@
+[validator.orahapris]
+consensus_public_key = "008f1e84c1b5b857836cc0537eaf5e9a283b31ba4cb82deae3d8b98af7be73b9ea"
+eth_cold_key = "010352d8fac7fd5e2a9997170d0b5a1139ebaf0257fecd9d40dffc72b470e4ed2c8a"
+eth_hot_key = "0103bde0a8b0c125b5406336ae64e5cb2e2e92ab4d397d6ddb32c2390625cb28d4f0"
+account_public_key = "0004e4c9423e2244a6113dbda0ffeee9b2afc03d53f8d9e77313b629cdd662b758"
+protocol_public_key = "00f17bc1e167a5d60ae79b666bfd49a9b9053d849d8bc9b9e6616d6832edc1efe1"
+dkg_public_key = "600000008005845559563cfa3248161bc48249c227298f9206ac71ec9c62bccc4a4acee4c8f67a0e12f815f23736b89e92065e0553b61a9f2486cfc3730a3fb2e03d1b1c27a16ce73bb00df78f36dbd362983373d6e2e85abafacca330738568a7d7360a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "136.243.148.154:26656"
+tendermint_node_key = "00ec391ccb0f4fbfcb1803540073cd807195c45c43bd9586029f482de7302f0ab1"
