@@ -1,0 +1,9 @@
+[validator.Everstake]
+consensus_public_key = "00377eccc4e1f28bd798eeb323dad5dc9ad3902daaa011ebb5f47d497c153c2b65"
+account_public_key = "0069bb4391ce3599c30fcfa843b151200c4429e0a98c404f9f7a6182a0b1e3bdff"
+protocol_public_key = "00d59a6c9b4b00c4d788bc7f539dff034afcc6c2430fd592e993c31cb4b1dd6f6f"
+dkg_public_key = "60000000fc96fcf306f5e5329e1bf272e016ba499d8febeaa0fdc61cfb2befc7e726fca858d2223fba222078e383db5c26a1c90fe20f9bc910e150b83f200b547102c6f8fc083e67ef337bc622871708557f3a1c1f1f675c27cd70337a4914e9e1c9f012"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.132.132.100:26656"
+tendermint_node_key = "00d66b5192c48cb684cedf6cd9d3cba636c0f80ea640447aaedace926b80549814"
