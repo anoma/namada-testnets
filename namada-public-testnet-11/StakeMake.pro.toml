@@ -1,0 +1,11 @@
+[validator."StakeMake.pro"]
+consensus_public_key = "005fa0f648f37316b7efaf47d78f67ad56ca6e0975c11d44c90e7ee1ee57d95b1a"
+eth_cold_key = "010368f3048a9092bff508aeaf53977662c7c27de6fff731a247e8306ce0c5ff1df6"
+eth_hot_key = "0102aba599c5a2058d5d0efbd7481d44192f2861d80f6f9838d0476e44f6ae3c23c5"
+account_public_key = "000fa4eaed89412d693b6416a14d265fb46fae93c428905c1251579b01b783ea6c"
+protocol_public_key = "000165104e162621ea7473dd001f815895ccacc9f906577cd1df17cfdacf57e1d2"
+dkg_public_key = "600000007cff8b3c0eecfbb56ed2753ad58261298d6b38570d1dac27ee2969a9715b07991bfddb6e728c5c3cddd83fc2d69dcd199c90f5c286d6dd2a62b1f6a82b814477ee8719db6cd9c6da045cc98f0852761e603265881dd37630badd49bdd22c5707"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.155.97.74:26656"
+tendermint_node_key = "00ee8f6742ac0479add3d4d0a7130f8d224600ce94cd5efb35594f599ac1082a46"
