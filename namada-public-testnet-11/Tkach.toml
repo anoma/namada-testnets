@@ -1,0 +1,11 @@
+[validator.Tkach]
+consensus_public_key = "00d34e977235ddcdcb0f0b3651f240ca64b570747f54ec27d0eba349ef2604699b"
+eth_cold_key = "01038af89fc2ecfd569484f80ab702897f7fa95be538ea5356c80e9a17c6cbf27f8a"
+eth_hot_key = "01039c617723dc8202ac66e0d03f7ebb42f529dbfdb046144bc1b5fe530b5a012afc"
+account_public_key = "008ca9b061855ed089a2d54f366bb68e2f2f38bef84447f2af17d3dd3fb04a1571"
+protocol_public_key = "00486c3e382fc81ef4c8fb47676856bd43e33800f02ab36dcc2958b72148346d36"
+dkg_public_key = "60000000af793036c3fc067abc93fd90eff43ff599e7298ff8f4a50ec61aa195e4479e17c51eeb4d1278f0a9e74efec663d8c40d781ff8dab0aa1957cbed501cceffffe052e178e2f4bde5af5e55293feea822f8115b6840de321143cd59920003aa8680"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.197.194.39:26656"
+tendermint_node_key = "0065469af551df127212f8c4d0c418a1d333879274ce2b58b112a311283bb25fe9"
