@@ -1,0 +1,11 @@
+[validator.Brakelon]
+consensus_public_key = "00d346ea164d4d1301ff131dc2cc6fbcf56cc89073c7cb815044a91d470b6ed1eb"
+eth_cold_key = "0103d3e98cd927da0ee9faec2d3f2d0375543c1e14bafa8c6a2ef2a5d2fa5ced2193"
+eth_hot_key = "01031edc9cce0881b95d3582cb4636fddbbebd77d34cd346d409cccc5a6f044776b3"
+account_public_key = "0055250228534e8bbb5fe3a12bc3634ed32dc16f867af0e18867f206b987d8e53e"
+protocol_public_key = "002cfb32b10cafa246b54c86160b8a8a90e4e6f796a8f54d84f2db0783d2c19193"
+dkg_public_key = "60000000814dcbeddbc22555a9ad79642de018451fc1bf1b5c18447cdd6c808760d010f0d668dfb1d516dd818d0710837dc7620120c36e46cea93b51d9f2b0c33f240fa01802508b2530ce1c14e3a5c3e3dcdbff7bca364fcfb19f8864ea212a31012b03"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.145.87:26656"
+tendermint_node_key = "00360a1c014c6ea01bb6880a43d56a2de02f70da3911f51d1e711d8a4252617cc0"
