@@ -1,0 +1,11 @@
+[validator.zkbaba]
+consensus_public_key = "00e000282bf10a8eddfe95a82b59220e7aae3a7992c7840904e05ea21f54c71074"
+eth_cold_key = "0102fdbb4b5db1b5cf3a9aada949ae5236e2c0995dd6cf10dd6cad1bc29f389f8e90"
+eth_hot_key = "01020be98520141b025a09e9324d42d05ce79a509b280e975de4e9496cfb7dfc40e0"
+account_public_key = "006d9760153ba1d4905c39f136bc070e346d133dad1de5dd5e8fd0c4cb31e77856"
+protocol_public_key = "007e70d3801c6b58c9f5409edb0e5a1717fbdbd07e0ab60ae9a486c2994d9d193a"
+dkg_public_key = "60000000e100d609cc63be4e7d6220db649ba9ce650347a393eb35da35df5adafc22475a5de5ff0cc3bcd1304f1a41aa354043176ee26f1d3d1272f958fb2d397a7344347f19dd61f9968eb07570ac3876ead3a25f6edcb82c0c4b396b6770b5aacc4385"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "8.222.253.44:26656"
+tendermint_node_key = "00f0a5755b20f48d0b586bbb53d8bf75e338e28ba2209d0765d4860e95c84d2fd2"
