@@ -1,0 +1,11 @@
+[validator."stake.systems"]
+consensus_public_key = "00a9549760e0a5fa3ec77a765940bd79e9c279eb74612c3abeb94931e685a9913a"
+eth_cold_key = "0102c18d1647c4706744ef110efc837b9f2015eca8aa5b5e18bd4b35fa6efd6e0e4d"
+eth_hot_key = "010303310584acd13b75c08836076360cfd11c353ae73fcaf6980e485e64108cff5e"
+account_public_key = "006e4b0c78f675baf316770719d54f496f6afadc75db2fa9811dae2433c90f5bb0"
+protocol_public_key = "00a84ba59eb8c8ba0b00bea6a6367f8a3acfc2f9b6f8750c69234701d87fc85247"
+dkg_public_key = "6000000060e766c55c1d2fdbb6fe821bc55da55d63ab40c022c59b5b41da5d5bab8a28409f5f390c48fbc53113e73da606d2f5100a5058936d8c3bbe56b619f542e41993d8156bc81bc81df654222cc562e81507705ff901edceca309797da19079b6f0f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.151.35:26656"
+tendermint_node_key = "00ccde9f7a578b67a1f81eaf42ed02ed982e1534a12b378a96e594df5d066a30f9"
