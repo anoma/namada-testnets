@@ -1,0 +1,9 @@
+[validator.onfly]
+consensus_public_key = "000dbd954898df96528e8bdd3cb6c1635de040a2f008ce3cf28fe4bdbc47c94d05"
+account_public_key = "00942651ac123124200cce0bb682f8a2d708111aa427c2508b18179bad35ddf6a3"
+protocol_public_key = "00f4ed1bbdf4e3208aa96067e87ddede16cbf2ebcc9cb8736502c37c2fce9e41a9"
+dkg_public_key = "6000000072b0d997e665673248647797cf90e7bd673646e400f1155932950658085a8155b99053575859fb1202412e76dc60ec15eb3a6b4e9187b89dbbeb4010567ef47cfea04c0c23f56b6e4c18c63e768797eb1d55b8e0babea0f71dca5234c3d29b8f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "173.249.7.88:26656"
+tendermint_node_key = "000cd76bca84499ac4061cc2ab0687d6df2acc4bb79ec3b6cee04a2a113f18f139"
