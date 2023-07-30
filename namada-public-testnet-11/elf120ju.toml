@@ -1,0 +1,11 @@
+[validator.elf120ju]
+consensus_public_key = "00ba3183cd2da80bdfc3c21e79c074f194f629b90a32ad418731b74ce2942b6600"
+eth_cold_key = "01034e57ad45921377e6639803ca976fa9c887d7eb4fd05ae28231243187f000fe99"
+eth_hot_key = "01029a6efbee4ea7da8cd51dabb9465a9367aba270a65deee03015d9dd3ae81532ac"
+account_public_key = "002348bc5e4cc6af9297793a8fdfea3ec7296db849c46bd04f398bca84d1f577e6"
+protocol_public_key = "0015805a9bbf2405e83e85ee5f71080ff517910280cca3a5a1f6e8e25b29c8e6f3"
+dkg_public_key = "6000000053f03f694120ce5f4eca0444ef5eb6f4e47377cb8cd9a2d2dac5d70c8711adf6b0eb9df8d43533d37e0c1bf8d6460908735cebba21dd25e75f65101a55629bafb7af72025929fca767bef64c6779f70604530e6d1cf68e0f31660dd33b5f4c17"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.215.240:26656"
+tendermint_node_key = "00b805d8bb20f02cccc4429dece50469f90cc0de9e1538b6421a7c622e3613a25d"
