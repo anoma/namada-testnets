@@ -1,0 +1,11 @@
+[validator.NodexPlus]
+consensus_public_key = "00ebceac674b609ee6aafbee7360e843dea480df51f6a4b5c86253739c3382affa"
+eth_cold_key = "0103660d8ecbfc250d06e28a2e11c663013ab591148ef60eb4067d4589b034230f1c"
+eth_hot_key = "01031a2deb428043f96e0a2ecf6da7b9c88ca016f656f57471781a306629d54bf945"
+account_public_key = "00b21a4eb638be9c85eb588e146e48c97aa1f1054d1c6dcac93522c4cdf795aea5"
+protocol_public_key = "001bb741d27dfbf6078143e49bdc7738b33e4510d132b1eccfefd41de89c71acd8"
+dkg_public_key = "60000000ab8ea7330fd4b620f0c540099285f122113157ec8b828680d9bd2b578a9620587bbc700427b440de473f662f9db4080bc43923ac92d5e45f5be877f1cce78953b79c12792db81bbb47a02f5dcc9c49c7893398f8af0e980249bc1f1b7cdb4117"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "168.119.189.174:26656"
+tendermint_node_key = "001b7b6debacb24e088a646e08343f756b04f9e4ba616b1e48be166c7bb4f2b21c"
