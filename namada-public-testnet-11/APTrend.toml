@@ -1,0 +1,11 @@
+[validator.APTrend]
+consensus_public_key = "00c24d70da6874b5eb88aaf7e21fcfa5a17ece9a120feefd82b0e2d603d75573ac"
+eth_cold_key = "010219131deb025f51066cf6a3a4f45627ee35bade91d4cd96d530c9961ca5a554fe"
+eth_hot_key = "01031e96a945e8290afbbb448b532026ceabb04d5b26a9294a484358fe1c4d5af69f"
+account_public_key = "008787f642cd6ba88639e44b1c241c4967b7eb0e9a5f07c1b336448bd1fd7ab337"
+protocol_public_key = "00106cc0a040b81c983df79079a1a5cd4cb5f81bad5d0145859a4386275b0a2029"
+dkg_public_key = "6000000020c320ea65b15261f5bf27c08378bd93fbd9d407d207b71cbb93764ce1c4427e888d2703a481362ee72214ff10f3e212e5ecb79969b6b2d5d88c913e80303dcb1dffe3c7dc8965fc26be4872fd680bfb6e9f2f0cdbdcdcf512d0495999efdf06"
+commission_rate = "0.01"
+max_commission_rate_change = "0.05"
+net_address = "3.71.205.230:26656"
+tendermint_node_key = "00de89f10f04a2a13166edd7e146cb3280bcdc444b2d76160058369289229ff3f9"
