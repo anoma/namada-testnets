@@ -1,1 +1,11 @@
-
+[validator.bembivalidator]
+consensus_public_key = "00672bdf4ab5fb42681c3df23743b234ed46a042fcb68496f9c1daee52dae7cdd1"
+eth_cold_key = "01038e6133efdf6fefe903179702eaeeb92bb40e786ca95b9964c613bb07037cc090"
+eth_hot_key = "0103fa1df5dd2d13c52370c758d783ea6c15a490a4db2198e69fafb2cf53d71ff2f7"
+account_public_key = "00badebdef287c87ab74c3c838d98479b7a2e0aeae00d779375c3990fec2f5ce70"
+protocol_public_key = "0055c9c43b74d50a109142204341b77bdb8bc564f00920811aa6bc9d64944eecc5"
+dkg_public_key = "600000009fdaf58e1524dc9002c7bc7a9e758b61cc12c0bfeb57519ba15a2d7edb07b370bbe3d54c6b9dcf184b4c66cd4937b018b1291ed71064f2d6c59023eb6741f34ee1c1cb678c2a75afdf5a9895efb91b868568dfddff30            95507bd53584b76bbb86"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "139.162.88.216:26656"
+tendermint_node_key = "008a4938fa79a014fde5a0d47cf11fdf64e8aff0522e8ba9caf8f2bc5922db47e0"
