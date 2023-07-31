@@ -1,0 +1,11 @@
+[validator.BlockHunt]
+consensus_public_key = "00c6249c6aa496b39cfe988dc9d83751055cd0fc75cd543ae5130f99b5f04bc766"
+eth_cold_key = "01034d6c910dbc21c79157fdeaf7bb939b9a56708abc47a42bebe183f5909d783109"
+eth_hot_key = "010385b605cf2b4c1b0f8ca5a67f1903cc0f4131659bea548ff0ce8d8e5ab244dfa0"
+account_public_key = "00d8ff860ab01d3ffacb72bc3b2766c318dafedd5e2a8310f55576aa8991f825c8"
+protocol_public_key = "007507fc4b1b8f6672c2430e0bedbd44e61a8e6f71aef9f918bc5d602a9f40ffed"
+dkg_public_key = "6000000004ebbc87e0976fa88abf4ed2375c386994a9d7860963a0114df7ed5f8642e89137c0419b9cb2fc88050074f8f814f318c5182a051dc234b3adc148032f5622931cf966a8b49eaad6930b4252ff5adb5d44b4c080f550ae2b7375afbf097c8099"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.3.223.182:26656"
+tendermint_node_key = "00a8dc6325ae8f381e183bd0047d1a32b95ec76cb33afee5537648ccbcc49d9c0f"
