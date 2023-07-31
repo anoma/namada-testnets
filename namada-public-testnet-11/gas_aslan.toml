@@ -1,0 +1,11 @@
+[validator.gas_aslan]
+consensus_public_key = "003f3b9c081f4e2384cd75b98c1e4e149a600f0f7fbee826890e51afa4dc3e6819"
+eth_cold_key = "0103e355ad83729f4dd0ccc70a6b37c292d45673e56e549d7fbbe98caef8845ee4e2"
+eth_hot_key = "0103e60f53f5f2f69225a37baf7b9cbef15c401edac78ee4abf9fe81a435174c1a92"
+account_public_key = "00c54e6ec63f837379a996eefb988476f36ac2c380506da1e9709801a6ee9520d6"
+protocol_public_key = "00f8f31852ad89821422b8f281ba78759bc4a467ac1a7008cca64bf913c4c11ead"
+dkg_public_key = "6000000038ef70545e1416962c81ec21706ae0d564d4f003456bf5b42d530e8836afcfd724fca7c0f0efff56b0b4094abda2010e3cf592a440a989d89de0e2f5b038f9d7d2da46def86ed6ab5d6af32c0ef8e755a26b444f1c1ecd41d324ff0aa1788898"
+commission_rate = "0.01"
+max_commission_rate_change = "0.05"
+net_address = "134.122.67.176:26656"
+tendermint_node_key = "00f6f0147ff4a3f0d2a0be6e128ba0dd33c3a7c89e2f8903061d78bfaf746f5fa3"
