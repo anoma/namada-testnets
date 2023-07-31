@@ -1,0 +1,11 @@
+[validator.chicken25xi]
+consensus_public_key = "00ace8af7c4eaf7f3ecf2a7c8b6e6f1087e65a92be2b3dd9e7aeeffe5a4924d428"
+eth_cold_key = "0103f77647ae8628fbabd3bda69f308f7e4aff80d52ad375b1b063f1fb526e1e9cec"
+eth_hot_key = "010278cde8251b9b81d96916843ccbbc15b034860133e07a12a5605a4745ec5a301a"
+account_public_key = "00571b8aa28cb668b8e563859754e515d51e1444f427b99c0712ee491aa16e5eb1"
+protocol_public_key = "00436a411002f47f714b9ac7f4882304cbe2db7a9a56e637620535a015c6c9f942"
+dkg_public_key = "600000009161ed430858cab377fa189b08c20c7cea901ea661e887dbb15c706fdb050da211cd1e4a3316d6db3da9bba4919d2a04b97a6759f943acaa6750901de61804d1bc85c3dea20f5f48a1396fcf39bd5394bcfc97e9dd2598b8f331d494a7af2397"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.111.238.21:26656"
+tendermint_node_key = "0007ba89fba4d63ea21091ed9c3ea82d39020fdca47fd2016b64181e7a2bf80214"
