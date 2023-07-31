@@ -1,0 +1,11 @@
+[validator.Validavia]
+consensus_public_key = "002edcacaee884d7b26764c02e43bfd452687f054ddfbbcb1be4f1ba633720b287"
+eth_cold_key = "01032daa91b446c69a717c6b809b9cf3514adb66699180de4a5afaa1040b7e350a46"
+eth_hot_key = "01031a84dcc02d6969855625c09ff664916d0c1adf8bc937ec0f306d9b523cfa0240"
+account_public_key = "00a4e47c2a1ce0e66cbd6bc1d3b6610b85053c4a78025efd21ea84d387e8f66263"
+protocol_public_key = "00cc6fa5112c4caf1dba224b24f24146397bf180a6453868ffe720072f61439838"
+dkg_public_key = "60000000cfefe32ceb0a002884acd5d6694c15fe32c7c423221996a043a170b206c98c3ff8b6f4827522899a1a2a0f7a531fe009ab84efaf73b1de328d5a034fd6b7d7c0902e1c9729f5d02ee4eb2463523d98c007108a5ed4052f5c5c19e38cafc67692"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "136.243.79.95:22656"
+tendermint_node_key = "005d9afbf8c1080be8b00df2e2e8ec850c4eefed06dd76e0a5c4fbf6a46182534f"
