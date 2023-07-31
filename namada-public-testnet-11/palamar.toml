@@ -1,0 +1,11 @@
+[validator.Palamar]
+consensus_public_key = "006495141b2b8d01c7b0b64e1ce501c2ff92874405722555b80af599409798e34f"
+eth_cold_key = "0103df744656612c182bed059e1ed96d42bc7ace33c154c4b960d98dc55a1baec679"
+eth_hot_key = "0102efa1748719d54fcc256095ae887fb8154e7c161af216f583e7505ca6454f85e7"
+account_public_key = "00c273dbb7a2f86993b2807a80caca547fc9f367ef0dfd648c27bfcc9b7ec7ca1a"
+protocol_public_key = "00638eed5595de703ffb368976aa9e2f71b95d0b4cade9dbff920e534dafee21e8"
+dkg_public_key = "600000008bb34a492a92a403e9ed0ec2f2e9bd3eeeaf206ae6aa3ecb6db5971bc24fa7251afd50f86b89452a40b8170cfefc2d0217d9723a673fa83a58b4c04e5437fa3bb554c28d7d45b5d7ba9b13a4198cc4db5b957b92930748087fcd9e30e8221895"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "167.235.132.251:26656"
+tendermint_node_key = "00e3b5839fe7d33ee9429ed701e7cf801e613f6d3e8593406facaf46fb7fcc0992"
