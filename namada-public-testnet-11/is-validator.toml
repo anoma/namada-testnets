@@ -9,4 +9,3 @@ commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "54.89.216.88:26656"
 tendermint_node_key = "00d55de09699630b3899461eea52f42f308f4cea6be37b9e2c18d977caa031b090"
-
