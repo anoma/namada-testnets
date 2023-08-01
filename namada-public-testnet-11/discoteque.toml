@@ -1,0 +1,11 @@
+[validator.discoteque]
+consensus_public_key = "00aa7cbb48375fba535ccf5f77b290a1090c4ebf1e0c8a0b63793c7af81f88548c"
+eth_cold_key = "0102ad01382076d3ee81af3e7c02d1888862527923f2ac8887be006d43990fa95f1a"
+eth_hot_key = "0102ecbf93caaadf76f1d6d2026bc2b1dcef8b3112b3c0e85559b992616632e61345"
+account_public_key = "003db55de97e070a7e1b4fa8fb9d2d35f96ed84b9b2157472055cc4b9be0a8ad3e"
+protocol_public_key = "00d66026bbd56d7f805c649b563b74f95c6df2fd4384ecd768a5e55df071d1c66f"
+dkg_public_key = "60000000e6f99275e7ee06be27f37caa642394358ec95ed92ff5f84a98efb51d0c5be81cfa99323b1f37604f9cfad299203b11166cb66bf7fbebb20e936782ee498ba5786b44529ad04ccd264d2852252521560cc602f6ec5ab5193f7afbb2012b4e6b80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "77.235.113.27:26656"
+tendermint_node_key = "00c11d6f67d745dbd9e1517467f460acedfab73663489f680fee17ee2180fab07f"
