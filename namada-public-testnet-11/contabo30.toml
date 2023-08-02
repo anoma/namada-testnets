@@ -1,0 +1,11 @@
+[validator.contabo-30]
+consensus_public_key = "00207c5d2d013d6790a8558a97f477c98433dd39558bcdfd91fbe4a1a2ba4ba5f2"
+eth_cold_key = "0103cff516c5927943825d5d1fe7bfe522b0c6a839bd99cce010853d8d77bb1f6634"
+eth_hot_key = "0102af3114ec5ececd4304997f666edfa2ef210daf7b950fb50719f3c631c438f678"
+account_public_key = "00d254d27b698c03ddf8c0758cc0d1179b647e20003f9e0b024e6f921238153021"
+protocol_public_key = "001de5d380d98d92fd7f613eb8b96aa339902da8a51890c445b7ac27844ccc3a0d"
+dkg_public_key = "60000000cd52f57261e8019811fdce3fd344bbff663a3779200fc13e476c898fe9e0279681e56d9d0da908ad0c4dcc011c38e00cf1a93f1753ba6a4a625a7bc756eb01ccc52254dfcf6e2f470aeb38cdab0fd9ab6116d9fd2e5b6aeba3f7b725aad57082"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "66.94.102.176:26656"
+tendermint_node_key = "00e830a57610257a08bd68f58d54efe2e5ebe23272bfdac0ed0e9c83cba3d00102"
