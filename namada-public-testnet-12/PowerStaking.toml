@@ -1,0 +1,11 @@
+[validator.PowerStaking]
+consensus_public_key = "008a32c7260b5270d700c0abfbce4597696ccbe847a06e5ad5844db8d8ebfc367e"
+eth_cold_key = "01038f2321c55a3cfef9ca0e0f29bb3758c7fb72e2a56c67ea36799bac3c14b13aed"
+eth_hot_key = "0102ab3e50be7765d482cec0cc80aad91eee654f7f36ba544dadfdf94f179e89ca4f"
+account_public_key = "00ce425b662ce7b9b9dac16495b148b88cbf0bfd87ecf9e6fa45d5bce156093b7c"
+protocol_public_key = "001de0894f8dbdbbe02b373195b9154a530be1f8227322aef15b5a4004e96303a4"
+dkg_public_key = "6000000029fc3ca7cc724935f5a0a4fc7d2b5d0c6a1ae1525786147c8f5d83336cc50e82cc96818b0926cb1c6f35685036f95d161ee68426b7759adec1451aedc825ab9b62c4fe9b90f77725a65b058ea840c9fc557cf27ff36a159cf8cd0baf72ccd510"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.30.36:26656"
+tendermint_node_key = "00c30bda02f46b1aa03fbed496c0be12597b0295d82c816dbc475b12344ca0217d"
