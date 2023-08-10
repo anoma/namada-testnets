@@ -1,0 +1,11 @@
+[validator.doom]
+consensus_public_key = "00fee7b60a4e826ea2ffdcc084ee3ee833c60dd90606b741ac84080d8cb94987c4"
+eth_cold_key = "01030e43d5b03945f04360f56ca9b07f8105b1e99c1dfe9e6b9ce4a8daf3dd58a97e"
+eth_hot_key = "010303295acc2b3fef0ccc3ada7934be9a2ee39e8e04e8ae52471b2da3220d837d05"
+account_public_key = "005379c7334e3c8b770c6c3ceb78e8df3f9880df0c82d92aa70c8d0cc6ec23c4dc"
+protocol_public_key = "00a86421d163b9fbcdbdb4eef2fe81c257a773053410de684acf0082fb26f7e6d9"
+dkg_public_key = "60000000e9b724ffda049e9310fa046d2f3162ebd44e79c12126b0dcd28e02f821a4d65a242a7092a2dfe2e96702f0ed940b2c0eb9bc5faddd3104b20c1beaa7c04cd03556cc9ecdf92f2f2e523f38>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "75.119.152.64:26656"
+tendermint_node_key = "002d567cefd6e0c322af0e3ea6859deb0a1ffb2277e055555812c4f0b0c2ea7d1d"
