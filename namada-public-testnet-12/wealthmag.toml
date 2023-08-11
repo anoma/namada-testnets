@@ -1,0 +1,11 @@
+[validator.wealthmag]
+consensus_public_key = "0039cb44f6b34181ebcb442a369ec25a58a6c87c286006e0c6719e1da0e12d4fd1"
+eth_cold_key = "0102a908014258511a20f0ed83b4690fd599ddcc353a2f623b568aa80dcbd3e46cfc"
+eth_hot_key = "0102867edf6f96e2ad409905103b597227b5ac39f5859a2f7b4b424db92fe7359813"
+account_public_key = "006fb032d7cff7a851f16b18c21c66f24d9272e54bb16d860cdf24153d3f2c314a"
+protocol_public_key = "007346cca9dd132a873e43c7764f6cd3ba4d0d7d7f687dd2bc64d7c4c71012ae88"
+dkg_public_key = "60000000834e44c9bb6385e2472a06e7fe93ebd9ce56ac936cca8c4eb6767d326d98c4b2cde19b65968077f8bb28c03f7449cb0e20915c81b17530fde3de6fde6e699d2cdfd8bb606497f9a6ad2a1836b1ed4e44bcee42ba107d97ccea240c75a9b40398"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.194.193.71:26656"
+tendermint_node_key = "00f9718737f59cb6068714fde94a2e1cdc5c9ed23038918288d9b5d3220e1db5c7"
