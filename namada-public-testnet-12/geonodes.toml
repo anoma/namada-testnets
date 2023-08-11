@@ -1,0 +1,9 @@
+[validator.geonodes]
+consensus_public_key = "00d7dffef616c185f9510f4cd51f85fe908f83b3a71d5d6a14506a49d62a9b5596"
+account_public_key = "000ea0679beff653235c3038bdeb3a0cbff423634bbc1d141dd216557cc2687150"
+protocol_public_key = "00bdebed10bda9bf559083886ad5a9aae9353d325441556912d071d8282e3cddd8"
+dkg_public_key = "600000008adbdcfe0b8fd7db40d4e431a70fcf6701b11b2802f95dabdd5e55bda8e028375bfeadfad0a4288464591aaba2c46f189628bc85107111db6b51cb80f6b4b109fb0a1fb4762f8d096a40f6a0defb415a28e801fe9da758ecde9c76f080a68519"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.10.140.93:26656"
+tendermint_node_key = "0099a4faf6282dbcc6d43e25ce8e2f5fbc94b5ad8e98bc717cbbadc0fa95038786"
