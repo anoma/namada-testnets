@@ -1,0 +1,11 @@
+[validator.crimealone]
+consensus_public_key = "00bd0300536272ca3c9c8fcb8923539a33bc81f32ac124abcb425bfcb4339d15b7"
+eth_cold_key = "010200f377ac8e84e5589c73ecec036a61c4bcae0b5494f3b6ad1364a6cac5ec81f6"
+eth_hot_key = "01036889bc420e3ef355bd74d97d06ec8fe286b181ef82d5fd4ef771ae15bfc3a887"
+account_public_key = "00de4c2f58777f63655abaed3e7c80d3e3def3c28662b4ce2db9290b239e382df7"
+protocol_public_key = "008f003f83b7ff094d9475ba50fc48aea5df1405aa54411c0cdffaeb49c569da2b"
+dkg_public_key = "6000000093d105a9fe73ba1bc33ae82bef0f31ffe515adceeab1d3d602fa1da7fce0b9b54ff7009a9b2d56e2300317c3d46b1a0960f5d8bbf2f589dceac793b29d5c7cb5bcd7d0997c384b04ca62a74854b4eed84fd8fd5e102ae4639c8ee3b7ce04e218"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.42.49:26656"
+tendermint_node_key = "00b1a7554e9f9539bb4ad22f225a2734f8ecbf642eb7d8e2341214ef1f68563d57"
