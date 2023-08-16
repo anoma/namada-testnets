@@ -1,0 +1,11 @@
+[validator.kulikova]
+consensus_public_key = "00f8f2ebd15bbf79abd12e7bba0a5a13de91c3120c832fb4ea6e41e42821bca48b"
+eth_cold_key = "010229b1a4dafe287350990f38a3b34346a7bbc5eab86732cfada9c9dcc57a17c8cc"
+eth_hot_key = "01038a779f8238dd94c3ebbaa96baa3ce96e3eae94ebd8fefe94750a489a15040e4a"
+account_public_key = "00f30ec5e09026fd93d58c643ed3a5f8e406cb5908acbec4b5d6d5a2f6737954e6"
+protocol_public_key = "002ee259366730d7edfe368ba1c40d14b0ac487f0bb56ba9438c4f6eb0ca762ed9"
+dkg_public_key = "600000000274d8103350183300c1e7436baf00fb77dba244da624de82d0223b5bc506e05e3637979ea5e5efe0d26c36e27ed8f0ede23ea1f35481bb99e41c9aad222c0b8d54f4fdccad1da7cc90d35dae7c9c85af1fc0a704b477764fc93c1b99a7a8018"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.151.104:26656"
+tendermint_node_key = "00f6a5cc16677c956696c8689e5fcb939d9b777b132b0ad3ac34fb8e87a36b588d"
