@@ -1,0 +1,11 @@
+[validator.Allnodes]
+consensus_public_key = "0003607210154213c1db55c07aa221e4beecd7c69b7115a2f1ca4e581b35e92c33"
+eth_cold_key = "01035d5cbc6e089ae5eba45ee79466bb6e7771c551fecdb1e4acc0733f5e396170a5"
+eth_hot_key = "0103c2f4e2e28bab444b243a89d89df53ab8f2fd2ec6c140cf89bf6f4563a0a07071"
+account_public_key = "00ab7bcd6db95fd00fbff48f1f5283cad57676da59d34eff545475415cdc96cdf4"
+protocol_public_key = "0099971e1210a5c0480186d91acc3c694aec9707575185e72783f23947142b12a9"
+dkg_public_key = "60000000720ef9fa2122e4a99e12f50bbfe3f79d88bbd15d48ab6e87f5ee6cfcf5c9d7c8a9db0521826fca3c99d54867f5fef304d1791a3c288ba79f934d128f20741a8df806c80df817a4a7d9641006156efbb648b34a943081cbbed20c0fb59c146e14"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "174.138.9.147:26656"
+tendermint_node_key = "00bbc4e2ca50b290fb45b6bd0e0f7a4b34dfdee99eed892e94ffdfeb29900bdd85"
