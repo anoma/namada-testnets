@@ -1,0 +1,11 @@
+[validator.Meria]
+consensus_public_key = "00ebf1843cb017bfb6c88b2c02b3bc4c88229abb637e523d8987a8233fe0b1ced3"
+eth_cold_key = "010389f638f0b25dabd6dc784a61e0ef4fd6578f674a935b15e4b09969cb755144b2"
+eth_hot_key = "010358fe89dc9dd585151e8239fbc54d3a102cd96be4abdd37bd09a801d485a526a4"
+account_public_key = "007d1af233397ddacf3bfa85eaf01a261e19ca0a5c850205e2799c0bb966967ef2"
+protocol_public_key = "006e157d8bc87cf7596cce02cf66abf1c087689a084cd20e6109077dcaadb8988f"
+dkg_public_key = "60000000d810b949810a7f6d6c922da271577af007c3ebe1308592d0fcfb11c93cf7dcafdffdad63ecaf4a21f4aee484e1fbcf0385817af67ad1f4cfeaed1c08639372104eb0cd45558ecd17e64b538408953f67265febc90eab5df15ca01fcc431a1c0b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "51.15.206.145:26656"
+tendermint_node_key = "00243df43d329098d7b4e958abdbdb98314788c142e3f8f8742699f1b2d69b0e36"
