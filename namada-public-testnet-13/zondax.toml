@@ -1,0 +1,11 @@
+[validator.zondax]
+consensus_public_key = "00b77c725e7d6fb86b0c4e6be315ad5c00a81fd54fef8c762f359c4bb98d85cf37"
+eth_cold_key = "0102f982359e4ce9035d72dbe69c1a0b08c3ef2d661066cf8a10dee91f8027bd5ffd"
+eth_hot_key = "0102462e2efbd00bf4a7741cff1e1baa2e2cc665151693908ef4ec0aa81ac192315e"
+account_public_key = "00326bbc1956cbcfecf81c2d5544b084b3727356f6d3d68d557b1f6a4cc1217ef6"
+protocol_public_key = "00f8af8b94eeadbc17f93452069bf561ad5e30ed21449db19f0f7c9b0620265961"
+dkg_public_key = "600000007c59fd296ef43c33354e4c897998c8d8be74d99b5eb74bc4549c6f1b1d67727f623e7781781ae004cf07b88745e59310e9e8eca32faa4d4186574e4bc7a1de75bf0c7ae865b8df54934c0e2fad18b4b426212c78e121b2fbd27c6f351cdbf110"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "85.208.51.8:26656"
+tendermint_node_key = "00aabeae47a5a8b6ebef879a44e183300163e4e3ecf75155953b59df218cec54bd"
