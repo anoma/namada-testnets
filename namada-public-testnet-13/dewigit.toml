@@ -1,0 +1,11 @@
+[validator.dewigit]
+consensus_public_key = "00a8bc5e1229e22a3687cb16e81bfc98b0686f9608d289fbc7540a29ccd0e15333"
+eth_cold_key = "0102ed9f6d2a324ad5e81110e55b0244abc0c21b19e3d8bcc038eb53bed4576dd638"
+eth_hot_key = "01030d049c92d4ef7e62347c2fa51c46b705b488f397ccb59a1b97e7149db8143886"
+account_public_key = "000ae106b5b5c79c16349178d2862b421bc68dbe064b6812334ab0bedc8607dcf1"
+protocol_public_key = "005e71347694c40171f2fe5e4b7d7726a5e2b5f47586e27ba7ad30b1c808b2b9be"
+dkg_public_key = "60000000fd22333da33cfc7d6deafdcaf7895d31efb47aedf07436101a6ddf2a2f8c6b3d190532cb43061a9706efbe984cb00218717b97915fcafebba3c826b4b6aa7c4ea1e51c500cceb9f8bc053553beee38801f2f87342316400e7aa849e2cff68e06"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "47.254.67.172:26656"
+tendermint_node_key = "00ae0161f44417fa3fa152de0aa2239d1e7f5bd83a6cec12dc9d798fb995abe5d4"
