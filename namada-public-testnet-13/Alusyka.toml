@@ -1,0 +1,11 @@
+[validator.Alusyka]
+consensus_public_key = "00cbbd79a89b6a3bfbff29b827672fa048ef41f1ea1fdcfcf48a78fc98ff1dbd58"
+eth_cold_key = "01033d8e5fba5cf0327ec31490467fdaed25b2459ccc42f940876249209bdac7760c"
+eth_hot_key = "01021b6473915555b62a2795e653abde63252c1386f19cba13744d9df2672a7ff8ca"
+account_public_key = "008f89600c194de468e42fd1195c46610736cfbc517f8a18a0af457e0d955bf85a"
+protocol_public_key = "009f35df96cd9f67989905329ece50d6146a00d154118178fef7eb88dd2ac16e38"
+dkg_public_key = "600000003d2feeeb5a34e13fe7a39c414e63332206952201f9fdb0032c9112441a9e8c158e6fd36c5727cc30cab8b2304ad4601725b238c50026f93cf5daeab5c04e39baadb69067d5d63fd286e2adf423b9c69ac6fba4584fd2b0f0ab90488b62b1238d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "128.140.86.241:26656"
+tendermint_node_key = "00a76ab5e1b8e3c22a5a041de80affa5dfedb1d8cdfde6d727701bab95e7424780"
