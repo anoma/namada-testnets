@@ -1,0 +1,11 @@
+[validator.elenasup]
+consensus_public_key = "00072a4a119c08bfd5de7e3ddc80a2e63c55fb5decdaa12c9fd0ab32f8df91753c"
+eth_cold_key = "0102b6087036783480d4a5a8aa0ec6d9d7e61abbb01223c5db2686e142de654decf8"
+eth_hot_key = "01031e4c887b3276996b5f413aa7f8176a37e5be6acac70ea8f1b80523067f7af37f"
+account_public_key = "00081ff925c68e79a84d97d53390e8de0856ef45fa6da85856a7deb06f33524fa7"
+protocol_public_key = "0030b47c305a26e61bc315ceabc7e55936f085921d59c11d0dd2c9b8c8da6096d2"
+dkg_public_key = "600000005117b1ca7371f3aacf943967ec1e45115456c1d104c8639ca0fd2761cf3677c5afca5ccc23cc35085fb5ef20b4afa4164c8aa7d253076d162aff1c86052aba1c81bdd3e888b9ddb03eaead94992b0d08664ed86e12adb79219c9fd638bf29802"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "164.68.104.41:26656"
+tendermint_node_key = "009b5ab58434b3f9885779f5ec17740cc2efd979432b269477e5d6c11e36347f00"
