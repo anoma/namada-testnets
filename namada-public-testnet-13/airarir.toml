@@ -1,0 +1,11 @@
+[validator.airarir]
+consensus_public_key = "004991b37bdc1321b23c446bd07f234ab2a70199dfcc0b0ba4d2efdeb88560565f"
+eth_cold_key = "01032cb94ec4435fe2264f339b325b10475b4d83e58310b332c8f36afc4a12933fe0"
+eth_hot_key = "010394aaa490fc9622ce6e5539a1dc5048a3fd49054831673a537c55de2b5aea392c"
+account_public_key = "00a61a55849592810ea1493708272e4941f454452dfabc1fc361a3dfbaf0ca170d"
+protocol_public_key = "00d38bd9fde1f6cfd80ea08e08bd89d6d2b875f4e6ba9a29c9f382ddb71b855ec4"
+dkg_public_key = "6000000022beabb85eeab4e32a140d77eedf98f19b8d99ff9f2533be0041d791ceda3838d5c467d3bccc95b5dfd06fe1516b830193534ddb05c4d23468f73a60cd4c53d99a7ee1174461ec9b3bac979c88e3d6c60f8f2b7252ce95b9f1af32f3230e1785"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.229.119.39:26656"
+tendermint_node_key = "002909656a15354c6d85287cb041ccf54ece26d4fb06871fd0fc88217e0a3b7c00"
