@@ -1,0 +1,11 @@
+[validator.msivano]
+consensus_public_key = "00802e25565f9f02b52b1237718f09200224f897e4c81e29d117c906d73a6cbea1"
+eth_cold_key = "010297616a08be0139248eab88119133f0d4f3a9f17366e6e8cc4e169cf756fceeb0"
+eth_hot_key = "01029145ba9b409c0ed2cd6b39871fd4a7936f82e1da1eb5d3273ee408dcfe20a4f3"
+account_public_key = "009c3b04f7632eb1a38134b53408eeb52de472aae555b2c2fa3cfdc5e69b62e60b"
+protocol_public_key = "000cea1b61a67c896aa56c9857a7f6ee9d5ca4f5cef6ea7f19caba0b3267caf90d"
+dkg_public_key = "600000009be85a3279944667ae7b7480642dea924d21ad7d581df08e8e76dc9f3dbf130ca295350e3240092045fcd54cbd4eb6185206b38e5f1f3a4c5a136afcace831bb60e009ff385d2e1d19b6eca008aa38eafcc6f0504d66599238560561026bf583"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.88.87.186:26656"
+tendermint_node_key = "00f84d35f529f4ea9bc6fbff597dfb5ac7e90926ae33870320c26d349f69ff88a2"
