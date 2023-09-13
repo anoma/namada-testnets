@@ -1,0 +1,11 @@
+[validator.NeilCrypto7]
+consensus_public_key = "00d8b41bff589f58963bb8da3bbadfbc16431feb6a7228417c899920a2d08fd7a3"
+eth_cold_key = "0102e39c5b63476685d8d6a3f796e6329af43decdcc6bd598d7af43c135237de5860"
+eth_hot_key = "0102aeec6a73bfabbbb2fd1418902e4c6730ca4fede6ccb69e8f63d8fbcb768fe340"
+account_public_key = "00ee470f495326d6083cd48fbbaa463a269d3080b6edb9858211fe1c6bb04b4dc2"
+protocol_public_key = "00f719d28472b7a147c6ebd8434ad9442c94bab72555872cecdc29f698587be234"
+dkg_public_key = "600000001221b79ff53b0ed188687abeda7a2483ffd047093c053e05d2a0f19478e29787864bd93cf51b1d47ab17bbb92550e5127ce2b310baf506b04dfc94edda6758f6e8a41aa50db50afc422f5e8459c94a29b0b7da97bc2141a6a52d2ee1e272cd97"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "194.163.155.164:26656"
+tendermint_node_key = "009cde1c99b82a84a5aa7f4110523f8aaa3c58b2ee3230a5ba0cfa229c13007945"
