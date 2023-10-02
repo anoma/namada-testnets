@@ -1,0 +1,11 @@
+[validator.Shprota]
+consensus_public_key = "002d26e92c677deeffbce25f2ab436ac475d7863028bf1a2fa3619bd625680ff65"
+eth_cold_key = "0103026617073098c6b4d145873791dae00ba95b5e5023076ee6edeb3e392c0e209b"
+eth_hot_key = "010212d0da244afbaed86ae082a7fb46500cdcb04a96f1591dbb1b0078547f386276"
+account_public_key = "00641582514efb7fcabb50146eef5a25df4d2afa676985ffdc8105adf7b75cd959"
+protocol_public_key = "002e74bce39b6ca3d2cff4e43e2af1c625698f3ca191eccc57ed5630a4b4f1f03e"
+dkg_public_key = "60000000580347010edb30d98ffe1c7785089e1c61d9d160d4243be384f0ac4155029b54fc6ce8873fe71eb095ef014a15fc2608ea8aebdad90cf1db828f08bbd674e478599b8d27875b26c653f5630e6778043d86ef2412175b5d85d44472b2a20fda86"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.9.51.190:26656"
+tendermint_node_key = "0009fc9539f733fdcde9df7ca3e6572d42e72273154f0f81cb5bd531e03451f7fa"
