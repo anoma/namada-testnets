@@ -1,0 +1,11 @@
+[validator.StakingGenius]
+consensus_public_key = "00fbdf66f62cc330baaf6234dd751b054801ddd2de665adf8fc74107a93b8a578c"
+eth_cold_key = "0102f2be64bc09fdc91ad2faaa5bab0d743225eedc88ec0df6909920c7b6a29cdc9c"
+eth_hot_key = "0103a57dcbe02b6705f6439392d4f14d6a88234fac82e7f7ff25337ff76d8e72b971"
+account_public_key = "00153ebc8ee10d6c3bb5c34d2df4b65aadf908f1eaebb04c51fa7e1618bb6fc1f8"
+protocol_public_key = "0032ee955c0586823de88bb8fa680378869053a10cb4f61f7da517a8156e93b988"
+dkg_public_key = "6000000074dd3d4fbebea026bebb7189cbc7336caa03fcc90b9af1820085d697d983ab6fbf25878c21a1ce434b25619f8a2131059a9dca791b0087eed27ffdc73e2176d0b5c611f4b9aff4186be5531504ca8a3ba7a98f23cb3acac02d7116517787e30d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.165.131:26656"
+tendermint_node_key = "00a8a85870435d0151e9358fb852661bf7de6037a0413a5de48325fc5acc1ad255"
