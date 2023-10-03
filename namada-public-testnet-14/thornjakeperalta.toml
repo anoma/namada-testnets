@@ -1,0 +1,11 @@
+[validator.thornjakeperalta]
+consensus_public_key = "004f9a37932cdad3f8ef8a08ee080f3c0724cb4d8abd831162a4f409a6858b4c49"
+eth_cold_key = "010394c3ec236b4f909c241905a4bf2dd3d61fcb6f5838fc56c12dadae09dcec0069"
+eth_hot_key = "01024edb4f0878c349a71630c25cc21055d07ea3ef5c2d3a8d516a12376709317ab0"
+account_public_key = "005fd1edfd7db20254b919bcdf6b19f71a769519dec2b3c3248343caae0da27c5c"
+protocol_public_key = "0095a63ca6006dff92d3a934c7b40030d79ea2ef55acd77c213883430d902c3920"
+dkg_public_key = "6000000005a6a5447d19acb132f61b56d4bc522bff2ceaa5fc6bd927d6f209641a708e87db2a62dd9e692b41e6c94d8a462086046a8e2aa31a2d7d4034e9fb1024e5b6464d63d8852de9d2d6ced335d758688e64b8aa2c117d71751107152db1efdbb10c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "84.46.254.156:26656"
+tendermint_node_key = "004bc166ac644059b75b717aa1ee9386613dcfb2e25963253535fb05b07ab338f5"
