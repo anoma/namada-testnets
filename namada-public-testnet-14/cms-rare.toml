@@ -1,0 +1,11 @@
+[validator.cms-rare]
+consensus_public_key = "00c0b2d553d63fb26675ff66be0e75f105696d5903a68c8bf7421af988c17cbba5"
+eth_cold_key = "0102bb5ba1d0ab71417f53b0917f493c5e5c2dd7da80f8c070c22eecd4111dae8e2d"
+eth_hot_key = "01031823e47cadf1f3fb355844f1d29561bcb4a86b8ffc181a16a1cb9cbabaf37d6d"
+account_public_key = "0042142631d7cacb61e8e662a48e5e3762d1139ab0ebb4f06ef3069cbec35da43b"
+protocol_public_key = "006269f04c34e4d7afb81cc65a7f43fc2bec0e228f3c34b234b63adb58da714d1e"
+dkg_public_key = "60000000d296c78ba9437a0b5bb23608a6a1ab634e70750dd02330a2326cb9e08196a2e2fd7ddbbd6c938c87fba97193137f4008b0727f2b2b1157c6f5e2039c408e42c70289c9a0b6a5449e2bb844e779b550e4ebfb1d47107e15ee860b806ca66f5b04"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.172.191.12:26656"
+tendermint_node_key = "0097ae01fcc81ae31d30d85074f41b56870392179b9fabd9abf934c68be57d86d2"
