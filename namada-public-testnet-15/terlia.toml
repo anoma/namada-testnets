@@ -1,0 +1,17 @@
+[validator.terlia]
+consensus_public_key = "0025b1bd307992c1d5ffc68d57b35cbec42797c29e9e57821b893707b91baf1c37"
+eth_cold_key = "0103737349435bfe591bfe261f9dd40c9ac8d7376a163b552d0575790b152eb3de03"
+eth_hot_key = "01038a73f0d7e31394417ebb14ecaae5a21bd63d1f54a45f10e27955aa32b357e18b"
+account_public_key = "00195236e1e7f1b0ba8d75b2af931e462039a83e562e2ebfddcdadf079618324b1"
+protocol_public_key = "00c634ce22eae911a1b91ed4b4d5dc3fab1c3129949840c2f2e96ad866ca21cc8c"
+dkg_public_key = "600000008c9776bd9437109f116ceb6980afe5281330aeb1a9864a8e44a53efcd1df5a5d59826105443accbc510fd7ccb522a10eca87b0f3fa50f5b623b9f838d0f5d0911edd2ae8b1a996e175a8cc4e35278be413463016e3e89f953717d7c14ee0be95"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.2.2:26656"
+tendermint_node_key = "00e0e83b596de95f3c52097a36199d19dd197826af075470ca669a4caea30df0ee"
+email = "terlia.nat@gmail.com"
+discord = "terlia"
+elements = ""
+telegram = "@terlia_nat"
+twitter = "@NatTerlia"
+
