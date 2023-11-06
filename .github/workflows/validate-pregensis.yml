@@ -35,9 +35,8 @@ jobs:
       - name: Check for 'update' in pull request name
         run: |
           pr_name=$(echo "${{ github.event.pull_request.title }}" | tr '[:upper:]' '[:lower:]')
-          keyword="update"
 
-          if [ "$pr_name" == *"$keyword"* ]; then
+          if [[ "$pr_name" == *"update"* ]]; then
             changed_files=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
             num_changed_files=$(echo "$changed_files" | wc -l)
             if [ $num_changed_files -eq 1 ]; then
