@@ -23,11 +23,14 @@ def is_valid_pregenesis_file(data: Dict) -> bool:
     if not _is_max_commission_rate_change_valid(validator_data):
         print("Invalid max commission rate change")
         return False
+    if not _is_email_valid(validator_data):
+        print("Invalid email")
+        return False
     return True
 
 def _are_all_keys_present(data: Dict) -> bool:
     keys = {"consensus_public_key", "eth_hot_key", "eth_cold_key", "account_public_key", "protocol_public_key", "dkg_public_key", "commission_rate",
-            "max_commission_rate_change", "net_address", "tendermint_node_key"}
+            "max_commission_rate_change", "net_address", "tendermint_node_key", "email", "telegram", "twitter", "elements"}
     # Checks if all keys are present
     return len(keys.difference(data.keys())) == 0
 
@@ -55,6 +58,11 @@ def _is_max_commission_rate_change_valid(data : Dict):
     # Checks if max commission rate change is valid
     max_commission_rate_change = float(data['max_commission_rate_change'])
     return max_commission_rate_change >= 0 and max_commission_rate_change <= 1
+
+def _is_email_valid(data : Dict) -> bool:
+    # Checks if email is valid
+    email = data['email']
+    return '@' in email and '.' in email
 
 def main(args):
     dir_name = args.folder
