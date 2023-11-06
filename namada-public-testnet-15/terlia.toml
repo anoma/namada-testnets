@@ -7,11 +7,10 @@ protocol_public_key = "00c634ce22eae911a1b91ed4b4d5dc3fab1c3129949840c2f2e96ad86
 dkg_public_key = "600000008c9776bd9437109f116ceb6980afe5281330aeb1a9864a8e44a53efcd1df5a5d59826105443accbc510fd7ccb522a10eca87b0f3fa50f5b623b9f838d0f5d0911edd2ae8b1a996e175a8cc4e35278be413463016e3e89f953717d7c14ee0be95"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "176.9.2.2:26656"
+net_address = "65.109.91.52:26656"
 tendermint_node_key = "00e0e83b596de95f3c52097a36199d19dd197826af075470ca669a4caea30df0ee"
 email = "terlia.nat@gmail.com"
 discord = "terlia"
 elements = ""
 telegram = "@terlia_nat"
 twitter = "@NatTerlia"
-
