@@ -1,0 +1,16 @@
+[validator.Maxxroot]
+consensus_public_key = "007f0b2a6d78e3505cecfcab03d41499a70ba3b8e409fb9deb4709ecfeb7ccf596"
+eth_cold_key = "01025252686cb9a0b7116f151a661130e54b2a2ef6fd8da7200efa5c70555bd20b74"
+eth_hot_key = "0102fef6e909eca6ed734e14dfb64f4a41fcd9d533523176d91a7ecd8458cc39fc1e"
+account_public_key = "002e6e844abac8cc197520d852ac7630a6c11012e4923c42aee6bad2b8293153fa"
+protocol_public_key = "007687af6ee458797371ca6f3e4f07805e1af450e87134bf91307140617ac5d5e5"
+dkg_public_key = "6000000045ee486bc6351c455f55098720d73132db854c95112199813a6a1f189d787f6bdf91bf471444de3fb993b682f820a70b4d9a512aa5675cbbe60b5dd67f3fad98824399bbcf70fc209cd795ca5736d9973fe93e36008a076173522abd>
+commission_rate = "0.05"
+max_commission_rate_change = "0.05"
+net_address = "79.80.135.149:26656"
+tendermint_node_key = "0036ba67a6b4d56c56f3dc82343e08c82f51204fd0caba5f23bc89ade4d3fc8048"
+email = "contact@maxxroot.com"
+discord = "maxxroot"
+elements = "@maxxroot:maxxroot.com"
+telegram = "@Maxxroot"
+twitter = "@maxxroot"
