@@ -12,4 +12,6 @@ tendermint_node_key = "0058a5274506b463f88831c221ec4fb781e91fe5ba2946730d72f15c5
 email = "stakethathq@gmail.com"
 discord = "andreisid"
 telegram = "@andreisid"
-
+elements = "@andreisid:matrix.org"
+telegram = "@andreisid"
+twitter = "@andrei_the_sid"
