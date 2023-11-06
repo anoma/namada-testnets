@@ -37,7 +37,7 @@ jobs:
           pr_name=$(echo "${{ github.event.pull_request.title }}" | tr '[:upper:]' '[:lower:]')
 
           if [[ "$pr_name" == *"update"* ]]; then
-            changed_files=$(git diff --name-only ${{ github.event.pull_request.base.sha }} ${{ github.event.pull_request.head.sha }})
+            changed_files=$(git diff --name-only main HEAD)
             num_changed_files=$(echo "$changed_files" | wc -l)
             if [ $num_changed_files -eq 1 ]; then
               python3 .github/workflows/scripts/validate_previous_genesis.py --folder $CHAIN_ID_FOLDER --filename $changed_files
