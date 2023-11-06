@@ -1,0 +1,11 @@
+[validator.Cosmic_Validator]
+consensus_public_key = "007bb5fb78de95f281f5fc8fefa3613aae8ae680ecb94c0b55b6f1538740fb63b2"
+eth_cold_key = "01033b1e04619cf4f1f0a2e5e2371e7fc2ab399e2e6d4b6928f9fcef0ba7235cd5c1"
+eth_hot_key = "01033ad80bd8a8005da7e10aaafa2816c2b68e9debf7b0495f22569e0ffb83a2fa15"
+account_public_key = "00ac30939d8d06b8bb19794e4ee54e5fd1fd23396beffc579325b4c96835e75434"
+protocol_public_key = "00a7de1171587d0f39982f33555653b6b5839aab42b5bea131c03acd09c913f704"
+dkg_public_key = "600000004c54d16d2e738deaf7f9dccdd39691938ed3eb6b6844e8e65e1057102d36e9997e0a8e8ba8ad64a5e85b3b7a09e11903b72e3ec778daf922b08fc77e30e00c472fcb1aaaee7bb8303591f6e04a2f1175e5808d78fba8e842f9c8892f0cc81496"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "45.132.246.138:26656"
+tendermint_node_key = "0044151856bafc406522196babe10f2c63f3181e524dfb9a60853e24e407252fef"
