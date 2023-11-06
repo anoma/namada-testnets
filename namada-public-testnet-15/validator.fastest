@@ -1,3 +1,4 @@
+[validator.fastest]
 consensus_public_key = "00de02798277e8b4cf7f3357f887726e748cf3dc44058684e732bf64ecdd3fb4a1"
 eth_cold_key = "01023d05eab79c6953dd68a0a349bfa8e122113acc57237e1f9f129b1880de932d43"
 eth_hot_key = "01023cda93945a7c626ad9e4f2caf2fd044acbcd4c0ebd4d0006192fb1ca3d3572f6"
