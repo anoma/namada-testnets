@@ -14,4 +14,4 @@ Thanks in advance!
 - [ ] The file being added is indeed a .toml file
 - [ ] The toml being added is to the correct folder, and only to the correct folder
 - [ ] The `eth_hot_key` and `eth_cold_key` are present
-- [ ] The `email`, `twitter`, `telegram`, and `elements` fields are present and valid
+- [ ] The `email`, `discord`, `elements` `telegram`, and `twitter` fields are present and valid
