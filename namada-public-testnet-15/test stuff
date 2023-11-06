@@ -1,0 +1,18 @@
+
+
+[validator.pork]
+consensus_public_key = "00a9fba07a9aa2c3cc9d39f74a6bd032281f6894d36f947b1af7b2206fe6ce7a6a"
+eth_cold_key = "01021e3c2e22528bbe0c12f1c857ebe5c3065474ea80f77b65212c7f13f4b468da3c"
+eth_hot_key = "01039f08e1c44b3eeff914e0102b9e53aad742c7dd14a406f9fb482dbd86d8f1ed1a"
+account_public_key = "0053baef22db41c5c7dfb3b2dc9f64f70a697550c536336d8a53afefcecdf4aa1e"
+protocol_public_key = "00d77feca97f2f0549a3736c4ae17cb8cebab1c5d0b6fb6bf227ca13cbf119f895"
+dkg_public_key = "60000000373ce7c04ce6f66a45c62db97caef0411cee4d2fb16c70089314c62a8402dfb6644eefc111627941322fda4cceda3a07542803db4b3c197ffa6674d13ff65b30a90a7d2635bc709299f2136edb7259afd657ab43503be4142a6923b4693a8698"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "12.91.12.1:26656"
+tendermint_node_key = "00b5f7973b936b43ab8b773e51417f139e660438996c52090099ab3571826dbdee"
+
+email="get@bengt.com"
+discord="p0rk"
+telegram="nah"
+element="uranium"
