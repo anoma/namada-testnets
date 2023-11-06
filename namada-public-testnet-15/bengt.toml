@@ -12,4 +12,5 @@ tendermint_node_key = "0042da176e137ffc9aa5129e569732ddba883fd3e22441d526d20ba19
 email = "bengt@heliax.dev"
 discord = "bengt.namada"
 elements = "@nomadicswede:matrix.org"
-telegram = ""
+telegram = "@hardcodedswede"
+twitter = "@Lofgren404"
