@@ -1,0 +1,15 @@
+[validator.StakeThat]
+consensus_public_key = "00f47ab69e7a393c62f13c10462de5e5244b1b50196deccb825b5356adeae8acee"
+eth_cold_key = "01030df1d22e21979ee521e656f0ea80dfd2c7cf092f30fdd6c99426a7b1685b304e"
+eth_hot_key = "010234d8a6530eee4dd83d86d39ce592c265eb631cd4603be5df25c5f7d73a60584e"
+account_public_key = "007fa0997697dc17c273550ff2ca04afaed10a5471a570af7e3e91c812d0cb595f"
+protocol_public_key = "005aaf124a16f6efcb17ed338a61cab82aba91a93924bb6cd6cf48ea014e68efc6"
+dkg_public_key = "600000009a0290ddb992fa4dc96689230c7b15cf27ce83a7d3a4c453cddda525d928224525afff89883a9d96b2547fc4d6c29b02984677481fbd4a912fc0507f6be196d8321de1f7ecd345b46a73e1738ca0b9bba4239085456c4b3774053b9684ca6103"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "207.180.212.189:26656"
+tendermint_node_key = "0058a5274506b463f88831c221ec4fb781e91fe5ba2946730d72f15c545fbaad52"
+email = "stakethathq@gmail.com"
+discord = "andreisid"
+telegram = "@andreisid"
+
