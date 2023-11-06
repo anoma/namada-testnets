@@ -1,3 +1,4 @@
+[validator.BlackBlocks]
 consensus_public_key = "00389db591ed00ccffd41c45783c3b6ea90dd527e92dde52412e4c1ff671088dc7"
 eth_cold_key = "0102a248da3f6496ae31744541423495fa14b2b631c123933d77cce48fd4465d348c"
 eth_hot_key = "01027e8ed49ff8c8ba3b412cd89486768f084421464f863aea4394ade9efab1cfaa3"
