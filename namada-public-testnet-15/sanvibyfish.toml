@@ -1,0 +1,16 @@
+[validator.sanvibyfish]
+consensus_public_key = "000c231f84a84014b04d912e6bd8dd4a0b99af229b63c7ac4b2280cf9602d058b9"
+eth_cold_key = "01027db27e09b2ba7757b991bb1f914e3ed1e7ae861332165140ab536cbd67408c54"
+eth_hot_key = "0103df64ecad8dc9d7ff9e558ed642b23af12c09541ab60ce08fdc3947494079818f"
+account_public_key = "002b181b136547861eec6cc87bc5fe9e9c7c52069005349c4ea3d6de4563799606"
+protocol_public_key = "0058e7f057984e69f8565deacba24c9c26e8c5f8795256609fcf795109c073f9ec"
+dkg_public_key = "60000000717b0824741197f2c92ac3b88d760fb66af831b0ebae5205a94a5c466c42dd734b9fd6a691581ae304a59bb404d62303857faaa04167ea0f976b2a3f7d5884d96107854766a4a4acfd53a379fe1053072c43e5a8d23d8a84e536694fdcbb830a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "172.233.66.217:26656"
+tendermint_node_key = "00622a369e7262cc0b150f6c52cfdb55cdbb5d5b8c6aba842bb256c4d2af04338b"
+email = "sanvibyfish@gmail.com"
+discord = "sanvibyfish"
+elements = ""
+telegram = "sanvibyfish
+twitter = "@sanvibyfish"
