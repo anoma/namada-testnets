@@ -1,0 +1,17 @@
+[validator.luciolaKami]
+consensus_public_key = "00a278b614abd0d4c9fcc8745e1751a8bbd4f571d6407b416b9dd758f5d6120fa4"
+eth_cold_key = "01022358192d2612f59991fb3a5ce4cf358b21a1f16595340e12d83e3ea1e20cce87"
+eth_hot_key = "01029f38d8c86724b4aa5ab6385b2b94d76bfa5ff4376a3d2ce704ed26aaa5820de3"
+account_public_key = "0076086b59bab1c108faf6f67c094a15fd7763b5f2f51ae2d6240de2f3e34c3188"
+protocol_public_key = "004dcd8d80aa64a7fc0f0535b53573bc731419090037caab99930434fe108441ad"
+dkg_public_key = "600000004eac346ab5d2c1bbe3bdeb2b4965eaea768a89e805e271cb250f8b8c5cedc4faa3e97d8027368a2c8af5aea7d1a14817d3371e43e4660610b71108c3ab74ed2165d04c3e955a1d7d8d3564adc10a69f344f294114f20b5809bda07eddb17ff16"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.198.183:26656"
+tendermint_node_key = "0067a467b3773db2d09bcf456d5c5447a40703d3caae7a6f9413741139c488ae5c"
+
+email = “chanhphat630@gmaiil.com”
+discord = “luciola.eth”
+elements = ""
+telegram = "Luccilanguyen"
+twitter = "@luciolaKami"
