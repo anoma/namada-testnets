@@ -1,0 +1,17 @@
+[validator.dolphinthao]
+consensus_public_key = "00cb47a2e88ff3051d0ca3fd80ea4b7e69a9097578b36fd764b1e829b750dac519"
+eth_cold_key = "0102202a93e34fe58c0a46de6c4555011c3db323f0f15236ca89b2178a5821b5d3c5"
+eth_hot_key = "0103f6edfacbb07b6ecbb86afcc727fac6ac8390375cdfb4928279570d9fe36e0fd3"
+account_public_key = "00e38b1d51bb1bef4f848d46c6eeb5afd35180849d70c545ae060890e6bfb8b892"
+protocol_public_key = "0061bc94fb136b86e1e2d5327f031a99e5c9fcfdf3d58b8578173d52d447cd3420"
+dkg_public_key = "6000000050f7fb2972f91cabae54719e047c2eba0c1e1be246765b3b6940425e86ceb498a7a290256137195447c90979d92e420ca5d897ee49cefb24000a0aa9df9ecdda705b11ee45499e8847839710e7dda4c5e76a1a7262ec59b4741fb14e36c04d08"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "68.48.11.81:26656"
+tendermint_node_key = "0072119d522565468f9d175fb16089f38f24d5d50f8c7e68859d1a8623d7c7f2c3"
+
+email = "dolphinthao381@gmaiil.com"
+discord = "dolphinthao"
+elements = ""
+telegram = "dolphinthao"
+twitter = "@ThaoDolphin"
