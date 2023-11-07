@@ -1,0 +1,11 @@
+[validator.raziel]
+consensus_public_key = "00a95f4c22c41517952597e77583e2d8f09bd475803b1f9795d01a2bf4db9c4b04"
+eth_cold_key = "010232b6d339070159b81d6c2ad79bd509f41cfe6554aa770bdbd608abc580b280c6"
+eth_hot_key = "01039b3d5f71acc667b4bf6baa81fb37d9a282e3c6e596ace29ab0ec32dcb43258e9"
+account_public_key = "00baa98778ad70539a14e8f6dc05059cbd9ca5fc47223c10eaa2e14ed5e0bfb57d"
+protocol_public_key = "00d18489cf4e90a755dfb42f547f520d49182f73260a9ffac81328ab4cbf2890ae"
+dkg_public_key = "60000000934ccfa1c3fa260cddb75797c2d7249f74d81b91a92ff3dc4e38feccfbbab04de8dc12c90cda1724d52ccd24a5e78313629f78683f14369d4f01bd7a13bc78c8dca0832d1f386feaa1d41efce1ce962f4cfbfa514f8b170b5b49fd31167ba48a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "158.220.97.60:26656"
+tendermint_node_key = "009505aa40df3bb417b0058c0b7fa9e4dae749fc223e7dd48ee4dbb5344204dc92"
