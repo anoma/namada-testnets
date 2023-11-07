@@ -8,6 +8,7 @@ dkg_public_key = "6000000045f6415f455f3298a1306f23e1622c85734e0295b86b197279299c
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "62.33.73.29:26656"
+tendermint_node_key = "0004465713a2b2e046e2997503d210104f3d43f04cccfd395c5757d335fd6c6e4a"
 email = "snsmlnn@gmail.com"
 discord = "snsmln#3128"
 elements = ""
