@@ -10,7 +10,7 @@ max_commission_rate_change = "0.01"
 net_address = "172.54.24.9.28”:26656"
 tendermint_node_key = "0084e9cb3c5c0686f4a39abb39d9b77404c667f22b32db1c86699c09a662605749"
 
-email = "tytynoderunner@gmaiil.com"
+email = "tytynoderunner@gmail.com"
 discord = "tytynode"
 elements = ""
 telegram = "blackBerry089"
