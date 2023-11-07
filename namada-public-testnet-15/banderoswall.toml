@@ -9,6 +9,7 @@ commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "162.55.99.181:26656"
 tendermint_node_key = "00bf819b450a643dd5ecb071f8158ac2ada11cd7079c6f20f28ec045a13ee16eee"
+
 email = "igoreweer@gmail.com"
 discord = "igorbunkoff"
 elements = ""
