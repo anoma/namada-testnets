@@ -1,0 +1,11 @@
+[validator.Luganodes]
+consensus_public_key = "005e3ab444bb5d5fd20727588c070d53c8773bd811acc35263b47daac41aebe6bb"
+eth_cold_key = "0102fef2cd020c8998bb83d8ff65af670a5dfbd9e5b92f0abc9b2166f80235ba5260"
+eth_hot_key = "0103e975d2c70e6a7a4f1d5491abb7de9d9d365f3c87229ce5d3c6ff555b2e124e9b"
+account_public_key = "005fbd833a524aeff204a4cb9d4b4f327e07a35bf234738d2cf8f348a9ecbd896f"
+protocol_public_key = "00b47c4795f76504ae3a964aeaf68c902d1f98ad0099c8eca87d361557b785513a"
+dkg_public_key = "6000000073857ea0a24b91f959d07998c84ef8e43dddae8b3c41cec0d33c8788ea74cbe2661eb4c9c934a1d5298787d0605fc30d12fd109b5baa227a6ddf059aee7c596cdf5466000d77ccfc88bf8b534d0ffac6f5fed98411d8abde301dcf18f611ef0e"
+commission_rate = "0.1"
+max_commission_rate_change = "0.01"
+net_address = "51.77.226.129:26656"
+tendermint_node_key = "00a1dc54582beff2e39d976e14b17d985b806f75327620fef8969be3f62bae5857"
