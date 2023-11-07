@@ -1,0 +1,11 @@
+[validator.panxinyang]
+consensus_public_key = "009586cfb63d7e3b092ddba5c719b84809f4781c6a535784532aa9e0be060ff569"
+eth_cold_key = "0102d977a917d0f429246f703870b6b5ace2a4454244ef310478c947c6e9312b5870"
+eth_hot_key = "010205e78920c6c8400f5f49217068bce93308ee9ba16fccecb0ae064ac28e4041da"
+account_public_key = "00403de3879ffccc45471e7e85156305d069ac47e313ea22038746e9971dba9bcf"
+protocol_public_key = "0040e723c775faf56491b11b0aea9386b0bcb7b38dca751950d1eb0c8af0c6acc1"
+dkg_public_key = "600000006402307c20aa31aace54ad9baedf7b34a643ec984b5bf68f1e94c2435947f594846ec6cb9427dcc339ee7b0ce9a9800cba1807b5b85c76f2a229762edc7daed5af130bb7e466f8a825378ee2ffec3d3d8f3be7f5c27c4657e243d937cd1ac102"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.65.22:46656"
+tendermint_node_key = "00454fda5bb7992b7fe99a0e8db9b21164cd9fa43526b683194e7dfa5a0b90bf84"
