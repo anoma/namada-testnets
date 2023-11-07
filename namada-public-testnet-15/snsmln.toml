@@ -1,4 +1,4 @@
-[validator.SNSMLN]
+[validator.snsmln]
 consensus_public_key = "00cf45b472d93d876eebe42eb2772f515c913466dfc92eae818e453a723c7356ca"
 eth_cold_key = "01038b6491cc4f95468474498915fc644720a9907bcc8c66b868d94ab7ba438819c1"
 eth_hot_key = "01028ae3201400de9d5e6cc408e062be2de02c47f4b2b93733c8f102f62176070271"
