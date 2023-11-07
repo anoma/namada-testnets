@@ -1,1 +1,15 @@
-
+[validator.Commons_Hub]
+consensus_public_key = "0089ee79f4f9e0ec61e0b0ea758d5a4aade9035cea6a39080eee15d51e76fb71ea"
+eth_cold_key = "01032ebc463088bf6441a87f6133ec3cbafa5b332fd759db5f17b153338dff153acd"
+eth_hot_key = "01031508eede235bcaec2767d7c8af6cfebac6e9c766f56b55ebfc246f4f8da780cb"
+account_public_key = "00d2a61e4bd000696a4202df7dbd13946558b38aa2fd6c47e463ac77eba8d81013"
+protocol_public_key = "007e20b29c0391df523c1afa1ea1963520cfe6ddb212c8e8975908220e8f32c291"
+dkg_public_key = "600000008d8eb8ef5cca15bd9cea8546921280b51b844b93dfe6e414fb07df3bd66e3c2b109a3418608464e507785d6cc583b01466a491e572d27306e9090f0d2cdaccd786874f31fce559b98f0033e8bec105a711732f787fb5bca492743cbed21c2689"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.189.181.99:26656"
+tendermint_node_key = "0032617c75d59a240dbd6b301debaf5768d4ff92823706408259d112a725ac873d"
+email = "e.fritsch@commonshub.at"
+discord = "emil_commons_hub"
+elements = ""
+telegram = "@Emil_Fritsch"
