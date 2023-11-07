@@ -1,4 +1,4 @@
-[validator.IrinaGU]
+[validator.irinagu]
 consensus_public_key = "009bc70d2dc197f9ddc0b7ec0288f32ba08d86b1de43ac994f27664c8b1592e507"
 eth_cold_key = "01023c107f0b673171c62958aecdb8733b1fa1cdf757bbc030fd2dfd418bb1216273"
 eth_hot_key = "01025204ed7af727bdce76211a6544732032774c313bdee35b75c9a71ae5582dd217"
