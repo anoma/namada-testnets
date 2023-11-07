@@ -1,0 +1,11 @@
+[validator.CryptorNode]
+consensus_public_key = "00dd74b9627e4ecc1d4573caf96e6184e1d3103e1ee58dfcd078a26089f4c36985"
+eth_cold_key = "0103bd5b72ccab75d8910b466bff2337058e7b02dde92e9ababb704b09655a21ee82"
+eth_hot_key = "0103609f92026daf6f1df52336227ff282a7e94b8cdd0b3e1a3be3904dfb8e14cfba"
+account_public_key = "00dc4bca25e98fe1deb810314d53722f3632bc11383cfff6a87775b5d6f211fe88"
+protocol_public_key = "004dfeab8740188d015ce9e1c2f9f5e8e3d139e3a9155180cc08108e33e2816c12"
+dkg_public_key = "600000009dba2358d1b5e3c32fb8870ef78e13296538a3a7fdb28afe20dbd23f0111f92c523f47ef0a3b339c1eb0a4885d1b4703d939141898f0d935e7bfd822b99f10aa3f646eb5562b89bf656cdbbaba6d5b1887f4e319f7482d81ab51e577d607a503"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "207.180.230.204:51656"
+tendermint_node_key = "002b0c784135de8e75331b266797d6b3518678cbcfddd7eebf269862199e1587cd"
