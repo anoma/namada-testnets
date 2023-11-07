@@ -1,0 +1,9 @@
+[validator.bombermine]
+consensus_public_key = "00d69322d8fdfe7ea76c5f7d7089920a7d544e5bcb621e8704efa2dfb58435dc89"
+account_public_key = "00faab094d80acc3b3e82adafbedcdb10c332b4da11b334657576e53999688327b"
+protocol_public_key = "00eabeeaaa594f4fa92a54ae9e9195da692b062629cdce9ac2341b3f1640ddecac"
+dkg_public_key = "60000000430bcc5943b11dd69da6c3141613d3b048172a015d66cf9d0d9f7408cc84131d9d3bffbac168c1dc8f5501031e3dba122168ed997a60fdb833e6a85d0a395690e470c59d46eb82fd9b84cc16e5dbd83fd34644d1866e9855f6f5a8aee9cc4e8d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.9.84.83:26656"
+tendermint_node_key = "00ed1ec87267ddf021c66a9accb8ebaf7c596902c53e7ccc8cfeb914a4403cb097"
