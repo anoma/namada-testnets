@@ -1,0 +1,9 @@
+[validator.PathrockNetwork]
+consensus_public_key = "006290a1a48197aee3490385837abdf51838ac5428da2e21ea5c077d6b6779e581"
+account_public_key = "00f56dbf76f2c8fdd002673d623f862665cc2d487d1b3806e1fcd142fd5f5d1813"
+protocol_public_key = "00d9dc8bc74d09c62089112ddec488fb33303565267c53cb7e579b3d96c8c889de"
+dkg_public_key = "60000000deb4c50b948cbcea4b01a014b17f9ae5c08761ddcb3be30cc8c93dfdffb051ee2b963a784b473b31341c8f5082a66701c4a35d6991680777ee06e4661f61adb6d952870778bb4de5d86dc2d0705014c3a9e3104c06dc28c1016c754e4ed6f005"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "148.113.8.233:26656"
+tendermint_node_key = "00636f2d0c71e7b1a9cb5df58ebb45cab7a57b1f3ff0a975b0240d0735551e9511"

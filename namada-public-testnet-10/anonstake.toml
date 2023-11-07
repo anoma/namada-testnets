@@ -1,0 +1,9 @@
+[validator.Anonstake]
+consensus_public_key = "00bb6f26d9ebd2bb3406ecf80e4e402ed538a5ae49aaa1ae4fcdb6df359b3f512f"
+account_public_key = "00b8642ed1aa1ad011bae59cd0bc390aeb5cd9eba9e93cd16050600a29bcec84cd"
+protocol_public_key = "00673aa16421d5680f7acc7637d8e30f0a08d5165cb30e284c841cb5a4b2e3b5d2"
+dkg_public_key = "6000000096d289f3ee69623f5f04bda3ed6fd5916f44298a7fccac0a7ec35a4f813528a301517f264702be9ba4ead9a6e80c2c071ff269c51de3a27f0bc6c7a685e8b018183cd4472abc5727c9b441136b08ffc3a8192b63628a79e15a03635c6df7cc96"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "31.7.196.10:26656"
+tendermint_node_key = "0021756c6ee62133adde8ee894726462e348c46cbda00abfeaa01375aea1bc85ac"
