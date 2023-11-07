@@ -12,3 +12,5 @@ tendermint_node_key = "0027c42187584b45ed8b88ee9c24352ec0e6648b22774cc5d8663df48
 email = "ops@nodeguardians.io"
 discord = "antoine_nodeguardians"
 elements = "@ng-antoine:matrix.org"
+telegram = ""
+twitter = "@nodeguardians"
