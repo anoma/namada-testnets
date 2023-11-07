@@ -1,0 +1,16 @@
+[validator.oom]
+consensus_public_key = "00c712171b207d4daeb51032a78ef98637c3bd4a3391227910f4ec273abc11135d"
+eth_cold_key = "01036c44f0395c89c7dd2f59489b885fc4b475b8afa2720e1ca905961c0ce1ff3cc0"
+eth_hot_key = "0103bfee09ffe68e3b1b6af2fcb903fadf7fc494405368eba36d237c0c28442032fa"
+account_public_key = "00172ac164d1af8ca7429e12eec07b4ff17559af4cbadf2830547dfae9d4bfd58c"
+protocol_public_key = "00e88201f2e34a01484a798c4ce944cc24becbadd39db5b90df9d1e2cf563a218c"
+dkg_public_key = "60000000214927f9bad16892bad0a8ea79170b8dae185e8702404eb8ead113ecd2018bc0fbc417ce6554a6a3e7>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.217.125.52:26656"
+tendermint_node_key = "008538433dc9a232ebc7bd2b0deef2f2bcdee4ead448c22ca720dd805d21dd98e6"
+email = "venom0218@gmail.com"
+discord = "_oom_"
+elements = ""
+telegram = "@thesheepowner"
+twitter = ""
