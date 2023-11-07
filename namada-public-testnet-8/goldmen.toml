@@ -1,0 +1,9 @@
+[validator.goldmen]
+consensus_public_key = "00b8c07281f2860c19ae4791871deb0c6c0693ca34f142c7d063509d1dfca3f1f3"
+account_public_key = "00509c30f2d520e0ad3afb3f27f9f9aba06df1adba9a4031a79e18d0a3679d3305"
+protocol_public_key = "005f75ca024771117d2cf9138c12c9d77ec1202b799c30279ebb7b563525372250"
+dkg_public_key = "60000000ea671e2a53b4165134c3c2bcdf6713ea7b599ad106c085730f00be672a65c453e78592d772d98a08d7f92a08ac42f610e2ba2d4325496508825aaa2bb07a8ee29ddea4cef468583cfd3822a884a2dac75827498ee124c99c05d832a521b17f03"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "149.28.31.173:26656"
+tendermint_node_key = "00cf03bb2d33c768feb29e783ced4cb7c826ff1bf49bcad4b3f494a2c095ecb579"

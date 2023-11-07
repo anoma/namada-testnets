@@ -1,0 +1,9 @@
+[validator.KingSuper]
+consensus_public_key = "006de4e2ab489aad719f677ab6e7362e834df3e59f786466e5d09c71671f1f4819"
+account_public_key = "001ea2fe51528c6fecb4c42ce7b657b05d114a0aaa6508c60acd11d72d06c3cbbd"
+protocol_public_key = "00ee85cb3b0bd92da22c2f3b70f7020951c1b3ad1bc11807698d06dd542b390509"
+dkg_public_key = "600000008ab993af9a141083c6deb590e097c70782a1cfc0620659f5ff9280a9f38f037bdf069e56bc3728947f05e94bd6511611e8c642fcd471f0380695ff402919489e58e292d1de313bb0ea7823d6df99baf0a50e1a4daba1250f776f1f201ffec28f"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "139.59.25.39:26656"
+tendermint_node_key = "003ff8ce4cd8bd786ec02aa134e75cdf54d3abcb060e23172096ac3cd4f8b10286"

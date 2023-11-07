@@ -1,0 +1,9 @@
+[validator.Galaxynode]
+consensus_public_key = "001922bb18fc0c6f0cb27b43e963891d872b8e3c8adcf4bbb0b4cbb3f6873a600e"
+account_public_key = "0068d74d90dea4e8a43abcdcf586cba6f1ff48643805f411c56500fc0cbb57438f"
+protocol_public_key = "00efc7978023af45cde5d3e821321c7314613df32b85632d2d9f401b09c306c8b1"
+dkg_public_key = "6000000082cd1c2f126e0eadafaaea7503190177f4f1723c98f9cacb1dbe2406d6cf8f98d607ae82f00155bdf55534578951e111153ba339d60a449124f83c2e4e7d557aadd085b03f1f0f6ec4e3918ea96a7e0b5cc6c2b84e664ab61cdfd42c9d35ca98"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.90.162:26656"
+tendermint_node_key = "0043e9c78dde3eba9809fd718312853a3e14c3bf78798dfe362e464468d48b179a"

@@ -1,0 +1,11 @@
+[validator.Cumulo]
+consensus_public_key = "00c91ab62f0bee57621a74526bbb2287e1d8842f696a2e6f4b44af4c77a54bf310"
+eth_cold_key = "010390a82ead2bdd9bb032d55299d4fc11a3a07db8fc745f9093c560f5e2ee338114"
+eth_hot_key = "0103e17d2e1a73fb956b9f0a23a4cf6e632d5c110c970c71c075100a90fca01472b4"
+account_public_key = "001e4be37cbe9a3720f9c1b38f9fd17343c7f615725d7bd5a25c8232cd94ad579d"
+protocol_public_key = "00d83a8b3b87026c9582b9ea7f7064aac9c43435517e5d6ee53210afd9aa7a9fec"
+dkg_public_key = "60000000d9767e3aece88902b03b1b29e9dbe17ff0cbf9f0d2bd9ec3d3befaf7c9a0680f90220b228b9d887916a3ab5417d1e1057261cc446314fd6e381fbd0bfeeb6fc28bd58752791ea1c33ece23634afb067cd0b1ff78d918452d0c662978f1dfe286"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "74.208.16.201:26616"
+tendermint_node_key = "00fdbb42e86852a9b25e482bff98b0ed8c1619ccc21b2be465e0e55f8068c15ed0"
