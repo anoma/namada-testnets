@@ -1,0 +1,17 @@
+[validator.knorStake]
+consensus_public_key = "00be0c73506a639db4c6d4afdac22d8f16e1800c42f6af92e90997a3e2b519024e"
+eth_cold_key = "01025452712fd031c7fd8c2f6d4293d768735603f4d5657e2b5a3e191010522e0f51"
+eth_hot_key = "010334521ee47151cb1db0c8e5f502a552fda3487c58bea4fa3c3a6398d9f5a3d7b7"
+account_public_key = "0044ed9a6916ed7ba25a40cf591f94bdf731a4069d54c1aecd9c84c09569d7e8a7"
+protocol_public_key = "00bc5a19c3aa4982bde9bc668988d64fff4af19231eaba4338f2bd754be3573b49"
+dkg_public_key = "600000005be1e9f0ad1c19a1088e75f8844f7c0589a7aea8278e52bd239e06b31f6ac39994e1f34360f80cadf6f9cb107846e418678b58668c6c95b66fde6ab96bb8b1c499dd42b043abaee683111fe3d65a424450178f2f1d4b9e9b6d5aca6d5946b307"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "125.212.220.31:26656"
+tendermint_node_key = "0085932cfea179d4c248ff8a5e93b59a5b5bed60b677eed0b3617b459b0864ec2f"
+
+email = "haginpalamaraljgp6732@gmail.com"
+discord = "megamanx23"
+elements = ""
+telegram = ""
+twitter = "@OdetteRoffman"
