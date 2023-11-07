@@ -1,0 +1,17 @@
+[validator."WhisperNode🤐"]
+consensus_public_key = "00bd23c511e94a527665eb85f400bb893f7e491cfc448a63121a4168ebab354577"
+eth_cold_key = "01033be93b76f236a3a8b67efe55b8d8cc727ecfbf24caebb61ad5f4d2c48f5beba1"
+eth_hot_key = "010292419e420382f29ae7e1dc73bd772c22c5ba36ba84d636d4ed6bce78f8cd953a"
+account_public_key = "004322ec4f101a844661b644fefe3bcfee11d8c1ab5f029cce08511df534c2c5a2"
+protocol_public_key = "000a16450612613dd6d9107b878b166da1394ebffb006dac345c9bedf48ff80ea9"
+dkg_public_key = "60000000d8aca5ce1c0fb12a9846c472ef79bc78b87adf578c7438666b62803ef4dab3c25f7baf0eb2464d8b694fe5776b1a1516ab7254e49dadbf1ca9e309c3fc2f5db56783a7ae7c213a1cc006e114a892721df8aacbdd0ce0bb08070a9c702564e698"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.94.142:26656"
+tendermint_node_key = "0047169cc67f1ff0e12330c2fd94a6d87949d3751528025066bf43cf52669b5faa"
+
+email = "brendan@whispernode.com"
+discord = "whispernode"
+elements = "@nomadicswede:matrix.org"
+telegram = "BKblockchain"
+twitter = "@WhisperNode"
