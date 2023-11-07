@@ -1,4 +1,4 @@
-[validator.vlad_zte]
+[validator.vladzte]
 consensus_public_key = "007bba30fbd4de89fbb6e73043d6070bbdb8213568120434084a92e1e731d59f29"
 eth_cold_key = "0103ae1a004dd06c39655975219b85e77292a6f4979c4d4f23ed12bff70890118b13"
 eth_hot_key = "010261e4b9d135a6b11f22bdc2fb7c85cf47b1b147bdcb7bd3c5996559b8380f41d0"
