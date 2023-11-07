@@ -7,7 +7,7 @@ protocol_public_key = "00bcf7290344325ce97834733bc4f46752cd28a2ccd7612a364a1e3d1
 dkg_public_key = "600000007004c5ce833c5cadbcdd8fadb61db1ad56ce2a0481f8c71b500b9789503f979f17ed5d88bdb5d680d15e04d216671609597d69740adf7caf94a0cc00b9a74f4fe81eb0c069d332b241b4f1b8f3fc53736139ce1e803c42a01684d8a8ee80f904"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "172.54.24.9.28”:26656"
+net_address = "172.54.24.9.28:26656"
 tendermint_node_key = "0084e9cb3c5c0686f4a39abb39d9b77404c667f22b32db1c86699c09a662605749"
 
 email = "tytynoderunner@gmail.com"
