@@ -1,3 +1,4 @@
+[validator.newton-zone]
 consensus_public_key = "009f5e3d38c4f6d1b27155f5fb6f77368104496335ca15f399f9f91c913e568e49"
 eth_cold_key = "0102f77bd72f5940cc5c716a932f5009bbead7906f04dea342938a8acf32ffef26d7"
 eth_hot_key = "01035da576cc1d0f93308e3a7df577466f44aabc224e7adc768dd33db91f778cbda3"
