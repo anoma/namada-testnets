@@ -1,0 +1,17 @@
+[validator.shishaonthespot]
+consensus_public_key = "005a49d6ca7f276d7cc81cd0f265ac7edb589b465676515075814768570a6e6dce"
+eth_cold_key = "0103563f305483e41e107a876cd6571bf81e60d6a74a72ac043290ec6e5bc7a18178"
+eth_hot_key = "01025bc524bad06b40751cb440204c31fdac5af9a535caeba8789a88ce858201b68e"
+account_public_key = "00e18755ed6f6ae37c65046f4f4315ef17c73a85c6476b4d38a4cb1dc8e14501bd"
+protocol_public_key = "00d117e1f132c359510e1f550686b88e082808fcabdd5cdc0185ca530120970743"
+dkg_public_key = "6000000090768d0823b3e46330231bda5cfd940debd87d4106cdb01ce95aef4bbacdf8f334cde217f089d87a7d50a52f09413d01fbb6d26f1f140b7bbd1be5dcfc631ca8a4e590c480badb13616113896099b25585c367219794690d38956d5ecbf38b80"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.242.223.249:26656"
+tendermint_node_key = "007e082e7a7d83d26aa38852f91f2bb9c9cbb60089af7b69457204192f3c597ede"
+email = "nistorsergiuionut1987@gmail.com"
+discord = "nistors"
+elements = ""
+telegram = ""
+twitter = ""
+
