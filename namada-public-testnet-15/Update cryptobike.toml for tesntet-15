@@ -1,4 +1,4 @@
-[validator.cryptobike]
+[validator.cryptobike] 
 consensus_public_key = "0097af3e7fa0708f1673f7ea7c896ea09c621db70211f3f9998fcf0124ed46c184"
 eth_cold_key = "010326a48da2a6687b5b5acfdfdabc708cd4177fca0a29eedd545c5e73bb0b838823"
 eth_hot_key = "0102f72fc86bc2ef4b8d4ab47ae2deb36f77bb19c17e02c67d3d184dba749fd78867"
