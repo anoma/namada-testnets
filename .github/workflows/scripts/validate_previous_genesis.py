@@ -22,7 +22,7 @@ def main(args):
     total_pregenesis_files = 0
 
     if filename.endswith(".toml"):
-        data = toml.load(os.path.join(dir_name, filename))
+        data = toml.load(os.path.join(filename))
         if not is_valid_update(data):
             print("Invalid update pregenesis file: " + filename)
             is_correct = False
