@@ -12,3 +12,5 @@ tendermint_node_key = "007799fac8be2be85491769b44a4791c7bc34525d7d13ab10e869f99d
 email = "lukas@nocturnallabs.org"
 discord = ".nickname"
 elements = "@ljunokas:matrix.org"
+telegram = ""
+twitter = ""
