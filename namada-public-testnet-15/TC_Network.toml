@@ -1,0 +1,17 @@
+[validator."TC Network"]
+consensus_public_key = "00774e6167c60d0366bb6f15942f86fe8d248299b73b8a46d56bc4018cb87d019a"
+eth_cold_key = "0102f1089892e7952a32a162ad5a3c6fc18a0d4f0e3968828f696debd4fa84bbced0"
+eth_hot_key = "010279e4eadbefd1962b08b9be874c57d12c3737c3a1ccc8f7b7eaa663c653592814"
+account_public_key = "0056813498eca6c03a774db28a473c10eeb767bcb8e44ae1eba7d14d9fabc06767"
+protocol_public_key = "008e50198f33f7a864c5ea5d14920b4367f0842ed2dfde401a737f987714bd1efb"
+dkg_public_key = "60000000c66878d6a65e3ff2eeb562498e5ebf0a910a622fac87c219d8a57a452584e3f1658f0c824ff85986a4e61cbce57d310e43cc795629129b8bc0ff9f534dcd79f8d4bc5e4a575f89466a0aa75bf69fcc8de2c30bf55a3fca1d0165b1c796817004"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "148.251.43.226:24656"
+tendermint_node_key = "00e836e949006a0472039a37330d34b4b9c1f60c96aeea1e37ebfdb7f4c83e8b8b"
+email = "trulacgc.tcnetwork@gmail.com"
+discord = "lam_nguyen"
+elements = ""
+telegram = "@trulacgc"
+twitter = "@tcnetworkio"
+
