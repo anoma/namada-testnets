@@ -1,0 +1,11 @@
+[validator.DoraFactory]
+consensus_public_key = "00e0f4132c0ca4db2b23dd9584f1f009fa8e4133996f01cf6d2442e0bb860eceb3"
+eth_cold_key = "010260fd6e505c3469e04d1df47369d6a339f7829ce503fece85806d63b18384de40"
+eth_hot_key = "0103faacb26b44202f5b99c366c3ab868a6bd553e7be30e8792a8460b877cc5b18c4"
+account_public_key = "009e7897bb30eb990defd47458228c35c9ce28a81e806dccb7a160ae3076bca89c"
+protocol_public_key = "0073b1f9d7ce98efa673ada6dcc218b7d6cc1281f28afc951aba3a77f566c8a404"
+dkg_public_key = "600000001c051baeca73bef1fb50150aa4dd25acab23a8651d037806c3451b1c4c18d0a5056823b3fc091ed8ec8044a73322b00f3994dea94f6ca2310fee820b5ba2d7c1c3b5ceec8434878b87dc4bb32dad547fcb09dd65678628cc2956b194540cfa8d"
+commission_rate = "1"
+max_commission_rate_change = "1"
+net_address = "34.16.18.175:26656"
+tendermint_node_key = "0004232ce901ee10d652bc52fe17b6b5b0aaa7913b8e7ef5a53bdec943d3c6b065"
