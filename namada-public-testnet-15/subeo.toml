@@ -1,0 +1,17 @@
+[validator.subeo]
+consensus_public_key = "004849fa0552b4018beba628d4dd059fc54c887db165b1b8f5ff7635eb4ab757ff"
+eth_cold_key = "0102ac7cb2829e329864e9bd984a5d492d59d7257fdbb9fc71279d3625296b3337a1"
+eth_hot_key = "01036c5d34655a97684878af3debae0ea6518737351addf2898910263312c5241e3d"
+account_public_key = "005422754c72a5fe02070c02c9dcdf83038dcfc7c821a224dd707554c3fdb6c95f"
+protocol_public_key = "0022b135f8974caf5474eac523cbf53f1c93494ca4fa7dff13ca03ee44cdb8b657"
+dkg_public_key = "600000008a89564ec9f5b6ba28d926e0badc060239ef84ac40047aafbfff27c0b900f2f90cb946d71a3db37cc0d806c7b3d8b519095c86573d277c62dc9a45ff6d12b0db12399d3955056976f6d5ef534b4dc973265efed30005cd8f4338022575456407"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "161.35.12.4:26656"
+tendermint_node_key = "009eaf7c132a4cf5f08643cce3d6cbf3ea199998a14929f4d74e1608e09700e2f1"
+
+email = "betyhamchoi1102@gmail.com"
+discord = "1stdragonn"
+elements = "@betyhgamchoi:matrix.org"
+telegram = "@Tonywisky"
+twitter = "@JokerCryto"
