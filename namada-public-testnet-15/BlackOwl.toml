@@ -1,0 +1,16 @@
+[validator.BlackOwl]
+consensus_public_key = "00fe31ba36254b79142e85ef4251100157ee372314e286881db62d443f4aa15e11"
+eth_cold_key = "010303b3b4f6be619cfc29b070e48d2a27cc13ffe40b800e2b0e869ca120af649951"
+eth_hot_key = "0102b7d397df0ea05ee45b6ce63efe9a4b603949efee9c43d047018314a8a9f35aff"
+account_public_key = "00cd7bc40a96ce2a5a8ae5f090e99b516f3e5880684fbc9bb584dcc6fd2b52aab3"
+protocol_public_key = "009bf9aa9c357dc12c527730ada55362c97f1b2a1c7c7fc72ad1afba7c29bfbae7"
+dkg_public_key = "600000005618e186b2581fdb7906fe102b59552f3c95235a9dc70ed45eb5da3ca1034149f46a92e58cca5963d5e85391f566ff12210690e2b0a3384d7178878c6186c51f19da760f99ceedae216fb626db80eac8537bd3e175953ba51323058e6d6bc38d"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.223.77.179:26656"
+tendermint_node_key = "00ded0e0ec6929f78c0feedc4cfd21fbfac7dda46d76d8bac28fb18da684f1b8df" 
+email = "blackowltr@gmail.com"
+discord = "blackowl"
+elements = ""
+telegram = "@brs_brc"
+twitter = "@brsbtc"
