@@ -1,0 +1,16 @@
+[validator.XNODE]
+consensus_public_key = "005cb10a5ecb99fae8e45d6ecfe9d4f5b41846616c03e7d461515cced7cbc5a62c"
+eth_cold_key = "010257570a9a823ee5fad09c1f87754497a00b07ab6a8c9c922c192cecc475039dcc"
+eth_hot_key = "0102f97e40bb2383d2beb52c10c368d18a83bbc5400743970f5f3cb0104dda1d7efc"
+account_public_key = "00d499eff3f8dc2b989665ff4825876cbe86247b7cab3d2aff348bac8c432360fa"
+protocol_public_key = "001e112512ab4a566479831bf7a909dca4eb603569ccd5c8a448512ac58d750162"
+dkg_public_key = "60000000376351b5f064a4ff361376a0650af6aca9aad0f76adb3dd41d5ea51742e82cbcc92875ef412e5af76b3fe6c1c79cd>
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "134.122.69.64:26656"
+tendermint_node_key = "00889b339d3e1e79c999e22c97801a78220aadb361e298491304d44a2e492c7390"
+email = "alexander.milya@gmail.com"
+discord = "x_node"
+elements = ""
+telegram = "https://t.me/S_M_Lead"
+twitter = "https://twitter.com/alexander_milia"
