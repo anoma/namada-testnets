@@ -11,6 +11,6 @@ net_address = "65.108.205.214:26656"
 tendermint_node_key = "00d9b85ca1d45f08e1c457482b6b1d5ec46a3355b5aab53324ce973a1804d1354d"
 email = “kyergus@gmail.com”
 discord = “kyergus”
-elements = ""
+elements = "@catone:glasgow.social"
 telegram = “@erguskaya”
 twitter = “@ergus_kaya“
