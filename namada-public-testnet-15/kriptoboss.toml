@@ -11,6 +11,6 @@ net_address = "95.216.198.214:26656"
 tendermint_node_key = "009426acc8b0c7bf8c67999fbd26f2ea5fa12da23e3a4bb65270c19f5cf6ba39bb"
 email = "kriptoboss886@gmail.com"
 discord = "kriptoboss#0313"
-elements = --
+elements = ""
 telegram = "@Kriptoboss886"
 twitter = "@BossKripto"
