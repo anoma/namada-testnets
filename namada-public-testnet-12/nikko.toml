@@ -1,0 +1,11 @@
+[validator.nikko]
+consensus_public_key = "00d165a82afd9db4fa0035a58a804628f3cf63e3212f387dbeb4edcaed59599943"
+eth_cold_key = "0103b13536b2607fd42cfac0ca42d3766baf47ca4a0d155702caa56cded73ccb0cd3"
+eth_hot_key = "0102ba71e48686b2fefa9a8caccbe3475ca443e894968e801bd86c0747c5bed910c6"
+account_public_key = "00d37e363808c30ad73a9c82b5eed021b681e4a588fea67e7896326401f42abb9a"
+protocol_public_key = "0009ddfa42fe927e083319c293a3417a2a2bad9c7ac77da0b0639ce417895e4c32"
+dkg_public_key = "600000003d0d0fbbe1cb8ed07e5ddc772ee95430c80310ea5094d7432ac9d7b37985b9f4f91a5d8e769f4ee8e1225d8fe080c902cb00709b68200cc9141b836f60bf762f4c97b829591af0355bdaa8cbbaf27e32757c62a1007becb6eff0e32779f56a87"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "143.198.166.172:26656"
+tendermint_node_key = "005e3fd00453c3d2fd902a40aea09915eb2d530157d538a3110f1dc29e0d84cf75"
