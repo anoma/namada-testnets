@@ -1,0 +1,17 @@
+[validator.Hugo74500]
+consensus_public_key = "00404f8954b402a6d06cca5ec78e961fa8a527a54875f2ada902d798a15314eb90"
+eth_cold_key = "01030d149e79e5647fb975e83972f5d2e3334efb105dad6c7b0f6c1f6946648af415"
+eth_hot_key = "0103e5f5a45589642d94cc2aed9d7f6638fc9c57b8682cf7415d2a75b8ce820b7337"
+account_public_key = "003161d39ee1c41714c8ee86ddc1ef35804a25f39385563893ae404f306370265c"
+protocol_public_key = "00e9d0c2a921f0c61e4f428147c53a4247fa6f9ba022ed0722e5cae1323de1cb73"
+dkg_public_key = "60000000fe57af0e1da6376f8bddbc8126e6972976f6362c1b4a3b2ebdec550778f0370c0f72f6289b898cb22191f30c633e680ff40c07a224870339af6b492484447bddfc062f2bd44dea59af79a9d269cff5b322b9095805c6d33d62dd77601a44d188"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.213.25.118:26656"
+tendermint_node_key = "00a205dc47fce18a3273822ad4f01f837567d0b48166ac1bd92b269572d25c51d9"
+
+email = "hugochtln@gmail.com"
+discord = "hugzzz74500"
+elements ""
+telegram = Hugzz "+33 6 29 16 71 98"
+twitter = "@hugo_chtln"
