@@ -1,0 +1,16 @@
+[validator.0xyvzkc]
+consensus_public_key = "000c4f4637b617d54c72710664ecd19ce6662289bb75239f6a1e80c04da3478c47"
+eth_cold_key = "0103cdeb2290722374b58e64b174d49d475d11f48dbc7f87b8c957e32b604f4cdfa1"
+eth_hot_key = "010264b91228449dfdca07452e812bddf4fe990b7c7f61f627e5bb6636bb4df7f6f0"
+account_public_key = "0023cec3e806216f5769d61d872bf733edddc3b04e7a3d5f72f3e49f6247cf8ff0"
+protocol_public_key = "00be5bbf47d6ae77c54abd373edcfdb8873a1ef3f4e839156b5741fca54bfaa9b7"
+dkg_public_key = "600000009ea9b7b2f198c7ed594c240aab2ac0f2e1d6fcd16ea24fbe27337f1de78a96ea3833bcb71a9e69940d726c2238686603116068da36db9d3d2d04cfc522712a7d37e1c86dd9cde827fec0e6d3e87ef3360e759e79e2e1b743d65c1988a81c348b"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "35.202.3.12:26656"
+tendermint_node_key = "00f594c384ba6a7b5571626c72a111b6eb10d1d431b87c5b03611cae442a974111"
+email = “yawwwuzkoca@gmail.com"
+discord = “yvzkc”
+elements = --
+telegram = “@hec_tor777”
+twitter = "@hec_tor777"
