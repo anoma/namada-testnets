@@ -1,4 +1,4 @@
-# Desc  ription
+# Desc ription
 
 All previous genesis validators should name their PRs "Update {validator_alias}.toml for tesntet-15" and provide links to previous PRs merged.
 
