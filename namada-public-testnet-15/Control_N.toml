@@ -1,0 +1,17 @@
+[validator.Control_N]
+consensus_public_key = "00bd85e596aadf667d687d0e133e435e81b98e19b6565eb0dcbec57c92ea3d90f8"
+eth_cold_key = "010297c45a555d7f47d87e42ac375bbc5e53f88828bfa75b2c4124b0703db918f589"
+eth_hot_key = "0102159323906a90530201ca2fa388f3ea1e4254d0016cdc4f20dcb4b5cd4c91c8fe"
+account_public_key = "00deef497f63180a4a519a0e0a794fedaa2698222c9526575df49dd4691cbf041c"
+protocol_public_key = "0008a9b64bb4c5e22c1feb5279528b074b1d5deadcc45c40393cb34966130bfd29"
+dkg_public_key = "600000003e30378a7f8ec493a3eedd64346a12a1b420b0dbfb94a39d673b67b65b853cf36926c1facc66815052ee4fdf090c7b163b9b6
+0f7fc29e170f29e030675eb9a2cb6d616c2e65fefceb1a296ab2f04d0e8fa849b2508773b76ff53f53a41fcd791"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "158.220.119.160:26656"
+tendermint_node_key = "0014a0e4b0349a2984fc01d958561ea6b80a1f4a5b7ded5d11dfa96ad44887345e"
+email = "hexxinini@gmail.com"
+discord = "nunoynungning"
+elements = ""
+telegram = "@NuNoyDeFi"
+twitter = "@NuNoyDeFi"
