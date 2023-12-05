@@ -1,0 +1,16 @@
+[validator.loick]
+consensus_public_key = "00ee7d2141e289fe12e2f89b6aafe7ab916de6ff84fdb199b4ff196957f9744014"
+eth_cold_key = "0103ff2395680f135ee9830b96504517ebfbccde5f983c62c01267ba3689f3ae5aa6"
+eth_hot_key = "01032d8a81761c9be0a7ec4c3863271b4a8bf3dae6563b43c19be3e48ee904f8905f"
+account_public_key = "000f0cd838200a9a371b7d2b55ff9a36c4a849ebed287d4b352eba14e0ea3f51df"
+protocol_public_key = "00fddfe609983471775274a24cfb5b7aac5392013b338db12fe3d76efe8852315c"
+dkg_public_key = "6000000041d3a6ad371026bb6c17938f8c0102e8cc87afba2e5d9649ae35277fcf74ae3e50af5caf9aea72c2430b4a8a51f93504bede01dcec81265f5e7de805b135bee63ad31896aa95e727b30c0bc5fe78d8be3b19830e9650ba43e5d6420ef670cd82"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.201.190:26656"
+tendermint_node_key = "002119ccc3ef74255a0270c9d9312da1026748beeeddc39a627be1fa0972125398"
+email = "loick.chr@gmail.com"
+discord = "loick#9093"
+elements = ""
+telegram = "loick74"
+
