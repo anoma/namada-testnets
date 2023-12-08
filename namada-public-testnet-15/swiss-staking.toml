@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqlkswdmrg94arch8a7v2xsdphllu7dvaw9z3rm3fjfv8g9ld0kpq44g723"]
+
+[[validator_account]]
+address = "tnam1q9uacrsracqly2nhhnzkcl6megqgcp4aevm9csgs"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "173.212.223.233:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzvh6kmlml7f64v825c8v46g63x3wmtjet3rlze3w7ultdj5gmnkknef045"
+authorization = "signam1qry3ksc7h4l2dea9yjzmzwm0t4a5peaaym96rfpq8063tcpsxvnxkt4th2g5d550gpc473ahn474j5j06s2mcpfvz54x7c5xvymsg8grs85jw8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qremanvumcjl0z3lh6f3q53q8umk40cpl5ukjskusn30r285vcp4cm6rjsu"
+authorization = "signam1qpnfrd7u3qw6cw3hj59m22hskq7kwq0nfd8h06ja0gpkdhhf5pz9w8t33rja46x8wlptslarlk9t670kpwj2dhql7f2nxumr9z5ac0qw3n8elw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpgqlvzgu6fx856pxcjkrmsn202678yfxm3fj4adn76h408ulh3z7mw3lvv"
+authorization = "signam1qz84sjahpfrl06e48szu4qkfwd7e7e7dpsu2wat2gft7hnnul2jvvsv6yt6z8xxxqjdxz4ye4k5zhjc4dgmn49e5jz0r8up60vjylpq8pdceje"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyps3nreywl9vq6hx50gaqsmvgkaa5jqxhj540jpaycu5w5t7rg0fnq6wl2ws"
+authorization = "signam1q8w5k4hllf52s2qlzp3h04gfps00aen92r87u6tcahk8jc7st3mwuakt6yd6cplz96yqzedxalxd3xf3muwqsqmpnrv3hvf2f3n5z59wqqjcjuj9"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4per7ctt3pa9y8yrhmyzd0pgsjefresjtmmmm758ses4jnw335ycvdvgvx"
+authorization = "signam1qyesslzq3hrl2y8vnluhhkppqmac0zpw7076jerd65fnt5t6x0kky5att67fry2ar8k22mkn72u7daz5p9c6h0gdj6ezle6f30qsg9d5qyy65yal"
+
+[validator_account.metadata]
+email = "gv@swiss-staking.ch"
+discord = "creeea#8635"
+twitter = "@swiss_staking"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqlkswdmrg94arch8a7v2xsdphllu7dvaw9z3rm3fjfv8g9ld0kpq44g723 = "signam1qp5kddr9x54qu9x8vafs8tv65rj2qtnn0lauzpt2k0hwgqaf62lupkkaeq2hxp53ada7ehkesyj99syptpn65aktty3l7fywupdzp2c8nudfm6"
+
+[[bond]]
+source = "tnam1q9uacrsracqly2nhhnzkcl6megqgcp4aevm9csgs"
+validator = "tnam1q9uacrsracqly2nhhnzkcl6megqgcp4aevm9csgs"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqlkswdmrg94arch8a7v2xsdphllu7dvaw9z3rm3fjfv8g9ld0kpq44g723 = "signam1qpdkzykgd7p33u6zd08mwzvn3hg8jr7v5njzy5ykm8a428mypnznsrjjfn0g7trzmyg9ype3l0qjlv4xfeyt50xy5kyz76ymq0tx7cgp2mzcnl"
