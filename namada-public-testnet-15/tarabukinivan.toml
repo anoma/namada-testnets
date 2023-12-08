@@ -9,6 +9,7 @@ commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "167.235.39.5:61056"
 tendermint_node_key = "00089e392687660821391cd6e8ad14e7af8d9ea0549a0c5b716bc2e784a701e9a3"
+
 email = "tarabukinivan@gmail.com"
 discord = "tarabukinivan"
 elements = ""
