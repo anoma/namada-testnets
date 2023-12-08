@@ -32,6 +32,9 @@ authorization = "signam1qyqdusgna5fpcjhe9ghrstza873pf8gyt2s30d5xuk43ad5zsqpdyfpe
 
 [validator_account.metadata]
 email = "lex_prime@protonmail.com"
+discord = "lexprime"
+twitter = "@Lex__Prime"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qqdgj2k9lrnrytwtycyrczj7q8a9aquzpsyy4xq8p54x9pv0qvu656zg5k2 = "signam1qzmg6exufd4a5yl0lkm4vscgphksrl56s3ksafn3kakyvuraysrjlgl454zqagpgakr652s395c48zcs5dm5uxd88zyz7646tvmwzdsr7s4kam"
