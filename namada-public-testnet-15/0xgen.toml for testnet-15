@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qralw5crfqhacq9j494wm2svqfa887mcgtrezfh0hruj0092y96vslrah7p"]
+
+[[validator_account]]
+address = "tnam1q93yshxd6ge79ta6g5vnusvw9j5thq2ysuaj0k90"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "144.76.182.234:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrxtem29st8jw7rjnkmacac8qvnqadngyz3q2lgqavy7qu9qa2a9cdydk9e"
+authorization = "signam1qp4wuu9wjapluwajf4qh999j7q6umyenvvpnw28ev22zdpae9yfu90tl3k6t6aas9rggn9d6ag6t7p5a6ca0k3wjw9hzunv53q90npg9j82ky7"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzsldpl386jlw5ev9szrkslu6ek3325gtgw5chn04rx268fsfacj7tnfkem"
+authorization = "signam1qrvftxhqn9wx48ssgu78xzcw4yv9vfmymp39kz5dc0kk32u2qt85t5lkmzre8j4tml6cxnu2sv9hplqslf2npuvvudusdqhylr3wtacwh7kxrc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrmew7vwv4jusecs5qf2atfn90p0dcjggay6uygcsu8cdsdhfe4e2jhk6t6"
+authorization = "signam1qrj9y8wn9wp2pz0j4wd4rpdlt8maywk23k9pfwve063v4cfld5r4jgu3wdu2vfpkhx5chp4cf69xtyk435x92lw3awt9ms8c7vxgxzqvf5cjsp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprft8g03wqhtltqpkraz7agdzxrmpxud8jez7yq3ae5adc3txnkestcdeeg"
+authorization = "signam1q90y4j6k2dc78jecedgj4hqwkq6capxcnxmh5fv47sselqxuz6y9j64usvyhxrrw9rruufc68u3n25hxyf0w4s8al6kvteqkxrkjzzjhqqehyvng"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp43ff3ces7h75jerdclvkstefxnnrf5qkddcmyuyknrqa4t53cn5cde8pap"
+authorization = "signam1qxcj9k64neqw0pjwl6tj6k8s00wdneqtukguufzkdflxhckkchuevcw5s4dcq6rgagcdydy5w70qdrjv62fqy6cc3xqkp432hp0ds0r8qyq3080l"
+
+[validator_account.metadata]
+email = "saeedahmad1981@gmail.com"
+discord = ".satman"
+twitter = "@CryptoNextech"
+elements = "0x.satman:matrix.org"
+
+[validator_account.signatures]
+tpknam1qralw5crfqhacq9j494wm2svqfa887mcgtrezfh0hruj0092y96vslrah7p = "signam1qr0sjlwjj05qp5qzcn9vclruvnnwtzg728fagd24p7pjz6w5dk5xq2vcgzgennektk83qh6yxuvapv4mdz4mjsh6w8xjew87v0r79gctan9lx6"
+
+[[bond]]
+source = "tnam1q93yshxd6ge79ta6g5vnusvw9j5thq2ysuaj0k90"
+validator = "tnam1q93yshxd6ge79ta6g5vnusvw9j5thq2ysuaj0k90"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qralw5crfqhacq9j494wm2svqfa887mcgtrezfh0hruj0092y96vslrah7p = "signam1qrj8lr0rcd8epm8p0y0j0w0m8p6g9sm542jlk29tw42r3suyarnal3mal7puyhjg5nja6jzpm0xlv4ghcrex7gzxgy993ku90xyrw9cyl0t2xj"
