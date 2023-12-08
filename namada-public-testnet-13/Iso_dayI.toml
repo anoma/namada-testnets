@@ -32,6 +32,9 @@ authorization = "signam1q9kuw02tjlhk7l9cgc546j6zt75g24yc8tlgy8qgsmud2qpmmwq96wfm
 
 [validator_account.metadata]
 email = "imailsen@gmail.com"
+discord = "Iso dayI#5190"
+twitter = "@iisoday"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qz2emwfcfv3wdl08uzthq7c5qtkn4pdp227zawfef7ggdnmhklmxgft57ty = "signam1qq46wq6r0a76hwtrt5y9t2gtwes5je0j8pnr068jt4f3ejjr476mqjp324g3d5enyqrltp5q98q8jxm4jqmyvffr3wv6jhmccxmh9dq8nn47jn"
