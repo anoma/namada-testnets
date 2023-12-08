@@ -32,9 +32,9 @@ authorization = "signam1qxjh9qc7e78xja76rsqlvun26hsm0slf84jcxq2l0npdwn4gw6cf2jqd
 
 [validator_account.metadata]
 email = "cryptosjnet@gmail.com"
-discord = "msobh-cryptosj.net"
+discord = "Msobh-CryptoSJ.net"
 elements = "@cryptosj.net:matrix.org"
-telegram = "mno1314"
+telegram = "MNO1314"
 twitter = "@cryptosjnet"
 
 [validator_account.signatures]
