@@ -34,6 +34,7 @@ authorization = "signam1qylsthetpm345l8ez3ysc92ya2c9vpadtr849n9hqr88httftf2pym4v
 email = "leon@coverlet.io"
 discord = "leongameon"
 twitter = "@LeonGameOn"
+telegram = "@LeonGameOn"
 elements = ""
 
 [validator_account.signatures]
