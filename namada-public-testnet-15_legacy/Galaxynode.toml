@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzv66e2v78u6q5ua2rxpufday7ey03qew70px5rd620sxdy6j45r6gs2e2n"]
+
+[[validator_account]]
+address = "tnam1q9pdgapdzxcz365uvkr8jprmjzp8ah56kqmk22uc"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "66.45.236.14:26256"
+
+[validator_account.consensus_key]
+pk = "tpknam1qphf7qsnyvsnsjqtvtfxq68un0vwm78ut90v5lj7qu9c3qsat8gq724zz8p"
+authorization = "signam1qqy0qc0qaxm6dwexwrv0z42hk6zpeuc8pqlktww0snu4suy2ylswl77ajk6qq5twv06yx44apyt4qvka8kcm66tpsp7aw709cqkveusvqqfy3m"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzy7dg8szwed7zxzjlwk28c5xzddmw9d3yjgkhux69v7q5c5l353u5qdr7d"
+authorization = "signam1qp4mw5sjtgc004hcfz2z2zul7peecew6qk2zu5d34rephs4y9x3a2neejse8qhjsnfrs32x7cmtwu4g84c29dptl5ganvmpdktkhlag02h86qc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq6hf6qpst4cmyrevk2tqupej03fqvwtzxnavqf32x9yswg2p3pxvk9jaz6"
+authorization = "signam1qr3t49yjjggj7g5jve04a0fck337p24vj3twher8wyffhqkqcqtumh4cfftx9x26eryxs9agkq0d633eccnk7dlrhvuexrn7h05x30c8w9tfc8"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypklvxpy8lf98drwper6vz9hkhncw9cn4d6twzza7hhg0l7umre9ysdk7hrv"
+authorization = "signam1qxpyxveyfs5w5gdh523ne3duswktxl3gh90xjzwrmjff70ta7eakyyqxcs4gu9nuhsm27s5cuy398tr0yqrxy6q00ymfgrkwkdjtmjmjqqgyzdp0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyplrt68xc5hkv8pcp6r6vcvf0l8gluxuak4x6k6j2jzuwwew9ptc5q9hs3qy"
+authorization = "signam1q8ptqdxm4xf70253yhffrhxqtj9lrxnupy6h0vpc0lnudanm57s4xts56pdlrpdv4s86vkuqvamq6zd7mpp8fufvjlcv4uhq3xxw3dkzqqdaq2zj"
+
+[validator_account.metadata]
+email = "galaxy.validator@gmail.com"
+discord = "f1shko"
+twitter = "@Galaxynode"
+telegram = "@f1shk0"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qzv66e2v78u6q5ua2rxpufday7ey03qew70px5rd620sxdy6j45r6gs2e2n = "signam1qz5u35la4khu044e7aqzzyvyvkwffwwfnacp35hxpt3w44x8x096hjtlnsz7aj267hrdwtl4n0d5ccyj4j80h4a7ce03ph6jk57wqjcd8tajj5"
+
+[[bond]]
+source = "tnam1q9pdgapdzxcz365uvkr8jprmjzp8ah56kqmk22uc"
+validator = "tnam1q9pdgapdzxcz365uvkr8jprmjzp8ah56kqmk22uc"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzv66e2v78u6q5ua2rxpufday7ey03qew70px5rd620sxdy6j45r6gs2e2n = "signam1qpm9r4tmpqv93pqzqgx5w0zkpax4d47vrska5ltjscclxfagcxam02sya95uyry7zqwqfvpvy2r2xg49uj3x6qqspup4qntzkl55ztqxwp2rj5"
