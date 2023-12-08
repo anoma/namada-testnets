@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz6mjmu4ushxrmav66nl9sc8l7h8qds7eujv0exuv8ylw4r2rmpmxee2dps"]
+
+[[validator_account]]
+address = "tnam1qxtzyylvdzck0at64pg0g79qdzgeekt2ru2sw505"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.58.28.79:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzlkfwajx93eady953jn5q5anytamq3cy3vr4krfzn7u78lawl08k3uztlc"
+authorization = "signam1qpygpesgqzq2ygvw9p8l33myj6fulu8r37ckdvw2k3t0a32gna3p48ypacrf4yje0jc2wu9uqclrcu3ynuv3yphs3gwkdcr9y6r2qcq9dynj5v"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrfg5gvdm9ujakrdz8mfezm4ps36eha8ku9mtp0yca3vqfkrtrfsynehqtv"
+authorization = "signam1qr2gqnlv5722fsxkfqmvez8sykeym7lx4q3sg48qzgn8x3f5j8lanffc8ld5492nstegmarl2ztcchcs334tn8t03vtp3vvjqur64jcvplqvhu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz2ud46qgyll30p2rc85pq95cuct8wqkzaezvqjmf9su8k0aqxp3scxrlag"
+authorization = "signam1qppv2h8c2tlrjxmq6jdcgk3tgdftekaeyzd26x7kul3a8tj0zxsy63t63vfpfsyh8axhggy3stz20qf770hkccr5268qqmvh6fg349g2zslmjr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp74dhtjkxjly2e0za4rf3qul6lxryhclnhj92xpmfdszjfxsql2dqaw5xfa"
+authorization = "signam1qxvsaqa6enymfv572dzw0luz9k67f3xc9jheth7pm2jm8nd6qf47wkasl3y0ke2d3qpsl2x5lgdjzc504rztqls6vj57aleyvjch0nzvqydcdd8p"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypej6da7v6vpscfzurcvtzqhrqh550052k8wktwpsr7k5jrj8aa65q27ufut"
+authorization = "signam1qyh7cvtd2fnt64c3uehww6q92yej9salyuaw4v6qa069gd4hy4heg4svf7eefw0y5v59rnarudygw7cmhg4pt5uvsgl7vezrx5w9jvfqqqu4zz3n"
+
+[validator_account.metadata]
+email = "brad@originstake.com"
+discord = "mrspir"
+elements = "@tungdh:matrix.org"
+telegram = "@mrspir"
+twitter = "@mrspirr"
+
+[validator_account.signatures]
+tpknam1qz6mjmu4ushxrmav66nl9sc8l7h8qds7eujv0exuv8ylw4r2rmpmxee2dps = "signam1qpmcn8jvqu5gyhwaz46ntnq5t4q42a0m7m95rgqg6gta2vw4afy672f8rj7ywfs7q3snduc42avhd4ltywtyumfwct90gz7jtjd2wugrzahcdk"
+
+[[bond]]
+source = "tnam1qxtzyylvdzck0at64pg0g79qdzgeekt2ru2sw505"
+validator = "tnam1qxtzyylvdzck0at64pg0g79qdzgeekt2ru2sw505"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz6mjmu4ushxrmav66nl9sc8l7h8qds7eujv0exuv8ylw4r2rmpmxee2dps = "signam1qzqjr79n8td2nhudrvw6khhvd6xwtm7vwmu6pm0aqsp9ce2gnz2wvxfudnrcdk85weh8s30zjry0cgznzx6k6z94tnj757g634sn20gqwfqdkv"
