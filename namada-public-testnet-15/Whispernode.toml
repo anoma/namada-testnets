@@ -1,17 +1,49 @@
-[validator."WhisperNode🤐"]
-consensus_public_key = "00bd23c511e94a527665eb85f400bb893f7e491cfc448a63121a4168ebab354577"
-eth_cold_key = "01033be93b76f236a3a8b67efe55b8d8cc727ecfbf24caebb61ad5f4d2c48f5beba1"
-eth_hot_key = "010292419e420382f29ae7e1dc73bd772c22c5ba36ba84d636d4ed6bce78f8cd953a"
-account_public_key = "004322ec4f101a844661b644fefe3bcfee11d8c1ab5f029cce08511df534c2c5a2"
-protocol_public_key = "000a16450612613dd6d9107b878b166da1394ebffb006dac345c9bedf48ff80ea9"
-dkg_public_key = "60000000d8aca5ce1c0fb12a9846c472ef79bc78b87adf578c7438666b62803ef4dab3c25f7baf0eb2464d8b694fe5776b1a1516ab7254e49dadbf1ca9e309c3fc2f5db56783a7ae7c213a1cc006e114a892721df8aacbdd0ce0bb08070a9c702564e698"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg"]
+
+[[validator_account]]
+address = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "162.55.94.142:26656"
-tendermint_node_key = "0047169cc67f1ff0e12330c2fd94a6d87949d3751528025066bf43cf52669b5faa"
 
+[validator_account.consensus_key]
+pk = "tpknam1qq57akcuree0aqh9r2nhrj9jwrlhmshw2fl9kwjqdy6ajux99ttqjq27v7a"
+authorization = "signam1qpar4ed7f326lm7a85fm2vt0z2sfl2lg33u39c6fwr0y78t0dv8rgta6qnxgjywlzhasje3mrevayx4ntzjlc49ax36qcdht2v6n5wsrj0tk6f"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzkqmwvs3lq8cz33rg5c7ucvp674z3vj6s7nqldja2u7tmj40xzgv0h9utl"
+authorization = "signam1qrphcf3u32nr20np8pa36nncnhfp6trmueta42z4jw7cd97asjtk8v3225p24wa93sqsp3fpjy4rqyxh5syxcux4d2d57twlpz866pgtmtdek0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qryqpv2pkjsr8dyk7psa76356hcycvh3qx5lcfs5egdza0ccz5udugeecsf"
+authorization = "signam1qpge9dkqslcav36n4g4xs4syq4m3daqdejd82jxpkyycx7c053ejeetg6twu2wlvk56h3au2fehf04e3v5328urx87he49vpay0q73sp90pnxm"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptsval6zqsfk3t9vzvtppe0pavpyxcdx5hxq5ggcaxhq5jd2yuzqspmfm6e"
+authorization = "signam1q8ktaqdpnz5yu3fw5r7evrfcz5wzmsxqmwtge65f2glhcwtc4al4jvv9mj8hkphwd88upvnte2nrfx8rrtkd88s09zc7rd2tg84gf2apqqxq0kex"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypaag28f2mefvp4xl4ysf8mjldcpuf3yua2nz894d4x9phgdsv3hfc6lsvu7"
+authorization = "signam1q9ql3283aes3fz6k66dvdgsu8wehykdy4hxk089huuvj2veq89ww7dep2wzsz8nyvnj0f24t3526hyck8sewnct0rs7hxf3rthra2grwqq20pv3c"
+
+[validator_account.metadata]
 email = "brendan@whispernode.com"
 discord = "whispernode"
-elements = "@nomadicswede:matrix.org"
-telegram = "BKblockchain"
-twitter = "@WhisperNode"
+twitter = "@whispernode"
+elements = ""
+website = "https://whispernode.com"
+
+[validator_account.signatures]
+tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg = "signam1qrreevdw49vdzua8lnwg2yerf3mtwrlgcu82kulu4sm48et9yjg446pn07wm5jp9efwmgu4kn5lyrqcwx4vkgt8fhcl84uqvj632eycttakult"
+
+[[bond]]
+source = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
+validator = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg = "signam1qp88qcuh7rmgnwp7ymgqw07q2k299nswku0qmt09dekyy783j0qf36l9fw26rr34vjvu0qvfq3x87gn9yxndh82gq2w9nhslpdnapqcrx0qnth"
