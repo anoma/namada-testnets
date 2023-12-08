@@ -1,0 +1,25 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqmmc0m6j7ah0tp6mpvnkk3c36awh6eltn76rherc45xwrhtp5ncwf9lgvc"]
+
+[[validator_account]]
+address = "tnam1qyctkxrlftsmm362puxg8qxcw59fkqdhus4qa775"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.7.136:26656"
+consensus_key = "tpknam1qrf9m4633yyq20xv3lndz6x95dqyggmz4a3qvwg65pzfzyuyxkz6jdmu4yl"
+protocol_key = "tpknam1qry853huh7wfzrhcf6atevfd23tetvss4zeuykz2f5ckar37l9x4y0zhqc7"
+tendermint_node_key = "tpknam1qrrev5a4nz7xjdpuk3zdt7mflmg3xtw2qwpnwczf3477t2d0zs5ls9g4qnc"
+eth_hot_key = "tpknam1qypcn6cjh4tv8d0cxypkv9rjlrvwn4va03dctztygpg6x4tvkc2tjgsrxpl3w"
+eth_cold_key = "tpknam1qypk4szy674wr6we87pdsf3f5222h437ptx0rqvtu9gyg58mxydfvwqmtazp5"
+
+[validator_account.metadata]
+email = "Pablo@Pablo-Lema.com"
+website = "Pablo-Lema.com"
+
+[[bond]]
+source = "tnam1qyctkxrlftsmm362puxg8qxcw59fkqdhus4qa775"
+validator = "tnam1qyctkxrlftsmm362puxg8qxcw59fkqdhus4qa775"
+amount = "1000000"
