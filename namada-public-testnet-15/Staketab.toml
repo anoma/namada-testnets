@@ -34,6 +34,7 @@ authorization = "signam1qxhnyyey27uejjqgty3axmxvnm9crkc73mfnrkncfy54xpq225zh7eg6
 email = "partners@staketab.com"
 discord = "duccaofficial"
 twitter = "@Staketab"
+telegram = "@Ducca"
 elements = ""
 
 [validator_account.signatures]
