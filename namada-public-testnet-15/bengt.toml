@@ -32,6 +32,9 @@ authorization = "signam1q806c02930rdnac5jtxtnmdr6jwhfwteu4eqchu0xe5jgaqsv0znztam
 
 [validator_account.metadata]
 email = "test@test.com"
+discord = "bengt.namada"
+twitter = "@lofgren404"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qrf7k5r2kvuppxnp0ruapkkd5szmyxzjxg7t64salgz5wrf6d327wmdh8xj = "signam1qptu8kxn9apr7e7h438d60gsaqyupvgcur9rcxva4ft3vzh67y4qv2v2rm7ugg469kpe6qx7cr206n8tk0daqw9h03k72m6ffqwf56swvg0cjs"
@@ -39,7 +42,7 @@ tpknam1qrf7k5r2kvuppxnp0ruapkkd5szmyxzjxg7t64salgz5wrf6d327wmdh8xj = "signam1qpt
 [[bond]]
 source = "tnam1q9yprrkkhy0kfngwg59rxx9q2f8kj5ufhctn4n6u"
 validator = "tnam1q9yprrkkhy0kfngwg59rxx9q2f8kj5ufhctn4n6u"
-amount = "100"
+amount = "100000"
 
 [bond.signatures]
 tpknam1qrf7k5r2kvuppxnp0ruapkkd5szmyxzjxg7t64salgz5wrf6d327wmdh8xj = "signam1qqgn525t548eg7nrwhrlke0n6r8d3zqw79tdkeyva79r6snc26ew6fq2fkvunljw7l6hq5ed6e8dqyaq9afexwd88gnprlusjds77qgq57ej0a"
