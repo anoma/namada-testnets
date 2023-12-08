@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp2ypn3tsg69ql5cv29358grnwjda3f6vuc7gwzn2jzmp3gapssesrw2et5"]
+
+[[validator_account]]
+address = "tnam1qyk2uatr79tuxlspywcfytd3mmuhr369ecgwte36"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.239.207.175:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrgpkd3lynayfr9k6tsmx5zx2jk0s7adzeg7gevjgsz7fm8cp08nsgnkq07"
+authorization = "signam1qz44hwqdam9arf24wslys3spcfjh74qtt6a3wewztumadkqcj9q85acpxg0yl2wtw2xmyuts0xvtd6jc22jg4ejq46ac0j8nnlf26tgwnytf9t"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr3r8t3d9clgvj8r2395yq6sffdcmrsx04l48j9rffe3raqmjsfcg0asz3p"
+authorization = "signam1qpw29m7y0n3sa8znsm747qw6v2w5fyke2y7gjm7vjageskdk0czqlw8r8vx683vdya5eqhlvvtyswrk0mhpse39syzep0u0t7slsdpsv7se0x5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq85yajgjxry6n3ksu877349kfanzy9scy8la673zyley54wpjk8j769mwd"
+authorization = "signam1qz7krvc7c3hxzh7235z7uul9yjp2d4tgqvrlc28y9m6e373sqrugfdme6gxayyu2f5rz29j0epzddza2xyd3myj6waj0kaku8409mqgznxs7fl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvpnfncqwh5kxhuezt6k4p7h5ppskmgw4uns9n8c27mzv0ccpxksgvlq3ym"
+authorization = "signam1q9cr06stg70444yam59nltqzhhrasuqc5m4a8034kq9t7vjdvvd0ceqecweztjx6plxu373dlf743l2ljx85uezskzf5ssgd0he6yjtvqqskffcy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypq39ufkgf7ykg3rch69mrd9thk7zm2ck979mzlgdc369cnx39fz3gt954xd"
+authorization = "signam1q9ahqn72lrjnpu7ar5ctkkh5kt3v5q0jpc7sz665yyve8wlen5g85ztqeslqrvx87dnaan44mkumlm8f752cwtk24g0z5fnstccvnfa5qq5yjsz5"
+
+[validator_account.metadata]
+email = "info@stakeup.tech"
+discord = "landeros"
+elements = "@landeros:matrix.org"
+telegram = "@landerosua"
+twitter = "@stakeup_tech"
+
+[validator_account.signatures]
+tpknam1qp2ypn3tsg69ql5cv29358grnwjda3f6vuc7gwzn2jzmp3gapssesrw2et5 = "signam1qrj5rhzhxa5cv76938am32gll25dsa2qz5ne5w56ej0qpqhak3ey6pv6ellz47q94jy2lfmz67mphlztz9rcp3teg2hwsm6qqqe7qasg96s7jp"
+
+[[bond]]
+source = "tnam1qyk2uatr79tuxlspywcfytd3mmuhr369ecgwte36"
+validator = "tnam1qyk2uatr79tuxlspywcfytd3mmuhr369ecgwte36"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp2ypn3tsg69ql5cv29358grnwjda3f6vuc7gwzn2jzmp3gapssesrw2et5 = "signam1qrmuweftenyzc53nspsn54twkgjgah52udtrj0xs30c44d9m9ggdn78zg4rn45kr6vk8m2jla7tzlnkvhujr0z4saest2v7mjl5anngdrwrg9u"
