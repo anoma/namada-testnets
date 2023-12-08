@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq9qdf4fz34nxcn5zr909pswy73cr4gc5khjnzfnaqcdu0wscch9kat3q7y"]
+
+[[validator_account]]
+address = "tnam1qxtk0vc7tvljycqh6c7ma0np0krfral82vjsz80w"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.92.148:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqj6rrmw9fuk2mjy2hdpmze94uslfk85fvk7qrwh8jfxhy5dd8tpvgzsp6q"
+authorization = "signam1qqlng0ghsweapaszu8uj7k936glyjyyn38l7frux609e8crl93m4lkj9sfakhp7pyk3jgchgmt2jemphjxvhxtfyqwndwyddkx844hq280sj50"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpurhjde44hpapz89yk5njeljxr6qjtajmt9aemgvnh3r9nea0asunx4d0u"
+authorization = "signam1qpvhahywe0y6fysnuv67708te2ya9lrxuxrj9lw4yh6us3cjwv7jv7re5p232zrdswnqawq6d7czuel4wzktucrd4e5jtsqc0dt4uxcrwxx7je"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpzfqdw3ugt6tlr3g6w7clrudm9pq7fcn4au5s3caj3p448p07kvy9q6j22"
+authorization = "signam1qp0q8r8tpeq2ll6zrffv7w6c58pukxkcz7akjtvwwylt0x96rajgmxpqfgkfgk0vyedk4ernv6kvj2gdjxgmymhcjgmtm3g3eqervhqzw7tm2s"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqg37h57y7he248fmve8rx0tn3r3dzzv9j69mcp7v2vwjjx48ldfg0plu4l"
+authorization = "signam1qx0nlqnhrfvyz7xrx3nqyppm9z0nasx2c2594jjgycjrzj82rgcqwze39h8pprq3rqmex8cgg4nlxx8xdjkyjdveyp8x4sxpzzg3zjxlqqdt4j62"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7lcsqczsvu9lz8jv7ympu5tyg3y6akx2jxgrusvv3f8ls2pcru2c5q625x"
+authorization = "signam1q8scfhked55vzxglnqm23wk7m0j5cmx07p9mpvdmq7agu90w2tvjc7x8myuys7fjjm2extspv88kpt34dn3q6wuzrlyee0wrr95wn97nqqkaesyl"
+
+[validator_account.metadata]
+email = "sashaormosh@gmail.com"
+discord = "shoni_crypto"
+twitter = "@Ormosh97"
+element = "@shoni:matrix.org"
+
+[validator_account.signatures]
+tpknam1qq9qdf4fz34nxcn5zr909pswy73cr4gc5khjnzfnaqcdu0wscch9kat3q7y = "signam1qzkav29cwn0s5u72p052nvhr38llwgmcjsg3w0ulnr0rptj6cyvl0lklvll4trwwfs5tr04m8hld76jastj86wu36zu8apmswvl5lvcr4kf8ug"
+
+[[bond]]
+source = "tnam1qxtk0vc7tvljycqh6c7ma0np0krfral82vjsz80w"
+validator = "tnam1qxtk0vc7tvljycqh6c7ma0np0krfral82vjsz80w"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qq9qdf4fz34nxcn5zr909pswy73cr4gc5khjnzfnaqcdu0wscch9kat3q7y = "signam1qqa8m3f072wprclufrsrdfcynpw9z952xd30c46zr6lxyn05lq9x45xm5g9l9sea6ss5fae7m9zhe8t4qjm9wr34ve8aeq8gsqme5gsqsg6h6p"
