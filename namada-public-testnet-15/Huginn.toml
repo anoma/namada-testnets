@@ -32,6 +32,9 @@ authorization = "signam1qxhzcpccttmr2ve6ddcayy4atge7a4r6mkkh0t307nkelseklxuwzwz3
 
 [validator_account.metadata]
 email = "stake@huginn.tech"
+discord = "gökay#5690"
+twitter = "@HuginnStake"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qz8ulpf4qu9v4tcttkp3quje6c05c9s92a3kkvyk2xu5jrh5hw4m60mkupm = "signam1qqhh4qlnc0ppr2cksves73hgp03350ucp3quzu03y3v7mrzwuayu4djc68l5shv4jck0eka33l0sz4vuzajcrnmdg4wdz3m3vkhnkpc2gnmsqq"
