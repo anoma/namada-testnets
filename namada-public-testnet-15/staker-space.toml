@@ -32,6 +32,10 @@ authorization = "signam1q80lfsgxezrhxqp43g5u79an6983vj83uqfv0w97m7z93lmlzxk0cus0
 
 [validator_account.metadata]
 email = "hello@staker.space"
+discord = "_ilhan"
+elements = "@gnossienli:matrix.org"
+telegram = "@gnossienli"
+twitter = "@StakerSpace"
 
 [validator_account.signatures]
 tpknam1qqx42eqdprkhargwyy5glvd6jxyfa3sxun7cpflt649k327hegfhs4876u9 = "signam1qq6ujy9ha874ukyljewd0a89lzqe2rpjh9jg2wh84e8de78a2s5nugrvfjnxn52gdm3vztdpm3ggark8693yvure4vdcgwnmeux6vpcr8r368u"
