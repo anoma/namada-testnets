@@ -1,0 +1,27 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzqw862cp702segz22jmvfp2esm7luxjsrs7wsrevc48wyk8dpnqgaty4vy"]
+
+[[validator_account]]
+address = "tnam1q9qp062kl6ay3at3p47sa4h0gnyk4stqfc9s00gp"
+vp = "vp_user"
+commission_rate = "0.07"
+max_commission_rate_change = "0.01"
+net_address = "65.109.107.172:26656"
+consensus_key = "tpknam1qq00n5f3z52jr52zhe62qspyfcefdq0u82fv04kvk4x0fmhf7rvqyk250hx"
+protocol_key = "tpknam1qrqgy28td26fahu00h857rv5acrn9th0lh93quw2njfdvytahdrhk9qefdf"
+tendermint_node_key = "tpknam1qrxevupfnr8kseqwy99n7r9mnhsel46w5fmlpkp4p7aeuymw9qnmuh86z52"
+eth_hot_key = "tpknam1qyplxwe8x2xn9y99fzyh6ujke7jfmj8cq0504myqgd47d4gdmacf6pg89yzgs"
+eth_cold_key = "tpknam1qypy3s4djpwtrpqdc36y72zp357m4jw0j2xzkguvg8qly6yujaq25gs5fy8xx"
+
+[validator_account.metadata]
+email = "niloki555@gmail.com"
+discord = "niloki555"
+twitter = "@krosslike"
+elements = ""
+
+[[bond]]
+source = "tnam1q9qp062kl6ay3at3p47sa4h0gnyk4stqfc9s00gp"
+validator = "tnam1q9qp062kl6ay3at3p47sa4h0gnyk4stqfc9s00gp"
+amount = "1000000"
