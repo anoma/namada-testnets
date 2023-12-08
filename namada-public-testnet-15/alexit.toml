@@ -1,16 +1,49 @@
-[validator.alexit]
-consensus_public_key = "004db29c1ed89dbefc2c1d17ee46ad82d2f875ec4160f4758fcb9c6b8fd790cffd"
-eth_cold_key = "01027766619c5141b967e6c5ae4125c935ba2fcc1610fb45fbd0db9e1687809c6a71"
-eth_hot_key = "010330f632380166812724fda280987b3c2f885d3501fa1459b8704c52990a31eaaf"
-account_public_key = "00042a89c4b6febbc7e3a8a98e02fc5ed07a93111f7b6631168130178ec445a372"
-protocol_public_key = "007fe8285641c5199885b70087972150585a0699b232c41b9997c8cdbc2ea917ed"
-dkg_public_key = "600000009285175a19dfe37e4bbb247a56293983e9650addb972397a36416b648d1baacadb3d4bb8fd8460c6f2989babe20bf90ff14560f07f12664c0f6030f023b04684e9caecd29d4155addc8a3345bad5705f9b99dbc30d19067a4c12d056d62c5319"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685"]
+
+[[validator_account]]
+address = "tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "62.183.54.219:26656"
-tendermint_node_key = "006f80ee30a383f91e2254621f15d5554d8e148c534ccf1eaf82af6bbe6b2569b8"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq4gsr3amfzk6z06hn5fa6269wkzurth8jpy7lgnm2t06due64n66d6tutn"
+authorization = "signam1qpk995ydae87p0rs06lcrl4cswksh406dgwylap06g8htart9talgghcwz2xamul0p735p6wfgy5p5pezuqp6gqx8gt95hem3a9p9hqxaa8dg5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp6aue0879r4g7aea00j9lez7puxeujmfdtnn95yzc37rjyus5wpyv8k5mq"
+authorization = "signam1qp095c2jv4w5gzl2deklrgz62ap2855qhmrymnw75rletknxvu5ufrc6t0sad4yza0fjx2scp83rejnz2qwrs063qks2e7q5w8m00mctamaay4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqryxtd758nx8ewa99j57kzj49qa2rswq38sw3mm9jlcyw65hgpd6j0a7up"
+authorization = "signam1qqpt7jz0fh4y9amxa68dj9sydjffhr6hky3gg4ek3u0d3ukkm50dhf2cjz26t928ae9kyyjvv9azr4uq4nucdc7frpunfdp7qugu3egqx388nl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypav74qt0cway68exg2pqpghmvavj6tacfwz9vd95j8aeevxxej3jcw5u4yt"
+authorization = "signam1qxsah4uvravdkn3aal6kxm06djtvrd4x7a5vmz8luzxt4fqltmqg2v7kqecpxyjuhp7cgt3m0508m2dfqealeu9urdv23euswp5npq6pqq92ygnd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyprrxprdxa5mt0a0lgq7syx8l6nds45wljtlwvt3dprekt9adh8rachfaxt0"
+authorization = "signam1q8zqhyduln5qtwupa38usmgeg69pj3lp5swvu875u093ulsazpcfc0wtrf9vxa0rllza94443lphdkr8pz6y6fplnc9u9fkpd4t60g65qqfhkxla"
+
+[validator_account.metadata]
 email = "alex.it.prof@gmail.com"
-discord = "AlexIT8496"
-elements = ""
+discord = "🅰🅻🅴🆇ⒾⓉ#8496"
+twitter = "@AlexITProf1"
 telegram = "@alex_it_prof"
-twitter = "@AlexITPROF1"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qrqvhd4qefp0dx8l9gwpsh2ktmhq0an6w35s739tm2way3p954rqcn3qxz0qn4l9n5kz8lp0lvrnglw57m0u0m4hhv339evywqd789qxndw6jk"
+
+[[bond]]
+source = "tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq"
+validator = "tnam1q83z54q574kvzfujk5dt9kpy42a4zpassueswgyq"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzsmt8lksjezlepf2zcj58uw0s8m43ur8x8j8u6fspzm73xlcysxxa56685 = "signam1qq357ayelqxc303eyghxdyvuxm72m7ju0rddwdmuva7dtpccud5hj8dagk4k42lzwd89h4eeqt9nslvqy6uve8gs2u48exkkdx5s07g8yxkpty"
