@@ -1,0 +1,11 @@
+[validator."Lavender.Five_Nodes"]
+consensus_public_key = "00bae7a5c2c272be04bcd3cc0d03a96b9338bdb411126aa00d5178aabc09e3a757"
+eth_cold_key = "01023c522023fa462e3729389ffde7acf435bb6a9cbc0ab9579c509ccb53be311bce"
+eth_hot_key = "010315f6bbe0b6e11ecab783babfea45d6fa18564ea3315cb07b5ee4d38c0f625687"
+account_public_key = "002b434e8440e8a619ce1698babf620bea4a376e7cd8bfeb4c32b1ec4e3887056e"
+protocol_public_key = "0030b5b122fc5370dc2c605a724d1cfe5ed24340d0216c1d18542f93531840a1fd"
+dkg_public_key = "60000000507df3db42db6747878c0ff0e3f61aed45c0023c66b74488869c1daffcd38948d558d9c7d25311d75b8d5963967d6e16988ffac643e1a5a4196e0e54d91af8002c89481399a2add849e41530a35d832f496ca7305d1d50e816d1177b3268a519"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.52.46:26656"
+tendermint_node_key = "005cf56d24f88e754c3213cde3976e261e8a5100917f2b0d660fc63c29de752e1d"

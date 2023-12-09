@@ -1,0 +1,9 @@
+[validator.Wallach]
+consensus_public_key = "00ec1e8e2ffd2abcd8bc87d66d8fb2c6d89f193db438fb1d5ac998bf3396784e7a"
+account_public_key = "007e8107eca7c7e323a73e1b8e9e8998e30f7e54777d2b41399145a65515d9b12b"
+protocol_public_key = "0094ba3df95e1169aadd07cda21cb186dc1dabb58a83865663376d1120857071f1"
+dkg_public_key = "6000000062bda991bbf7a4eb2ae328639bb6dfe8bace3b89b1c3b126edfdcea24c3a85fdd83ceb0d5abe50685eb714b9a01db20e419ceddb3f76f3c73efe23b993b0a542c2a2722d0d6f20578b89d4d025a91bdcd0b51800057860a545def3cf66a3e200"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.75.167.124:26656"
+tendermint_node_key = "009b2f08e7473774d726ccc3c41e80fcf29a5661e12f87a460b1900c970f9062f4"
