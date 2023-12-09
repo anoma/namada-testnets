@@ -35,6 +35,7 @@ email = "ghazni@stakecito.de"
 discord = "ghazni101"
 twitter = "@ghazni1010"
 elements = "@ghazni:matrix.org"
+telegram = "ghazni101"
 
 [validator_account.signatures]
 tpknam1qrexqlch35mdtqu7c07u68nw6m2v9j3zsn20wjlly3qakc8khuhaq9wyfmc = "signam1qpvectnhrmaftul05j4tu4gj3mn4t35gcutwggahmp64epkamex6n6jrrjp29sgs87kflgzkmyt4e6dqdm6sg65cgsp3m748u8ndcccpjt3qcy"
