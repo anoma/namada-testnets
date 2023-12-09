@@ -37,7 +37,7 @@ twitter = "@kisslovefun"
 elements = ""
 
 [validator_account.signatures]
-tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qzqwuwj6eyhxcz8zmmnpay7eq2xfqwch8m8m2quecqlpz44hmft9lumsuchv6kfxksezdrveucc85nwmxpc9pfkhh05ty9sqhxk94fq9ueekmy"
+tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qqfmr68ka7ynsmt326d49k9yjwhzlcsdg09ueay3pndzqqsh9s9a3z3qaactpdnk9k2l840urve7hqddltjz307wqzlkckcdzuu2mysx5lz9jy"
 
 [[bond]]
 source = "tnam1q97sm77g4udg6p8g9wv596sn34cfmectl5gr4tg6"
@@ -45,4 +45,4 @@ validator = "tnam1q97sm77g4udg6p8g9wv596sn34cfmectl5gr4tg6"
 amount = "100000"
 
 [bond.signatures]
-tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qpsal3p0906kvwreq3emsej26j0jhw0tnd5u4cv09hvgqrzqtashm3khv7n6yk3n9mr32se60pye9hrg0cqjzwvw4fss6ls9nxlzz7g0cm98ny"
+tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qqy7ecjrzuft7qpx5up6zp8lqxsltdqw6des9rlfymet3tc42h86ks6n2lhu97ehtc8auugrxfwxh2gnq40ywaaqsd5rgj8sp70fh8qv6sxchk"
