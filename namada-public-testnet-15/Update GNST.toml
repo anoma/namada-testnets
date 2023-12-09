@@ -32,6 +32,9 @@ authorization = "signam1qxqgnjd0hnj4dgycg5w73dl9mph5s2c5jek0zhtnemqdep3s2f3uuz74
 
 [validator_account.metadata]
 email = "nikitamilokostov@gmail.com"
+discord = "genstamindband"
+twitter = "@genstamindband"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzdve3hpe0yt8w90889ku3nx2c2dk30g0crlya2a3jxh9ygd3egk5ucwram = "signam1qppw8wnck2nxgst7ysuf2h4dndnhrednjy9387lzcudmjmrc8m3xeuyt8pwwdt5cfch5qv3jefr2fuu2hpf7lmq2e287zcgrsvzhvzsqht43au"
