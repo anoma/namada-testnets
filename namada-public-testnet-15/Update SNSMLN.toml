@@ -1,0 +1,50 @@
+[[established_account]]                                                                                                                                                       
+vp = "vp_user"                                                                                                                                                                
+threshold = 1                                                                                                                                                                 
+public_keys = ["tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8"]                                                                                          
+                                                                                                                                                                              
+[[validator_account]]                                                                                                                                                         
+address = "tnam1q8ghlk5r25hjulnman09jard0yf5k49c856vqc68"                                                                                                                     
+vp = "vp_user"                                                                                                                                                                
+commission_rate = "0.05"    
+max_commission_rate_change = "0.01"
+net_address = "62.33.73.29:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz9ptpq4ayxhs2pkjr56gu9ltwgmdtke0awdh9lvm403dgrkeejy23tsazc"
+authorization = "signam1qzskh3sxzmuwvkvy2n65zpfdxmsdayz2ravgq0lysdx8fgdrsfqkn8f4l3uujt89a3cww9n0hh43yudqgdkg8nvw0hhw9c3yzs3tndqd3nxzt5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzjruak68hl72k6ptcn0pyemq84tek57hl7ej5hx8umqfpnfr3q7yfjtwth"
+authorization = "signam1qpr2ywhdyas3307q5v3h3jl2kneqsne4slmzkgcst6raqtg2555ufs5daqjg7srxpe4j3vfuld8g62xxxlk879lghwdf5kqr0ygf8ls8w2es0z"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp2zkyac0hx5grcsquh4gvutvupcmzjkzrggrhm7ehlqynkwag7kvz9sm67"
+authorization = "signam1qz0fw3k3azsjdem7g6m0524q5g0lru2lkrr4ufcj60tat83agl7dvzwhvdgyjghm99duj042xqu0nulxv79mhqr2vmrevgxx6heq66gqg2g4am"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppy34vrt6jjnvhcuz3lxldwps2rh6h8qha5j74r6mwvrx3ylrlvqsyx5svz"
+authorization = "signam1qxq9935z8cjvjgk0t2669hn6nz9xxse2h35a32pzf7g8ptde02255vt9xelaa9cje6uut5e4gxc2nt52a4suvs6dvuxfv8u5u457zmqcqysmxm9h"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp66rdcd7dlu4rqxk0jy8uypng7y2f54777qk30w9l6cxtcr0mvk2qkdslg8"
+authorization = "signam1qyxtpus4rnqzx0yaweamjuvhn469htzp675kcl2epdj5twc396leycavx4ftzh9hvkuw7pg6nsqkeaaz8jtlyj4pfj04kg78sdnha53eqqh5qrcx"
+
+[validator_account.metadata]
+email = "snsmlnn@gmail.com"
+discord = "snsmln#3128"
+twitter = "@snsmlnn"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qp3665uz2djhyhyw2k8sk3frdmctlvd80996fnw03ytnf8kt7tqmafkmq764lse027psuywnmynhu2c63248fvtu9t5a5hwry
+wl0ulcqky3y6x"
+
+[[bond]]
+source = "tnam1q8ghlk5r25hjulnman09jard0yf5k49c856vqc68"
+validator = "tnam1q8ghlk5r25hjulnman09jard0yf5k49c856vqc68"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qztsjpcuqq5lr463250632uppsfuhf69h0hy0zhff8fpg7kdevemfsxargemp5cmv2p6r20w9dwxdmvn5krcxf3kkpn65ecum
+0dlmmg07949jh"
