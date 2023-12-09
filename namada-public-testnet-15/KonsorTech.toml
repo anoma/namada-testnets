@@ -1,0 +1,47 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq4vkdp7056328hlfwhs0x6frthclx662qv9wtqqgh3pcpguazjf6460al2"]
+
+[[validator_account]]
+address = "tnam1qyttwvnlsgr5kesyngrlrh3n6l6e8tku4vg7aewr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "51.89.195.66:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzt2jhk27kz9zwzlc2jlrakgsjyern54w5zd3w43k9vzspckzuk9u2j3ljy"
+authorization = "signam1qzg0pcpqhgv95e6cg532kmkmuug8yyrm2s6ds7pra576ugals299ht3st3zj89xfur7shqqhchljadethxvyffgdhdhw4hwl75rxl7gyxzh8ph"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr2d6axnjz2fw06rnwh253jggaxknt59yejrrgu7yhyal9wmddr3c55kmq0"
+authorization = "signam1qp2t0fzxyclgljvxr5t6cy8delqmjujtzxqskx2q4nfd0d7m8ckjx3fz9gjyrxq3dxrx5t3xhtlz0v66t4d6wmeyqe7euvj8eg92ejcg5q8vrg"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpn6vr8nmj48w46xrq9xus2qgyhqdudee7vj76czw4e889sgp5l8yxnjv2f"
+authorization = "signam1qrzr535wtk50hp7ndhjfngghcj2r5jw8xd7p4gsl8nefquw3ykf8nc0ngma9m4hxekwxd65jr5pnq5hqhz6u5g6u5d6mpgnh6xzcwlqya8wdgy"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkvg5kz6qvwafzlj2j6cmgr8l3qjk446u3xa3u0qgw3w3n3ajqtegsu9kmn"
+authorization = "signam1qx7s22ulxrjex82n879zcl7q7c78egtrm8llc60wzrvcfpx7yxsu7ssrpmzu3scdpa666ecyqnvwcz0fe6qf6jfwekwrdu8zflst9excqqrf9qc8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp80rr56amsjew6tsa3jsafw2tn6paqg7tfcjpknt70d8rmjt46rzcz00tg5"
+authorization = "signam1q85jya0fkx2rvzprta97md8d7plshgrrs672ur2rs7nrgyef6ugfkqmfthc89sln8jae2d7j5za9l28n88cjlp6k7fy3fg2zflkvw727qyz7m0ap"
+
+[validator_account.metadata]
+email = "konsortech@gmail.com"
+discord = "konsortech"
+twitter = "@Konsor_Tech" 
+
+[validator_account.signatures]
+tpknam1qq4vkdp7056328hlfwhs0x6frthclx662qv9wtqqgh3pcpguazjf6460al2 = "signam1qpl3jfvnxs08nn5qf52axu5uk44ecygqjv94pwkjfvw9cs8ewgugp7reez4z8yg0qnm28d2jzv42sf3sfl9tzq0uyazfsehmmv97racqk8yz5h"
+
+[[bond]]
+source = "tnam1qyttwvnlsgr5kesyngrlrh3n6l6e8tku4vg7aewr"
+validator = "tnam1qyttwvnlsgr5kesyngrlrh3n6l6e8tku4vg7aewr"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qq4vkdp7056328hlfwhs0x6frthclx662qv9wtqqgh3pcpguazjf6460al2 = "signam1qpagl72j626yypm3awv38cce35awnhev07cuhvyh892vm9t3phg4rrnpeptwha5phc5kdcsgrfz8z8kuze550lcdut98xwj90uydp8qym73pf9"
