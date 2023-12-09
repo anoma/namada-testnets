@@ -1,0 +1,11 @@
+[validator.Siriusnodes]
+consensus_public_key = "00dcd0cde270a5a8b37f4dee19f341c74020027b167701ef789cabe1192cff78e9"
+eth_cold_key = "01029480215f458e61d20dc2df5707f8e5462b7b683a99c1b6a7719ce8727b8bf057"
+eth_hot_key = "01023047cce4c2c9b1479fbdea18eebe1786d208320432a7771aeffe6f068659123d"
+account_public_key = "006772724bc7492b5c8898c74e0f9c9009402e0bdf93c1a9287edcebd4262588e0"
+protocol_public_key = "0029fbf4a897d614c16279af09775c80ceda48d3f1d6ff3ef0cc67ee076048b8f4"
+dkg_public_key = "600000007f47205def72cd247e3bf4c7126b23546a4f875c4b3f5bf687f3afdc0969eca91bc9d4d49accd5f747b99c90dd316411c13eab746a23895bc1cb6f39f3d03e190cd874404b888ac05d6d89e56eeb184d781c51e1f21eb60aa145d9f810b93881"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.110.12:26656"
+tendermint_node_key = "00b1e33d39b1ec93529bfc272c43697ac66102ce463edd4ba9b0cc168ae6ba8b9c"

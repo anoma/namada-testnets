@@ -1,0 +1,9 @@
+[validator.AlxVoy]
+consensus_public_key = "00c8503fe79b1df6d62fa2b0a650a582eb63b16a7d2db214f658518fa85f7b3fdc"
+account_public_key = "0060ddf9df6015e805031aeece40ff7d92101bdb2345b9c6f52f0d84a13d12da50"
+protocol_public_key = "00a78f03a05fffbdc3ebc6604310ac7de7c468fdef40c1c60fc6c1567b6ee55cc0"
+dkg_public_key = "6000000075f9309c3154703d34120f4868404fd93fdb16c7ba7c72f9a610ce23be172f37a48b7b54f5fe001931c6222a566f490ac938d9ff72a5d32d4b6a0eea69edc57f7582aae6e74714b036d841924eba55184c81655f52cb35082e7c40e99067118c"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.93.152:26656"
+tendermint_node_key = "00fc303290dbf269d3033b5f5def838637babe3d57cf631da15359640840847d21"

@@ -1,0 +1,11 @@
+[validator.EffenbergGesture]
+consensus_public_key = "00808391fcaff7c8f5d927b00e3cd1081487261dd8638312e246b2b7347581063c"
+eth_cold_key = "0103da2a7e10dcc65f89c5715707a1b9c669f88b87b9d7064e16ceff3747dc155c4f"
+eth_hot_key = "0103038b6da273a3be9caacf2c66010b0138b00b26f1ae5485de37b7b4aaf011c885"
+account_public_key = "00e3f88f17a9656d8365328de2f30c7469a7c639978e17c6a7bf640fa12c121296"
+protocol_public_key = "00d0199cee2b4cb51dadffbfa49a2339e088b1da427da06fb7cf7ae359f9d1331d"
+dkg_public_key = "60000000c1a5cb991e6d3746bcf38e4154a85f53f24fa9f3f2e230565e8be614e16fa02db3141ef1763c04bb898b6d5294a19307169732eaae8eb899b0262af1e00b968795fe8404c0d2f6e9b9c800c4e11e854c4476eef43afec84beed16116e7001e11"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.61.47:26656"
+tendermint_node_key = "002f19ca17641d8f3f5cf44caeafb565cff102e682ef8d6eba47b2e08a380a3bbd"
