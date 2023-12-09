@@ -32,6 +32,9 @@ authorization = "signam1qxgvq2ew9ksmka044enyq9lnre03kuvn4aldula8y799j7vhe9d3s6rp
 
 [validator_account.metadata]
 email = "dev@upnode.org"
+discord = "upnode"
+twitter = "@upnodeIntern"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzxy46pwf02zrf36vrujjxn95uedwzjxlcnepptemqm3xar5hcmgsk7mzv5 = "signam1qzkurv0fkszdjfgg88wjq2jzxxjssdts3sllffcuvhgmgwq4t0rnj2uhh6n8mvmlkf539s9yztt0zepwvz82ch4lvycj7nf2faesussqyuzuj0"
