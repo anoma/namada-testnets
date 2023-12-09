@@ -34,6 +34,7 @@ authorization = "signam1qyf7swhtzvstvn8d9y9nfapaacf22ppksj5fecmkjxesd4jkegt3zrkp
 email = "admin@kysenpool.io"
 discord = "joeleiafish_kysenpool"
 twitter = "@kysenpool"
+telegram = "@kysenpool"
 elements = ""
 
 [validator_account.signatures]
