@@ -35,6 +35,7 @@ email = "sleepykittenvalidator@proton.me"
 discord = "jr888"
 twitter = "@khaos7heory"
 elements = ""
+telegram = ""
 
 [validator_account.signatures]
 tpknam1qrfc6ypun52mfcnpf88dy7kd642zmsfrwrt8nwnuthq273vfygmd58pqshu = "signam1qzfxnugz8d3xahamagg74hrt0y9dge08mum53refn5trc6ph27wvwrvk896hnt2drxkech2u3gyqjxkp6863reh9dqfua3axyh0jjxgvu25k74"
