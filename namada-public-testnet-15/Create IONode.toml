@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr2h0hr97hpuu7dyqlhud55t3haedhhg43qx7wlmhzkzje3pjqz3z95vftk"]
+
+[[validator_account]]
+address = "tnam1q8cz3yfeyjp9pcrqfum9uda4wpqaqa6wss44a4sp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "172.201.107.208:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqq0nv9huw6l4vrcq0l4hjn8qtev9g3ls9xrr25jpqegrwzekxetks4kgxx"
+authorization = "signam1qz0pma0nyma6wperkwrjqh5wmv4xthx2gvpjrst7mx4uc9jl8mppglw3upwf9h6puzp8q7rzqx05chq06xapgadfqcuzzzzz578437sfdthzad"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzkdk680kkz5va9050vuy5hvmpmfuq5jrulxvp548mac7usqqnczs385zqd"
+authorization = "signam1qzr8mpnc3x2782t3aq9xhv3xkvk8ns86tcm3wnx0wjyzg3twmtmt575t5zf4tt6qnyqn6qpmmpdu93vw0azmsmu83muv8nqyhju89hsd24kdm9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqmzn9kq90cpn2rr7c09x63rjvfgmfr06sp47sp7xd8ce65eke4566qj883"
+authorization = "signam1qzn7n2xpd37wu7cklf5xu72tev2fq79qndqt2cwnmuyhqhrkkmcvmdx82njn2jlfjtdw0vxtu07u9wcpj99yd3u74h6f3qamuhu2m5qzduqusg"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvprkh4htfmsdgdu5wa66xf46et2r56v3cm43whsxzwt7q0tduuqg0sw3sh"
+authorization = "signam1q8g97l6agnjw9xct242z8u00nmwv84sp2dv6nzec7d8nl7ll4n00568lumzg9dceemqnpcx0auqpdnunaarh5p8g9lttygn0htsmpv0vqqcw9kzt"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypk8je0at0nlatyqdfvddz660wc3t9e6wyh047kqgyz5ga2aapy7wstpyfl8"
+authorization = "signam1q9fcapexarxm9p2k5vwn4f6rc0ep0mja7jhf3lqux8t2g0fa6l8sgcd06fj8u3yqfrsyrrnkmm9sg46cggfam80rp753l70fqlwqxpctqylu05nw"
+
+[validator_account.metadata]
+email = "orochi@ionode.online"
+discord = "orochiionode"
+elements = "@orochiionode:matrix.org"
+telegaram = "@Orochi8"
+twitter = "@IONode"
+
+[validator_account.signatures]
+tpknam1qr2h0hr97hpuu7dyqlhud55t3haedhhg43qx7wlmhzkzje3pjqz3z95vftk = "signam1qqvhss9upasxzhw4qx3c8nw9qam934jy7kk04gzhkeudqwfelcrjzj5pg28gr80a8vx0lytfa6yjqh6jmh77aeg03e7zrlsh3y50mgcw70uj3x"
+
+[[bond]]
+source = "tnam1q8cz3yfeyjp9pcrqfum9uda4wpqaqa6wss44a4sp"
+validator = "tnam1q8cz3yfeyjp9pcrqfum9uda4wpqaqa6wss44a4sp"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr2h0hr97hpuu7dyqlhud55t3haedhhg43qx7wlmhzkzje3pjqz3z95vftk = "signam1qzerjzdrsfcy8g7a2egntypyt9fn7yxzqj2fk3w3w0qwqr4asr5q285welf339jm6pphphsmceuf0wjzkwqgqujwmrd28h4tuv95e8qp7e6luk"
