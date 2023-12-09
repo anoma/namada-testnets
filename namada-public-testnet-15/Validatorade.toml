@@ -34,6 +34,7 @@ authorization = "signam1qxcgkrfznuxaqeplswckkw74hqe722x59zje27qdtr6et9rswk7c24fa
 email = "chainphy@gmail.com"
 discord = "phychain"
 twitter = "@chainphy"
+telegram = ""
 elements = ""
 
 [validator_account.signatures]
