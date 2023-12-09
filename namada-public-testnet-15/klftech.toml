@@ -42,7 +42,7 @@ tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qzq
 [[bond]]
 source = "tnam1q97sm77g4udg6p8g9wv596sn34cfmectl5gr4tg6"
 validator = "tnam1q97sm77g4udg6p8g9wv596sn34cfmectl5gr4tg6"
-amount = "1000000"
+amount = "100000"
 
 [bond.signatures]
 tpknam1qrtttmgchv6yzhn2ttmjsvyazgdy43dzj3hqx2umjg9jy9dzejmf2ur0yek = "signam1qpsal3p0906kvwreq3emsej26j0jhw0tnd5u4cv09hvgqrzqtashm3khv7n6yk3n9mr32se60pye9hrg0cqjzwvw4fss6ls9nxlzz7g0cm98ny"
