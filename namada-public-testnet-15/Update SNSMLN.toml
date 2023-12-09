@@ -37,8 +37,7 @@ twitter = "@snsmlnn"
 elements = ""
 
 [validator_account.signatures]
-tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qp3665uz2djhyhyw2k8sk3frdmctlvd80996fnw03ytnf8kt7tqmafkmq764lse027psuywnmynhu2c63248fvtu9t5a5hwry
-wl0ulcqky3y6x"
+tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qp3665uz2djhyhyw2k8sk3frdmctlvd80996fnw03ytnf8kt7tqmafkmq764lse027psuywnmynhu2c63248fvtu9t5a5hwrywl0ulcqky3y6x"
 
 [[bond]]
 source = "tnam1q8ghlk5r25hjulnman09jard0yf5k49c856vqc68"
@@ -46,5 +45,4 @@ validator = "tnam1q8ghlk5r25hjulnman09jard0yf5k49c856vqc68"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qztsjpcuqq5lr463250632uppsfuhf69h0hy0zhff8fpg7kdevemfsxargemp5cmv2p6r20w9dwxdmvn5krcxf3kkpn65ecum
-0dlmmg07949jh"
+tpknam1qzz44wapdrufszq4tjuu5rhg0fp3zgaqy2sgw2x9c4s2tf5ng4dcz440jx8 = "signam1qztsjpcuqq5lr463250632uppsfuhf69h0hy0zhff8fpg7kdevemfsxargemp5cmv2p6r20w9dwxdmvn5krcxf3kkpn65ecum0dlmmg07949jh"
