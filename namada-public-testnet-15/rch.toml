@@ -32,6 +32,8 @@ authorization = "signam1q9rn0rk3hclxzerml4lvmx7z3xa9f7r85ueaz2rsntpwq9h885uajrkf
 
 [validator_account.metadata]
 email = "i.dred.one@gmail.com"
+discord = "ches0494"
+twitter = "@rdchasey"
 
 [validator_account.signatures]
 tpknam1qp36vm6v255q7cr8x9g5w2uq4wq9t5jlksjmqptpv9hmzqnltkg5y08d7mu = "signam1qrd0xrp560pxfm7uq7mesxk0nytvp3qwhm4t82au6n4wx9xnyxhkaw568lmw6g2e2ahgr5uewq7lnwj8xj3g7nr9ds4uhlj9dstepcsrvwc2h3"
