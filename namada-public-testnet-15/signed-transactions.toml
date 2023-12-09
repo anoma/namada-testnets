@@ -32,6 +32,9 @@ authorization = "signam1qxxsrq93rjpplgjavsdk7ks2qsalhylhgww23va93jdrngu0pwy9w48x
 
 [validator_account.metadata]
 email = "trentlane47@gmail.com"
+discord = "trentemoll"
+twitter = "@Trentemoll"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qp5xq2kn8ggxg5vkdhyqhrhlm58mlnslxn26thmy342c6xnn8xpa77vv6wh = "signam1qzwr63y889ggfnjc66hp70f42xgz9znmgwk4hsw2vzsvecn5k5s34vs98w4xpuchys5kzqd06e24mmr4kxu2h2ug5jmw6uc9l07chsg230lclr"
