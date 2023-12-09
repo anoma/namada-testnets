@@ -34,6 +34,7 @@ authorization = "signam1qxgvq2ew9ksmka044enyq9lnre03kuvn4aldula8y799j7vhe9d3s6rp
 email = "dev@upnode.org"
 discord = "upnode"
 twitter = "@upnodeIntern"
+telegram = "upnodeIntern"
 elements = ""
 
 [validator_account.signatures]
