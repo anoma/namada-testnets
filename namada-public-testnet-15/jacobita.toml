@@ -1,0 +1,81 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqvld07rur9gpxd7uef63f8vzg6d7q4rg74hfsxw8wxgamvfdxkhvx0pedx"]
+
+[[validator_account]]
+address = "tnam1qxe5h6pgmkwc56z2ys3txycg4psu6fy5rghjhcd9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "34.28.176.34:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpwydxp7eyxz8wdrpaq30shzhmg6exy99dqcrrk4wl8eehn7pvn7v0fxhkf"
+authorization = "signam1qzn73um6jfch44zujdusxkdl4r8j7rda2xu5rulhu64ja8nynxmzk47g6h4maax6mmrcd7tftzlaqcwt2al079lp0m3phw0f5aznq4q29flrfh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrt8tgku4jr35s9fkzrcht2p770cfmlqzq79fe89ewstvxt4qnrhw4zwfxl"
+authorization = "signam1qqg7ma6ah8683ukcrjn9864q7ul5al9k8za88ucsztjl43alcjrethpk7xfukwn9wqn9qdd7z326yjgqyx3vqkg860h8fe63xype2tqzyfk2wc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr2fh5n8yu89gkldye5rfxurp5u98vcwet5pecn63g4q33k8xvlwgc956x8"
+authorization = "signam1qrnvqv74853epddzh0zjvu75ueg2e2q5yqpyf0k4um86r7e02rvmg3una9t7x72jq32xzlc8vufd5rpfqa946x9heedltgdr7rfzwsgzytqjvn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypgurtvpd88y3t5c82rfhyqkjkdlyphr53pszmf56xyceq97yevq0ck5nysd"
+authorization = "signam1qy6ywy94dwvv34qpmz43708a39upecnzqa3vl2qh2lhey3f4c7ttj9ycj7u4nelc06zqheyjd8kn5mkcqd2wyjt8cynmqee0nytqfvmjqqszxcp6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypweaz6gtgfh6dxarmfcdrm6k4uss4dqcww7s625gmuyusum7f6h2g5ks55r"
+authorization = "signam1qxuzqujm0wrvx6q8gj0y7998jn2ac8empds790r3l2zfc6hmdmxry2mp8vfknv6plp524tmnyhdl7v4u8jq4qhn6hmzpc88pmdyfscsgqytya8rc"
+
+[validator_account.metadata]
+email = "@yakupdear@gmail.com"
+
+[validator_account.signatures]
+tpknam1qqvld07rur9gpxd7uef63f8vzg6d7q4rg74hfsxw8wxgamvfdxkhvx0pedx = "signam1qpxvkhspcfm365l9tvjn48fu7y32gzhy8vvjm9gg4tumus3fhunpdqg4jphj55va4qxsawcmhpwd8wxg5fzmhh2k4m8ml9tk8lpfjncvp9ptlt"
+
+[[validator_account]]
+address = "tnam1qxe5h6pgmkwc56z2ys3txycg4psu6fy5rghjhcd9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "34.28.176.34:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzf7xjq8hd4wzpdukhgn653zn2mzgg0gugssmnmj6f8cvmkjp7zxceav3e3"
+authorization = "signam1qr2nc7q7q6p22sqrrjx42c4lx5d308cvsm3pdlfazh3uu5ynd0kpxk2n0rdvjne6lnxer05w040h23da2fmsp4yjxdfyzvk6j7uv73gxlpn6um"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrymzycpj5pjs33fty7kt5hdq85czj7dn3nj4a5wkxldyh0l2ytwgeq6x7m"
+authorization = "signam1qpfewhmp20d786a8rx2ax2z8zhvhukfs09632lw26669ufeveytkw2xnucfzmcpneml35ukllw204y4ry0mmgf3zp6zxms5qj394h7cya3w023"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz9mhu5p7gnercr2z0tklu08grcdfg070eluup7dv4y59646xcrly9d2c2d"
+authorization = "signam1qp69y3726pg5x6mr3fuvvwfjx5fueln77js3e6esc7qaxvxaywxqpt7cr99ykz4dwdlr43jf5hxj92staujjvkzpgnxdcfka56mutzsgx7rc4z"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvrh0sppa6h43avxhrqqj0py9fuxhhkztvfz0knf3x6rslh4e2r0g33ux2t"
+authorization = "signam1qx6r722jftdc0sdsd73gkce488pkr34vhgqv5mm3rqafjpm9qrey28y3kel72lkyyjlnqu0kxcr8l8y7zsymrk4ar0xlwfze0xd2dv99qyl9v96x"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypza4sxanqhqsvxfhp8c7gxly8va243u3343cqy7dvjmh5vysnf2lg3e79lr"
+authorization = "signam1qxqzq97z29lmdk828cqztca0u4a4gkszhtrynqcs6pctlgwh9x7hqq6ce2vz6vlmshglallzwxqypshj2cns6fd283dpsgxjt5x6ya5tqy2elg5x"
+
+[validator_account.metadata]
+email = "@yakupdear@gmail.com"
+discord = "yakup44"
+twitter = "@integralsabiti"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqvld07rur9gpxd7uef63f8vzg6d7q4rg74hfsxw8wxgamvfdxkhvx0pedx = "signam1qr92tjkdp6vv35tjpv9h7xy8t8ehl7w792he4zc99yh7s8ptenewjefp97u2nlv7rtsnman2vrtdp509cmrz5spnwzd22zwfdwz4gkgga5dalq"
+
+[[bond]]
+source = "tnam1qxe5h6pgmkwc56z2ys3txycg4psu6fy5rghjhcd9"
+validator = "tnam1qxe5h6pgmkwc56z2ys3txycg4psu6fy5rghjhcd9"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqvld07rur9gpxd7uef63f8vzg6d7q4rg74hfsxw8wxgamvfdxkhvx0pedx = "signam1qpxucngdfqxv7mgggzgjl2vgzyavn4pk4zjlmd83ry3fxlq4xk2vvj95vhucq7um2en4j4s4lffefsn49htqd93epg2tfen5sqesfcstc36cyj"
