@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzy9758gahnhnxj9wdxqzy6a0mk8nryr36jr02tlzqfs4jx2e6ufyvzskkm"]
+
+[[validator_account]]
+address = "tnam1qxryy7ula2wlwv543cpyexgwxa8y8l5cggtzf947"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "172.206.92.45:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzd2xz4xp282vgwxa2rwg89gs5w5cs9w85qw2xfc29xr8eqeskywxehwmca"
+authorization = "signam1qztepehc6unxz083gpmusd3w4l5gj8qpz39rqh34hcucsjc73v00rsyjkrah4u6q7gwwju5jjugwhjztz2xu99chd5sr9f5zxkjkg0ctgmzwj2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzcv598td3jgya8thsfxvm2a454lnyzjtw6s93uetry7kcrkjfp0zy0ynfk"
+authorization = "signam1qptkt0h7086vpn7je64t2tgxux7sqmxngwpzkmfsrr6rdt2zwvmnlzemekkqur3hugq4d9rdphmvtq539xvmdt9c8ynmldj8mzmj85cwnq3cz5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr8tp5aq0f6ysx5guyp33kaf3z4nxqj0fvp0023x2nstp05c536z58ttslf"
+authorization = "signam1qp6sj6q8r7ehzajm5q5exh34qc42elrvvk9pqv05wmk0ldw49nx4lw8h6f43cw05zk3rgzhyxqj0xptrz539g9sv02clagdetau02cgd2huvdp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypustxnzwfzh2elahgt288ks6hvahrkx5x2h9sr5gcqrmfgprnyjng85k9pw"
+authorization = "signam1q8k3necexjh6vgchml8wn0m00laxm6jrxqls4kgztreegg92w4f7gdq80lueaavu4k0hyg6tagr5ugdhj3kz0xc5l5xql5qtjrnvwevyqq8fwm59"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppqd2p2hae00mcttaf9j5c89tpqn3xswtqs27ttgcta35668fkq8gdwzdjt"
+authorization = "signam1q95ydyl7ryrnjvma3l0yffwf53vwvhse8zjgqf93qhsh5e2l6c30cvx4fs540649uz0ny6r69ecmau6zswmevzmacapnp4vekxav404sqqhzlcez"
+
+[validator_account.metadata]
+email = "adoratran21@gmail.com"
+discord = "adoratran"
+elements = @adoratran:matrix.org
+telegaram = "@Adora_Tran"
+twitter = "@adora_tran"
+
+[validator_account.signatures]
+tpknam1qzy9758gahnhnxj9wdxqzy6a0mk8nryr36jr02tlzqfs4jx2e6ufyvzskkm = "signam1qp5fz907dn6sm0ldazjkxxsugde9x395v7sys7sw2yc24qq35xu2ldh685r4zcrmur96smg8deufn2l536f85267c2sp6m5ht4p5zeg0nt8utq"
+
+[[bond]]
+source = "tnam1qxryy7ula2wlwv543cpyexgwxa8y8l5cggtzf947"
+validator = "tnam1qxryy7ula2wlwv543cpyexgwxa8y8l5cggtzf947"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzy9758gahnhnxj9wdxqzy6a0mk8nryr36jr02tlzqfs4jx2e6ufyvzskkm = "signam1qqjpldnpqkjxy48tdv54ph27puz3j5s77w586l6uqgw72v7q4a0rcmqrp020mkcz0yj3xn6vmnuptvpgdjwwczesv0cccpvzwrwmsqsdm2degc"
