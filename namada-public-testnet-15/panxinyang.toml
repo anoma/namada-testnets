@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr8anllvynxepyww3ykeckrahr9cmm5ysvndyq8zstewntj7k2h9j49tl6x"]
+
+[[validator_account]]
+address = "tnam1q9lmls57zsxf7qh0x4wvy2gdeytfs6qv4gyum0ew"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "149.50.96.170:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzqxu6kuc99ygn2dcsnxhjnqwm2wg3up4n379zdalwg8tzk5q4hfskpf6r2"
+authorization = "signam1qpea43528vfsfu4hrfpfl8dxmemhrqzs84hlkdpf55uwgt5nxvsu99ymhxnll0sv6jvftrscrz2tey6vmats3gvqnyq4x48fcqd5cyc8r32pd8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzsnm525c04fcw58t5u7rueex3suyhfeuplwnym355wdpeux2x9y5xdjfp5"
+authorization = "signam1qrfdlvmetcpfucgpeylekl7a3sp9x5ltjrqxdqkcxmk982dvy56va53va9uywtd4xxatyjueqdxysvc3m7c4aedasmz35e8t2re35astklyq05"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qryhq3f46sz7k2asd3xnkq24ks9j9taf9wmnux9pl4af8zpma9kauft5p2w"
+authorization = "signam1qpnk7w9dw3asejf2pynhuxrj770e2kjh5a0qvvmfdlgn6lrvgd63x974xreykpxyrdgfp9q9adfwl9g9d5wlqm9rma2rkur0l7d9ers8468c7j"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzsgylzcntrdwqhhd6l7sgr28as6lnmfrlseu4k3jhvjg4wpdl6ccjhwul0"
+authorization = "signam1qx4wrauyd8v82de080504jgea2v9agnvtqld69ua56pt4945arna2pwe7fv70u5zhlrnk63mnstpnwwazrcgwhc6m0les8m2muuwvps4qqsf7uvq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9a5fwjjmhrw7wmawdc8wgw045tc3v96cn5rvdjjrzxs4m4wuwpvsjs897x"
+authorization = "signam1qxf2kjdlwftd5kxfup09sr6vhnk5rv04wgggwjk69dx5eag40v7w6epqp7qpfpv5ela96wkc68cvr5lgtj4ga8wcyykjffpj83vxqln6qq5077th"
+
+[validator_account.metadata]
+email = "panxin1027@gmail.com"
+
+[validator_account.signatures]
+tpknam1qr8anllvynxepyww3ykeckrahr9cmm5ysvndyq8zstewntj7k2h9j49tl6x = "signam1qzhatu4awrk4euqyx55laeqfyp2q7jq8alg705aut3cgw5rv3uk5fltgeszr2ydvth82mq5pkdkj6xgqf8pl6g89v2s6ryrz5vr7phqyvpsqdp"
+
+[[bond]]
+source = "tnam1q9lmls57zsxf7qh0x4wvy2gdeytfs6qv4gyum0ew"
+validator = "tnam1q9lmls57zsxf7qh0x4wvy2gdeytfs6qv4gyum0ew"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr8anllvynxepyww3ykeckrahr9cmm5ysvndyq8zstewntj7k2h9j49tl6x = "signam1qrsgem0n2vr42qlsrvtqsjffgn9hzda0c5rmsjsd4l2xxgeqcjpgagkhdaa598tp2r77ktpwrmn4c8luz8h6z4nym3rnuc938u0v92gv2dmsz8"
+
+- discord = "panxinyang"
+- twitter = "@panxinyang_1"
+- elements = "@panxinyang:matrix.org"
