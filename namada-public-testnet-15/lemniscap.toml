@@ -1,0 +1,27 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpnttmchns7dly6dj96089l6j6zyazwu4mh8p5qt0s5nfg5yyt8rk4vsue5"]
+
+[[validator_account]]
+address = "tnam1q88l6lrqhnxa4rmvpyhfh0e2gp3thc00xu3tw25l"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.163.229:26656"
+consensus_key = "tpknam1qqm2e5rzwxccqfnf8scmgnqsf2khu6ywarew7v35v6u8769qtfskcxeuy97"
+protocol_key = "tpknam1qqxmw7jnexkjgw5wzlwmqn78rrszyld5vxdazrjd4zf3j9h9yxg5xec8ywu"
+tendermint_node_key = "tpknam1qrf4rm6lgp9jaasxku5wukucf0nwv79x9m55crjhafhvuxx6zrahk6z5unl"
+eth_hot_key = "tpknam1qypwmtyy5taspxckng8lnlwkeeljc6d0kr467xpejlfvcfk8pweua0scamydc"
+eth_cold_key = "tpknam1qyp7kq5rvxgmq4rdn0mtmmdzh627we95fysdfsjmwt42jsfr0a6789gclyafz"
+
+[validator_account.metadata]
+email = "sjors@lemniscap.vc"
+discord = "sjors_lemniscap"
+twitter = "@sjors_lemniscap"
+elements = "@snors:matrix.org"
+
+[[bond]]
+source = "tnam1q88l6lrqhnxa4rmvpyhfh0e2gp3thc00xu3tw25l"
+validator = "tnam1q88l6lrqhnxa4rmvpyhfh0e2gp3thc00xu3tw25l"
+amount = "1000000"
