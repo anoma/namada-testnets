@@ -33,6 +33,7 @@ authorization = "signam1qymngkxf6x9d2sjga2u4yw8wzeweyauffyda4qglm6hvfv5l3s9ruf73
 [validator_account.metadata]
 email = "enoon7712@proton.me"
 elements = ""
+discord = "enoon7712"
 telegram = "@enoon7712"
 twitter = "@enoon7712"
 
