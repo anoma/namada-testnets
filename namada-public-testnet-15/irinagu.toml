@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqaceg6nx0xx3m2knq5tag35fdhv3yk54anph2mfxaahxrcr639rg63uw3u"]
+
+[[validator_account]]
+address = "tnam1q9pteyzv2rwadalpuv5vpj6q7c9wwp9r0u93gf3p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.154.187:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpuflh7yg9al4t4lyevk9cafsglg5c2jjsweq5uwxa7hldcfuxcwv3m5883"
+authorization = "signam1qzjzf8nkfm6jccgneulzqlrk2z5yqjg903my40cqlwu4w24ddht2j97nevg4g27rm8fwwkamf3gs38ths9jkcjfdwu5ddm2835e8yvgdr4rzr6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qztskqrpvq94jx33tv9tmyefd7pdzhmt5gpg4aps8khkh7er2dyju09qap8"
+authorization = "signam1qz0mg26pyzt37an7yywy6894g5apetpz6xwt8a6fmhmxf0p5w0wu978dzaxfjadn2gs0pwt3dwsyhf0t8ac332pz8agl5h7uhpa8zngwludwse"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp2ddwh6a6w6f84x4dnn43mcasgm8f0zrl647zp5v5mmq6gnht0e7d5vgjd"
+authorization = "signam1qq5xttcaummjnup0wkmtjlkw386yv3nd8x4hmse3spqks74tdspns0l92c6g5p33v6qu9f7z7yg422fx4rz76fc6cc04pptp9cmrtpq898dc74"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfvgxszv4knfq77nln4stet6k4pyyp437282ayneamh40g9cac30sukvqze"
+authorization = "signam1q840hdyd9jjj450xshsfckmkfg9lfewpm9npzq9tfyrc8vapddlsq6pryez24rcs82du8xa9uv7u08kj76hwrqay6u6f5zsqugl3h9vgqy04enf2"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypw09uxt0kqcsnmmzky9n98je97n09hqyvaulaggtx6jd9p2aph62q323rn8"
+authorization = "signam1qx87jkhxmmu296em9meexaclv73zdueqrldflpmsekpyvvzd0tszxm5d8few298tahurk06gnvtvqn3su3qpncktulshsjmam2dqznqcqqznefjj"
+
+[validator_account.metadata]
+email = "izpodvbipodverta1@gmail.com"
+discord = "777anna777r"
+twitter = "@___1anna15___"
+telegram = "@Annaa19955"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqaceg6nx0xx3m2knq5tag35fdhv3yk54anph2mfxaahxrcr639rg63uw3u = "signam1qq3q9cfz7nedmt95eydtj8a5x4quh4vnzp29ax2vravuacysck38cew2d50rk0fr99a8qe9kmk2ptgf76x8lmzwjmu8rc8nejxv7vcs278yjys"
+
+[[bond]]
+source = "tnam1q9pteyzv2rwadalpuv5vpj6q7c9wwp9r0u93gf3p"
+validator = "tnam1q9pteyzv2rwadalpuv5vpj6q7c9wwp9r0u93gf3p"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqaceg6nx0xx3m2knq5tag35fdhv3yk54anph2mfxaahxrcr639rg63uw3u = "signam1qzkcm99xq4njrscywvryyuts4l9d3dakpkjhjvgxn6laqkswk7lpqlcx6j426xrs7aysk9vw7yptq6y25vfnxydmstw6y60hpfndvvgrf0tzka"
