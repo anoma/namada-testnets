@@ -35,6 +35,7 @@ email = "stakethathq@gmail.com"
 discord = "andreisid"
 elements = "@andreisid:matrix.org"
 twitter = ""
+telegram = "@andreisid"
 
 [validator_account.signatures]
 tpknam1qpclcqel0n0t7a2s967palvsc03f9wxqfjztcw87cec0ph7ckrlqjwkmewl = "signam1qq7m3689c6jl32gdu9aqknh94mcn7t480gvcp8a3fvum2x3ewq86r238jc5pevpxhgnc3ju78g2akzk4wnf2y345j4t3356wd00utasysxzjwr"
