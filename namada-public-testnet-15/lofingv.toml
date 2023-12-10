@@ -35,6 +35,7 @@ email = "ya.lvv1980@gmail.com"
 discord = "lofingv#3937"
 twitter = "@lofingvv"
 telegram = "@lofingv"
+elements = "@lofingv:matrix.org"
 
 [validator_account.signatures]
 tpknam1qpq3jn96lrt7ezy4d65h4d08a4huna289vgp5qmuwa8zkx8feghv6hahvza = "signam1qp7w7y3ffzueplzgcms64vxt4h0trg5uq03duukkl9xaqu6qvwqfyk9jetmuadtkcmv55ztge4phmlgldzf2te8q478kcgvtzuz7c0sw85242q"
