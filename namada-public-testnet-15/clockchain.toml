@@ -34,6 +34,7 @@ authorization = "signam1qxq058lkev6686k8p7ul8vfskzfkw0xv0m60lhcagwu2dg2mxg4pj56w
 email = "clockchainhq@gmail.com"
 discord = "clock.chain"
 twitter = ""
+telegram = ""
 elements = ""
 
 [validator_account.signatures]
