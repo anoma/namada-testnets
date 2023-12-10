@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqm398mcyt04n82sfrdehpjdh9n4g3garztvxvk7568xmxvgv389c2k83e9"]
+
+[[validator_account]]
+address = "tnam1q9rwkcf5tz8n2wmsr5xu89ey9gq6k4ft3yalgwp8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "178.62.202.37:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrk2kdmpvsv7adc7ktjj5s929svqaceh776f7znylx7wfq6vtaa552mzhpw"
+authorization = "signam1qqjremglujf50uuz9q8uw75k2u5ztu4r8tpmlxs5nwfl4n2rasstu7zvzrqkgl2xrtjdf9xfgvrtxshrtr288skggf69savl88dd4gc2q0atkd"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpk06dpceyzz2n3kfw6lamv80py5mx75r38tlwv7fyf6wt2tm78pusg5khc"
+authorization = "signam1qryx8k824fyl0hhh6umddl4r85wv0hhvxhrmzncutwahkcwq457z7w8zwxtkpm54asz259xlcxhnf0mm8ntnuqnh025wm7d2xzp5kcg2xkv3h2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qph7q4sylfkr3alsrgk5gdkp7wg6jhmkq0jcfzyykp27qg2hhdlkv9h9045"
+authorization = "signam1qz0u2ethdmnchu8dya0p7ea2yxurw8gkusu0e3phpqa3chmra7d4cxn2arm22uxfzzjt6dthurr6jla4cxqhkdg53mnwpzwtgpe5efqx67s56n"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypjpkuvry69je8c5ytv6styrrkltp7el8xp7xke8kmn5cnc02kh4gssk0wm2"
+authorization = "signam1qxt2chyz52v75r80stm0aasfvjl0xcwtrclflc5dz8067sm5qu5fwy0xftcf447zf5s03pa6h25gmvd34as8gxjlrwht060m52n4f030qqupgp9f"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypt4nevr3unyqtdukncrej6cv0ls4me2fs75kkdr4scu0v3xesxj5qy8xzuh"
+authorization = "signam1qxzvfz4lq4zkdll9skfum260wkcsx6vju4ngjtn75zagl7crg40k6qs47mz5qvymfnrl670xtq6xq8kwtryjtxf5ushswhyef8f2q508qqft44e4"
+
+[validator_account.metadata]
+email = "bambangmappatunru@gmail.com"
+discord = "mpp4tunru"
+twitter = "@captainclogs"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqm398mcyt04n82sfrdehpjdh9n4g3garztvxvk7568xmxvgv389c2k83e9 = "signam1qqpnwsplp6cmmr8e8xytdsavluqavx3qapvaq05re3jn7hp225mquuck6zkd8520xv5q62d3as2ttq7203xxw2hqvvxjx64h6fjcargrlkrwr4"
+
+[[bond]]
+source = "tnam1q9rwkcf5tz8n2wmsr5xu89ey9gq6k4ft3yalgwp8"
+validator = "tnam1q9rwkcf5tz8n2wmsr5xu89ey9gq6k4ft3yalgwp8"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqm398mcyt04n82sfrdehpjdh9n4g3garztvxvk7568xmxvgv389c2k83e9 = "signam1qp04c7a6v0xrwy7durdwzswmnn2pvggsuw7z38ud6u7sh5xehwrvlwekds8g7u8rrl3g5qpsdxhvmvpakmzes9hfmxcwex9kwu9guegv74c3ts"
