@@ -35,6 +35,7 @@ email = "nodemeister@pm.me"
 discord = ".0xgabriel"
 twitter = "nodemeister"
 elements = ""
+telegram = ""
 
 [validator_account.signatures]
 tpknam1qrdu54zeu0dyzuatz9auuss0qhxljg2w6s8lhuwx3zd5vmykcg4xkxa7t3r = "signam1qpak3fkmgwm4y7s49hzvmcea5s577dwqzsn4qp9v0kayyutg7tculmxnch3wa34tst8dk937qxfresw8fs4d3gdqvpmm8eawqzpclzsqvuu60k"
