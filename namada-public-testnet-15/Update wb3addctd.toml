@@ -1,0 +1,50 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrzl23q2nkzxxuz4ut8je3g9pw287d2kk3tshyen0dclafl2pcngw0c6wfc"]
+
+[[validator_account]]
+address = "tnam1qxfpwmujfkr5k0lh0x0t5r0y4j8zhga5evxf0n3a"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.38.208:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpf0e5cgjxgehh3clatphuaera0v593csfdr2ndgf0rqd58jvz4hkllnpll"
+authorization = "signam1qz0es889yket56fcy9tqtzqguphk9nu7vudcfarsxfw5th75xcxjua4hg8xs4h3kx6tc097uu0aeg4haly2jfjuzcvu96e97vrh2kcgwa6q7d0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz2yeu6ektadvs0skuhvd5rdlzqpaqsupexfz8q38qchza8cemx7cndu4pz"
+authorization = "signam1qq039f6g6mytm84lczr6s6cheryutgqusegh8khdj2qc5226svjqmkfsrmnqrac73pmch7ln6wqzgmengzecudwlyzrwg39tgc89q6qgcyzpwq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqxt7nj65f5j39d0374gu3nm367g8cqp2qqddx8xtu8sz2pkef65sr3mnme"
+authorization = "signam1qr0w5cutsagwlgy5e565nlsy77hkkavczltgkeke7my70z07q5qvn99zklfpmk53z3h7zzrl9w55dm26zmquf9zzr3h08rcrlyah4hspyg7v0d"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypu7hwmar65mdta9vyn42s6qyvnn6arzcnkp0yvar3tzaf2vv7h0ps2symv5"
+authorization = "signam1q9wygt6putjg49hj55kqwtj70cxmtvkup2jpl0m57y7hua9dfat3w70nprxh4fz320kdr57vdyxlhuwerzu95qdw553e802n0j5aj92aqy2kae6w"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp9u7hw2rldc8g5fpa8cfs2h3knd0lec32s0krzs2znyrdt2fmpymc05q0s4"
+authorization = "signam1qxy0gw9agn2swy2y3xh68pqjh4k2662c6qfh2qp3gfd2tne0s9kd74xt4ujgsa3c8ufk50vaqp3pyqjqxlg3tf4d6q0dtdvxywl8mpeuqyf73vqu"
+
+[validator_account.metadata]
+email = "virtualxgrape@gmail.com"
+discord = "alekh_w"
+twitter = "@alekh_w"
+elements = "@web3addicted:matrix.org"
+warpcaster = "https://warpcast.com/wb3addctd.eth"
+bluesky = "https://bsky.app/profile/alekh.bsky.social"
+
+[validator_account.signatures]
+tpknam1qrzl23q2nkzxxuz4ut8je3g9pw287d2kk3tshyen0dclafl2pcngw0c6wfc = "signam1qrlafcu4k9ryzkrfup9ts5nn2agpppa5wy8zcn62qn24zl6qdxa9pygevdy5rhrgg3qeth66fwaxptf95kmp4tjd23sq6p5j4uq89rqpcgquqq"
+
+[[bond]]
+source = "tnam1qxfpwmujfkr5k0lh0x0t5r0y4j8zhga5evxf0n3a"
+validator = "tnam1qxfpwmujfkr5k0lh0x0t5r0y4j8zhga5evxf0n3a"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrzl23q2nkzxxuz4ut8je3g9pw287d2kk3tshyen0dclafl2pcngw0c6wfc = "signam1qr5pr7q6a2f0hkk879cn8gdqgslvu6vp00ek92dkqr4y5udhm5evxedgmc8nq2sa0ldkpugnnhjuam7wn6t2at7lt2kkp5w9luh74zgv7akqy8"
