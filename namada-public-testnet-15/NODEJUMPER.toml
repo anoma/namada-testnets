@@ -33,7 +33,9 @@ authorization = "signam1q9xvwkvyu00n40xlkdl776f90dnz2hlyw93dg9whx2lzdnm2mm78z943
 [validator_account.metadata]
 email = "vbloher@nodejumper.io"
 discord = "vbloher"
-telegram = "vbloher"
+telegram = "@vbloher"
+twitter = "@nodejumper"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qp0uzgla3nuyr9d2cganausn4a9m2xf2fqacgjtw80nfzq57dmssj9lewrs = "signam1qqr5s87ucjhnequlzskwcq3s9rs50yq8c6g0h4nedquaqssf9033eg9xwncateymu6q43pgkq5h85vw4jqv63dumk8gl4aqv7uppfug9nkt5mh"
