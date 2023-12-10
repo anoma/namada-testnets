@@ -32,6 +32,10 @@ authorization = "signam1q9524pwyev835m9k37gjzxan43vffqyzkr9ttzrpmp9rql40sj2w5c2z
 
 [validator_account.metadata]
 email = "thekit@gmail.com"
+discord = "Lankou"
+elements = ""
+telegram = ""
+twitter = ""
 
 [validator_account.signatures]
 tpknam1qqgzempad4wgx5enenulg300uc9t8gm7r4w4evp57skcy2lqc7eyuu9x65c = "signam1qraykfrn56xpf2gn49zrmn3gld4zfxw8yy6jpksv68mayqmwlfqcs8yg6jkkt9usnc59wsuctfamdt4sp25ansz8f4u7zd25nku9u0cpywl5yn"
