@@ -32,6 +32,8 @@ authorization = "signam1q8ey0eyh5jmhgpj3w0vs5454kd09e5de5fqs0awtv2k69kkwk7pwkp8k
 
 [validator_account.metadata]
 email = "renato.delgaudio@gmail.com"
+discord = "scaniacrypto"
+elements = "@scania4:matrix.org"
 
 [validator_account.signatures]
 tpknam1qpnnkxv7m6rlgt8vaarz0uakhlay4tm3xr9mlnmqmft0ndztkhhewvme92e = "signam1qrk9u95njwfclqz7mmyyn8xytumhtn6fg3rpnquv5h9s4txrqwkf8z00m2ecajm9mtm7aexauf9lhrt5e9nmplxe542gey8pymaj4jqpfg7ktc"
