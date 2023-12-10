@@ -32,9 +32,9 @@ authorization = "signam1qxdz3sk6ftxeted44xnqausscxt22kwzjckdt5un53axqh6fuslyx6tu
 
 [validator_account.metadata]
 email = "alamate1996@gmail.com"
-discord ="alamate"
+discord = "alamate"
 twitter = "@alamate96"
-element =""
+element = ""
 
 [validator_account.signatures]
 tpknam1qzjesfqgj438vmu6lxmrj9zqsmw0y5sx7gp82lpvmx37rq5we8x86esgepk = "signam1qrnvzzdm8759xza9plwnvgcqcxutqf5qy4nnqfs45nw2zv70vzgm5hed82c7f0mne00dm34nddjf75r5e0uz3lms7kykpxdxka5wwrcrqlx4eq"
