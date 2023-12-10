@@ -5,8 +5,7 @@ import toml
 from typing import Dict
 
 def is_valid_pregenesis_file(data: Dict) -> bool:
-    validator_alias = list(data['validator'].keys())[0]
-    validator_data = data['validator'][validator_alias]
+    validator_data = data['validator_account'][0]
 
     if not _are_all_keys_present(validator_data):
         print("Not all keys are present")
@@ -29,8 +28,7 @@ def is_valid_pregenesis_file(data: Dict) -> bool:
     return True
 
 def _are_all_keys_present(data: Dict) -> bool:
-    keys = {"consensus_public_key", "eth_hot_key", "eth_cold_key", "account_public_key", "protocol_public_key", "dkg_public_key", "commission_rate",
-            "max_commission_rate_change", "net_address", "tendermint_node_key", "email", "telegram", "twitter", "elements"}
+    keys = {"address", "vp", "commission_rate", "max_commission_rate_change", "net_address", "consensus_key", "protocol_key", "tendermint_node_key", "eth_hot_key", "eth_cold_key", "metadata", "signatures"}
     # Checks if all keys are present
     return len(keys.difference(data.keys())) == 0
 
@@ -43,8 +41,16 @@ def _is_valid_ip(addr: str) -> bool:
         return False
 
 def _are_values_strings(data : Dict) -> bool:
-    # Checks if all values are strings
-    for value in data.values():
+    def flatten_dict_values(d):
+        flattened_values = []
+        for key, value in d.items():
+            if isinstance(value, dict):
+                flattened_values.extend(flatten_dict_values(value))
+            else:
+                flattened_values.append(value)
+        return flattened_values
+
+    for value in flatten_dict_values(data):
         if not isinstance(value, str):
             return False
     return True    
@@ -61,7 +67,7 @@ def _is_max_commission_rate_change_valid(data : Dict):
 
 def _is_email_valid(data : Dict) -> bool:
     # Checks if email is valid
-    email = data['email']
+    email = data['metadata']['email']
     return '@' in email and '.' in email
 
 def main(args):
@@ -97,5 +103,3 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     main(args)
-
-
