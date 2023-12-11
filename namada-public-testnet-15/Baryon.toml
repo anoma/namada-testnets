@@ -34,6 +34,8 @@ authorization = "signam1qxwnwwqhmavjfh82zhcuesk7m0urt3spht4u3h3f4uuy9d4v79dlujqm
 email = "kai@baryon.guru"
 discord = "kai_baryon"
 telegram = "@pacificrypto"
+elements = ""
+twitter = "@baryon_guru"
 
 [validator_account.signatures]
 tpknam1qz7dnaxmgnkhsn28waxkzw3v735uaa82z8pfdyt4et2qp38wyckg6l5sg6n = "signam1qqxulelsxzfn5459p2grl4z6kch2v70nyn5evl2guu5m2l0wyulxtv729875uwd3tlnld2s7uaeqah8zj02dt55nh55h8ktreuyhejg2plwe3v"
