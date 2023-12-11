@@ -1,0 +1,94 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpwla499e0epp8dzttpnjvd2qck9xlkhwxahrrkfuhf0n7w38nuu2vsvp8u"]
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpmeumxmz9854hlnw4p74wf03af7w2yxmjev2x3wqx92lzmr9v96j393347"]
+
+[[validator_account]]
+address = "tnam1qy0v6xyyfx3fzxpv42qfs8f2ske4jl9zfg4nhfwg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.52.46:20056"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzczz7gtycknemk0k9n8chf499l626ln4zlujf9urk9sq8jm8dawyl04phy"
+authorization = "signam1qzqeslwkdsr5ajl5k85ewu7wmgh4swk80msnlcqepjl6dvp5uqxswu9jn5c4908t5g90vc00nzpr95guc0v28s9h7ap3uxv5np4gf5gq3kmmyh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrnhfgal9nar9sdvd5tz96vww5lwhh36q9e5j5hu7l05l6xc4k53guej204"
+authorization = "signam1qrrzj8ytn3cqdwamv09l09fjgxynv63lq5vk24rve5c0mtdcc5hcstr2ck6yu49cwv3wwkfwx58cwvv8eqglsq69jnljytht460wj5cgfhvdfk"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqgrrv7kuuqaqyp30ylvt7ret4anfv2mjfv5dv7aetq8pnz2jsl3gqgjcqn"
+authorization = "signam1qrhcjtr70r6gzy4vsl0kk8886csgsgz32cys0e3l9npjwgcmhhfj7pgen7tn3h89agw8f70rdrxyvnrfpt928eu8s2raf2pygswktlcxuqqrq3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp03l4tfgmfd9crv24rrs0rgsjjt5hsyze9yelm079g4vd8sst0jmgkt9v02"
+authorization = "signam1qysgzz4jvlp4a6fexvc40fpac9fckq7dllgrutpssvmdtks3x2d3gl5xd43xyul84w97tywy84xr88dxmvlkw952kt7fhczerdu4j0fdqy4xk2zc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6glc0wprth4ydtayjz59wmmk3vqkuyhgyay86gzned7lkjjcfktqserr52"
+authorization = "signam1q9zt6muwn88qm0czazu2ldeearjl44pan0rtcfnf3e489squnccmka4wrn2spt45h5sz5vz5ckqyclxrmt4etng7typg6zdyjz8j6luwqqzzdp6y"
+
+[validator_account.metadata]
+email = "hello@lavenderfive.com"
+
+[validator_account.signatures]
+tpknam1qpmeumxmz9854hlnw4p74wf03af7w2yxmjev2x3wqx92lzmr9v96j393347 = "signam1qqe2k6fwqv9pzz7kunxqhppvly23kml5y8xt7pudhpm33rw8wa9378wd3rkuct7c9vx9gq6lyf3g0z9qd4lztgnemgj25cu4pvftflgqrxlfry"
+
+[[validator_account]]
+address = "tnam1q9mpyetr45pvtyrv73fzk3ldqppr7rkjmczxs302"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.198.52.46:20056"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpdwmvgxjg6a4m8znnx9wsczd5hl49ze7znq0t5e4k9h9jcysn2tk9urcm2"
+authorization = "signam1qz6frqmh690aedufce9tvx729lwqqc69ch4xeh3fmqmj3r09her7c0ddxnfuknn7g62jyzey4hjk0975vsa543utj4fsfdmt6v92cjsvhhpdd2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzlnm48vs27nj592tu52dvadqn90ewkfpx20544s42sw4w6cpqsmywgnwue"
+authorization = "signam1qzwuld5zwu3fhkkgwq0l8auaa5kv26wkhp8ct6k59wtc605mdfqfghgenxq60akw9dsn5glqdysutmw9xs5czp0wj8ep3ee9cam5ywqycf9vwk"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq7ztmq8329z3xjft4cd9lm56hmhexcj4fez6uk50lj62jh7ula8sedudjt"
+authorization = "signam1qr2z9cy5z0l0awksl27tshmnaf8vvk4k3tfyxktwrn9q3hfd6vrl3fys5h90s5lgns3csfgq9jd2amxuhyuh3zq5pj6625qnp56245ct8v8ysk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8fejvusut7ste85nfxpkupe82wlk5rgj6vcslz3vf22s8pkk3c2qgyz6px"
+authorization = "signam1q9f6yr4xuuh5gjlkazmgk8kugc4eryz7u52cpr6n9nfxaezx2sasu4fgnfd2nz20h9c6uamrt549umvdqsfu57mpdtue63cu4vr0z2y3qqmswju4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3an9yywpe80mdpvqq76dstqlkf84x4wufxcemxjeutsnwpdfpf0srx0uhr"
+authorization = "signam1qxh3s4k67gez5x8me5wgy3wp05j4lmjtef0vtjnm8970ruyy46z5uqhumrre7q9tlscr29tqvkdl855lc3lq6y9d9q8qrkvefz0psnlzqq0nsz7s"
+
+[validator_account.metadata]
+email = "hello@lavenderfive.com"
+discord = "reversesigh"
+twitter = "@lavender_five"
+elements = "reversesigh:matrix.org"
+
+[validator_account.signatures]
+tpknam1qpwla499e0epp8dzttpnjvd2qck9xlkhwxahrrkfuhf0n7w38nuu2vsvp8u = "signam1qraw6xkvaxdu5fa8v5d022yd2494cynvt57zxxzyspm0v8ypmyg4chms0mhxmyfquugmy25w993nldusf33zanuh3k3xdmdn27ymwxsqr2um0f"
+
+[[bond]]
+source = "tnam1qy0v6xyyfx3fzxpv42qfs8f2ske4jl9zfg4nhfwg"
+validator = "tnam1qy0v6xyyfx3fzxpv42qfs8f2ske4jl9zfg4nhfwg"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpmeumxmz9854hlnw4p74wf03af7w2yxmjev2x3wqx92lzmr9v96j393347 = "signam1qqn6pntuygwrqrc68y22pdexc4pn36ppf7gq7ezj3jlnz2fq4cx9gwm4mq7v22x2eswez0ne2eyy2eeh8fuzzracsg8u3q20hr3cz8gdh0qw80"
+
+[[bond]]
+source = "tnam1q9mpyetr45pvtyrv73fzk3ldqppr7rkjmczxs302"
+validator = "tnam1q9mpyetr45pvtyrv73fzk3ldqppr7rkjmczxs302"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpwla499e0epp8dzttpnjvd2qck9xlkhwxahrrkfuhf0n7w38nuu2vsvp8u = "signam1qzrt33gahh543206yentzyw3mkqsvhd6eueuhxz4q659m6euqawpgssg9g3xakkcpmc60e4m4uw0nmee0aas8gj8fq7eme6f0jvx8ls953rfq4"
