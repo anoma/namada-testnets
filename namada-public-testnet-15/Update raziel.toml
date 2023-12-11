@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrc74arsvjlfxu2fprv7x740gc4d20qt9e6eyuxsphzda5prxlw6z78x9c6"]
+
+[[validator_account]]
+address = "tnam1qxd4tnvhv4yh530g2zmq2r6cqt7fj0jy3sfmxpxd"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "158.220.97.60:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpulu3mgvfc09x3pr84wnnmc602qeyy5qfcsspd47fn0zvlj03vukdhma97"
+authorization = "signam1qzw8h43kt2plywmees3g36068crv52ucl5ctw98rsn9wz7cgfypnt9y8c8njt96h9udzlmu0k8jfwz4x92gfmk8203u8g4mj8szg4dsp4e049y"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz0wyx8npvm3d207y85emh3dnjfswlkpk589cv6d93u3kxffmaecyxh0s3g"
+authorization = "signam1qz4y7wlaheekqrqetdelmwemzjklmxjsn929werrrzvr6n7rhtzh8awglh4gm5f2xl3kqjhg5wtg7a62a8xd9sgprfjyaxg5qet3wgszevccvh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpacfhm2wtcexk6y4hnarh87wpc58ftv7wv7fjcdv0apgqjmzp99sv24vcm"
+authorization = "signam1qqpnhsxkf5642us2l2amgcexr8m0z64wx76g3guc0d7txnrcs40gqa9s93kkt4tky5afg2pyssx4lxk65psyl64vjjcm0jnycm8lmqqp2ma4h6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3w8j3fh26nydzf08h7kxftt4n5qzudrjft43sz9cpvae24hw8ekgjrawlk"
+authorization = "signam1qxk6netqvrexkfjm8e3el9zsz5enuvz0a0ll3gszuzfqw2ajxllw77hnqsre6c8vprtajqm5j8qtj4zs8tfszjaf7zwrmuz50qag5l2cqy48rhru"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp930sct468m0l45d9wqcet7srxhan3mpzfs4skm0t376f8s34sk2qyjcsnc"
+authorization = "signam1qxgud3vmwg6nsqm6e9f0tkuferpz4dr2cvm8umq2pgy3fnz7329q75va7sfzd92puqtezmmqmnzcffuwg800kg4jpwuky9zy3yh6jgt5qy70n0lh"
+
+[validator_account.metadata]
+email = "guilhemlorente@gmail.com"
+discord = "razil5"
+twitter = "@raziel5raziel"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qrc74arsvjlfxu2fprv7x740gc4d20qt9e6eyuxsphzda5prxlw6z78x9c6 = "signam1qqhpw9ehgs6y4wkklmxkagxhsw63y5fnvxa2ukte5e3a736k5elrurnwhsh65u0pza5csf3jy9c3qlrl5zffaglq33pkz4k28jssgtg0gzrgqj"
+
+[[bond]]
+source = "tnam1qxd4tnvhv4yh530g2zmq2r6cqt7fj0jy3sfmxpxd"
+validator = "tnam1qxd4tnvhv4yh530g2zmq2r6cqt7fj0jy3sfmxpxd"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrc74arsvjlfxu2fprv7x740gc4d20qt9e6eyuxsphzda5prxlw6z78x9c6 = "signam1qp6qxykdypks4uy9r7edgndu4ant02wydul75tesezrfwsxx0w4d8kpufpapfu40pjsydr9zd5rxzvam9699ag3y9htmqpcu9mphqegr5cgcg2"
