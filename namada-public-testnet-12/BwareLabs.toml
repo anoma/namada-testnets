@@ -1,0 +1,11 @@
+[validator.BwareLabs]
+consensus_public_key = "00ba650bc841b825ab033c663ffa4e8840819c8c257270c239a51f3c3ad4a2e410"
+eth_cold_key = "0103b9245199102899b14db378ed31c03b7fe4d968ea3075661e7b3628e4a3a37b1a"
+eth_hot_key = "01039ff7bf9972a28c0bcf63259946b9096dd5774efb9cfdd362eb01cfaecd89c8f7"
+account_public_key = "00f94ab5d10ef8dc2ac967c2bb379ce007866b648da2714d2bf684fbbbc3d9c5c4"
+protocol_public_key = "0046e0d6ab2bb2e0fe63fbdbfad9b613c42eaad2750ca7aacfb996b7aa9c59645c"
+dkg_public_key = "60000000fd078cac4210bc2d641a04dcf3eab1d14ea26bb2f8770b7429894589a0abd16cdda82250ea8b882de6979d7f7e911700d9b664ac3ce77d1abaa2c90db207de608900b936b475458f3546506fc0278344230d1a9f8c0268ac9779f2c4a20b3110"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.76.60:26656"
+tendermint_node_key = "0024aadf4409025f9f593f34e439e7b9b1cb67baad2b1ee06ee6e4ee9c08590230"

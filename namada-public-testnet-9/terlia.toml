@@ -1,0 +1,9 @@
+[validator.terlia]
+consensus_public_key = "00857811a96c40857e290f8d5ca7284c7b7fd2cd3ec540463fee21eec768df6487"
+account_public_key = "00ecd3ac1cba1dce503f933a1a85e862db40e39a53718d4fe7fb4a7f131d6760c1"
+protocol_public_key = "002d21d98945dd8488bf848152de7eff995bb4ce2905cca6b43d7ec9a03577b046"
+dkg_public_key = "6000000013602273262d7bb47673a6551c26762db5bda50e19fbef0b7e9b35cc3f54b1ad2d09f0570b9a722df932bd492a8747114bb1808986b2d20c9e815267f91cba414129bf64c19ec25b8c5c3a3879e0db2837a35de8ac5990ac50cfb12ad70bb587"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "176.9.2.2:26656"
+tendermint_node_key = "00d5e3e3654a0107adc31dd3d64e283b7640ee4dea83a7326051db17d62048a3ed"

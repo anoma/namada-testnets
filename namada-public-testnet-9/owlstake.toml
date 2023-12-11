@@ -1,0 +1,9 @@
+[validator.owlstake]
+consensus_public_key = "0000289f7feed78bd7cb797b636bd8b16c868cc07dcef3c0365dc701df78c41deb"
+account_public_key = "00afaa4a49a9e767af4f23c9e5aff34729cc4bb261802f0013e1a339c406f9cc12"
+protocol_public_key = "007616a770863396de13fb631ccd009ccc213250afebb892f2cc5f6db57e156f9d"
+dkg_public_key = "60000000e87555046cfe97a8a32b637c92a9073dd850ec19d5119b9e4af6774ccd2ab0664d1aa80efbde415cc0705e1ae8dd0d12a41b2e3105c8808c59f2bdb0bb2dc78a3ab1a3d674570d2bc91af2899cf17504ef22937bae9bd0e06198ae54bae95d0a"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "103.69.193.38:26656"
+tendermint_node_key = "0082264118753bd0a977adea7fb428391a15da0f10ab89d9769de2fff3946f9e9e"
