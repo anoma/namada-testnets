@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp3qjdgx55lh6gw5tw3qym6yg05senn5y92j2mc6wfxz3w03t0knxsmxw8k"]
+
+[[validator_account]]
+address = "tnam1q94kwwmdmzttv383u4xtql7xhfdl2yn5ac3zv4l2"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "23.88.66.86:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzhp20ca62jajnef7eeyduzans8cyrg08g634yedz525cpvzj5takgttyya"
+authorization = "signam1qr3nnp8gur444kccmq9u4zxzjk3vlgekff3hamje3ymlhftznfsl37eg7umrvdqj44q48450cxyg95jxz0hlnk2xl96nsgy9p5m25xs0majkcn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqakg866p26a0h5a83fr0j9xd20xcnryas9w4f7zralnqunxnyxessdv7ws"
+authorization = "signam1qprr5msfwlq3xy23y2qhnq4ez0u7xqvg0fdu8vk5xdc6gc8x88wfpgd7ekjn57rkfyfhcd0rqkm7flhswzp5ztde0wgl9hsz0v93n8gqtfmmnt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrl2k0qfvtc50keg3rzmgr22u7y5e94m0wtxzwdkgam5rcsf2mwg6m5clyp"
+authorization = "signam1qzgf2kmka2dy274x855luhy7q924u55k6pwwfzta2cz7005c3kga6tgghn0va3zf2rxd4lhgcgyjaasezdflfx8rvw0cg8k4f0dtdqqx29zrgz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypc7sxzqv9kpgthdj8gte6yw6vr453pg46795h2v92mzl4w9qj9ajq3yx3ze"
+authorization = "signam1q80qu86dkg0p83pwx3pprj95kurektklx988ndkv4rlerxfg9fl0qqxdtyk585gsaf86t0qf3x8phlvkldl4h6qjhp7g5vc5zsws53gnqqk4lgl7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypw38vzd9qj95mk35jmynz4ys56jvctph7286npyvhy0yvr4l4ru6gx4yw66"
+authorization = "signam1qyqr80le2el8nxcddt8a6z0xavx86zkm337s3zuxtjkeuf5h0rfhzxzjf7hhgg6l7kkp98h7jr45nhssy9tuzt02kvvufzg4zvjq4feaqq6q5pm9"
+
+[validator_account.metadata]
+email = "dmitrirosca0@gmail.com"
+discord = "dmitrirosca#8379"
+twitter = "@DmitriRosca"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qp3qjdgx55lh6gw5tw3qym6yg05senn5y92j2mc6wfxz3w03t0knxsmxw8k = "signam1qpk27ddemvq330dsd0pj89gv9zhq2ychsyvnukm95p40fakccu969py4psvwulgutyuxhqwuxp9eymemczsu6yz3mu0ggg2kepxq6gsdhnv4r3"
+
+[[bond]]
+source = "tnam1q94kwwmdmzttv383u4xtql7xhfdl2yn5ac3zv4l2"
+validator = "tnam1q94kwwmdmzttv383u4xtql7xhfdl2yn5ac3zv4l2"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp3qjdgx55lh6gw5tw3qym6yg05senn5y92j2mc6wfxz3w03t0knxsmxw8k = "signam1qzs8grxxcdk5vyyzfe7a2lh44mmkv97fe8htn7p2ckp5t6xjpmmgr9d45mfcv2wnfcj7ufhtjnekxxdg2ywtk6cfm0dmnxpa3uugr2qy2cxle3"
