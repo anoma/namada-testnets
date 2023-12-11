@@ -3,7 +3,7 @@ vp = "vp_user"
 threshold = 1
 public_keys = ["tpknam1qpmgx8x3u99utleu9um0gtp6svsyjj9u3m4gt8l4qxsfm3ueukaekule7q9"]
 
-[[validator_account]]
+[[validator.Vixello]]
 address = "tnam1q97hu2825dqluu3d2qldv53t5046ujzfpqtelzcf"
 vp = "vp_user"
 commission_rate = "0.05"
