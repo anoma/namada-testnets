@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzuz3utukewdzeqtmluus5696ltl4r2434rxq4knzqmcw7g37ktqcaa9a7x"]
+
+[[validator_account]]
+address = "tnam1qxjncm2828te4p0wq77yxppxf0ugu58a8yumfc0c"
+vp = "vp_user"
+commission_rate = "0.10"
+max_commission_rate_change = "0.03"
+net_address = "31.7.196.10:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzpjr7u8gmphlcl8vwng22mpp5np4vmq5acsptywq5keq3g4ylqnk2j7q4f"
+authorization = "signam1qrq06edvk807ppujnnt0t5v83xjanmxdxe8l4230r263ww6p22jqcfrrfdsypsvt4qz8crf6c2p25y70uljpye60pk65j79y9wftnzs2yh2plx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp83ye8qxylsm3j3rrn0v2yhek95vazms2artgwd7xh7965htpqjkgptdxr"
+authorization = "signam1qrvsjepffl3sa8dj8mpq0wj0gl9xcdta8mqzn3cy6lakz7fwwjhts43k94etqh9ldkwx2ea2w4fetl6hfc6j8g3psag77tnskyxp9eqqgmlt7w"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzxhdrm79730s4x5tqxzqj2ylkgt27jdhfplvuh52vvq6q647w5c6nded7a"
+authorization = "signam1qrm2zhx9td9hcdqqnwzlj42lnzdd7y9xqwfqfyuzpg88hgcf86cc2jvhh72kzg4xpqrjtwsd4t55qr6fq0ud5f726y3rh4z70xtmh9sdu4gsky"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp3gxuyh9kkj3ym9qsml96yeyzwvl8dnu3xnelvkfvl2j7m2leml5sdcwvgs"
+authorization = "signam1q8wgug6rayzpq0wrjq28qgkpp6zpr7tvtyyfzrvmxw3mkthrr0x7cww49swun4rzvhcet45n4e37u4zqrm39f76q4zry0p20hd2edm9eqyaxmsuq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdk945u4jjx443e7ehhhv00f7xrwtad4h5w7qyer8gfffks68rkkghmp4yw"
+authorization = "signam1q8wh95448ea6gk0tjqmtmjwh4dxt0rfj6kfwen5gzgj5nzz3j89k66593ze4e5zep59tuvtqne8ztjutg05myn9vcazwwdvxa8m9xradqqk3z4wh"
+
+[validator_account.metadata]
+email = "support@anonstake.com"
+discord = "rok_anon"
+elements = ""
+telegram = "@anonstake"
+twitter = "@anonstake"
+
+[validator_account.signatures]
+tpknam1qzuz3utukewdzeqtmluus5696ltl4r2434rxq4knzqmcw7g37ktqcaa9a7x = "signam1qzruy0ud2v8h9q4tjg3ev9kfzy8yq85kaf50ywqw3w4kxrhzlk7mlnm0q2hrjn37tt7rdkjq92r34yzeedtktcwsn8w05cqv4pam6js9ra4wey"
+
+[[bond]]
+source = "tnam1qxjncm2828te4p0wq77yxppxf0ugu58a8yumfc0c"
+validator = "tnam1qxjncm2828te4p0wq77yxppxf0ugu58a8yumfc0c"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzuz3utukewdzeqtmluus5696ltl4r2434rxq4knzqmcw7g37ktqcaa9a7x = "signam1qzpmfhlyt30zzu28y9pdqh6wf6cudjhqdh8vlz4jwfwgw2lnc4rj4ttg08fplrr0q6zzf4xt9w2ay98r5c8uzc5gyeyagjnf2ngw58cy8jydd2"
