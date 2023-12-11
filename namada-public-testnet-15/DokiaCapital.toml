@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp6yusp7gjtaxega0c5mlqdnj7y48mdzrjse3js2a9544yhk2578zedqkdc"]
+
+[[validator_account]]
+address = "tnam1q9knmmm8f7g0hzgmc4ah20u34apcme6s4vlg0mer"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.120.245.74:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzvg9lr7m0dllvkmh8jjant9qa7hv0hc9rasc6gjjje6wrn6nfz3g3mwegt"
+authorization = "signam1qr3aqkdnv4397cjnf7f2287qxltxfvd8c2rlp3ac78z00kx9dz35g0s0z0hl89jaw8tgwv99wnk8wf0jc7et7cgkq83e5nkuzy67a9qzwqqkwv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzhh9hwxuntxey3qtq3sav8cg69lepeluhtz0e223pd4x3r4dz6kkare9jd"
+authorization = "signam1qrf3km4np8e8e4emz8mavuflzdky06jmlgku9332zdpmvha4haveqv8xtjkvjn6e5ecp5u8pp3wdvag94dj9l8zudcc5u6sswj3cwzcx6akstt"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpduh0cxgqhrqx7apktg9rjtqv2ecq2jvzwk4a36r05w6x9pgz0zzz79pp0"
+authorization = "signam1qph9pg4veyxn506m0d36vpv9nc94eanzvgn6vhx5a7fpv7tzwlnk0flamudqm0w2yykaxl4u3fwdc09thf0p0z9dq6u38g97uph4neq89vzej3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplw2pzcdhuf884vxzqexs2k90kd9uxra6wvlq6ter492kt632f9dgs292dt"
+authorization = "signam1q9ng764t33fj0zu4xfv2zg4djq7277s0gkxar365syf0erfq86f4kzh9pcjha95nahacz9pjkc8pguvlr22rrp9tnj66zuvp6gxva9s6qqap57ha"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4ajgw5dguld69k2sm6zaduluypx57es4t2mn4awzvwn5vtsrd7eqfhxstd"
+authorization = "signam1q8vvf0k868tux0xqhedmg6t3e4nvak938g7eclx0k98a6d5f8daxzrf742dt4293cavxu8d4kym03k3surklw56yl093yhhmvw0dg0mtqy9hfp5v"
+
+[validator_account.metadata]
+email = "mabalaru@dokia.capital"
+discord = "mabalaru"
+twitter = ""
+elements = "@mabalaru_:matrix.org"
+
+[validator_account.signatures]
+tpknam1qp6yusp7gjtaxega0c5mlqdnj7y48mdzrjse3js2a9544yhk2578zedqkdc = "signam1qqs5lq62ueuzzwvnq2603tpv9ws36dmzxpjsnhgkg8wwnxd750u09l85fk6tvk9glt25uqqzs3wa7lk5zrf5wh43ync82faupde2mfcp23ul6h"
+
+[[bond]]
+source = "tnam1q9knmmm8f7g0hzgmc4ah20u34apcme6s4vlg0mer"
+validator = "tnam1q9knmmm8f7g0hzgmc4ah20u34apcme6s4vlg0mer"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qp6yusp7gjtaxega0c5mlqdnj7y48mdzrjse3js2a9544yhk2578zedqkdc = "signam1qzsrpjxt4zn5safqkv7j8pxmejavv562wx2gtsg7xltayvpxkmlypsvzxve7y98g9xdumukze743jun3cz4nvhx0tglwg3fdxzumh7cp6murzy"
