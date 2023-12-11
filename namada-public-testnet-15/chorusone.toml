@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzg9wfk76duxumjkefc88uu0srye3zhsv5aaa2hww0dxgs5kl3sgshp2cq5"]
+
+[[validator_account]]
+address = "tnam1q94d8tdrfz9rk3rhtzdywtdqumk67as7rs6wxm4a"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "93.115.25.94:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qry8x67jqyewazsa9uf75lep7xypu8478j8t6ph3kz4te3g7h944qnlzq64"
+authorization = "signam1qzramx0hl39yyhdrdks2fhtahjegp2xmw793uvqhhmm58975w4gfuavvvxkhf5q6fsh2lpdl64phaupfawhwazt2g9qug0v57kjksdctp6hkjc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp26x2lcjsecfdwuec0vx9kkj25m9qulkrntasg0m2s2x8sysq20gpv9sz2"
+authorization = "signam1qrs2p64n7q468r0y80xc4sxzrcxdpxdh6v0ecpj0300c5335zn6umlytqx90jk8ltgnmkvkf8fnlu72y07ghyfqv5xkccy6hzt6k3kqy8t2cww"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq050jlfdv75j4f8e68t54w4e64gctdr092a7d6c6w0du7q2twumgtvx9eg"
+authorization = "signam1qpspcgh3zyhfk8n8w5qql6q5ewpgljzmywqsaes6u4lkwp833husdhg8lk9plckqphjegznc8dshrzq4wds7lultnu2nefxppfvf39qpm8qnl3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw2nn3vvxrfmq6y0qz3mvcjwrd7nwektqzvw3cyqf3dxacd04s5vglj8823"
+authorization = "signam1q82e8hg7wv5tn9q0ywfzkgz4sh43rcadq278at82r23859kykf4ej0d95dgzdgk3cer3pd3lyyfv54y986873kw6l73gkn042req5t3rqyfgfyca"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp382d88njgxkdpyfsac8ydkqndsurmx6exw2hnzjqu5vfyhpph9vqsn3m0r"
+authorization = "signam1q9lexrzl0mnwwhjwjctqr23ynh4put8udn5rdfntfv696v7dheduzju7t6qls2723c7wpneyxmy047enc5d87l7kq4qqsc8t2e4vajtxqq96hxpc"
+
+[validator_account.metadata]
+email = "solstrate@chorus.one"
+discord = "Yannick | Chorus One#9409"
+twitter = "@ChorusOne"
+elements = "@yannick_chorus_one:matrix.org"
+
+[validator_account.signatures]
+tpknam1qzg9wfk76duxumjkefc88uu0srye3zhsv5aaa2hww0dxgs5kl3sgshp2cq5 = "signam1qqw0nxv55nszwja8we9nl9g0mhjfqc8edavhssyfds4lpq4rkfmq9v375076f9pz8733z6lfnv2nq2yk6327nm570gjnnrkr2g26ghq2rhfq7n"
+
+[[bond]]
+source = "tnam1q94d8tdrfz9rk3rhtzdywtdqumk67as7rs6wxm4a"
+validator = "tnam1q94d8tdrfz9rk3rhtzdywtdqumk67as7rs6wxm4a"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzg9wfk76duxumjkefc88uu0srye3zhsv5aaa2hww0dxgs5kl3sgshp2cq5 = "signam1qzke0wza92zg8q9ct33tcjzh6u24c0vnh8nutrkd02mycedlnegqz8yyhsle93f88jvg6mw6ay5qjlhyh6x2d4hxqwv2qa7t6z6mldqw6tv3h6"
