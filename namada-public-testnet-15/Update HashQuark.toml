@@ -32,6 +32,9 @@ authorization = "signam1q9aaz9793y2fmj4kdnky5hfx7nepky9hyv74ssjpvjmdjfkuk4acjxzw
 
 [validator_account.metadata]
 email = "wangzezheng@hashquark.io"
+discord = "Fern#0389"
+twitter = "@HashQuark"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qr20elh85dd8gdsmse4vt0jcl4amuesnep4xpuvmuxdvxfx9unq4ww08tlj = "signam1qrjvd3hk20tc3vut594uctrvpjeys4t5m5czsy65jvf5s9qt8lu57zc8em2sx43zgf09c4e4q2tqgqpqcavzzehej55nygdjr8cns2gxgxkwse"
