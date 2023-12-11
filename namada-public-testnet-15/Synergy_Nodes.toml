@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz8ghu62xh94aulrquu3ssqt7zj7t6hfvhxzesc2akn9m4w0lawnjw396zw"]
+
+[[validator_account]]
+address = "tnam1qyc44s4x90tn3v2qp502za3fhcfmyy5cfuf5t8w9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.202.61:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr93y67rwu6jynwqpznl07vysny2pl244r5pf5ynlt027cglvqse2r98gdy"
+authorization = "signam1qzqh7kr7syjkmczm0qyq3qnv6jg5tv2953rx73tfy776zas858tnv20smf40q0xhse50w2uh3h37zfnwejanzdzqwhm2vzzzwsd5w4s9qd5vnp"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrpg6rsrfxenqwjertkqkgujc2y5vzmelvecps2m2pu0pecnjlelu2zc0qe"
+authorization = "signam1qzpj3yw5q7cfpjdc09rj56hum5twlxruuw077fnxap80j2zarzt64mkrvvyxzmmec406xwn0mgzvmmrmqwgkcatgk7tn7cu7fatu8tsfuwxud0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp2wy9zw8wzmutdw90m2dp02w5ewxx3hnaxr0yrgsh9munhsmkw76q8kslx"
+authorization = "signam1qq7mfygn4mfarymyjhpk9g9aztdznzrc8xca0etwdpwylxg4cztkcfmf7jesr5x4h9p2lukdthswzsdh2lt0t8fhwm2uvyv5uycmmasvpa2h3v"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqsp0c08xsw4v8tqjpn0rvjzq8duvtlkdvdv2nj62a4l37ky5equqs4xryf"
+authorization = "signam1q9vdhpzrplstrvmydy42clev7253uh0kgap2n8e94rvzecfywvux2e95j93jvdxh8fz9uryas47lpyetjweaxtf0089d4grfw7kay0x4qyurxsgw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp778xahhsckawzg0cul9f4mt3x6xfcqwuwk67ktj4errp8077rkwc890rq5"
+authorization = "signam1q9c9j3faevl5p8jemjsssasuy2smtdl3pyadmkpm0edzhfrrjl8fuckd78kdv94d75su3xc90kg2efyc4jgmy8r86qf7sfsrxehtsra5qyny6cw4"
+
+[validator_account.metadata]
+email = "contact@synergynodes.com"
+iscord = "aries_1504"
+twitter = "@SynergyNodes"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qz8ghu62xh94aulrquu3ssqt7zj7t6hfvhxzesc2akn9m4w0lawnjw396zw = "signam1qqs9s8m3mnpdm6fe448fayupaz8733n00k5x0dakhcmqzxga06qdyvkapy267kgcghpt5x86glkys0l32ql53g46zug3yfrnc3kvzvs94x65wz"
+
+[[bond]]
+source = "tnam1qyc44s4x90tn3v2qp502za3fhcfmyy5cfuf5t8w9"
+validator = "tnam1qyc44s4x90tn3v2qp502za3fhcfmyy5cfuf5t8w9"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz8ghu62xh94aulrquu3ssqt7zj7t6hfvhxzesc2akn9m4w0lawnjw396zw = "signam1qr5z24c2nffvjjadv095pmlhlq30q0cqllrazrg43m09ywsvqf9p39mfzlkft8vwda0k4wxet7fpm747yp9gzxufgymu5awkrwu9jactwuy43s"
