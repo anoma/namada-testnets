@@ -35,6 +35,7 @@ email = "axitdev@gmail.com"
 discord = "axitdev"
 telegram = "@axitio"
 twitter = "@axitdev"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzepjtmvfw3gjwet5f7ssf0r0ze2jsyyna9rwz5uxtvhsd4lpv2ju0j6545 = "signam1qqgea9rsnhdyamdmu9k2w2k4l89twes5egdhquf0hjen022e0lg6h7tjq63tlykca6p4xwkhsmh28nl4m2c4977dxar9xa222gx2drgq2dglmj"
