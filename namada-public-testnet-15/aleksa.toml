@@ -32,6 +32,8 @@ authorization = "signam1qy4mwl0tlynxmerf6fpuy2fvsxpcc2crfkzsyxt99p6wp3k7z2plsxqj
 
 [validator_account.metadata]
 email = "seregaprish@gmail.com"
+discord = "valeramoguc"
+twitter = "@mikel33333333"
 
 [validator_account.signatures]
 tpknam1qq8mqd63k6wepxn95mtj2kvvtktvu3mfrrnht9m98lw5xyzr6kprgudsjmk = "signam1qqk5hfauatxqp3zkq6vkzz4srwsrzajckzxl7v6e96x2sz7csy5t4t0l306gc6duedkd7dyrr2s2d68duhtc7yy6puxekd5q4m8hh3g2924l0d"
