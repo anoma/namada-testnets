@@ -34,6 +34,7 @@ authorization = "signam1q83d40q49wuzclp8l6g9pts7yt5hv9fsktka202779f5yrzwy7qs6ge5
 email = "info@mach5-validators.com"
 discord = "ncontrol88"
 twitter = "@KloezeErik"
+telegram = "@ncontrol88"
 elements = ""
 
 [validator_account.signatures]
