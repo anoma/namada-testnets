@@ -33,7 +33,7 @@ authorization = "signam1q8gz43dvrvllru9am3w9wfzntz3vn6yepmwp7y0w536t8stttx89u0zz
 [validator_account.metadata]
 email = "node-alerts@tududes.com"
 discord = "luckyfart"
-twitter = "0xVeight"
+twitter = "@0xVeight"
 elements = ""
 
 [validator_account.signatures]
