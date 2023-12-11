@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpmgx8x3u99utleu9um0gtp6svsyjj9u3m4gt8l4qxsfm3ueukaekule7q9"]
+
+[[validator_account]]
+address = "tnam1q97hu2825dqluu3d2qldv53t5046ujzfpqtelzcf"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "103.234.71.245:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq8x47xw63kw9mafrk37c7smsgzvgymc7jfxlq7d0l8t8zv8r88lkdwx90s"
+authorization = "signam1qze4xmy7wjezjlv48yu2r6vk6lxzse8q5jrj3spge2japv49dcy6awdvhegpm4pfjremnhyktucp98pqrdh33etegy7qlc4crt8vxxct5kpsx2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrt73pddecnlslef8xmgenjqhh8j9thf3pyjtjugmjfvhrwj7yxmsexwe08"
+authorization = "signam1qp3azup6s457uahsfzyvyac0a0kcsmk46ylmqu4k7nrdncrkrn36ltpnq4x9jn6gu8av8pu276f903w2z840uy7ae98jqusttuvgtnqqlnrjku"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrzx5y8ctc47yh7jgmxxd9kddckahna6yfpsrvuj4rn6xjvrk3zs6ucfswt"
+authorization = "signam1qzaptl9egkk3hvwtgathf6x5880rmy8k09m4vwyw3nqgrx9p584jehkq5mkprx3evkpt6u6a5e8ed6dz0k4e97qz5vs8mrquh3ml9rswlx095d"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypkyj2k9n89cf4685snwusnqpd27qfafcnz9estm6ugjdqzhz6ra4qgp3um9"
+authorization = "signam1q92f4zslf5kgetwn68usu70ucfcynkvuaxcy9mhz9330xskmftw9xkt7nawqnrqktvpzt7lhurs3wa223u07gj29v9dgp5gjy5kdtpanqqwualg5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmvam6vehnf8azf0egqxmhkdq5se666ngln9qw7e8xlg36r399eysgy89et"
+authorization = "signam1q84za5ey69j9z63vfhg9gyrmjwg8ukdnnd276q0jyqfdhncn3nazk575rr4ae8p5evjp5csz28eecvma64r9lcvyq9a2mlalgapqpewgqymkshu8"
+
+[validator_account.metadata]
+email = "hello@vixello.com"
+discord = "0xpawan"
+elements = "@vixello:matrix.org"
+telegram = "@ciscohite"
+twitter = "@0xVixello"
+
+[validator_account.signatures]
+tpknam1qpmgx8x3u99utleu9um0gtp6svsyjj9u3m4gt8l4qxsfm3ueukaekule7q9 = "signam1qqngzrv9f5m2f9cysz33fta32n83nkav6ygn8pt4thcw0unywmjfekmefrtnfdcn470hmqrhprmp7xm4svq29d6vs9d8fdjsg5qaacswvs5c9j"
+
+[[bond]]
+source = "tnam1q97hu2825dqluu3d2qldv53t5046ujzfpqtelzcf"
+validator = "tnam1q97hu2825dqluu3d2qldv53t5046ujzfpqtelzcf"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpmgx8x3u99utleu9um0gtp6svsyjj9u3m4gt8l4qxsfm3ueukaekule7q9 = "signam1qqx6p6jh4vtrhwq0ls86s6xrvxva6cl80rvr728lxa97tv48f5t2xf3ynnjqger6um8nxd4ruts59h4sp5nht8vc3xw3y8cz0m95lzq8hl2g5d"
