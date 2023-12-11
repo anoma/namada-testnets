@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpaa6gkjjscy68dv39una68nl3347z0rxhrhqyax27g45yrvjwlgclzmpja"]
+
+[[validator_account]]
+address = "tnam1qxgnegx3se9htr05982atux3ytr797s8av39s5vy"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "222.106.187.14:56500"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzc3gmlzq7lte2cppfqtasn68mev2fzgwgcp9ggzu80um4l9pa6qxrxewey"
+authorization = "signam1qr706ud5p9dhuvccfs7m76hck2ue0dd3t0s66grsepyzlt4xzdc5mej9v8w0hgz8y5n5x63fy7umh7q7dgv4f73m454kexxcj5kvuwcdfjyvg4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrghpjuemdmfh2swc4623rw90q6x456022exkxxkvlx5ykqv7kcncgphg7x"
+authorization = "signam1qqsrcfsekqh0eyj5u3fza95vs540uatx9cej927vp206n76ylg8t3mc7xr28ap9aljagzgl7fcmfzc2g2mtc5fzchcsq6vrevvj2ldgqwmeqfp"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qreujmgx59452nf34tdhul82xc6rk4hx45vnqhda0y88unf0uay0qh8kjg8"
+authorization = "signam1qzn55ytzgs0632c2y96gzlv4mjumzmu8rhm4m5tzf29lcg694yfdt33en0l9pre8l8z75w2xn2mv4mqv47ruj0x6ug0lr6qfhzzkfjs2g4k4rr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdragehsutedrhl66jzpehklw334dkdqnct92eny8hfnjk5mx5gaqe37c5l"
+authorization = "signam1qy0jyz4jy87dup2pcqrvd50dwlkykg2crttfhtuyyy6w65pxwahezsmr7tm6tevs3g2ykew7dlndqk865c9ups0wed6e9ew4qu3dgn5dqql3l2zk"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp63jj8mhzav7n930hafkfkz645k7tqhkszal7yzdhcrp2achepyzquu6q7c"
+authorization = "signam1q9cpr5jph2rtj3qnn75mp07v6w3hh4veuk0q3ewnhx2j6rqefkyhv9zwmyfy03tdytpkm7yfgcxnwsjfuvvr6zt27nugxhc3a4xrtuvpqqh9cskl"
+
+[validator_account.metadata]
+email = "node@stamper.network"
+discord = "jeonghwan.park,jeongseup"
+twitter = "@CosmostationVD"
+elements = "@jeonghwan:matrix.org,@jeongseup:matrix.org"
+telegram = "@Carameleon"
+
+[validator_account.signatures]
+tpknam1qpaa6gkjjscy68dv39una68nl3347z0rxhrhqyax27g45yrvjwlgclzmpja = "signam1qzp46d6ecgqqvn78kz8au8xl5wkaykkezapcr768lyatlqsk8zatntyvy33k3vyuad8u69yuesw79m29v5prhfpnkznyrwgl0nuuyrq2psanla"
+
+[[bond]]
+source = "tnam1qxgnegx3se9htr05982atux3ytr797s8av39s5vy"
+validator = "tnam1qxgnegx3se9htr05982atux3ytr797s8av39s5vy"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpaa6gkjjscy68dv39una68nl3347z0rxhrhqyax27g45yrvjwlgclzmpja = "signam1qp9udae8895gquhlw0r0vrf6t7kud4etxzvmjj0clpak4u3dt6jgpzatzv3886ezuzkqhjtrc2up3e58hh4qra68u9jggajdjw7dt8qfftq9rt"
