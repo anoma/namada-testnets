@@ -1,0 +1,50 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzwp2xrzulmp9akhvj9tu4rkyde78kfkex2rzk9dl0uw2nlgqgja5d5x5vy"]
+
+[[validator_account]]
+address = "tnam1q9xpple9kf860kjncnk342w8v5r6nngg25pye65g"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.04"
+net_address = "65.108.239.113:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzgfyxc3r4d7pv98uvqgkea05fhvqh6mmdr2yyzjd6p7cklef37yxrgyjn2"
+authorization = "signam1qr6q49xsjqdufk6rwaqxextgpvnlle0g3axz3lx47pqf0wywz8y2ehlcgflayes9ykd5q620cqhh4wx63mg9dfd7m4l83xvqs3gukrs2hys5uz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr7xy20jj9hpe8dwggtfxx9csr65z7yu4qad3g9uujt86kzggcwkuumex4w"
+authorization = "signam1qzq3w50zype22m2edrka0dmatvh43eh8y7x9n0enjhe440w9fah9r9vzwtft7ntut5f2mq59gaw3t47js3923fthxthe80ee6t7eupc2dlmpjq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz536s0ppd347fgcn0s0zdtftmuns3sy7ks4s004pvmwpav86mp05vpw8gd"
+authorization = "signam1qp04a43qz2uft2ex7pkjnyvwpj5z5exuwr5hyvh08a6xamsjcdsf7v605hrma3j6lxhpfh5frg0lauwr2cfg6w95yyypg54sf9wznmsdhvec5y"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppxdkcn4wrn0aycxep97tnjnhy93rhul26j9cdj96epjh9zxrd3ysst559l"
+authorization = "signam1qxukg7d7waqhqzgpgypgj379fghs786xu55fly0rp9l200hzw25esafzhhc2xwcre269t6pkfypq00lrxfezahwk7xpcfy4f6p5zvu24qq4xmzfg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypctfpy760mhmxqnjw4ny7ejvxh7x0gjy08du07zf98fh9eaqyl8agsswp3m"
+authorization = "signam1q96u3jw0r0p8yumak5f2xajhqdvftm9rt98gw7raexlxyvw7drn8vuptalsjjzlau9rlukt0q07g6u29ae5j3xxfytyqeqpg8wg8uw4fqygg85tg"
+
+[validator_account.metadata]
+email = "aditya@kingsuper.services"
+description = "Others Trust, We Validate ! Your Stake is Important to Us. Secure Networks while You Earn Rewards."
+website = "https://kingsuper.org"
+discord_handle = "kingsuper"
+twitter = "@_KingSuper_"
+elements = "@kingsuper:matrix.org"
+
+[validator_account.signatures]
+tpknam1qzwp2xrzulmp9akhvj9tu4rkyde78kfkex2rzk9dl0uw2nlgqgja5d5x5vy = "signam1qr82up5d777wycr5s7crh2rk924gxm5d756ynjyveggzp2xnhm83nynhrk25djs5ft8zkfm3yxszkg9c9820s3fcqx0c46kpzpepquqyt6uq9s"
+
+[[bond]]
+source = "tnam1q9xpple9kf860kjncnk342w8v5r6nngg25pye65g"
+validator = "tnam1q9xpple9kf860kjncnk342w8v5r6nngg25pye65g"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzwp2xrzulmp9akhvj9tu4rkyde78kfkex2rzk9dl0uw2nlgqgja5d5x5vy = "signam1qz3s7p36psq6vlqmz25wpek7z8mj9v0dyaefq5yxtaf9e3nndhhw6qy7aw2nrz9ure69tp9fcvljjsnjw4h2pkx5nstww4kud4xl2kqxj6a3mk"
