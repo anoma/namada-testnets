@@ -32,6 +32,9 @@ authorization = "signam1qxn4vm7lcq9mnr5nmxz7dwj75jppe7mhe3td0th3hvpm3ja8vp7523x0
 
 [validator_account.metadata]
 email = "greensvetta@gmail.com"
+discord = "Sveta#0709"
+twitter = "@greensvetta"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qqw9qynlzydgcpnnazgdrj0un3chlhhsqgd76cfp4fkylu0z6ncrzkr4j6c = "signam1qpayhrlzqapfl3tw5cmy72r59kmdpr7hfhkgnc86emdgx0t22n6hfa2yjqrjr346jy3s2xgvtc0epjgf3wkwzcugfdxmar94znc94rqwk5hlgl"
