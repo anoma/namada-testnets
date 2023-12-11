@@ -37,6 +37,7 @@ website = "https://kingsuper.org"
 discord_handle = "kingsuper"
 twitter = "@_KingSuper_"
 elements = "@kingsuper:matrix.org"
+telegram= "@programming_lord"
 
 [validator_account.signatures]
 tpknam1qzwp2xrzulmp9akhvj9tu4rkyde78kfkex2rzk9dl0uw2nlgqgja5d5x5vy = "signam1qr82up5d777wycr5s7crh2rk924gxm5d756ynjyveggzp2xnhm83nynhrk25djs5ft8zkfm3yxszkg9c9820s3fcqx0c46kpzpepquqyt6uq9s"
