@@ -32,6 +32,9 @@ authorization = "signam1qy6gsct5vm5y4ylsky996zt9kwvn9a3dx6hrrz3u3fxjj5072kqh2tzy
 
 [validator_account.metadata]
 email = "info@w3coins.io"
+discord = "Illia | w3coins#9304"
+twitter = "@w3coins_io"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qruqx3gww34ud35tn2vd9cvd0tlvj72eglvy5frkz8st3qp0hnk6jlevfw5 = "signam1qpd7y3cczpgt3x7lq2cueyfe5m4v4pqjgunyt68gwdu980zzq7924ncax4nzhdr5u8vjakh2ykaqzhfemee2py05gyxm0pn3te0d2ccxnel27q"
