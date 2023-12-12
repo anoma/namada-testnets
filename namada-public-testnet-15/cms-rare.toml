@@ -1,0 +1,50 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qztc6ahux2ecv4tu333aa690py52mzk6fju9maz42s47ujzzvr6vv5jqf38"]
+
+[[validator_account]]
+address = "tnam1q8xkxsmclgd5xn7t8p6uz09zun007w2flsm9zm7a"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "185.172.191.12:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzg6qqhzkgvpwa9jz0cvz6p8y226qucjcz3cz8ggelczzsjmh7tjjfngynv"
+authorization = "signam1qz6k2rl2c4dd75zykwc85p567mh8rzlmpg5v4fcn4mwpr23ejpxxaddjqcz57advpy78am6tgtsxs8anvs58adrqajwyl308ydz230sp8pnew3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq2f9c9sg2qhvcrzs78tm23aau3yd9q6tuhw0xhu02xnp4pmuvf87nv5emh"
+authorization = "signam1qrc7zrmqahhs633qysps2t99gj9vrv5parjgvqa5la44tsqpfk9jjh020quq4fp4j7488slqn8dzhffaghm83qzxh877nncmd9mzeac86avc9t"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrfs58usravhrpul8289gc6wjh0j629srqfvzzdkrh4kwf2865d8sjra954"
+authorization = "signam1qzf3nqvg07wv7eyclfhyymchs3m9ktq9tzj8933004fk46gwe6plnrug33x8d623lwpuxvptc7lg78ktkjgqdfus9agys0dkzs2xytgp29nnml"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn36ner9ce9rs4e7kdj7q9zz0n60tpmkn0r02cvxlxlqt38unx4dc4gj896"
+authorization = "signam1q9rx6z64cye3atkxrrkgfyfcfc8qw3lg7ygdujtdgdt250n88j8pxzt5e36u63vjt3vnuratxd3xlvk0j3v2zsltzd49g2yjedcydrj2qy3zg05e"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypug7dzs0774fe0z459q8fx0p0y0jw4wzamkarnc3j6xzj0dtc7pmqdf22te"
+authorization = "signam1qyw45ydzpa3qm2s44sv576kmmsse5atl6s7nhpgrf8xfw03qwrqvx83gsk05dytcxva5c6z6taqnsekpzl5d4h267ma7xp83r2tjnz6cqy25lxrl"
+
+[validator_account.metadata]
+email = "dave@proofofalpha.io"
+description = "CMS Holdings"
+website = "http://cmsholdings.io/"
+discord_handle = "davewk"
+elements = ""
+twitter = "@cmsholdings"
+
+[validator_account.signatures]
+tpknam1qztc6ahux2ecv4tu333aa690py52mzk6fju9maz42s47ujzzvr6vv5jqf38 = "signam1qptsk5mt977w44hn0ujktlc67pa2d2w90yg2ne90rpnws7k6autvmaf3gczvlygmqd06x0hung0gke3m8r659zmcg3w4wunm47twwag84aye76"
+
+[[bond]]
+source = "tnam1q8xkxsmclgd5xn7t8p6uz09zun007w2flsm9zm7a"
+validator = "tnam1q8xkxsmclgd5xn7t8p6uz09zun007w2flsm9zm7a"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qztc6ahux2ecv4tu333aa690py52mzk6fju9maz42s47ujzzvr6vv5jqf38 = "signam1qqnxv54rq8vpff96junh92ezjq55x6kg25txyav45d7ghqhq2kt03sgwvpxsk8e2eqp3tdwknuv3qzlwvzc82j8s3ywyses4ygl6zcs25tsrmf"
