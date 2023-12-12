@@ -1,0 +1,93 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr32jhmmxm3wegnp592cwp32euqq0690l8gaea3wzx0z22u4y5vrq36jz65"]
+
+[[validator_account]]
+address = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.21.10.201:26656"
+consensus_key = "tpknam1qqweva6krxsjufmjrulmlyhzmpkwrmgds9wdudjg9w996u7ad0dh78wm46l"
+protocol_key = "tpknam1qz8h9wzupuwn9escp65r82yeyx3xmrht7dd76u5sduzxesdcvwcvk76sfg5"
+tendermint_node_key = "tpknam1qqk7rl8se8fn43cpmjdp2ekknafqrs7td5xhfumxmsxemae3g39dwke67wd"
+eth_hot_key = "tpknam1qyperwdsrfudpprwknt24kzsylm20nn39zkwdxzup49wen79yr59eyq6rz2na"
+eth_cold_key = "tpknam1qypvewdvq25ldxm0w82782efq78q53nhhesq8cqngxltf7ua9syn23sanunjn"
+
+[validator_account.metadata]
+email = "okkama.at@gmail.com"
+
+[[bond]]
+source = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+validator = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+amount = "1000000"
+root@Namada:~/.local/share/namada/pre-genesis# cat wallet.toml
+[view_keys]
+
+[spend_keys]
+
+[payment_addrs]
+
+[secret_keys]
+shade = "encrypted:84e742934e402c5b2001333d9d14deebff02567d85eb51b694e1974b39c5183accb03b13c082f075480fbedd014a5547d4fabe0e392dae0b7f69362b12cd3f0a952d27a1eaf45785e1e8e88675e706001023776657734bf0fa"
+
+[public_keys]
+shade = "ED25519_PK_PREFIXtpknam1qr32jhmmxm3wegnp592cwp32euqq0690l8gaea3wzx0z22u4y5vrq36jz65"
+
+[derivation_paths]
+shade = "m/44'/877'/0'/0'/0'"
+
+[addresses]
+shade = "tnam1qrk9jjz5d4ql0d2mrkl25lnd45xlm4nx75cfxj35"
+
+[pkhs]
+EC5948546D41F7B55B1DBEAA7E6DAD0DFDD666F5 = "shade"
+
+[address_vp_types]
+root@Namada:~/.local/share/namada/pre-genesis# cat signed-transactions.toml
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr32jhmmxm3wegnp592cwp32euqq0690l8gaea3wzx0z22u4y5vrq36jz65"]
+
+[[validator_account]]
+address = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.21.10.201:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqweva6krxsjufmjrulmlyhzmpkwrmgds9wdudjg9w996u7ad0dh78wm46l"
+authorization = "signam1qrmkpe9adddzdlsfyylfchz7klg06msgwpyvvptk3ww5f3euxqs80kghylsjnxngtx97g6ccepne632xtf0uf0fmmp4uchh3kdn5u5qrt675ce"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz8h9wzupuwn9escp65r82yeyx3xmrht7dd76u5sduzxesdcvwcvk76sfg5"
+authorization = "signam1qzeg0nsh703n7mgah7qj7qxzd863h7r2p7hk2lumsdqfkyngw8xzgeqmyyfw9gzyjymrzr08km00jukaw6rpn24fk7n5c8pr5uav9pcz5mp6kj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqk7rl8se8fn43cpmjdp2ekknafqrs7td5xhfumxmsxemae3g39dwke67wd"
+authorization = "signam1qpqefn3c9hw6c08tlryt6s4e5a7m3qc30fr2nzfvfdryu29uprmhpn6vhzl4dwdfj06mhwnc2mx9fcu3c0nkpj05uagks38urfl789qtchyewg"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyperwdsrfudpprwknt24kzsylm20nn39zkwdxzup49wen79yr59eyq6rz2na"
+authorization = "signam1q8qr0dmm2ada7336e247n9d8njluqkjevflgeddhs6g4srymkue8yw3v60vzgakkt20gpn7jqh8ta94gs6dwt52ax5mwd5c25v5vjahyqqynn9z4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvewdvq25ldxm0w82782efq78q53nhhesq8cqngxltf7ua9syn23sanunjn"
+authorization = "signam1q9tx9peccg88l6r48jrj6vk4y6jwe32m952wg96r9pculy8lvxq9k4x2849uc6rjwhvrunjjdlvvmhaptyyftx7c59q7k67arvdxsemsqqvpv0rd"
+
+[validator_account.metadata]
+email = "okkama.at@gmail.com"
+
+[validator_account.signatures]
+tpknam1qr32jhmmxm3wegnp592cwp32euqq0690l8gaea3wzx0z22u4y5vrq36jz65 = "signam1qqy6y9pamyllzm6dlua5jtfsxcy0z9aaem4j6r95deluh64h9hfl7g8wmwph0xccqpgx2ny58068z92597tzkg47pxwkq0rqwsgkrqg0662fvw"
+
+[[bond]]
+source = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+validator = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr32jhmmxm3wegnp592cwp32euqq0690l8gaea3wzx0z22u4y5vrq36jz65 = "signam1qzhmx7cha7rjzh8zj8u2wslt9guxupfqs52rnuqj9rpq46f7qpq3046yyt7sc84hjg2y4lca6awnahy8t4fxawfmchgzt77pmf6zuvczjgve87"
