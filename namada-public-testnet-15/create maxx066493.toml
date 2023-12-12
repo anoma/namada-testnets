@@ -17,6 +17,8 @@ eth_cold_key = "tpknam1qypkkhfkeyaypc5a56nx62d5sesjfm2dqdz0d7lth260ldpp92etfps6h
 
 [validator_account.metadata]
 email = "maxx066493@gmail.com"
+discord = "politon066493"
+telegram ="@maxx066493"
 
 [[bond]]
 source = "tnam1q80swy0lm9dzt2fx4zsr3rrekrlvuj904u7dfpjj"
