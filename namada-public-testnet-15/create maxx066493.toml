@@ -1,0 +1,25 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz7n8fm679r5nkvzzuh3rza6uttj0xzskmaxh68gyf6kucdnfjm45h9v2wp"]
+
+[[validator_account]]
+address = "tnam1q80swy0lm9dzt2fx4zsr3rrekrlvuj904u7dfpjj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.158.196:26656"
+consensus_key = "tpknam1qzmpz9w5fmah9r7r43thx9v2vhqmk8tvu5plhksjwj0y7970w32csk840rs"
+protocol_key = "tpknam1qrdfvjnyhmxvl22q799lx6nedp9dpst53zur72npc7skd0hzsu7scx22dce"
+tendermint_node_key = "tpknam1qz7rg930safwpqawfwc2tlqrws9wuax6qdkmnz0rugpxq40flsntgkuteke"
+eth_hot_key = "tpknam1qypqe8du304qzpfsugdkednhw0qyksntdm9j23dxp0gmuqjr2hufk2cnp0lqd"
+eth_cold_key = "tpknam1qypkkhfkeyaypc5a56nx62d5sesjfm2dqdz0d7lth260ldpp92etfps6h55zq"
+
+[validator_account.metadata]
+email = "maxx066493@gmail.com"
+
+[[bond]]
+source = "tnam1q80swy0lm9dzt2fx4zsr3rrekrlvuj904u7dfpjj"
+validator = "tnam1q80swy0lm9dzt2fx4zsr3rrekrlvuj904u7dfpjj"
+amount = "1000000"
+
