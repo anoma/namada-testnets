@@ -32,6 +32,9 @@ authorization = "signam1q9nk3xf79xxtnz02j5pzakv5rg2ykq9lz55qrzhnap0jk9sq9ktsvfvq
 
 [validator_account.metadata]
 email = "garosochi@gmail.com"
+discord = "@ghotoman"
+twitter = "@Ghotomanc"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qrd6ekgpcw6y00f9c9vdyr2d8x9u0nmngeqcgs75xvkjru8nvznysu4grhv = "signam1qzllldw0k2hfy7er65kr2ajhgp5hjhejgy8r2a0hmsqpz6s8025mx63m8mm0jfmyfel3y7drhzgz07ar7j0atal2fp6dj5fe6jpp0ycqtejuhx"
