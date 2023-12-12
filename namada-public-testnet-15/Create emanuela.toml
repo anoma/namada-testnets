@@ -1,0 +1,51 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qph8q3ymra3xdfwrzndc4f9jgppcaxnssjxa5negmfhgzsgcsxgqz9svmq8"]
+
+[[validator_account]]
+address = "tnam1qxutl9lcat9ztm6x0mp7qqxzxhx82ynq8ccakavg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "81.169.219.19:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzvsr73k9dewyue3kheukfahz2e97suwem4t9wvx5sf4jynw7mcr2jc0rjp"
+authorization = "signam1qzl6wh06u68xqgkrgl8jslqk4zr4394k5htdg56k9tpfymlg2ysasfjq42kxf8wzqtv793e26j0maxqrqafp2gwzcusw6rpgzn3z4ucp2xuqh6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrdcnsgc73ruf9vqrwsstvf5evr4n46uwplhha6jemdlnq7uhm6zzdddafv"
+authorization = "signam1qray8yes9uckrpq6twn9pwcpyhy47ws27774fuar3sv7sx8xk5q6tkm9q36r7gzulyph6r2xht82w7rr624drrsms5zwyycytwedr0gp4u5ncw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpx4yjr92zdgszgj0agg7njxrdughufuxvm33xqeyujcskenwxrkx2jhzcp"
+authorization = "signam1qpujvjgvnup6pjn7xeyqpxfggzyftt0qsyk54e7mtq64ukm4axjmznfkgyfgwwavg4vzlgsugpfhk0y9hswsnwuvnadze40ezdkjrsq238nr8e"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypw80s4ryv8xawm2dse8hteheh4k6jws4m0k7jukgt4yj7yh8ryxxckdkmun"
+authorization = "signam1q8p8r706pthygzvmmsu4qhn4vkxz5dsnkx7veyg2usm5cxrt8x8qkwxts7436lkt2f8mrwkvcd6rnhxkzxr349n9k7k0zgdtmqatymr2qyhulv0r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypa6jhm32zajpykhcew8at3uv9x3wxrp350579lhm6tz5mst5tm40cetm0xk"
+authorization = "signam1q97qrzj909we36prtaqmqngxgqx7evgdu80l6haq4ujna0cuhejzwfvt95yq98lud4dfl87e8g0f583d47vwnj8sten6xtseg2nv0khvqym8c4mg"
+
+[validator_account.metadata]
+email = "0815sauger@gmail.com"
+
+[validator_account.signatures]
+tpknam1qph8q3ymra3xdfwrzndc4f9jgppcaxnssjxa5negmfhgzsgcsxgqz9svmq8 = "signam1qp4etunafyher5yngkdqs2vqj5xat92my5s72aauafd5tzty7deqhku70cuf504phw0wa77wdneudpz570g67zpm80mtfl3n4t6zy8gfvyrdsr"
+
+[[bond]]
+source = "tnam1qxutl9lcat9ztm6x0mp7qqxzxhx82ynq8ccakavg"
+validator = "tnam1qxutl9lcat9ztm6x0mp7qqxzxhx82ynq8ccakavg"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qph8q3ymra3xdfwrzndc4f9jgppcaxnssjxa5negmfhgzsgcsxgqz9svmq8 = "signam1qq97ky2wdtgl254z0g7e2eufgp6c7wkpmm7xt0zcp6hl6klxcy6k2nyf6nk259rc205duqqflly9w4dqvx2yjd3kmd2y4qvgvneugrsrcual3m"
+
+[validator_account.metadata]
+email = "0815sauger@gmail.com"
+discord = "lassdiefingervonemanuela"
+twitter = "@CryptoManuD"
+elements = "@YOUR_NAME:matrix.org"
