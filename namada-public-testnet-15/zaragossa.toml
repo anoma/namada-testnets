@@ -1,0 +1,24 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq90a46sd4am8yna8k4ghn2nrdjkx75ppar0ly6mcwqlc87xrgdywqemkyq"]
+
+[[validator_account]]
+address = "tnam1q868ukm72qd8mt9qgv3j03myqpjcl6snq5s9508y"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.143.220:26656"
+consensus_key = "tpknam1qrgupp5dacqpwnh0l2r5yufqyrhdu2lu507uf4t6tpp2ruxvmdaazmdf4yc"
+protocol_key = "tpknam1qqrd3qt92x4geyuutdwd4szfhpvzxuytfuhltnve3mrs3t4eq3etylp3grx"
+tendermint_node_key = "tpknam1qqlqxh7kc94yv8fv9hdtd228gfl0w93050ktcz2y0plly3gy2mazkd6y3s2"
+eth_hot_key = "tpknam1qyp0qzp60nuja8fvp96vu95s66dhegue8cutvm43mu5ewh4xlcc080qc9kne9"
+eth_cold_key = "tpknam1qypmc7zuaa3lfw29empe5h5vy4wumkjr3qf5q84hqqwextqsuaw0fxszgvs5t"
+
+[validator_account.metadata]
+email = "nodesgossa@gmail.com"
+
+[[bond]]
+source = "tnam1q868ukm72qd8mt9qgv3j03myqpjcl6snq5s9508y"
+validator = "tnam1q868ukm72qd8mt9qgv3j03myqpjcl6snq5s9508y"
+amount = "1000000"
