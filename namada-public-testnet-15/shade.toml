@@ -44,7 +44,6 @@ shade = "tnam1qrk9jjz5d4ql0d2mrkl25lnd45xlm4nx75cfxj35"
 EC5948546D41F7B55B1DBEAA7E6DAD0DFDD666F5 = "shade"
 
 [address_vp_types]
-root@Namada:~/.local/share/namada/pre-genesis# cat signed-transactions.toml
 [[established_account]]
 vp = "vp_user"
 threshold = 1
