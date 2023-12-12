@@ -34,9 +34,10 @@ authorization = "signam1qyw45ydzpa3qm2s44sv576kmmsse5atl6s7nhpgrf8xfw03qwrqvx83g
 email = "dave@proofofalpha.io"
 description = "CMS Holdings"
 website = "http://cmsholdings.io/"
-discord_handle = "davewk"
-elements = ""
+telegram = "InfinitePest"
+discord = "DaveWK"
 twitter = "@cmsholdings"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qztc6ahux2ecv4tu333aa690py52mzk6fju9maz42s47ujzzvr6vv5jqf38 = "signam1qptsk5mt977w44hn0ujktlc67pa2d2w90yg2ne90rpnws7k6autvmaf3gczvlygmqd06x0hung0gke3m8r659zmcg3w4wunm47twwag84aye76"
