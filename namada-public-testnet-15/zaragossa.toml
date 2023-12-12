@@ -9,16 +9,37 @@ vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "65.21.143.220:26656"
-consensus_key = "tpknam1qrgupp5dacqpwnh0l2r5yufqyrhdu2lu507uf4t6tpp2ruxvmdaazmdf4yc"
-protocol_key = "tpknam1qqrd3qt92x4geyuutdwd4szfhpvzxuytfuhltnve3mrs3t4eq3etylp3grx"
-tendermint_node_key = "tpknam1qqlqxh7kc94yv8fv9hdtd228gfl0w93050ktcz2y0plly3gy2mazkd6y3s2"
-eth_hot_key = "tpknam1qyp0qzp60nuja8fvp96vu95s66dhegue8cutvm43mu5ewh4xlcc080qc9kne9"
-eth_cold_key = "tpknam1qypmc7zuaa3lfw29empe5h5vy4wumkjr3qf5q84hqqwextqsuaw0fxszgvs5t"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrgupp5dacqpwnh0l2r5yufqyrhdu2lu507uf4t6tpp2ruxvmdaazmdf4yc"
+authorization = "signam1qpleh42l95k47t3yv5pwm0e9a4hx8sytu8madfyun36efvhpzfx3nw0z2clldzf5vqnhg7h86a3r5tu7emy5f5n79vnse73xnfq3qrc07gtt3q"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqrd3qt92x4geyuutdwd4szfhpvzxuytfuhltnve3mrs3t4eq3etylp3grx"
+authorization = "signam1qqqjknkas9a9k2s7klqey557mlemdkah9yutn7tdql392kfwfgk9r5hwzuv0zr6aptdfgn6sv3h9ul489qcegwhrjk4pumtrsffdvwqy4xlych"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqlqxh7kc94yv8fv9hdtd228gfl0w93050ktcz2y0plly3gy2mazkd6y3s2"
+authorization = "signam1qzy5aeg8d60jtyz7hq2ukvan5fxc2fhf9gpwkhu624chqakr3f7av5cun5rmxekr0juj78ju6ds855y2w9pupq7zvyuuqtkjaw5jjtsdftgze0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0qzp60nuja8fvp96vu95s66dhegue8cutvm43mu5ewh4xlcc080qc9kne9"
+authorization = "signam1q9klra344uek4cvemaa6pxqgywrumvcd7ud6w6j3vvan74h3vajeg37me4v32xxlq0gwnc9hhmts94w8f4l4f2n56w9zrctjw28r4a5vqqmw3cjn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmc7zuaa3lfw29empe5h5vy4wumkjr3qf5q84hqqwextqsuaw0fxszgvs5t"
+authorization = "signam1q8m8jc7d4uf22j9a2055a0nyevnqf4pmxle7xzdmddc7su6z7lh2kduf08980k0hlka4z9cl7e22f8exsu78dwz4wrlm9jpzrnhvnpkjqqxvl3zu"
 
 [validator_account.metadata]
 email = "nodesgossa@gmail.com"
+
+[validator_account.signatures]
+tpknam1qq90a46sd4am8yna8k4ghn2nrdjkx75ppar0ly6mcwqlc87xrgdywqemkyq = "signam1qqcq0vgkspsl954dv3kpkcpqs0hhafmahxe9cw55fylc9wjj896aguq82cl9te3zu9se8p46p4ny0yj4a2um23rtzhg2cpe7a2hdkgst2f9lp3"
 
 [[bond]]
 source = "tnam1q868ukm72qd8mt9qgv3j03myqpjcl6snq5s9508y"
 validator = "tnam1q868ukm72qd8mt9qgv3j03myqpjcl6snq5s9508y"
 amount = "1000000"
+
+[bond.signatures]
+tpknam1qq90a46sd4am8yna8k4ghn2nrdjkx75ppar0ly6mcwqlc87xrgdywqemkyq = "signam1qzukcq9st9snlr9ud2jcyml6ftghasfgdj772m6mmsq0xa2e4tu9jsvd29n3axftjxmjvuvvgwqhgx5pmwdqk3jeqhcqqvx7lu4vevgzau9ylw"
