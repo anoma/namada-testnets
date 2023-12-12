@@ -33,6 +33,7 @@ authorization = "signam1q9mt6lyzztu8vuvmz306k8zw2aduel4jd2pr686q3vq4lnqqnulrwmyg
 [validator_account.metadata]
 twitter = "@decentriolabs"
 email = "contact@decentrio.ventures"
+discord = "@masterpi007"
 
 [validator_account.signatures]
 tpknam1qrf4xm5zw9rlueslf4tugy8lr20tpvmv5rgwsdvwvtyd26xlxcha5080j4a = "signam1qpk8f64fzdgyc0ym4vmpqllklhtye64u8zq0wf5f9ldemxmt7kz5p3nzzefxz4t6evvq95rspl85y4et2yzf2f869y6fzny4y8cmzws0dvyt52"
