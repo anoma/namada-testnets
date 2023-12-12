@@ -35,6 +35,7 @@ email = "admin@stakerrash.co"
 discord = "stakerrash"
 telegram = "@stakerrash"
 twitter = "@stakerrash"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qq2mnn28z3w3xdcekuxtvq84xregz2j25u7rkatc5870ujrhchkl78cpyqt = "signam1qrt0vklaekjt06rzc833pk59t3cvjd9nhvrxxm43gwl6egdhutxjvlkml9a7vgrgn85c0v2m8crp42pdvrx0pv9qy7qhgvfszmdmqkcyja4ana"
