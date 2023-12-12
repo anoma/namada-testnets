@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz4e6jxdv9fq4pxvcz57l54lwc7kvp0dazgxththsj67h0c7ljf6ws2cwqt"]
+
+[[validator_account]]
+address = "tnam1q8dfe4pm3m8rwet3hkr97cc36un4643d5yady8pp"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.114.220:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq7fzpdrfwnk7zvyqgcel30h4ytmmxm548pxywqhm3dxhtzxt07s2zcxmnr"
+authorization = "signam1qp6fzxnczhsw368jse4vvhvptrrjhf6fcf697cpzgkyyfz3pvkq88u9uprusu3jxxg9h585w0gywxpyad0rwqd9kdpqkv8kzkpndsqcr3n0jsu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrwa4a3u3uq4qnd8d90p08fkuk53t6gf0h4ezd2wg2g0gay6ljppv0um02t"
+authorization = "signam1qzqxu3e475tpuzccrqe3jz43h08q60upnjhlrrnjg4fzlsntwkrzkzqt90sjfm9rkcvelm70q87t49sx7rxlj84vrq9n3j3e6rk26xgxkw7ch0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrrmxk30sykdxfrmwcedgcxt57s3jxyydlpr4m4xrwnqnqjuvxxnv4jx7h9"
+authorization = "signam1qqra6406fzh0zxklflu56a5udgk9e0fwfszs43mpj6csn0vw33fraj4j76g48wuhtz70yr4wwsxd3gpegx960e2xaf925c99jta879sg6wwrpd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp03222qt62l2uwtqdwr6chjfxgkwl00n69yksp4m2ta02p6yh7dvgprsl8n"
+authorization = "signam1qy2c03u6cevrycn0h6jjc0hh5ptmwzt5qkazfc93r02762escq67xx7ptulxemv4j00jwj3fcye457gytcleujpqd5h0uml6kx3pxhenqyrw9wyx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypvxa29gpwcdkkpsdwe7fs6upthk7m6k62gr073t0f774x58yuavxc5l9ffq"
+authorization = "signam1qxfw0qzm4rh0t0r2chd0wvwnk9xkmjej3675d4cp73g4zex07y49yj9jvxzpqgj95h09twma6ey6mpah0h0j2ex2vc9yqj4hnp55x8frqqj8272n"
+
+[validator_account.metadata]
+email = "callme234tomorrow@hotmail.com"
+discord = "cronus.black"
+twitter = "@CronusBlack"
+elements = "@cronusss"
+
+[validator_account.signatures]
+tpknam1qz4e6jxdv9fq4pxvcz57l54lwc7kvp0dazgxththsj67h0c7ljf6ws2cwqt = "signam1qztd68nekqp8sl2nu65vtxmcy0ssz4n0mc9ku9et7rzmtfpzpcxh3kt8adxc2aqlvwl2ex89kg9hm6vqcmn3pmwjuyrmq76qvq7ak3svemd4pp"
+
+[[bond]]
+source = "tnam1q8dfe4pm3m8rwet3hkr97cc36un4643d5yady8pp"
+validator = "tnam1q8dfe4pm3m8rwet3hkr97cc36un4643d5yady8pp"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz4e6jxdv9fq4pxvcz57l54lwc7kvp0dazgxththsj67h0c7ljf6ws2cwqt = "signam1qputs5e86ra5phu6urufmwk37vnp3tw6drm9yhx7428052st5n9cj5enr6dq3d7n6m865m4xjamj9sx2zm6cn5gwgfxfjnwltu58vncvf9nx6l"
