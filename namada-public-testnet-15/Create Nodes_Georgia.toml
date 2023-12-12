@@ -36,7 +36,6 @@ discord = "Hephesto8"
 twitter = "Twister_dw2"
 elements = "@hephesto:matrix.org"
 
-
 [validator_account.signatures]
 tpknam1qq2v7kfr4ftrfywaf64pt02wtv9fx2957hgjzmn46x6n0nq98yal2nz8277 = "signam1qpz4emjxwltfhc4jln90a0ek3twkdtpncr8u74xuz8mnh8rxzh9rrwvd69276uyvecnxgulapt290p584yksw83ezac60x304hvw4cqpmk602c"
 
