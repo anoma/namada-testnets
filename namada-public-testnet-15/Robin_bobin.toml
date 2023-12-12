@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqfsjegyrpusxz2wepsl9k720fqhhge22zepcs9gewly2pdv0kykck64nv9"]
+
+[[validator_account]]
+address = "tnam1qy9qtds05pyr68dhsym9dnavmmp5twds0s35gudj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.9.61.237:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qphkdj4458gd5t2xkaxqgdsej9atzzc3739c35ckuqt5jftdvdeaks59t8x"
+authorization = "signam1qrzczqe24unvvjdzjyn3ypdsy564pqffxjv86wlyd3404fwj2skwtatn0xe5h57ug0kl5a4xd6razsqlk50lz0mnevpu9l6pusa443cvzgktkx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqnqk0y076ztzaqtqkex7xgjqeg374335fplqkjup0xallhqll9jw2gqct7"
+authorization = "signam1qzle68gxnzj3fxfucjf9qcpj75476uyfe77a5ylfvwhd49fx8l7znec3csd9mtjngw8346gxm37fplhq7a80s0h2pphxt4sm7wumtrqdskfej2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzz0r4l46k3r6mxkyxf0fru7fenqc79jc70wnnt05fpvc5xn6ej35anuh7t"
+authorization = "signam1qqfvje6qta3wfsthmhc2xj6483cj9zlk57tc5yhhkh7ngp5wagxvempx0tlmfak8ycl6cjsz0hggz365k62qzvnetcdqpfnyecrl5sc0vgxlx6"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypq8k0fn74q95y6wn3fsp06ml3xmf8ygfvrkumqw5f9y0m3ruz8y0q55qgd0"
+authorization = "signam1q8j7pq20qtxh86hfreke4e3g0lmjndawhjj45qle08vzyzhnjzz3jfuz6gc2cuatmnlyl7eg2fc9rmar8eck3wupt7vvduspl3pvvlqnqqar4c04"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypku8mucm400l83wmxhwe7tc5d967w3mgsgn942pry9cltvf8gz07s4hykxx"
+authorization = "signam1qx7cl273xaqah9kw9amjl8wcw8xzz94yycsut8hgajqj6eym7kpc69ugz8m0396pu93xa522atla7pn600cqt5r4dyuvuj222gd843lsqyr4clv5"
+
+[validator_account.metadata]
+email = "GudanovaAngelinaMy@hotmail.com"
+discord = ".robin_bobin."
+twitter = "@Madisyn_Foley99"
+elements = "@robin_bobin"
+telegram = "@@Angel943"
+
+[validator_account.signatures]
+tpknam1qqfsjegyrpusxz2wepsl9k720fqhhge22zepcs9gewly2pdv0kykck64nv9 = "signam1qqvwsrd8h94vp6lwk860qxrxdshgw4vwq5zcf7ury2rgtder2prmmqt6guhjm36vt7dnn38jcfl2m3def2rdh0hypf8ej26fpd59f5g9nh0fx8"
+
+[[bond]]
+source = "tnam1qy9qtds05pyr68dhsym9dnavmmp5twds0s35gudj"
+validator = "tnam1qy9qtds05pyr68dhsym9dnavmmp5twds0s35gudj"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqfsjegyrpusxz2wepsl9k720fqhhge22zepcs9gewly2pdv0kykck64nv9 = "signam1qzdfjeh6rlx8ze2s368td4l9ue45ftd9mz7set0m6lh0y77esgxkqgr59ld88mf9ulz0m7uyhle9amsww36v7xkuw0yzuel8y26y6ggyrymuvk"
