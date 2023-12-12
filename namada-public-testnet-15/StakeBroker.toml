@@ -32,6 +32,8 @@ authorization = "signam1qxmg5hvwfkwh2qzjacslm9y4ktuvjts3ynk4ptajdda46dsyw3yejw4e
 
 [validator_account.metadata]
 email = "abudarovich@gmail.com"
+discord = "alexneshko"
+twitter = "@AlexNeschadin"
 
 [validator_account.signatures]
 tpknam1qpxqznt2rxxx63kc9j5urq8k857h634wsf9zvww4rl9yct98pwa5vaq2vty = "signam1qpavupcps6ndnajp2zrq2qfwcle83pv2knzkx3tdtnp7gdwqqvve322mnw4q75jak8uavqsswjhy9qfluvezp3ss7r74euphzye472q9su5sua"
