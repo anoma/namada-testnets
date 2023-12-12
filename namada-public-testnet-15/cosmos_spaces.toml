@@ -8,7 +8,7 @@ address = "tnam1qxxshljypacsmtx25wslsw650ud549cgkykgdptg"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "193.34.212.39:26659"
+net_address = "1.2.3.4:26659"
 
 [validator_account.consensus_key]
 pk = "tpknam1qqfqewdtskfmld0ltnjxk0x6y5233j7pg844sw4et8wpgv00q6z05saspvg"
@@ -31,9 +31,10 @@ pk = "tpknam1qypvxtk7meqr9rd0unf9uhdc9guxdt97u9eh96r5ynrnv9flqvp2asqd8u96a"
 authorization = "signam1q88pvt4tpampnr5gdldk2kd6akcvc40pjddj5q3w75n0g2evvmcf5ac8vnpr5g2227e2p8x3xhgugay6dwu07cn8afc68kwz49m8prfzqqtjm53u"
 
 [validator_account.metadata]
-email = "cosmosspaces@outlook.com"
+email = "cosmostwitterspaces@gmail.com"
 discord = "R93ax | Cosmos Spaces#5961"
 twitter = "@Cosmos_Spaces"
+telegram = "@Char1esBark1ey"
 elements = ""
 
 [validator_account.signatures]
