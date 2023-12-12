@@ -34,6 +34,8 @@ authorization = "signam1q82prseanhz9q88rncwwg2utje3t8um3ecmsy9u42e60dcv7paw36mzt
 email = "validator@neuler.xyz"
 discord = "minijap"
 telegram = "HikaruGo"
+elements = ""
+twitter = ""
 
 [validator_account.signatures]
 tpknam1qrj3c0vn0xravafvw5uslz33j4vds06lsyux65tf4t6c3l48vpgvwnfgdnd = "signam1qz7pe3p98vv6tup4zy8yv0rxmnelz9mnelgy0fcudtxa0rwzhpatcr6pvze2ayfprvjj00r6hrcqaszr8a8c8ukxu7jmxcrf9w4chwgy073t3u"
