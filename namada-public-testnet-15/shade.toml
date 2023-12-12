@@ -22,7 +22,6 @@ email = "okkama.at@gmail.com"
 source = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
 validator = "tnam1q9dy362wheua3qm76hd2rdq4fsca58cgwugu072y"
 amount = "1000000"
-root@Namada:~/.local/share/namada/pre-genesis# cat wallet.toml
 [view_keys]
 
 [spend_keys]
