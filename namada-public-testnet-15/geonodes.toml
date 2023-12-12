@@ -1,71 +1,36 @@
 [[established_account]]
-
 vp = "vp_user"
-
 threshold = 1
-
 public_keys = ["tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w"]
 
-
-
 [[validator_account]]
-
 address = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
-
 vp = "vp_user"
-
 commission_rate = "0.05"
-
 max_commission_rate_change = "0.01"
-
 net_address = "185.190.140.93:26656"
 
-
-
-
 [validator_account.consensus_key]
-
 pk = "tpknam1qruf8qxvgp4m69v5eaut3zz9vwq7kqwgmjj7z6wz5q4wnshn88z8zjs9tvc"
-
 authorization = "signam1qqujn39u8lcgm27nhx57wfaghm87hmc79qshtdca2lm7t3axnyhjad37l6mrw6eqzvm2f72npt9jgxc4xncy57avrla9yngvnn69xvgt78qjy8"
 
-
-
 [validator_account.protocol_key]
-
 pk = "tpknam1qz9w4895qhn7svv5qy7c09vkgxtcgpd5h95l82wtj49z037867nhj5dplvt"
-
 authorization = "signam1qzrard76n8sregpggv3sr6arz5z5gd4gtuatdvn3dhnsrdx5zrq7kt3cmvj237n92rj7wht782v7d0e2u0m6vupe5atyw58ra9k364qqay2ywl"
 
-
-
-
 [validator_account.tendermint_node_key]
-
 pk = "tpknam1qq0d24atd200eslj8degyf3j52r0cc9dr2u9kuf6dc7hmm3l0l8kwf53zeu"
-
 authorization = "signam1qqxpf0zxta26q5geydc55uxzaq0ekvrcy7dkswn70mmfgdgcuea4f7d5tp62dnu6w3xcy8375c0cl4k2w3q7597h5vclc7n3qla59yqfawlljr"
-
-
 
 [validator_account.eth_hot_key]
 pk = "tpknam1qypfrtyt5mxjpmmm2plemzh2s29y5jadc5txw2e76xhyjhzqdeat7cgq8j6qg"
-
 authorization = "signam1q99ukhfs9qslnhw4qs94863f9vamsuvne02ffmasr6wqwcg4j7dnymn3utsve39hqtyw3ef3hmdtjvc2m5gpzagjuu6gu79vxm96tcvvqqtl7nqy"
 
-
-
-
 [validator_account.eth_cold_key]
-
 pk = "tpknam1qypxzvu2p3m455qp7spfg3nlpn9hhq62mdgz909wq9zyfxxx4xfx72qe9afka"
-
 authorization = "signam1qychnet60u4pkhnvrxym3p8rxvxv7u3f8u33rrjluj4ypemxsqklvjsuksg3g4grspltmfscryeqm4373hsxcmwwhajhx3ua20xrzdf5qyw3m6yy"
 
-
-
 [validator_account.metadata]
-
 email = "gbuchukuri@gmail.com"
 description = "geonodes validator"
 website = ""
@@ -73,31 +38,13 @@ discord_handle= "ggbb.geonodes"
 elements = ""
 twitter = "@Boom9989212134"
 
-
-
-
-
-
 [validator_account.signatures]
-
-
 tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w = "signam1qp3dfre0en2zym0rallcxu94ydj75t5jej55jp4jztmlzxqw4azsj4xems6mnx6gy0df9uq0h564gyadlwcnql3fhxaw2cfr6ttu9psgsfkgt4"
 
-
-
-
 [[bond]]
-
-
 source = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
-
 validator = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
-
 amount = "1000000"
 
-
-
 [bond.signatures]
-
-
 tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w = "signam1qqpg6wt8cf6pxlgkqg2m00ny3qs7pxudujp864jrkh02kg4wzwmkkvlw62zz7wltepyarhmu5gtvxrw0gmvzfhnv4fvjrw3wkmmxchs8eeu8h8"
