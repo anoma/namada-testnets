@@ -1,0 +1,24 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz76cjt470a5mw593vqwrgquct9m7nkcm86ss8x42yec2dp4ufqccuy387s"]
+
+[[validator_account]]
+address = "tnam1qx9ezxmuhp3kgnsvwyl7z0u747r0zeedpuzqwuk9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.237.202:26656"
+consensus_key = "tpknam1qrfnknfyexyzetkhlnqjm4yyvgqucecml3kk7mcfcxq9j2r689y4s54u50d"
+protocol_key = "tpknam1qpq3dx94x6pg45k0av238wx3d0wqwhd06lkrmept6etgpun9m40vkfppx39"
+tendermint_node_key = "tpknam1qqktweu6n4rqwfehcd6gtyd9dhcwxay4rh44x8lvau24cndx7scw6uyc04w"
+eth_hot_key = "tpknam1qyp7689gvc85g2eq6y4fd9zzszgdm3xzdndt9wleerf88r37v98ja5snpatp2"
+eth_cold_key = "tpknam1qypj42ek66clz78v0r4762gw9nxumntz038yfaagvu6kyan0ftkd7lsp8sj8p"
+
+[validator_account.metadata]
+email = "wildb.5r@gmail.com"
+
+[[bond]]
+source = "tnam1qx9ezxmuhp3kgnsvwyl7z0u747r0zeedpuzqwuk9"
+validator = "tnam1qx9ezxmuhp3kgnsvwyl7z0u747r0zeedpuzqwuk9"
+amount = "1000000"
