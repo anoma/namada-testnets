@@ -1,0 +1,9 @@
+[validator.informal-systems]
+consensus_public_key = "00bb6e2a4c632fe95a38c6a601e17dc77a18d3ed2d843334be7723d024b0a800e6"
+account_public_key = "00473b70b3a7c6a8345da7c76b66227a4438015bbac256415c4c82629f59284db3"
+protocol_public_key = "00bb2f4419bda349a85cd11051b4bd587d3295ef5fea0ca3a2f0abca6a5dae88c6"
+dkg_public_key = "60000000e9bb21fbdfa97ae473c6324751ee1c6b09c78d04161da8b1cf1f4e08bc4e26b2913b5cffe286305049bf7f572b7ff8004200d71fefe6a6381b800488bb26e97d0b00e79d6a2944e00830fb4dc2b458c0cf3d9c787d555fc57f13e31613b51d15"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "159.203.12.165:26656"
+tendermint_node_key = "00c96f9840eb0a342896e0c04f90eaa5edcc427e0e19e90eded6f595ed9db47340"
