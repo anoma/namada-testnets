@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpp3gses5z64mawecv3t9f407kr8ydt59rhlgmxqm8huer5n5qg4zjlwwfk"]
+
+[[validator_account]]
+address = "tnam1qy5xvw4p0th4gdayf4yvswlpzs0myja9kqwv4ke4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.107.224:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr68ukjygg6qw438rctju5zed0lr35h7q2q0d6tanehrlk2g32g727m67zq"
+authorization = "signam1qp0u68fsrfrt36afswqs9z3ul8feh2xun55ysduw9dcwyjqg45j3nhrc99e44dsxty55q5aa0vaurntq8mc8gdzjyd8nnxqxcxj7p2gy9rnhsr"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzyrz3l9ylz48gwp8y99hscf0fgtj8tnfm74jvstn8vk9p4hgpqdukr338m"
+authorization = "signam1qryxkk3cz9vjjj2z9jp3qjtud9yrepgug2kkz2rju0ny2zuy8vdxqpgre6z2xtqez9fcj89clhhzsjxzjw408pt3t0uv0aat4c2q8nsf5t8vy7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrwnz74l3al9j9dkytck58a3nvtaenk77ax9p9wjd56nkkf0ulqhznyh32p"
+authorization = "signam1qqztn5ak6trzk0pv5p6ck24rc9g534hw8rlhu4az7gdj9fu2wcnct4fqdkrwplnv4zw4d86hwgx4txphl00z28k8uggel5m9dp2aggqfrt2vle"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qype4pqhqx8q0u7k8gqqaegl0k5a5u9ces2fsq8jvaa8sslsvnds5vcyvsdrj"
+authorization = "signam1q825mw48y5uft37kaksp6xrf7k7r7g67ra2kfudruhg8qrnzlv4zkzc7nmamu8tq8384s2qh8d5sdfm0q986jz9q9emsgvc4677vj0g3qyh62m6r"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypqv4pzk96mham8unel4s42qalt7nwf0pskkc8jzledcmckgws03ecp22qnm"
+authorization = "signam1qxltqcqjf8s35anxzssm3r6nz2a7mmla4mndeun3s0z6mck4mkzpj8pmsdrvfpgs3uy2smxqa35le69xhk6henznrah32yjk56ffnpalqywfjkwd"
+
+[validator_account.metadata]
+email = "ristesobe@gmail.com"
+discord = "mukeshk09"
+twitter = "@MukeshK09629476"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qpp3gses5z64mawecv3t9f407kr8ydt59rhlgmxqm8huer5n5qg4zjlwwfk = "signam1qrymek5zd3sehf855r27tpwmwxr38fq89auu9axv7hpqalk7wfdr4sxr0mwn74f7gcvkns4qaeuxjlp6k9kzan83cq062mekhqppfsqxxhsvue"
+
+[[bond]]
+source = "tnam1qy5xvw4p0th4gdayf4yvswlpzs0myja9kqwv4ke4"
+validator = "tnam1qy5xvw4p0th4gdayf4yvswlpzs0myja9kqwv4ke4"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpp3gses5z64mawecv3t9f407kr8ydt59rhlgmxqm8huer5n5qg4zjlwwfk = "signam1qz434txdg22rqyy704j5uaxmt5d93798zf9myn7p98etgtmw2h9mu4ml29ejn8vktj2nnyydmux58p5dcl3zavwvzffzcsp053xkggsvlapxf2"
