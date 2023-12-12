@@ -34,6 +34,9 @@ authorization = "signam1q83d5z3u6t8s5tgvc0924cnj3udrf5wmgqx28sjv8h4max443h3h6yrz
 email = "Sirius.nodes@gmail.com"
 discord = "alexhuk"
 twitter = "@AlexHuk3"
+telegram = "@AlexHuk3"
+elements = ""
+
 [validator_account.signatures]
 tpknam1qqn3ewfh45hyw2q4ghqfgy7yay44shjtgj2hkmrwm6r24e0twlgtqqnmyur = "signam1qz8a6l5udaer8zqs2ppw686j087ta9zzlcm3zs4ekzak23t4wlwhz6sl3uwl5m92cyed6emqa2sevxp2ak3gfh7pjhy4a686qmf79nsvs4alja"
 
