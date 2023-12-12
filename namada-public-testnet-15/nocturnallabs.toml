@@ -35,6 +35,7 @@ email = "lukas@nocturnallabs.org"
 discord = ".nickname"
 telegram = "ljunokas"
 elements = "@ljunokas:matrix.org"
+twitter = ""
 
 [validator_account.signatures]
 tpknam1qq8t3gx4uex4ctjjm7cx6p0m97t22pfjtusrd8d5jxuyyzp7flrtq09rfp6 = "signam1qqmcmkvxrrrahznl9wrffu5qwrngj705yfx50z05008gz5qfy0jwdsuaw5k2w3xzc8vehgqn0m7q72fakj8dmgekuw5cl45qss4qlec8c2un5n"
