@@ -1,0 +1,1 @@
+sudo cat $HOME/.local/share/namada/pre-genesis/signed-transactions.toml
