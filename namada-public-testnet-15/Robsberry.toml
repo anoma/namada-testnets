@@ -32,6 +32,9 @@ authorization = "signam1q8xqxud5ukj9usycgzkz37nfalpjmgpzsm0969p0dt64l80dnmt2wfgt
 
 [validator_account.metadata]
 email = "meldevariata@hotmail.com"
+discord = "robsberry"
+twitter = "@Robsberrry"
+elements = "@robsberry"
 
 [validator_account.signatures]
 tpknam1qz9p8atjf56rdufk53f262r65sfq6hlkylpsf3dknsmcsjcl7dscwszdzul = "signam1qzrmcsmadjpkut3f46jqmcep34eeyqdqu9vtfcewms80cunnsn8y243496cldtqlsf9yg8dmw6sc739pdcjeal4uu7rc787yhxc0lcqgfql578"
