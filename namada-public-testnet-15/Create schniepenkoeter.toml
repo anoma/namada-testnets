@@ -1,0 +1,51 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp3njq2knqfqv0ac3t0d302m3sucs5033r76rctj7e7yy9y3qwvj6qfkm2a"]
+
+[[validator_account]]
+address = "tnam1q969j77lyvpxnkyd7q698y3a844y44ch9yumexpq"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "188.68.52.176:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz8xrp7asjnhxlp3475x86jynj5sqe5le25mrpzfprz6453mh8uqv76fd5x"
+authorization = "signam1qps2dh8q244ul3wrz824m3hy8lz96vlhahrpa3lf64v0dc7fu2gjr5rlptzpaks98mlw89f3ve9r0s3kf7r2vz4g7wdyxqqylam8w7s8vy7yjs"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqf4kh53rsf3us3gyljxqswzxtguflh35fn7r8xanq44u2ah50ykw4encrk"
+authorization = "signam1qp2psurymfl6e2j723wlah6jpaacr65837l2yv49d2vcjp8f7ns7mwtewa8ctxka6rj8mdlwfmmxdee7jjls5p7dsha7nlh6rdhkcyq8syt3r2"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp522gj37jeg5hwjs5jv4u0x2a3jjanc7ar8xec02k05j9904u7curuzqaw"
+authorization = "signam1qzlxahfsspft9569gjxpsyk7wkhvtm6xqdzz6g9jcgcgn2qvjyucukazl0g4736sg344guxslqyzru5ehrvlwkxhtcatl46ewhx50esgx38udl"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp8x0l94pj4qyuvcqaruczqwq28rrscc5jhj544c69fexmzef9psncmxlfu4"
+authorization = "signam1qxuza2rj9s396kvwu79u70eguxpm8hxyqemd3yha0w5sntetl9pqcntgz4fx7edyh2lkcc2n7jqsucm8wu4r4vra6hmpslkhjwnjw58hqq74kxtx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg4l078tslg9yg9d6qql7hmz7lkep8pvr6tun7upwq2jsnh6e0q6qmmfege"
+authorization = "signam1qxcpm7q9gzurmeflu6dldfw8ultcnn5edc948dpmuszntm9hf3tgg5dlluqurnkcjd9n7ady8gk7muax576e8jtqzvpveh0kxc34jl8wqqyyls85"
+
+[validator_account.metadata]
+email = "prawndawg24@protonmail.com"
+
+[validator_account.signatures]
+tpknam1qp3njq2knqfqv0ac3t0d302m3sucs5033r76rctj7e7yy9y3qwvj6qfkm2a = "signam1qz5m3hath8wlemkl5fyj349za525zxt88ecf6z4hlpcc5rq2apmret9uf5qfh6mfxq66vyym7xdhqhdwe2t2pyufgjlwez6meep0s8cf2a7rs0"
+
+[[bond]]
+source = "tnam1q969j77lyvpxnkyd7q698y3a844y44ch9yumexpq"
+validator = "tnam1q969j77lyvpxnkyd7q698y3a844y44ch9yumexpq"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp3njq2knqfqv0ac3t0d302m3sucs5033r76rctj7e7yy9y3qwvj6qfkm2a = "signam1qput67p0su688eugxp5shmn9ltcm6gufy6h7v32273nwngvntfgeqpx4j0v5tjcz5taduu7lmz9gtzxumwdqeccuj3dkpdcfdwjdkngvzutf9t"
+
+[validator_account.metadata]
+email = "prawndawg24@protonmail.com"
+discord = "239370276142448640"
+twitter = ""
+elemens = ""
