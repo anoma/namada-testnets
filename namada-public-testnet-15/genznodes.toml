@@ -36,6 +36,7 @@ description = "genznodes Validator in Namada"
 website = "https://genznodes.dev"
 discord_handle = "genznodes"
 twitter = "https://twitter.com/genznodes"
+elements = "@kii.genznodes:matrix.org"
 
 [validator_account.signatures]
 tpknam1qqn4hlh9w0ulm9dfu47hndu3ynjk4r0t463day6236nspeg4qv2py67pryx = "signam1qq2392pay6yye3dt60nllj6l3yzgn6vcwjkm0ncymvenyjzyupe760nxanhdfqkkvsxvya7cjne70na2uql4vj60havztlcrfd8p9hcxtvq6nw"
