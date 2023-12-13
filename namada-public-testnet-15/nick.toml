@@ -32,6 +32,10 @@ authorization = "signam1q833zw4v5xzln5s53nysqhr053n60d65gprelc3j0wxvv69u3ejpxttk
 
 [validator_account.metadata]
 email = "shakleinn10@gmail.com"
+discord = "nickshakel"
+twitter = "@NickShakel"
+telegram = "@nick_sh71"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qq3qgh8anzcsmau0e0qkffmu263hexdy9yj9w2qp9e383fxx3z5vc8aa78e = "signam1qp9ldh0crqt7rgrhhn932sh79czsrx0yuh57sm4k03yzhg7axw23h3javpfnqqmnyxlsuywu26rkgvf8tluqh3mx5qhekslfyvs0q3cfsc8k7d"
