@@ -33,7 +33,8 @@ authorization = "signam1qycpxvjauv828yeht6py9weyypqpsp26uqmvgjsx9pzhr3pu64tp6v8t
 [validator_account.metadata]
 email = "info@smartstake.io"
 discord = "bigb4ever"
-twitter = "@smartstake"
+twitter = "@SmartStake"
+telegram = "SmartStake"
 elements = ""
 
 [validator_account.signatures]
