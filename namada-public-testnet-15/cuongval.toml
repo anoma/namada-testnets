@@ -8,7 +8,7 @@ address = "tnam1q9y50vz5mjz8dzhvgxe7hngpx8qtfcmprcj62q5z"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "42.116.53.183:26656"
+net_address = "mynode.zapto.org:26656"
 
 [validator_account.consensus_key]
 pk = "tpknam1qpuq32mwufyex45d4y8s50uuuufry35arv7ppdm9czeux2t4whdf27j5e6x"
