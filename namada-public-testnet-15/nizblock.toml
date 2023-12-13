@@ -33,8 +33,9 @@ authorization = "signam1qyjgqge9tnewjketyedgjj7lugdqndj980upa8jx9wcq2ksnmr7t58s6
 [validator_account.metadata]
 email = "nezarmounir@gmail.com"
 discord = "nezar4390"
-twitter = "@NizBlock"
 elements = ""
+telegram = "@NizBlock"
+twitter = "@NizBlock"
 
 [validator_account.signatures]
 tpknam1qz8m7ud7ge0eudtrhkm8gxhh807szwnj6kqxckqda4mdwuhxpqfvyp2l2m5 = "signam1qrlqk99juwx5h9spkcztce93az9h35dsvgufkc5gqla3h9908uzgj8jepqnal52t5mqhu7xt7aunp7"
