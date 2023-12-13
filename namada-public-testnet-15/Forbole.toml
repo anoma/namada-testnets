@@ -1,0 +1,24 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpk9tpqzh6wvfanhcg4su0vwhplzldkmk3csukff8f2mtvxwm9ayksxlv60"]
+
+[[validator_account]]
+address = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+consensus_key = "tpknam1qzgyjppsvrsxalwgc9hpcpdgkjx3ps4f534efs4l8jk9q48q4jaacpcypna"
+protocol_key = "tpknam1qz9uvvgvecdkzx6tq6lvd8uuz3qus39a9wlufztmazrmu7frp2xm6dj6gsw"
+tendermint_node_key = "tpknam1qzkjamvk23lzw8pru2jguylpjd5lfzu6xshed409v9s07h863unxuml2vjs"
+eth_hot_key = "tpknam1qypuynf8wjh8fzac4m5gexwczjrwyawcgq2q9yc6lgqewdp6aqmk93ssqwll6"
+eth_cold_key = "tpknam1qypz9sx5f8fph5w4a3jng52xfw3kz2lvzf5k0aqj27plff2kyu9rhqqnpwget"
+
+[validator_account.metadata]
+email = "validator@forbole.com"
+
+[[bond]]
+source = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
+validator = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
+amount = "1000000"
