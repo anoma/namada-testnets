@@ -1,16 +1,49 @@
-[validator.HoodRun]
-consensus_public_key = "0098a399785360b3d3cfd4b8ce64b0ab898ff73eaf6a5e120e0a4917365029b6a6"
-eth_cold_key = "0103a1111c1525f7769ec5820dfc10989b65a9b7010c11799162f6034a641a8d5ec3"
-eth_hot_key = "01035fbe079cc5a023c9cf0c11f6f033b6b6c0ddf2df94df0bec4f5a7de42a14e06c"
-account_public_key = "000b9d75aea8a78ad10e6a8a697239f7c968b3c4cf28dc3a3fb3d8e6e02ec7ff43"
-protocol_public_key = "00b311550518192f3f8e2d4da4a98353d6433a9404bd1b0a5bf8cacc4746f4406f"
-dkg_public_key = "6000000071646fa26879236ee148ac40402dfe4b6c1838fe697be69cd96d640376499c38b2ec73070390e423b4a3b79cb49a381773a86395b5f567ca7d2269cc807872a74eed25bb67a62a75f80075247aa950d288f47e675cc7b3238d5cc73b95e02a0d"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq7lkjmlcnehrwuaztt2x4xrxlem25guhgzxatt2dj5h6c0v42dgy78yxh4"]
+
+[[validator_account]]
+address = "tnam1q9eflqgcgz3ayrg05mmxh0udlmy2ng6gjvd3nd8w"
+vp = "vp_user"
 commission_rate = "0.05"
-max_commission_rate_change = "0.05"
+max_commission_rate_change = "0.01"
 net_address = "144.76.28.163:26656"
-tendermint_node_key = "002f1628efb5c4be0bea112fcd00b608fe32eac57a48db0e3a2fdc5e9389650d78"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrw3x03humm7yq0qswkptsh4wtqtnxyk44k2d8d3ze0nz8nlzrcec4y7tuw"
+authorization = "signam1qquxr24qxx22p4klwf49nsp3rnpln7dqkdna4gu03m0csdu90t4m8lw5v5x5u92u87wmcpcd4kx252x83pwe0mllc4lxer2njax3jjqwujxqrk"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq3v2s0m2u3jzyt7r3rr66pggff5t0eawezlnz6m2hqfw8l4tpe0jag4v9r"
+authorization = "signam1qreyqecuau8kq49hcfpdg6leafv5zw8z0yuss5f2y8nesfset642aczc2k6xfhysyfk52z79qdkaxuv460mp8kf7vnplcan88xa30sswanepnk"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqsnhljl6pyzfygd5n793kk0uzhtumdkz9m625epuu87fmknq7e6q60vjym"
+authorization = "signam1qqzygc09s0f3e5tdd9ewr8k7rzc9xs3fuulx5wsf2nje65cplk7me30p7wzg5jy5yy6a5pf789cet08ukwwrs7x2vufzpwhwj0k96ecrzr6lye"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypnllknvmtz7fng2v8j0368as6tcdddj9270uqh423cfjj07ph3rcsxqqc05"
+authorization = "signam1q88j4w8zv0y3lvhx8rxhr6pe6q38yukq03xmuq5drw609hvkrwxsxyy0nldjp0jjekvvaag9ddn9nm2gv38usl599y2ayet0j5r8g2jhqysy3nu0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypxfq9e9x2d6253tqkj63gf0jupd7aqt4km9mu8gnl57vft2su7j3sjevp0p"
+authorization = "signam1qyf4pnrjjyd7t73ac8a92zw7h8uy5k9unsvdldcwgh53sl6cuy8pyu4dymrfsjqpyx736vswezgg75yuuumtyv9g7ls46vj8fjc6dpzdqy7mtfp2"
+
+[validator_account.metadata]
 email = "contact@hoodrun.io"
 discord = "errorist1"
 elements = ""
 telegram = "@errorist1"
 twitter = "@hoodrunio"
+
+[validator_account.signatures]
+tpknam1qq7lkjmlcnehrwuaztt2x4xrxlem25guhgzxatt2dj5h6c0v42dgy78yxh4 = "signam1qzfuqudun2l2txmwgsemtf6wechwr4cms4tzk3pelchf2g7k47shyd3t5dpu26hn8v08njpd9whsnpuhwtpeemy2uv53wm9j3unfl3spj60yhn"
+
+[[bond]]
+source = "tnam1q9eflqgcgz3ayrg05mmxh0udlmy2ng6gjvd3nd8w"
+validator = "tnam1q9eflqgcgz3ayrg05mmxh0udlmy2ng6gjvd3nd8w"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qq7lkjmlcnehrwuaztt2x4xrxlem25guhgzxatt2dj5h6c0v42dgy78yxh4 = "signam1qqt8ljrc7xggmhsyfhu5u0vff9vkw86qxj956x70f9l6jmfp7f54p7cck7y3he0wextqy0rmjaakn82pkxj78hqaxpzr2tpjr987g5c8tua9vw"
