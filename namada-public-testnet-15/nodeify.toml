@@ -34,6 +34,7 @@ authorization = "signam1qxdwlzs3p6xhjn0kkye05f3zgfsaekjnltfexv6f37tt686kqh8pcf9l
 email = "admin@nodeify.net"
 discord = "kw1k"
 twitter = "nodeify_eth"
+telegram = "nodeify_eth"
 elements = ""
 
 [validator_account.signatures]
