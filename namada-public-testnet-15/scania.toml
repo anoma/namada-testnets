@@ -32,11 +32,43 @@ authorization = "signam1q8ey0eyh5jmhgpj3w0vs5454kd09e5de5fqs0awtv2k69kkwk7pwkp8k
 
 [validator_account.metadata]
 email = "renato.delgaudio@gmail.com"
-discord = "scaniacrypto"
-elements = "@scania4:matrix.org"
 
 [validator_account.signatures]
 tpknam1qpnnkxv7m6rlgt8vaarz0uakhlay4tm3xr9mlnmqmft0ndztkhhewvme92e = "signam1qrk9u95njwfclqz7mmyyn8xytumhtn6fg3rpnquv5h9s4txrqwkf8z00m2ecajm9mtm7aexauf9lhrt5e9nmplxe542gey8pymaj4jqpfg7ktc"
+
+[[validator_account]]
+address = "tnam1q8htcaruytqfuer2grxtrhkyp8nht4mpvg8pz5yh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "212.51.129.74:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrhchzx0l4r4t6zck0zyttkrlps5kjv9mr295ynh2hv5pt7jx7027tvkwyp"
+authorization = "signam1qz480t25v003v2qfnp80f89js4pmm6v0hmzlv4jaxz5maf5zwls3g4v94vjqtw8df2p0saah9uccqekv9a8rvucvjg0n966z8kdwmqqv6t7nlu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr6v0lrpt2wlwtpj9yqcs4df0w22d5lqga792tqmu95q6ver8nds7wxnfmp"
+authorization = "signam1qp6emu4x26lwl98rxe3t2p5xjhh2tgxs4jaf3h75tmzh8f2ad6unu5hawgf8eexyfrv3h76r8hc4ds3a8rp7lvm44ggeqemcy7wfdjcyjmk096"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzqh3stdjcnptad47tjmdpghs86pgrquncl2s4a70zs3lthxn2fgk7q2gc6"
+authorization = "signam1qrl94dqa237wfvx26nr7kzngrmjc67m9yma3xgcrrcenlv7cslstqa3tzglw9xdx5vdynrtafsrwmw2vf84yv58yd4rxdfvdrp3fcvgrznpk4v"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptmaw4rlccg9aqj4try0axrgqm2l3e2n72jv35fa0etqhqpc0cphqrknxke"
+authorization = "signam1qxpvkz3hegnfaph2gfe2g9ar0hm0pt5l2s42cxjgl48qn0slrk727dflkgx0m8llezqwerg282ux204p7x4z6fnwzsacs3scekln7p9mqqr8qfy8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypj6de5samyy3eyykl9hnn0xlgyhhyxlcvxu0hzdunggtq2fnf8sjsqu6lrl"
+authorization = "signam1qxmsc0akdwy6t93j7vzthzqh2pfuue04l2tr6clcg7jwsstc4p5jy8u2tlhuk4mgscct3uzegfes6n76wwmww0fxhnmqglfzfdh6ng2hqqfgnn4c"
+
+[validator_account.metadata]
+email = "renato.delgaudio@gmail.com"
+discord_handle = "scaniacrypto"
+
+[validator_account.signatures]
+tpknam1qpnnkxv7m6rlgt8vaarz0uakhlay4tm3xr9mlnmqmft0ndztkhhewvme92e = "signam1qp3xyhxe3jedfhwdrpnk55ue7u4t327l9yrf0nzp6k9f8g9d29ngzewpsnad0spk86dcrk7la37w92qhmlhjyyazv34cjl0znax4qcqdjgq20m"
 
 [[bond]]
 source = "tnam1q8htcaruytqfuer2grxtrhkyp8nht4mpvg8pz5yh"
@@ -45,3 +77,5 @@ amount = "1000000"
 
 [bond.signatures]
 tpknam1qpnnkxv7m6rlgt8vaarz0uakhlay4tm3xr9mlnmqmft0ndztkhhewvme92e = "signam1qz0y86ycq2cx8pl0n2hx8ylygt667zm6ff2saqcefmn6h6hww2hy3y8t8fmu03ddr9h974zx4v9f48qgvzftq45uswu3cdazm70fhdcwcwwg4s"
+
+
