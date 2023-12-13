@@ -32,6 +32,10 @@ authorization = "signam1q95kk8y2j086g2rux6s6mqa4yp5dt9zfhahc0dg08nyc53r2qcf4xamt
 
 [validator_account.metadata]
 email = "namada@chainflow.io"
+discord = "cfl0ws"
+telegram = "@cfl0ws"
+twitter = "@cfl0ws"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzqp3k53sfzp6t8k0e4uxa6axe7m547l2ttg9ctkdwfge06fn8dquf8djnn = "signam1qql9e0vlfgu7gfrgwvcvknv6u0szw42vks79atvvd9vqc345sydyrypzfxfn0hx4q5kagxet6a6tggfejucd7szpatx4q3sg7m3ryjs90mu7xe"
