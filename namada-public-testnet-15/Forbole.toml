@@ -32,13 +32,46 @@ authorization = "signam1qx60475m2guj7xlgp9h9gx2hagaltrecumndqk7ly3zf5apy0h7nqn67
 
 [validator_account.metadata]
 email = "validator@forbole.com"
+
+[validator_account.signatures]
+tpknam1qpk9tpqzh6wvfanhcg4su0vwhplzldkmk3csukff8f2mtvxwm9ayksxlv60 = "signam1qr07lgkz0ex495q78fvhpkad9gr6k999peqcpuhkwzx6720tps5salfg0vc7h585e6j9a0dqr03ths8zjtsn57a82svcmhv956dznvq23wyj6f"
+
+[[validator_account]]
+address = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "178.79.128.193:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqqv4t9gpa6rrul8m8t6ehurpr6ny7tfc0lc3gyl4f4y4vug8qkk7l8vz5m"
+authorization = "signam1qp3zwatp5wegzl7w4uthdk8nmdehkadd6h7hennu33vxqk0c45h0yxvtaaz6p35rmfm6nutvc03hs068l6yrucphfcyqkff6h8l6ujsyrjmu0k"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqvj5eltll8rucl6074ydw92h0pryn70jzhejjft0sehfjcx64spz2epppk"
+authorization = "signam1qqfaf6qjaevm5j488yfx0znd8xn69fz6cffq504df3frelgw9nn9xykavrkvkvck73rfntp6cqqsyyceuwrzehgejqzlz2x6qdpyp8cwqvmwsw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq2zm52fca6cvpg7jh6f267vdgfejgfupds67zstu9npzpu4pyraxpnhlt0"
+authorization = "signam1qzvsg7d5j40k2eugtldmjlqep4kauhst275xapre0gpu4xvug8k25srljrrp8lrlmnwdc3hyfkqvq6z2kpev4s2xu66r5mkl54ydxagp9djd2u"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphvp53jgl8835w8nj8wtnfvpz7v92fhy49kn79dt47s99xd2hajcclaj9at"
+authorization = "signam1qxz00hxuplhjlq6t8ed6pnhlds04c9st2yjjtwj8hstlup279xn8vfc0f8ljsg7v4faa7pw4j8p6zzer4qjnjqyqzftw4jd6cvnjyc9nqyray8fd"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypwcy029uafevgxvq4zctkgxdqysg5c5my5fdcd8yrmdga27r0upusn9jg7j"
+authorization = "signam1qyddqzeppht95xmpxvzfz3x0yee4qvyuch3k6x6v54zfj2dfamm82vtszknfsy9k2d8hgy0lyafzy62hgkxrylkqwp6avy9e5khu82y5qqmgjkg4"
+
+[validator_account.metadata]
+email = "validator@forbole.com"
 discord = "musa133796"
 twitter = "@forbole"
 telegram = "muelsayeh"
 elements = "@musa-1337:matrix.org"
 
 [validator_account.signatures]
-tpknam1qpk9tpqzh6wvfanhcg4su0vwhplzldkmk3csukff8f2mtvxwm9ayksxlv60 = "signam1qr07lgkz0ex495q78fvhpkad9gr6k999peqcpuhkwzx6720tps5salfg0vc7h585e6j9a0dqr03ths8zjtsn57a82svcmhv956dznvq23wyj6f"
+tpknam1qpk9tpqzh6wvfanhcg4su0vwhplzldkmk3csukff8f2mtvxwm9ayksxlv60 = "signam1qzfqvt7xhvs23mjanp05ckafj2v3vdspfc9jev46pmaq8m7yatynrl9clsfn2zxws08cjr088f3ye0ssuzef2mmu4t65kcu68sahnasxt46mme"
 
 [[bond]]
 source = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
