@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzl7z2at63hsxswnmjpm5pxsa2a9vujkqwq0zgxz77hrj9grnk7tqsxu8u7"]
+
+[[validator_account]]
+address = "tnam1qxja84ty533en5fw0n46kd67xft3khfg7q8szacf"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.216.18.14:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzgq0tn5mstkdrtnhmgkwwfyazsudm64w6hk7slxtlx8txf2e2dr74rvx2e"
+authorization = "signam1qzfzywwjyd0znyrsygkmwwynk4s5zpscuj2gnpnyscs328lf2plgm5vg3ysxp8h3df3k760k63c0upcksuyl7n52rxmyww99l2z7c6qvdvtpev"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrkmflt67meee78qn8slhe70jkd024a5wejka5ds6a5yh2jrrprrw7upqlj"
+authorization = "signam1qz7x7dxsfclx2zrelu4tg43yvw75r8gwg02rafuq9eexa4y0mvxeywx5jtskknfv75ztxguh7cuz0dvc3kx6wl8nvxzlshfyjfh7a4q923p66t"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq34vt8f7r3688lznck8lxuv8aarlhw60evh97rnfpv68qk9n6vdz5fjqmt"
+authorization = "signam1qqdgcgme0e3h8a5uchelsh8jr0nj4sfag8mt3nhjr40epft3t4dyhrn57l6r28ey5cest6e7f5aaf8rd9ek49ey222yhsaulpm0curgxe4t6mz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvz59we2s6npl65xknzl3juzqu3nf5s8cqcp55l9jpefcyg0yr5csenxkqg"
+authorization = "signam1qxr8l6ygmdy6ed4yxff205h8lraqgtv0zw46rj862eej32yjd2ujvdxal8kcrhuzw60uxaf70apqvm8u29rn4cusnhxe6lkv7ej453gfqq4rg58y"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7e6vhylsytk0mrqnx9sw2h8cssalf0hqlx4ulk6dsrkdrmvyqp8sf7jk57"
+authorization = "signam1q83hl8urd0mny20sphrjekg7kzj2z9sa20j88tpp470fczyy7sp4u5vhdpcqp8a4ngw5ue2a6qyp52x935h3059mzh5w6ezmsnkafzm9qqxjn4hh"
+
+[validator_account.metadata]
+email = "basport2410@gmail.com"
+discord = "ValidarIOS"
+telegram = "VALIDARIOS"
+twitter = "@VALIDARIOS"
+
+[validator_account.signatures]
+tpknam1qzl7z2at63hsxswnmjpm5pxsa2a9vujkqwq0zgxz77hrj9grnk7tqsxu8u7 = "signam1qrl5068ezvdy2m705aflw6c5756ff4sfs95xd2twzf9vuwwyl6cvf564njjctzvh6skgyggpfws04k9v093ffu459tknr55drzyj5yqg6lcr44"
+
+[[bond]]
+source = "tnam1qxja84ty533en5fw0n46kd67xft3khfg7q8szacf"
+validator = "tnam1qxja84ty533en5fw0n46kd67xft3khfg7q8szacf"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzl7z2at63hsxswnmjpm5pxsa2a9vujkqwq0zgxz77hrj9grnk7tqsxu8u7 = "signam1qrf8swh666vnlvjeyz5ef8a636fyh47tfllugw65034v300n8gfmgn25fur260x7qj6eayqznqlmlgle3ej5gd5er9spd8qcyukypvgzvzwfjr"
