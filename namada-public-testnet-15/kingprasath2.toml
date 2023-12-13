@@ -1,0 +1,43 @@
+[[validator_account]]
+address = "tnam1qxpwjuleplxgp5xud92w3h8mf87anx2hav08ra4h"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "195.201.147.18:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr2c4mlt8h7tznr5vrkulaykcxg4n4m7klk7t5v9q0r63962nspqkwk74jm"
+authorization = "signam1qq6g6z2l6ehj2ywularg4xjs4lfp796se0e9tq9wcezad6w2scexzgm6895fcjns5k97q3esm7853mwys0athtufnfrdcnpwve2etvqthl0u0s"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq83get2akn97ggtkzlp4eywvtqxze792c5r7d4277frlqnl9jlqc45jw72"
+authorization = "signam1qqqf38vnhywc3madavtt5zpslgksepfjpc3mnqdcj6e904k3c0tyeultks0cukyk9efcamy7fxplhkzcsezffg9kgnm6yygfq0nruxcxzqlvsz"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqeczzywgu4s73qsn9kgcqw6ejfngdtp67dlwc796k3r9hmdfq985lvg2yr"
+authorization = "signam1qqa0vxp6trjp7y6chn9epgwjlhdd02pkc4nu9gsygxzym3v82rpyarysul06hke8703sqxcg2s9el4crqfhq5map9hfaf7j0hys4mrsxu324hz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn2lc3rnx0a8uelz455s9mvssmjxx72dvfr08zgw24jf0t9v3xjcgvvqy0x"
+authorization = "signam1qypk97x2qx8cp0ar2gaalprspnpuh942x7v4skmdm9lq26awdqx8jh3s558w7f5cdet5e0l7egcjt3ssdsts3dp3qes53sd5nvq4ldhzqyxqntp6"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4a8jdr52rx44ef5xqnqrrpw4w4gqywnlpdl2t2wrvh7g0m3k6s3gecqe5p"
+authorization = "signam1qxea9w5sufnceaddd46gs935zmp3zfr7zdyl9f5teatm5a462qfvjf3m8f72j97kppc5wysqe9nn8ghqrm32wywc7we4ctw5lt8h3g59qqnans2a"
+
+[validator_account.metadata]
+email = "johnwilson8474978@gmail.com"
+discord = "kingprasath2"
+twitter = "@LiputoMamat"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqz3ptm7ler26yrcr82v8rakde7emz3k7rl0rc0dpcdgp3770x3v78nsg3g = "signam1qry50u9nqlux97h2xyurk83e8ytmdpjy7aumdex65ut3uu6vpl9yxu3dwruwfay52p6xmtlqpf3sp45dlm32c9hals6u0fkea30y07stv0qtwt"
+
+[[bond]]
+source = "tnam1qxpwjuleplxgp5xud92w3h8mf87anx2hav08ra4h"
+validator = "tnam1qxpwjuleplxgp5xud92w3h8mf87anx2hav08ra4h"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqz3ptm7ler26yrcr82v8rakde7emz3k7rl0rc0dpcdgp3770x3v78nsg3g = "signam1qp45psdx56nuuvlnl3zrlwt5j0nnesghvcx83unt6y7pq9qkyst25lyjxmulks2s8mhv345chrmptp3g9jeq58xmyrzhv7phk39kdhqxr8fjt9"
