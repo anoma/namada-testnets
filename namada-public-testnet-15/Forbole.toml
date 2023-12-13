@@ -17,6 +17,10 @@ eth_cold_key = "tpknam1qypz9sx5f8fph5w4a3jng52xfw3kz2lvzf5k0aqj27plff2kyu9rhqqnp
 
 [validator_account.metadata]
 email = "validator@forbole.com"
+discord = "musa133796"
+twitter = "@forbole"
+telegram = "muelsayeh"
+elements = "@musa-1337:matrix.org"
 
 [[bond]]
 source = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
