@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzwshn0a3v87d2vq2mvcq9jp7fc2ssj6t7c8pu96qhy4ued7ef6wj7twxd5"]
+
+[[validator_account]]
+address = "tnam1q9vtc9aravhklddrupv5eag4wx4sj7hn2gm7skhm"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.194.217.50:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpg8g4zvke6z6lxdvqh5zxjxhdjcmxayc0p6et50t2g5803fsjr6klznz75"
+authorization = "signam1qp7m3em2n6qyvt353eqgr3xzh62hjyaqwtklreecfa84j6mvsyr3evfejekstq0wgt2kkrlvkjslc6c3hhaclnxeqfklk7dr8wads0qtgdys3z"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqyx5shn9wx278xswfre0d9rntuyknsttrneuvwf5dusjrkcpenlumg2cha"
+authorization = "signam1qqm4d2qukft6tmfu3ys6knejuhwxzzv45yzwvw5kfc7hutt8nh0j6crw2p0sy3hafwyu003mc7f5u6q0l5fvq824xxu397mtgw9rvgs9z5vhrj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrklncuf4pp3c53xyyf38jswwdna7w2mu2z8udarm4jme45crczev620p63"
+authorization = "signam1qpk3sl8haxv6tcsmmxdq3wz8zjgyjqqh5rrt7nlk6yc0j45uevadfzppc40ej4gq4s0cj6wmlt7sp4gqm5d37408p4qrmgdwyz2x74s8drdf9n"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypdyx43j49seczwzq8jdckg6lw86vmavmmjfdfg0c8wwtskd200hcsf00t3u"
+authorization = "signam1qymvxuufax2fpdm9afg8mdsvd2hmejcnmmtxrl7kp5plfgfpwrlm2uultkpnr0zal2sam2af62kqcqjq8wst2e7ns00nf9ls5dd5nrktqqk3cecy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6au28yje2z40938j582dlpfny9eklqhmyuwjwa8r6v26shzdmj6srjytar"
+authorization = "signam1q9maseake9m04rqj40j35nsvetwvy4t6dz8rwn2005h258gh6ctewjx5jx7vdtfl3d7hfxhhym22dse96scqmeg2xksgvsp6djfc2t9fqy7ajp6q"
+
+[validator_account.metadata]
+email = "sales@safwastar.com"
+discord = "819480522467049473"
+twitter = "@OphirNoor"
+elements = ""
+telegram = ""
+
+[validator_account.signatures]
+tpknam1qzwshn0a3v87d2vq2mvcq9jp7fc2ssj6t7c8pu96qhy4ued7ef6wj7twxd5 = "signam1qpxntgytk5za2hqe3p2uhgx3mqwycu9e7tnjv6g2wey8tvy63ynyzwgk3eggt4psat7kw4lhtxxfl3dls4qnagglfgxrc0mrvy9ll2c0x0vay9"
+
+[[bond]]
+source = "tnam1q9vtc9aravhklddrupv5eag4wx4sj7hn2gm7skhm"
+validator = "tnam1q9vtc9aravhklddrupv5eag4wx4sj7hn2gm7skhm"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzwshn0a3v87d2vq2mvcq9jp7fc2ssj6t7c8pu96qhy4ued7ef6wj7twxd5 = "signam1qphgd8m27fc4tl0juapnecyqmntlugwljgf9xkwc25uaf3q94ky25ukg5fsz4k2euujg26qe8tr40ntqrrma4rtu6ewjcjq2e5kg3lqzw7j0lc"
