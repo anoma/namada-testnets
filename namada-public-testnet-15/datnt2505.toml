@@ -32,6 +32,10 @@ authorization = "signam1qx4s04nqz4qfcf54z0h3ehqvr2d8qzmy5a7pa90zc6h96g9ejvr9k6yk
 
 [validator_account.metadata]
 email = "datnt.uet@gmail.com"
+discord = "datnguyen5985"
+twitter = "@dark32514759"
+telegram = "@datnt2505"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzkj8tstlnw6t90mfy3r5mn6qus35ewswxk26n6w8rr7lugxvw227876kr0 = "signam1qr9de30jgdyfwxdr9tr58wxf69t7caulkm5270uzsjstp6de4x2dtlkwnp4ck5xz7fx7u4rlqktuxhdeak844h9u2dfd0dj9an5ht9qdm0g9xc"
