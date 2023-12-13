@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzkwdl94lrzx65lx3tlea28plq7zg4mcy7jgawc9zpmr46w8jvn6xdtm827"]
+
+[[validator_account]]
+address = "tnam1q97p7tr9kgtl2vz8dkytyq252re7e26leunc2uca"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "66.203.113.31:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpwncw7ssqt7qxflwsvzvg4yfyrdgw40q8g687tr6f27e2tvplsl63l53nt"
+authorization = "signam1qpu78e4hgqr8qvkvs3e82vjhfkryla5e2uss4e7umu457sdxewf6fuxvcuqe4xj98janr7ld7t0n3grn2x9qszskactz2jrrx08ucxcgauq7h0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqgvk4vlrg6d0yrlrvkhatv6ra9gq796dt6l5qf2mwkafkl6fs6rqfnfyfg"
+authorization = "signam1qzy9zalnhcd6k4uva7kpmjpzt746uyq5gjwudchs76570rstym5gqjq5lgdpuduxy8tdljn0ha5y5sglldpprgplvsfj2dhzlufv3egv8lug2q"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzspnc5jdakdngs0hav4dzprhf0ssltmze2vvwv7cy0chg86jchxsl5dm4r"
+authorization = "signam1qqkurp33wd5u78dnu5x548clzeu64h0dp4gnltlu5ldes7s48r2rpg9tu7j2wlrfryvqhlsxx8rtr4m9u9l7xrs3jf88mrth2w8spjsrs8a9rk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypzjz37mgnnuhwszg458y380pja8nj2srxp709he68cwcsutuvpzugrg5ve4"
+authorization = "signam1q9aj6e9mcgtm5w349jasd2qnp9f9v8l3pu9r8t06ndfgza6pl0uh262hrwa2quz2ah070j40jlc4tg9ukyprg44um7xajsqq2t2tnqe9qqfu4aka"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp96dqtc3662m644kdff3nc5z6um0cdk9jvjzfga8h74s9eeyyypvcy8hj0r"
+authorization = "signam1q97256rel2c6hq75pe9u36ln5ctp5rupm449jyp00hly9nne4jveskmhegg0lexawgq40yt6wsrmxmp5yru9s8na697zgf0a5rw8h79eqyjgtzxa"
+
+[validator_account.metadata]
+email = "contact@futurameridian.com"
+discord = "@anthonyra"
+twitter = "https://twitter.com/FuturaMeridian"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qzkwdl94lrzx65lx3tlea28plq7zg4mcy7jgawc9zpmr46w8jvn6xdtm827 = "signam1qzxeh2qdandzpvqcxrk6jdrx65wlj28hkwvrqlqqfa8hhs0ztfkmgylj0czx2a0wklrrvt9z5l2nlaz6t7raqlss0r4z2cx54c6vtqcfc4z6az"
+
+[[bond]]
+source = "tnam1q97p7tr9kgtl2vz8dkytyq252re7e26leunc2uca"
+validator = "tnam1q97p7tr9kgtl2vz8dkytyq252re7e26leunc2uca"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzkwdl94lrzx65lx3tlea28plq7zg4mcy7jgawc9zpmr46w8jvn6xdtm827 = "signam1qzeayxnawlnpr7nuvawn9nu66m2487knd3g24h7rt3zele58cf7lxxjdlhdlf0t8qrlapc3q3ua3mk9u2df2280mm89jjwxhcq5eves2dr3ufe"
