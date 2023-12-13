@@ -32,6 +32,10 @@ authorization = "signam1qyt7q3dtzmx84ltr6lexn3rrdyfu06fa44ya3vtq2p7rjjxc2pdpumjy
 
 [validator_account.metadata]
 email = "mogwaicrypto@gmail.com"
+discord = "mogwai_crypto"
+twitter = "@mogwai_crypto"
+telegram = "mogwai_crypto"
+elements = "@mogwai_crypto.org"
 
 [validator_account.signatures]
 tpknam1qz6hhj8kucz9n48rlrq7jfth9qg89a2xs5kt6gel673au89eax8k5j68av0 = "signam1qpkef0jgkq8ntwhppn8uxs0h8pam0fk3p0yk7zderhhzn4xc3g5z9j9eydwccetsuq2yfd0f6rfkqsqc5wl2egkw27mc9wjge52234g076ugm8"
@@ -43,4 +47,3 @@ amount = "1000000"
 
 [bond.signatures]
 tpknam1qz6hhj8kucz9n48rlrq7jfth9qg89a2xs5kt6gel673au89eax8k5j68av0 = "signam1qqsmv3mugzl0hlr3z0y3zs4r9qq8fclsr3464ynm59vvuey3fnl3a4esf4szq0anm88z2psgs50vdnhq987tnnlypgc5a957yjasz0qvr4ca7z"
-
