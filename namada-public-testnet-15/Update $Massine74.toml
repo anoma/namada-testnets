@@ -1,0 +1,50 @@
+
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqjk6z0cu490srfkumwy955tstnsql4704p0ksstfdz73ye49eqa7ms2xu2"]
+
+[[validator_account]]
+address = "tnam1q9n77lzxf3srxph6rph9r64wq4l6utxzfyp5f54q"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.33.59:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrnlhkf4jlhkhhhkg2wztfsgdt6r4a7pu4weqltjl7rtnrd5cdsmc9v2v6d"
+authorization = "signam1qrxtdgh2z3h5673uqmsmc308q9k6pknq8defang3xnyrp6j9d3lx7gz3xxss0ju9tcwvauqx5w6e7lfrn4n9tflr8ypg8ddt29ln4agql787tv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz6k43j6dwh9t9p4tmasn0vtwcp0apljhygedcd4h2q7vsvrru5cukd0h3t"
+authorization = "signam1qrefv36cutg75dk7syder8skfdf6f8hyahqmxh7m90psffkfq3fyhgl75afy0q0ed9trna8d6sqf6gy8jakumj2jaxmr4v8n7jrcdgszxeturh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrksy7hm3alh88t0pz8mnk6n2mww3s2z0s4l9stht2s4lfmtmxtzy3wc2kd"
+authorization = "signam1qqm5zxsfqfhu58gfxj4p8c7f29ksnl63nrnvlmx2v80vl9kwlaenz70hjvr8qs2xl3krd74rywayuslqd9h96m7tw22f96h845xcwvgtqkrpc2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypvgtamchffhd3et5gxk03npm2duqc3g6hmznvsgfwhz4funs9xqfskujf3m"
+authorization = "signam1qxc2a2yvezkzjnk8rkuhkmv33r0h35skxx2ghq4ht7454yynpnzlvmpwu0qfnlefnr5c7dd07j4p3wmpk80860d6lph8rrl8w2rk802aqq5f4g63"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypy4jdzy7h56gsaew0af33vqvta69cy4lh2xs3l8jvzud6z2r5uhgctxr47w"
+authorization = "signam1qylf276tzmk4lhzc9nxr5jm9vhyxdff67d7q6ur3wjnqtlfntkt7yhn2czr9mvaq2c3rrrhayr4quuk649duuhj3ds6v7k4dh5muzteqqqpnwh48"
+
+[validator_account.metadata]
+email = "massine.abdoun16@gmail.com"
+
+[validator_account.signatures]
+tpknam1qqjk6z0cu490srfkumwy955tstnsql4704p0ksstfdz73ye49eqa7ms2xu2 = "signam1qr2u08e20mvkwyakpgxqwa2mhe9lhx0gl8mrce5ejg2wp942a3ytn7yparagczkeqa7up4ds3mgqw38xuh086h6hph5r8jat9hszgwsfw6upzn"
+
+[[bond]]
+source = "tnam1q9n77lzxf3srxph6rph9r64wq4l6utxzfyp5f54q"
+validator = "tnam1q9n77lzxf3srxph6rph9r64wq4l6utxzfyp5f54q"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqjk6z0cu490srfkumwy955tstnsql4704p0ksstfdz73ye49eqa7ms2xu2 = "signam1qpwkecqf9fg7auxr2kx6u3hsy0l7y9fgdkvtlh0mu3zpxxljlsuw3jkct3p8s8v2pyt32rmac7rl9pjw2kw4u6us7dggec5mq0y6qwggydfhw0"
+
+- discord = "massdz."
+- twitter = "@massbylk"
+- elements = ""
