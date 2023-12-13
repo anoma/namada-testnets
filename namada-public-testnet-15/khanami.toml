@@ -34,6 +34,7 @@ authorization = "signam1q8rev4uqk5ucp460d07hl5vgk7mmhz8qzwwx7n0d5hvu4cxyekgj6u3h
 email = "ananyacavaleri@gmail.com"
 discord = "khanami.eth"
 twitter = "@khanami397359"
+telegram = ""
 elements = ""
 
 [validator_account.signatures]
