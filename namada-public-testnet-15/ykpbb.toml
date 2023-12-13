@@ -1,0 +1,44 @@
+[[validator_account]]
+address = "tnam1q96260ypv9jhkahhgzrzdpsqcz5vd7fr6qsw533y"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.205.244.88:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz6sa7qe262y0ts24wywae4jpx4z3suja4972hedarehvhyfkwz8vxq0xpr"
+authorization = "signam1qqjwcr0mx823s3yn8ae28t38hmh6q90amzyr5rzskhvde05nhhng6d58e42h2ky65p8a94nx93n7tujtczev0q2dexgjhrd0t6jdh6cd5l7uag"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpjnhgrqmx5u7m5x3am9yg36sslgjsrjkh9dx8g7dq3tztwx4s6v63y5wfk"
+authorization = "signam1qq2p9ladvwdvuxtvmn44qnudj8xlxne0tcp3jp2qvwtr7vxtq6lzdnj8tps64v6fawa60wwgne23hd2ncas0m0jshpz5xjskh97k8pq006qqm5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzevnq4s3gsgpvtpqphlxzzas6s65w9h555w4w3q7c9yqm5ence6xnjjh4l"
+authorization = "signam1qpn058mct6jdr8j0d5dyhtk75gpdpd3k96ww494jdu6xy8pzc9zet08jhquvkx9w7xu4n09d2rrg2jazl3c06asn5jm5rwes69gv6scva9m6v3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyptw954k2klerm2n4z56g6kpmwp9e39a2qsxx2am0zt0pxktaupm4c6azyl9"
+authorization = "signam1qxvjp2c2qr4vxhrcpc90unqy29rjvs45hftu4fn459n5k2rcf46z5p8u9g8guugxv4x4922drw2pk600424zgh7hwwn6cx5vkrvszcr7qqurepxs"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmk9j0w3g2rztdw5k44xhmduufs75emalwehxl5wfr9ucden5fafskhmse5"
+authorization = "signam1q85msaltruc6s06te98aej5494qrxlvmlvesstwkhxn2lruw8d4lkv9yevxflwua8jjftda6e0ww8pctzdnl3n2vgy9qt9pm5gsz7uvmqylfwgqp"
+
+[validator_account.metadata]
+email = "ykpbaba6164@gmail.com"
+discord = "ykpbb"
+twitter = "@yakupbaba64"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qr2rxdgwkvlrm8320cu68d5qhs3vczk7vytxx9k37lqn7sp92lgr63v5p3h = "signam1qqgh7clgl9njdany3j02mvcvfv6n59f0zvwwuvwtm3qcau8yffvwwk8murpk26x083jssh5r8hvtyg76gucns5re8w35dz6x37ckxhsqsmkzf0"
+
+[[bond]]
+source = "tnam1q96260ypv9jhkahhgzrzdpsqcz5vd7fr6qsw533y"
+validator = "tnam1q96260ypv9jhkahhgzrzdpsqcz5vd7fr6qsw533y"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr2rxdgwkvlrm8320cu68d5qhs3vczk7vytxx9k37lqn7sp92lgr63v5p3h = "signam1qp38yqhu8sm3njkrfxwnuucyyezmx0sk3xfcr3kz5vs7gu7rydmnfjtfmkph6he50a0czwzrldfartfne80w9kvrvqssa9tsafzfwrgf94qdj8"
+
