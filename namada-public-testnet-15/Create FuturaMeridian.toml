@@ -32,8 +32,8 @@ authorization = "signam1q97256rel2c6hq75pe9u36ln5ctp5rupm449jyp00hly9nne4jveskmh
 
 [validator_account.metadata]
 email = "contact@futurameridian.com"
-discord = "@anthonyra"
-twitter = "https://twitter.com/FuturaMeridian"
+discord = "anthonyra"
+twitter = "@futurameridian"
 elements = ""
 
 [validator_account.signatures]
