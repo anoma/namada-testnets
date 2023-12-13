@@ -1,49 +1,46 @@
 [[established_account]]
 vp = "vp_user"
 threshold = 1
-public_keys = ["tpknam1qrgjyy7t80rd5dw3tgccg9yqpmknnu7vgtr2qaz8jajf3texp4tyq907wnt"]
+public_keys = ["tpknam1qzc3clglcy0tmvkqh248zr0kx7q6ckdfntj5atkaetk68zyk7rv3xnfg8gy"]
 
 [[validator_account]]
-address = "tnam1qyafjlgmrlkt8256vqnhqxklvmraz63veuqzxajt"
+address = "tnam1q8v3jlq565kn2amqxus3qxfj58z9zt4qxqqvt9vp"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "65.109.82.106:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qqr7rh3pycxjkukr720fwh64ul2eva44m6pt8f04txnwxf4uv3feyp7fpm9"
-authorization = "signam1qqj87mcalyhglekml7ltzr0tkrd9fz3jgrzm7kp8p08kas8sfdqjcll4jm7c222mkk9825u9c73fktqrxkageavkdmnqvf0p4cpc27cr82u2yg"
+pk = "tpknam1qpprutsqtf2vat8kvmgewvxe3kgf93xd73ar2q83z3l0vfthz0gyjz73zen"
+authorization = "signam1qzgmql0z3l2d7w86xedux6kvedffp9czuz8atw9fzvngdafpgenezaw07ddrpyj54cpmf6x26gs2w6h4epq3k054h3ut0jqxr6ae4tcpf5raaq"
 
 [validator_account.protocol_key]
-pk = "tpknam1qpyxj5qp0unc8axc5jm9gz7f6hlyfqf8npxd5ssmak8a22agu67mxgx94fl"
-authorization = "signam1qqwa4rlrms7j9cf23tyer06ku4l6p6j4l5kvu2t7fz40u4hffq9r5sayf7e2vha9xzem8gulde8krr7rc26j3klkfcl0z4n8uwg98ggtw08v96"
+pk = "tpknam1qzvzyrarhrl3gghzx3w0wvfhcdwvhaylzs90qa033a7dm7tp7qgcclrnnh2"
+authorization = "signam1qq5rww4fwgcpwhk56n2wsrh5uc70zkyfj083hhs0sx2jz95sn9d6ds7809mt5gv9l55lynhn88068gvmxm000p5nxxplugy8kamqclsf8hzt8f"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qqzntxulua9ptv7ujd4kz9vh4legfxhc2d5c7629c28gnqveaqnq59lzzsx"
-authorization = "signam1qp8unmlgjt3mldtqy8fq8r5sr7cl504c4e7hn6wjaexfjdvdfhrw0zr5kwg60nry8meunpsy6wndjfmgqlvm9qm0evthxpmutnnx05cf60x8fw"
+pk = "tpknam1qza59k4dvze7nsgeazv3skfytc4fyv2z5shd7fz4ex07h9749yp92yt540r"
+authorization = "signam1qrpk944juu7zqdljnuvjwglnxt2fqqg34wu3ve379ashpgwtjdpuqr6cy627xzpl8ruf9k6nm7nrc2t0u0ndx9sn258d5urtfrleqqqysng7nr"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qypm0rxwdhq57pf9pme4zrjdr53x8ekt757kp6dp7v4udrwzvu9c5as8afjck"
-authorization = "signam1qx0dcxzrwzlueghyvwe4jctsqwe8umasd95sdtkxdqn5ym5006nh5rcxpxevc34wuvqfcxnnwkcdz78z8nafp6d8vghlxn3zv0m74znmqy5nsv8d"
+pk = "tpknam1qyp6g4jk32aqjs7mqdarhgrjc2ft8rhr9hf3glm85m8kr3r3mgmenpcgzte7q"
+authorization = "signam1qx0j2hyvt3tcakwfj57kw8erru8p8vu3j98nwlqj6hlczm80yaszgzm24nr3hal8d2vjlq9zv9gqtasw8y9z4dcwk6w07qqx2yypmczsqqq3yt3c"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qyp0zjvcx25tpwtzmmtqtvtdmnsr4fxaxwf297fgfsed8gct8jrkrmszvc593"
-authorization = "signam1qx8tle35flfmktl4uq67qe0wyksqn3q9lx7mjhyfzwfv8f2xm68scl4hv72zqfmqhz8z5x245430qp44dpnlywfmshypxdfjrq6y89c3qyhmapjq"
+pk = "tpknam1qyp0sz3uqt0a7xn7880zfgg6sc209wyaf64yse7pqftk9k2ggh5qjcs8zp28z"
+authorization = "signam1q93qvelddayckn9s4hqpu8k3278arghmczv44zpxreer2fckn8p5jl4mhmnjl3pht4mh79yhw033jjgdhkp8j7nsez4747vxzg7akw4yqyr5zlk6"
 
 [validator_account.metadata]
 email = "kuatcapital@gmail.com"
-discord = "2xstake.com"
-elements = "@kuatcapital:matrix.org"
-telegram = "@x2Stakecom"
-twitter = "@2xStake"
-  
+discord_handle = "2xstake.com"
+
 [validator_account.signatures]
-tpknam1qrgjyy7t80rd5dw3tgccg9yqpmknnu7vgtr2qaz8jajf3texp4tyq907wnt = "signam1qq5u7n2253k697p7f6kpn8ee90ssdnxdnyq8z6h5jz3nt8yht5lg07xrtp5z9aw4g8kfe3whfdfps3gddc3e4jaf76rq9usl7xtfvkgf66jvmw"
+tpknam1qzc3clglcy0tmvkqh248zr0kx7q6ckdfntj5atkaetk68zyk7rv3xnfg8gy = "signam1qz3rwyjnu2246selzum4qyfg755yu8ky58txlnsyx3qxt723rrl5uy84ekjftc7g8mdnh0f4y2kj4k49lcm27hltzrz2n8zvspdks4cdh3v22u"
 
 [[bond]]
-source = "tnam1qyafjlgmrlkt8256vqnhqxklvmraz63veuqzxajt"
-validator = "tnam1qyafjlgmrlkt8256vqnhqxklvmraz63veuqzxajt"
+source = "tnam1q8v3jlq565kn2amqxus3qxfj58z9zt4qxqqvt9vp"
+validator = "tnam1q8v3jlq565kn2amqxus3qxfj58z9zt4qxqqvt9vp"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qrgjyy7t80rd5dw3tgccg9yqpmknnu7vgtr2qaz8jajf3texp4tyq907wnt = "signam1qzsek77rypptsvw2jl46l40ghr97xah02f9l4z396feul7fe7ea2d9cj3yn5zd97hh9rhsyz28vle4d894sztekglpzd520an5mfessy4um6qc"
+tpknam1qzc3clglcy0tmvkqh248zr0kx7q6ckdfntj5atkaetk68zyk7rv3xnfg8gy = "signam1qrjvy0xwcspva58kf6s7v2q9vna4m0zc28eagzn3pk84klgxdtfw9k94kcnycpd8tpjhjur4a4wpwmwt4hvmyfpc9pglcx6d8azv87sdqr6p9d"
