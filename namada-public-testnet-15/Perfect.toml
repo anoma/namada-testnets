@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm"]
+
+[[validator_account]]
+address = "tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.133.249:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrneyu9u3pnpslgwpcdqv59v0d99xcj3nnjhg0vhtcadkdl0ug3wupf3ycf"
+authorization = "signam1qrv76zm7qekpv6hqt52eqyqzgnplu48gh0e3jmu9uasht9kkup0u3nkldmj2ggt7xm45rx9a5sn7tvl3lhhhpmk4na45gked8ag7npgznslvqw"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpcv3taf7ccjafckalu75duwluqad78n6t89gmq8akj2pmc0e6w32rvrnhy"
+authorization = "signam1qpw7g6hk8q0qjm0h0f52yernqxdhhzzj5wl34a7e0hxuvlx7raf6sfgdujrsmfcqpl5tqueumc9q9hlzc5kdwdrtrrthyx4m7qdzecgrs56svu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr787s0dq3jtnr23du2p2epvxe8ejqh7xu2v6ncnfu8k72t66awpqasa5jx"
+authorization = "signam1qp7zf85annaqqnvg6cgz4wess4z2edp6a3d6sspj5qz6uh6j3mf4w3scng68zt4nul8n9dv8ltqm4e6g2q24d0uc54vjn9qlk5g3kkq9syfpac"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypffvs956ufdw9fwedqksslfglxzltu5l28trx7gex9dulagcg6a3gkftteq"
+authorization = "signam1q9vwhj3tk7aah6jagdgwpypdj3p2rxxtsakq57e3twmtl9g8kapqkg7xafry9wc2uegyugtvrxqds6n6f70tgzpxmpalaskkvcq9385pqyazzrk0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypk4hlg43p4ghzkp6vh2tfxy67nvwczzremqudgmudlnrerm64649cex404c"
+authorization = "signam1qx6ceg9xcan0e6qhhtex3jyk4jtlmmk9th449smh8665xmwp8va7wnpzhue0ky5ytsakh7q36l3jsxcev5hwsms9gjg5cw6vjh6p95g5qy7qgk8k"
+
+[validator_account.metadata]
+email = "katekrasv@gmail.com"
+discord = "katekrasv"
+elements = "@perfect-node:matrix.org"
+telegram = "@aviegom"
+twitter = "@afikslite"
+
+[validator_account.signatures]
+tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm = "signam1qztvlh3ncjzm53pxafnesdd6qdvqphgsghx8e2r0frsmycp6ly5y8mn4fvfjve0kkmuxv9lpa8lgc0hppwzlfsh60fsru4xu55j6tngtsv480n"
+
+[[bond]]
+source = "tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4"
+validator = "tnam1q8e26wzlfj3e9env64jh2txsxryu5j3hpg9c2fp4"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqa0etypknw6jq64vczdth7z53yqjg9nq4djq9jppu87wjqhny0rcyufapm = "signam1qzm7epmsygl6jv995tmhu7npt8q4rczztxr74fzayqvg4jqr6l9jj3h0s92n7v0zceu0kvrjksvfelmqn882zczc7aenkjmt30c0j5gftv8t35"
