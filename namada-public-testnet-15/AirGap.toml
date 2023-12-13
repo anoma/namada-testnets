@@ -34,6 +34,8 @@ authorization = "signam1qye22z05pgylg2v8yz7gerx054tdv9w8l6xhxkxvzn0n9ffm9w5tkhnw
 email = "contact@papers.ch"
 discord = "_bb4l_"
 elements = "@bb4l:matrix.org"
+telegram = ""
+twitter = ""
 
 [validator_account.signatures]
 tpknam1qqrzlht8uarcxqt66aeeheuydx6ve55vmmnjv2qev7j5rrej4h4ezz3qhn5 = "signam1qrxvwerez9turrc53h02eutcf9yarpfp0ssznv50m8r6n4vnseqzwuduhdtf5nz0jye8j29frrzhlmlm6qvns3jnv87wxcdg8qhq80gxfmp8ml"
