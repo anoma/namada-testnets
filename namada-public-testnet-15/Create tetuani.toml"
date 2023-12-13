@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qptardrd2m5y267dafv04fk5aqz94tzcz6wxum4snl5s9gs5048w7chxgdh"]
+
+[[validator_account]]
+address = "tnam1q9sxphr60t6fafc8h534r99tvmw4lhuw7y82zq58"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "81.0.247.184:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz4kxnkzq45ysw95ygv6um2vtmqdsufgn4sgf3jwqxdhcmdvy7dmcp77tv7"
+authorization = "signam1qpmuefu72elhdtzxh04wdst3fm3zyg5pkx6vklujenesg3al3mxuxcvyd5w2a6lefmy6x8a3azdjfkzmdts65qs6nyu0qksz7q8vc6gwz3nx5h"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzqkaxv4z69qsez2fzc9zzjr8r6nv9pzqgcxs8f99pe4epagmm2y6w2lhyu"
+authorization = "signam1qzszwmtezamn92dwc5x4s3a738d3t5mupcdjtv7950vrgf9mzaqm040h4epset8006z6ewwpyx7zx73rzh7nv983zqkvwtzmfmljh9c9dkz7v5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzdja40th5tq628f5ft5q32dal4697rq28s3ygxqexn7md7ftvehqtwpcz8"
+authorization = "signam1qpefkzyp9u6cjtk243aema63gz5p3tre2ydkxgtdvuheawafrhpznphnedk450ej0wg6zvcc49zfgwutrhncwccjp7fwgcxw4rxsmeqy5wrnla"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9mqata8m7n7kkmcj9yq8jqw8dw8wy9p0vckylk5cuf52zymxqkuqdnr20e"
+authorization = "signam1qxut4jxwl7dmqxvyemktaaxga9euqmxldehzm5k3ksuyfd90fkqj24d7aqmm0d950h8qtnwy2t0nyapz28gzn4fkzgekqsgd8dmmm54nqqav8c85"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp6kaemvz85w3dgf4f574d3uasjwnwgsnyn2alst609ycv7kqcq8pgfcfm9h"
+authorization = "signam1q9635zuqeg0zttedwyt8udwe73nu3hz9jdxjlratrqgzpnppwd04yew5kypvglw02t68kq3e2w9ntstwhyld2q0jj3l8vzpj695gyf6gqy3csr7c"
+
+[validator_account.metadata]
+email = "nezarmounir@gmail.com"
+discord = "nezar4390"
+twitter = "@NizBlock"
+elements = "@@NizBlock:matrix.org"
+
+[validator_account.signatures]
+tpknam1qptardrd2m5y267dafv04fk5aqz94tzcz6wxum4snl5s9gs5048w7chxgdh = "signam1qz2qfs68uk55p8drst7rghxu0ag9nd0jt3du05y8jpfflxs3j52nfkssjvxyjgs7nqqe983fvmw30psfjapvuphas8awmt8gsftz36qxne833m"
+
+[[bond]]
+source = "tnam1q9sxphr60t6fafc8h534r99tvmw4lhuw7y82zq58"
+validator = "tnam1q9sxphr60t6fafc8h534r99tvmw4lhuw7y82zq58"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qptardrd2m5y267dafv04fk5aqz94tzcz6wxum4snl5s9gs5048w7chxgdh = "signam1qz852m4d278ky0mp2d8r09yce0rhzags5yradsvag20500wdkqkaqt7e6aquceuxnddf50m749w76el6zd7nsaj3npdjtlufvg7m5rqty789hc"
