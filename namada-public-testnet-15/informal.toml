@@ -33,6 +33,9 @@ authorization = "signam1q852sz2x4u9s6nwqgud549l96md9fch325jwn37edp8njheq2h90c88c
 [validator_account.metadata]
 email = "aniruth@informal.systems"
 discord = "boris6035"
+twitter = "@an1r00"
+telegram = "an1416"
+elements = "@an1416:matrix.org"
 
 [validator_account.signatures]
 tpknam1qzkc8sudgk5de0g34x5dp5ts855at9fu225snffapsfvp4ra88kvq0av9ms = "signam1qp2wzy7tl5l3dkmdgxlrm0ahmnmz9sfuar2jta0lp64gqr6fkpxsly4gjs5wqwzjt8n9syy3lmh8j44jemxmqas58namhwuz6teggzqrax3dtk"
