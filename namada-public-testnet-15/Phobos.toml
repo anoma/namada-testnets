@@ -32,6 +32,10 @@ authorization = "signam1q8ffk9y8ekx87jnmdxd63eps6pyxw5e6u9udwr0jkh80rmecw6xzwzhk
 
 [validator_account.metadata]
 email = "nadezdapw@gmail.com"
+discord = "alkh9569"
+telegram = ""
+twitter = "@LeiLeiLeiG"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qzljwzavr32968mfaufga2rvs6lgmzhrh9huvllqsf69wsq7fau9k5yduj0 = "signam1qzq39w2atnvcawne9d8tafp936wnt38g32zenumne0xm7aaay8av5f0tncnal5acs9c57jupt4empn65jdrtpzahr4gc28m7xd5nlxs8te7574"
