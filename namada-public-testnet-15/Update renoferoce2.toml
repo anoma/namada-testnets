@@ -35,3 +35,14 @@ email = "nicky.berthet2@gmail.com"
 discord = "renoferoce"
 twitter = "@Nicooberth"
 elements = ""
+
+[validator_account.signatures]
+tpknam1qr054adv0wa0j4r20h39relj2gsn5jc4xsly0sw6z7z4wp34f00yvudy0m7 = "signam1qq9z5wxncksuxfysehur346522xv9hngmgmxmrkyapk8wnz23kqy0mks8f8zqyfa385jzap7k62l9qp9hx94g0jl7jlaenmrd3w5y2gte2d5r8"
+
+[[bond]]
+source = "tnam1q9hh09nd7jcsj4q8vwwvechx8lm6s57udytthm90"
+validator = "tnam1q9hh09nd7jcsj4q8vwwvechx8lm6s57udytthm90"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr054adv0wa0j4r20h39relj2gsn5jc4xsly0sw6z7z4wp34f00yvudy0m7 = "signam1qqzquw7nfpuf6xkjzww2aevlk89g9a4ppr4qrn80dxwwk0cctqn3acj0v3nyps2w5dpl6pae4dx7q0dkm8ryj9pyjqd77n4qgu2vrysg3lh92e"
