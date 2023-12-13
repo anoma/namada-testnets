@@ -6,7 +6,7 @@ public_keys = ["tpknam1qz47mldxvw6evmz4t4enlrsd25k39c8kzdtra2e6srklshwq0c8uqcaug
 [[validator_account]]
 address = "tnam1q9upy09me0rr2nhggxzeefskjrppx57dns4tw0t8"
 vp = "vp_user"
-commission_rate = "0.1"
+commission_rate = "0.10"
 max_commission_rate_change = "0.01"
 net_address = "51.77.226.129:26656"
 
