@@ -6,7 +6,7 @@ public_keys = ["tpknam1qqppha5l46kckg93dv423dr0sea9qp4w98cfeh8hn6sezqlsnw6kkye66
 [[validator_account]]
 address = "tnam1q8qey0zcznfnrn9ptuxyn6rs556eeltkggj4a3sy"
 vp = "vp_user"
-commission_rate = "0.01"
+commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "62.195.206.235:26656"
 
@@ -42,7 +42,7 @@ tpknam1qqppha5l46kckg93dv423dr0sea9qp4w98cfeh8hn6sezqlsnw6kkye6655 = "signam1qp2
 [[bond]]
 source = "tnam1q8qey0zcznfnrn9ptuxyn6rs556eeltkggj4a3sy"
 validator = "tnam1q8qey0zcznfnrn9ptuxyn6rs556eeltkggj4a3sy"
-amount = "100000"
+amount = "1000000"
 
 [bond.signatures]
 tpknam1qqppha5l46kckg93dv423dr0sea9qp4w98cfeh8hn6sezqlsnw6kkye6655 = "signam1qrhdz3m5tyzez5ttjgedhawk8234l9ylxwe9w2tmcfm4vq0lxnj3w3zadna5wfvukvrg4ukgfk3z59jjjf9lfs7aqsuy2cecrvajs4gwc67tmp"
