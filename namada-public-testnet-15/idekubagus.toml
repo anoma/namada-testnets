@@ -32,10 +32,8 @@ authorization = "signam1q9985ggm2lc4ruf6pc7c6qv38f4mz02s0g2qxdknvc4j04spjr96jswf
 
 [validator_account.metadata]
 email = "idekubagus123@gmail.com"
-discord = "idekubagus"
-telegram = "idekubagus"
+discord = "@idekubagus"
 twitter = "@fadlynozella"
-elements = ""
 
 [validator_account.signatures]
 tpknam1qzva32fwvq3gsx9uukpt0dudsxr0s07wc0e8xv440ptx8k85g5m358usjyn = "signam1qp8trh4may2fvync77j7600y7vkmf25hykzzun70a7kjcdw3dhtynl6jcsqagk2dq7u6r2zhrevwxd9ytrdu4ys5f6uesfrtvysphhcf073ep9"
