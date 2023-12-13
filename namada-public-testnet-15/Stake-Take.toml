@@ -35,7 +35,7 @@ email = "team@stake-take.com"
 discord = "aleksandr7793"
 twitter = "@StakeAndTake"
 telegram = "@BeHappy_zZ"
-elements = ""
+elements = "@StakeTake"
 
 [validator_account.signatures]
 tpknam1qqu5glqwg639jtqwk3ae34yrdfvqq2ksxmfu2mls30jqdx5ulys5yh646xe = "signam1qrzx0njkeju3j2f29rz4grgamlspenr3tcjclfksvw3d6aa83j85ect62a4khm0ejzn0jfkf3zuplv67g3p5lxh6d78fkvukgzekrkgplp9hq3"
