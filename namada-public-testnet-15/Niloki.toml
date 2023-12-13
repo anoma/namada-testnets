@@ -9,11 +9,26 @@ vp = "vp_user"
 commission_rate = "0.07"
 max_commission_rate_change = "0.01"
 net_address = "65.109.107.172:26656"
-consensus_key = "tpknam1qq00n5f3z52jr52zhe62qspyfcefdq0u82fv04kvk4x0fmhf7rvqyk250hx"
-protocol_key = "tpknam1qrqgy28td26fahu00h857rv5acrn9th0lh93quw2njfdvytahdrhk9qefdf"
-tendermint_node_key = "tpknam1qrxevupfnr8kseqwy99n7r9mnhsel46w5fmlpkp4p7aeuymw9qnmuh86z52"
-eth_hot_key = "tpknam1qyplxwe8x2xn9y99fzyh6ujke7jfmj8cq0504myqgd47d4gdmacf6pg89yzgs"
-eth_cold_key = "tpknam1qypy3s4djpwtrpqdc36y72zp357m4jw0j2xzkguvg8qly6yujaq25gs5fy8xx"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq00n5f3z52jr52zhe62qspyfcefdq0u82fv04kvk4x0fmhf7rvqyk250hx"
+authorization = "signam1qp96quyk09m02ffu6uw0kf7c2mx58566pza58uqqsaustydqyvx4taa6lmlz6aa0yh3p832hdpt32z637eqnjgcwqus9nylev885xwgxnrjvsh"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrqgy28td26fahu00h857rv5acrn9th0lh93quw2njfdvytahdrhk9qefdf"
+authorization = "signam1qrdyvde68cmluay8se6c62naewa0rwspxenaeh5mvlsy65krsy5z320wm6dj8vyss02af0dumyqnyz6rd5gl4g97w0qsfaw2du9yelcpwkcx78"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrxevupfnr8kseqwy99n7r9mnhsel46w5fmlpkp4p7aeuymw9qnmuh86z52"
+authorization = "signam1qqpq6fp707fg99zuc0fnad7ua86hfm0ntqlwqd28hw8whpqrm9fp86gr4znnp90fysn0e74j4cvc6ee7cx8rl65nsae78yvwn285dkgp6xes0c"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyplxwe8x2xn9y99fzyh6ujke7jfmj8cq0504myqgd47d4gdmacf6pg89yzgs"
+authorization = "signam1q9vxxatr3gdzwhe6hy06a0ypru9pau5ywudhf5h5tgu0dzwy8zvr2wwmv869qe8nvu86veeh7l4qjc6eh7ekju5av05jnuudwankpd96qqnn583h"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypy3s4djpwtrpqdc36y72zp357m4jw0j2xzkguvg8qly6yujaq25gs5fy8xx"
+authorization = "signam1q9pgssu0y5s3p7f87fr7ha8lx9vv9u383hu9nagfs3prllnyl9shklvcnatddtqdgpt0llzyjkv2txuqz5gfmuxtaaa5k37dxd69qrscqyntvkev"
 
 [validator_account.metadata]
 email = "niloki555@gmail.com"
@@ -21,7 +36,13 @@ discord = "niloki555"
 twitter = "@krosslike"
 elements = ""
 
+[validator_account.signatures]
+tpknam1qzqw862cp702segz22jmvfp2esm7luxjsrs7wsrevc48wyk8dpnqgaty4vy = "signam1qpflrjygdz6p4sj9lngh0cnrzvsc7h5lfpn2zxs92qgdgqd67jsjfnven4ssh40jgy2zg2ksvqjzkyfgk4gmxre9rwtjt3juxs9eu9g8ukxg9k"
+
 [[bond]]
 source = "tnam1q9qp062kl6ay3at3p47sa4h0gnyk4stqfc9s00gp"
 validator = "tnam1q9qp062kl6ay3at3p47sa4h0gnyk4stqfc9s00gp"
 amount = "1000000"
+
+[bond.signatures]
+tpknam1qzqw862cp702segz22jmvfp2esm7luxjsrs7wsrevc48wyk8dpnqgaty4vy = "signam1qqhgjepue4gw9ffdwzfq9nztgt957m8h2nr7qjxtg8lk48rs0frf5at50martxy97az60tuycpms3n03lape5aqpz54623weulxpz3cdv0h7h2"
