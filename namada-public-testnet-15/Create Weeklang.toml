@@ -1,59 +1,48 @@
-sudo apt update && sudo apt upgrade -y
-sudo apt install curl tar wget clang pkg-config git make libssl-dev libclang-dev libclang-12-dev -y
-sudo apt install jq build-essential bsdmainutils ncdu gcc git-core chrony liblz4-tool -y
-sudo apt install original-awk uidmap dbus-user-session protobuf-compiler unzip -y
-sudo apt install libudev-dev
-PROTOBUF_TAG="v24.4"
-curl -L -o protobuf.zip "https://github.com/protocolbuffers/protobuf/releases/download/$PROTOBUF_TAG/protoc-${PROTOBUF_TAG#v}-linux-x86_64.zip"
-mkdir protobuf_temp && unzip protobuf.zip -d protobuf_temp/
-sudo cp protobuf_temp/bin/protoc /usr/local/bin/
-sudo cp -r protobuf_temp/include/* /usr/local/include/
-rm -rf protobuf_temp protobuf.zip
-  sudo apt update
-  sudo curl https://sh.rustup.rs -sSf | sh -s -- -y
-  . $HOME/.cargo/env
-  curl https://deb.nodesource.com/setup_18.x | sudo bash
-  sudo apt install cargo nodejs -y < "/dev/null"
-  COMETBFT_TAG="v0.37.2"
-curl -L -o cometbft.tar.gz "https://github.com/cometbft/cometbft/releases/download/$COMETBFT_TAG/cometbft_${COMETBFT_TAG#v}_linux_amd64.tar.gz"
-mkdir cometbft_temp && tar -xvf cometbft.tar.gz -C cometbft_temp/
-sudo mv cometbft_temp/cometbft /usr/local/bin/
-rm -rf cometbft_temp cometbft.tar.gz
-  ver="1.20.5"
-  cd $HOME
-  wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
-  sudo rm -rf /usr/local/go
-  sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz"
-  rm "go$ver.linux-amd64.tar.gz"
-  echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> ~/.bash_profile
-  source ~/.bash_profile
-  cd $HOME && git clone https://github.com/anoma/namada && cd namada && git checkout v0.28.0
-make build-release
-cargo fix --lib -p namada_apps
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"]
 
-cp "$HOME/namada/target/release/namada" /usr/local/bin/namada && \
-cp "$HOME/namada/target/release/namadac" /usr/local/bin/namadac && \
-cp "$HOME/namada/target/release/namadan" /usr/local/bin/namadan && \
-cp "$HOME/namada/target/release/namadaw" /usr/local/bin/namadaw && \
-cp "$HOME/namada/target/release/namadar" /usr/local/bin/namadar
-mkdir -p $HOME/.local/share/namada
-ALIAS="your_moniker"
-namadaw --pre-genesis key gen --alias $ALIAS
-#enter and confirm password
-#SAVE YOUR MNEMONIC
+[[validator_account]]
+address = "tnam1qrsu8dlnvw62mxw4tj56m7s5u959rcljyysye4xt"
+vp = "vp_user"
+commission_rate = "0.01"
+max_commission_rate_change = "0.01"
+net_address = "1.2.3.4:1000"
 
-TX_FILE_PATH="$HOME/.local/share/namada/pre-genesis/transactions.toml"
-namadac utils init-genesis-established-account --path $TX_FILE_PATH --aliases $ALIAS
-#enter and confirm password
+[validator_account.consensus_key]
+pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
+authorization = "signam1qp2a25j2x2u5ggawvd6fa4z8h7m0tw3ndtulzfwzxtfe6487arazthq2s28v5lmekn6dlp9qukehxwvanzyhfcgqpu7y6cut5l928qsxr3pp7k"
 
-ESTABLISHED_ACCOUNT_ADDRESS="your_established_account from previous step "
-EMAIL="your_email"
-SELF_BOND_AMOUNT=1000000
-IP="your_ip:26656"
-namadac utils init-genesis-validator --address $ESTABLISHED_ACCOUNT_ADDRESS --alias $ALIAS --net-address $IP --commission-rate 0.05 --max-commission-rate-change 0.01 --self-bond-amount $SELF_BOND_AMOUNT --email $EMAIL --path $TX_FILE_PATH
+[validator_account.protocol_key]
+pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
+authorization = "signam1qzp03svcajhr7f68ayy3kq8xq4l78j7qdnxfc2v0g3s0qt69gkxhm0kx866hg77wty9hj004jfn94pavkmfqxqhyypjs0padv99vrjsqeqgg9q"
 
-namadac utils sign-genesis-txs --path $TX_FILE_PATH --output $HOME/.local/share/namada/pre-genesis/signed-transactions.toml --alias $ALIAS
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
+authorization = "signam1qpwzap7pczw3dlxjjxauhls9rya4fpxu4mmtrplkx9yfur5t3cf4wmwkvexnd4jyaeme3l9tfuxt7aapzzmjjsejsz8zz5upccykafgyu3dzqm"
 
-#SAVE THIS FOLDER
-$HOME/.local/share/namada/pre-genesis/
-sudo cat $HOME/.local/share/namada/pre-genesis/signed-transactions.toml
+[validator_account.eth_hot_key]
+pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
+authorization = "signam1qx5ve2mcu2s8pajr4w6tat9z3v3p4g75zy9vug0w7epwdzapg7k8u3jxrsg5kax4xk7p3maxv49va98hsz6ntdfs2fx3whk70raepyg3qyn0nufq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
+authorization = "signam1q806c02930rdnac5jtxtnmdr6jwhfwteu4eqchu0xe5jgaqsv0znztam6u3tyatme6fh72les7d502wpajqa0v8l5kc8cpef4nv8py5lqyv80ct3"
+
+[validator_account.metadata]
+email = "weeklangduo@gmail.com"
+discord = "weeklang"
+twitter = "@yuriiasmankin"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7 = "signam1qptu8kxn9apr7e7h438d60gsaqyupvgcur9rcxva4ft3vzh67y4qv2v2rm7ugg469kpe6qx7cr206n8tk0daqw9h03k72m6ffqwf56swvg0cjs"
+
+[[bond]]
+source = "tnam1qrsu8dlnvw62mxw4tj56m7s5u959rcljyysye4xt"
+validator = "tnam1qrsu8dlnvw62mxw4tj56m7s5u959rcljyysye4xt"
+amount = "100000"
+
+[bond.signatures]
+tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7 = "signam1qqgn525t548eg7nrwhrlke0n6r8d3zqw79tdkeyva79r6snc26ew6fq2fkvunljw7l6hq5ed6e8dqyaq9afexwd88gnprlusjds77qgq57ej0a"
