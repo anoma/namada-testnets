@@ -11,33 +11,36 @@ max_commission_rate_change = "0.01"
 net_address = "157.90.183.32:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qzrkcp5284plvkghlrm7rhjtshwv6ljy0sxwhtn80lpprnp8d960zdxjqrk"
-authorization = "signam1qzgd4hw4jf57ygjhzj4gwn6r3wdp3kal863ntxs0wenxeut5zzqnvgzd44g85njxlpddanrxmh39rhu5hrvjeh30udy0rx8nrycqa3qpme20sk"
+pk = "tpknam1qpk9zamkf2jk4aw9ss4km4wh5jklqp0f60rq4awglr644qrka5hmzgw8pmr"
+authorization = "signam1qp5c5ulr89myhen8ge8w43jljk7l2gyczr5cr6c07fygg6x9c67wewhre3dl9d528rka6wxlyqugtt0jayufsdvt7jlr0hx3xdaaldgxvgz96p"
 
 [validator_account.protocol_key]
-pk = "tpknam1qq7qs6gux63rjfxhutv3w3asjjfu2dz2z6gk56xu7tad88gudkp7jk4uxg7"
-authorization = "signam1qqjezdn8705jldzhx5e2n8lxwhe2xwkgxncujec2vplm9ltwaua77764g9fnl0qn677uj2udqhlm3k04303edg6jxtvwv8cfrkdsmtqw9e9g0p"
+pk = "tpknam1qremqetfg3wvf6d4axlxucpwpjk6zgd0gatsqr26apx7wvd6we37vvj86he"
+authorization = "signam1qq74vjdmhetc4hn8awtqeycmklkcfhz5nq5wquwp7sxtat20wcszahzq22uqzpdsxgxadx5fe8j6e8h70e97q48xd3ts4nxl3zuqqcqd2nl9h5"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qq6ee805vy96n83yag5d33fwunhz3vq58as5nq4wd9wclhdn940wgt7yuye"
-authorization = "signam1qpdgr9jrmpqugwa42xgaypexvrhpkq34vhy2q3lzd76r9qp60gzvqmfss0jsu69cf3c5kf5q043htjt2h5f0l036fungg68nkkmhwygvl9ggdj"
+pk = "tpknam1qzkqq0j6lmge2yps7dfujk4smkymaa2zqhhk9tajugacszsrpgmwk9ahasr"
+authorization = "signam1qzdsqtwu6wul6a7xnrrjwdl02e90std4rz74aajem0yr9tukvv832tj9kf65k5ykmhq9phgrkhtmjwf5scfwvpus60nt6e3jsdhe9kqxseqccc"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qyp0290t98stq2f6vsnfgtmuw2mnamst83kmnq90y39pffercmjp9gqyfrx05"
-authorization = "signam1qxnq0ckt7wwpkyqy6jzll4kdxjkqx509ln6gtctpsfhzs2tkwq7my74qre00eww4ycnfafa95fgw97y77f8dzh7v35fpe9al03l9f28zqymg6lg5"
+pk = "tpknam1qypgj9ak6njth9w82jwe9hwp9hv0aatu9xqk7w66tsqn8ddxcxxgs9cw0wkvg"
+authorization = "signam1q98cnpsa3zzeqvw4sa7g254se64ss8zutcc35vpqacsvq3wyh56lwmw880sa9taj9fu7r4mfap9tcxdsc04uhnj7fj7q4vegsz73gmvqqys9jqyh"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qypmhcfevngmafaecmc3pp5fpl793xvnthncqjveyy40xuqpg2q5lgqm66rx3"
-authorization = "signam1qx3tlmu25mr2pmdwhk07cngsh5xknzh9cnmqtujj2vl37tuw3fffxkjjl4ee6t6pra830kjxff8k6sar3c550jevlxqsn5sarudfyeu9qyjux06v"
+pk = "tpknam1qyp6wr3dklwhg6q9596s5z8vcre2unwgcrsu4njhs7tc85ue0vj2psq6cxzz2"
+authorization = "signam1qx7rx08zf9prvfzqfkemy200yqht5z268chk0nrpfmemwkte5y295l8qwxjtg4d0ynz6qy5jz3sy50dnavn39092xwdxeljngz8dc8ypqqp7d8xp"
 
 [validator_account.metadata]
 email = "ekh@tuta.io"
-discord = "0xb0b"
+description = "Reliable validator with auto-restake | Handy portfolio tracking app"
+website = "https://newton.zone"
+discord_handle = "0xb0b"
 elements = ""
 telegram = ""
 twitter = ""
-[validator_account.signatures]
-tpknam1qqxce0dvv8fwh96nxj6m07kmlds504vhkj4ufjzxwlunry4sm6xfykdsesg = "signam1qrn8rvpkqcum3epswnmgzpwrwrfhjwuzeq237gkwjyu7apd02qpgu4au9ajj3e02w7epfqdmvlkdachz83t7lw6vzu8cdx6t3t5fvys95r6das"
+
+validator_account.signatures]
+tpknam1qqxce0dvv8fwh96nxj6m07kmlds504vhkj4ufjzxwlunry4sm6xfykdsesg = "signam1qrvpq5dxffrzvzgvfxf9rngpjww0y5cnzjggpj047ac4vzk83fqz7sjaru3kdrydjh0un29w849lgpa5cewdpgm3rx6xf0lj8397clqwt4dkrs"
 
 [[bond]]
 source = "tnam1q874dtrvs68lxaskmf4s8kw7w3sygu33uvyl8mve"
