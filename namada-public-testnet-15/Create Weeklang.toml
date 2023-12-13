@@ -1,1 +1,59 @@
+sudo apt update && sudo apt upgrade -y
+sudo apt install curl tar wget clang pkg-config git make libssl-dev libclang-dev libclang-12-dev -y
+sudo apt install jq build-essential bsdmainutils ncdu gcc git-core chrony liblz4-tool -y
+sudo apt install original-awk uidmap dbus-user-session protobuf-compiler unzip -y
+sudo apt install libudev-dev
+PROTOBUF_TAG="v24.4"
+curl -L -o protobuf.zip "https://github.com/protocolbuffers/protobuf/releases/download/$PROTOBUF_TAG/protoc-${PROTOBUF_TAG#v}-linux-x86_64.zip"
+mkdir protobuf_temp && unzip protobuf.zip -d protobuf_temp/
+sudo cp protobuf_temp/bin/protoc /usr/local/bin/
+sudo cp -r protobuf_temp/include/* /usr/local/include/
+rm -rf protobuf_temp protobuf.zip
+  sudo apt update
+  sudo curl https://sh.rustup.rs -sSf | sh -s -- -y
+  . $HOME/.cargo/env
+  curl https://deb.nodesource.com/setup_18.x | sudo bash
+  sudo apt install cargo nodejs -y < "/dev/null"
+  COMETBFT_TAG="v0.37.2"
+curl -L -o cometbft.tar.gz "https://github.com/cometbft/cometbft/releases/download/$COMETBFT_TAG/cometbft_${COMETBFT_TAG#v}_linux_amd64.tar.gz"
+mkdir cometbft_temp && tar -xvf cometbft.tar.gz -C cometbft_temp/
+sudo mv cometbft_temp/cometbft /usr/local/bin/
+rm -rf cometbft_temp cometbft.tar.gz
+  ver="1.20.5"
+  cd $HOME
+  wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
+  sudo rm -rf /usr/local/go
+  sudo tar -C /usr/local -xzf "go$ver.linux-amd64.tar.gz"
+  rm "go$ver.linux-amd64.tar.gz"
+  echo "export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> ~/.bash_profile
+  source ~/.bash_profile
+  cd $HOME && git clone https://github.com/anoma/namada && cd namada && git checkout v0.28.0
+make build-release
+cargo fix --lib -p namada_apps
+
+cp "$HOME/namada/target/release/namada" /usr/local/bin/namada && \
+cp "$HOME/namada/target/release/namadac" /usr/local/bin/namadac && \
+cp "$HOME/namada/target/release/namadan" /usr/local/bin/namadan && \
+cp "$HOME/namada/target/release/namadaw" /usr/local/bin/namadaw && \
+cp "$HOME/namada/target/release/namadar" /usr/local/bin/namadar
+mkdir -p $HOME/.local/share/namada
+ALIAS="your_moniker"
+namadaw --pre-genesis key gen --alias $ALIAS
+#enter and confirm password
+#SAVE YOUR MNEMONIC
+
+TX_FILE_PATH="$HOME/.local/share/namada/pre-genesis/transactions.toml"
+namadac utils init-genesis-established-account --path $TX_FILE_PATH --aliases $ALIAS
+#enter and confirm password
+
+ESTABLISHED_ACCOUNT_ADDRESS="your_established_account from previous step "
+EMAIL="your_email"
+SELF_BOND_AMOUNT=1000000
+IP="your_ip:26656"
+namadac utils init-genesis-validator --address $ESTABLISHED_ACCOUNT_ADDRESS --alias $ALIAS --net-address $IP --commission-rate 0.05 --max-commission-rate-change 0.01 --self-bond-amount $SELF_BOND_AMOUNT --email $EMAIL --path $TX_FILE_PATH
+
+namadac utils sign-genesis-txs --path $TX_FILE_PATH --output $HOME/.local/share/namada/pre-genesis/signed-transactions.toml --alias $ALIAS
+
+#SAVE THIS FOLDER
+$HOME/.local/share/namada/pre-genesis/
 sudo cat $HOME/.local/share/namada/pre-genesis/signed-transactions.toml
