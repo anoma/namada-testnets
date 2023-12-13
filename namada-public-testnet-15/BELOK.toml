@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzhepm343fu4fpjtl00u92cscl0vrjsrchw3tskl7n3fjapmlskgwdz94fp"]
+
+[[validator_account]]
+address = "tnam1q8tehvhzphuf2cd9xcr5ewpcqzu2t9ka5q83gj6p"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "116.203.33.236:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrwlarh9kv9h57aw232rnmt6mjga3q4eve3gakky8suzgg40u6advns2hjl"
+authorization = "signam1qptj9u6dnllgfwqmhu9jm0ntg7ehqg8fspdl4tkhjr4l435vnvznmelagyl9fq89lalc00zqyfdd6pgw24cke9vvacfqdva5rwjns9c8qf9kpu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzxfrrlkllurdkdw8k95srre3p4fe44tv5uwdfzsw42qupkq2qe2u5sq0g5"
+authorization = "signam1qqse6a9tg5fxe8s0r2r2njq4lfy8e4r9x2fqv3wne6la2sd4levwsa2ua2et7l6wdxh88gf0jgwjysk2xx2vtagry7fd4l5atk0khncdrxkrms"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq483ewuu5lsuywy4hd0a933lds3ykapzlrgdfxphwufmkau8g3qvxrg52y"
+authorization = "signam1qzusg2lslv0gmlchhhx20w7kqgt0j8crfxc7jjrvmdjwx2nyrqdrkwasnj7hylmzd60uajlgks407crs82n2ejw0x6scwhraf7keehsqqdv9f7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypj00487qt365ga05cz04crean2uaewg797yjr7y300wsyt9pa77tqpayqjy"
+authorization = "signam1qxaqwna5mnn8t66ne64krcgtfdpnt4k3e3cfl3fftvpjkj0m2ks2v2phayuqgnvw99upjxntahnhxa3rpe234380x3j97qmse3kfxzrhqyqjkkj0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyptplzmr7d3nkunyy2dzqvwf06cp45xzdexjvzlrg7ufn8w8ug7utqk7vs3j"
+authorization = "signam1q92py0rwpzxgsht0hywc0km9xqx94cve2n0f7zvkc0hu2k248jvtqxgkz07c8wrkp57szffvxf2ll4gla7jvruzp8a4emwza06eyqrldqqfe38xm"
+
+[validator_account.metadata]
+email = "kamnevsasha1401@gmail.com"
+discord = "adelinka_0405"
+telegram = "@adelinkakiriak"
+twitter = "@Adelinka0405"
+
+[validator_account.signatures]
+tpknam1qzhepm343fu4fpjtl00u92cscl0vrjsrchw3tskl7n3fjapmlskgwdz94fp = "signam1qqn2gx7kcq2nvew4fhh0r433xva8s3essaqay5js4caja5fyf7a8kkjk8utnaw026huuvs9uc6r39vejeay70yksw8m0yu8utec9qkc946qz8u"
+
+[[bond]]
+source = "tnam1q8tehvhzphuf2cd9xcr5ewpcqzu2t9ka5q83gj6p"
+validator = "tnam1q8tehvhzphuf2cd9xcr5ewpcqzu2t9ka5q83gj6p"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzhepm343fu4fpjtl00u92cscl0vrjsrchw3tskl7n3fjapmlskgwdz94fp = "signam1qzeqrfxfa2tupsmmwdq5t2k5vp3mx5q7mr4c4zyr3mzv8jgr2ucdwgxc778pqhm2g2qjvpezyyd7s58ustljglcfe68h2h4f7ylgzrsxsj5x2w"
