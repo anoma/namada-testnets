@@ -8,39 +8,6 @@ address = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "127.0.0.1:26656"
-
-[validator_account.consensus_key]
-pk = "tpknam1qzgyjppsvrsxalwgc9hpcpdgkjx3ps4f534efs4l8jk9q48q4jaacpcypna"
-authorization = "signam1qqdh6nran5uses0vte0nrll9gn5nuzmqhetrrzw8cntnym7r07eu6q4a58nn2p7rd5lrleqvwm9xek2gqqwq9nct95jk4exsaz7l3dq25y0da0"
-
-[validator_account.protocol_key]
-pk = "tpknam1qz9uvvgvecdkzx6tq6lvd8uuz3qus39a9wlufztmazrmu7frp2xm6dj6gsw"
-authorization = "signam1qz2s0g0twrl29xkq9rj8fp0f2yyhglx7xrrkshf7nrty6qjms29y5vlv6uucrv9zzs8554rma28rrthye2x70lvy0fagk8r95ntaxxqq87aglv"
-
-[validator_account.tendermint_node_key]
-pk = "tpknam1qzkjamvk23lzw8pru2jguylpjd5lfzu6xshed409v9s07h863unxuml2vjs"
-authorization = "signam1qpky3u5aen4rx5ljuk3g5zpkyqstzcs5ua4yyc2fnu9t70h4xeejgfzcrz8ymezdwrqpgh2shl0lpzqezqprvd7f2rkt3efwtkk9rfsyvecjf9"
-
-[validator_account.eth_hot_key]
-pk = "tpknam1qypuynf8wjh8fzac4m5gexwczjrwyawcgq2q9yc6lgqewdp6aqmk93ssqwll6"
-authorization = "signam1q8nfmerr9p3cwgmp4sva73wnxgwqe8cltez943yyqlqvylf3r5a8gnqpz8p2uc9j70cdr3hwgg2we4l2grwwdczmjl6qa92j9elwktadqqmzdc6n"
-
-[validator_account.eth_cold_key]
-pk = "tpknam1qypz9sx5f8fph5w4a3jng52xfw3kz2lvzf5k0aqj27plff2kyu9rhqqnpwget"
-authorization = "signam1qx60475m2guj7xlgp9h9gx2hagaltrecumndqk7ly3zf5apy0h7nqn67yn0l4qn9wnjktm6lastajc8wvn0h2ldlls6ledj2rfcl0p7kqq7wq8x8"
-
-[validator_account.metadata]
-email = "validator@forbole.com"
-
-[validator_account.signatures]
-tpknam1qpk9tpqzh6wvfanhcg4su0vwhplzldkmk3csukff8f2mtvxwm9ayksxlv60 = "signam1qr07lgkz0ex495q78fvhpkad9gr6k999peqcpuhkwzx6720tps5salfg0vc7h585e6j9a0dqr03ths8zjtsn57a82svcmhv956dznvq23wyj6f"
-
-[[validator_account]]
-address = "tnam1q83tsm3y0ut33h7z0gucw0grgv522qkzpggem2lg"
-vp = "vp_user"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
 net_address = "178.79.128.193:26656"
 
 [validator_account.consensus_key]
