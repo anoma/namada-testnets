@@ -32,6 +32,9 @@ authorization = "signam1qy8hakfv009merjda5ajmfqucglucx5a5t8tg2lu7udnyy0eeydpkd84
 
 [validator_account.metadata]
 email = "semenikhinas@gmail.com"
+discord = "freesson"
+twitter = ""
+elements = ""
 
 [validator_account.signatures]
 tpknam1qp0f37ka0rpqejv5g45zm0y39agpg98t7ajvqefgylmy2v03pvpwkru48m3 = "signam1qr99e0rps36r7uv59zdl9ua502zxfcucs53h62ry7mfs8nzht3hz0x45vud4aqktzwm8epkt82hvzgwlpa47tt4sl88zx9yjvaa8whqp7eaplh"
