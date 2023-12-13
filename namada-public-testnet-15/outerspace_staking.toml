@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqkpzw25s7gzheexmd3dh4hakdz94m95ns6hwlvcggq0e33exywq6eyaptj"]
+
+[[validator_account]]
+address = "tnam1qypuzf5y67lw68gc4eaxhggj7pv8d8qr5s24all3"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "188.40.66.226:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qplcydx020d90f4aefxf9lakzs7e2yl9sg80k7fe6yp0cd60785tz603te8"
+authorization = "signam1qrkyz5jrg0mek4udfvn5jszgj563jltk4vts5r0m67d796a2x8fretzmyvtasmhqscjyttlwelgqkv78qu2t4hw9rd2u6u52myjdtwgx5h5dj5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp85mp7n5qayppu75hgzt6y2gkaz8z5c25s0qx9wej5z5n3f6s49skwz7jy"
+authorization = "signam1qpp97v6pnp5u5k5klunuz7n2upskvx6afey6c4w42l55ffy4uqj2f7xrvul0rlu3jcdg645n9k7w6my2lvfh3quff623x68ed3hydhcrw8zavu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz0d8mdggcaswlt0zagrwkrvkp2jy8qnv8fmnsgru7dt3jlcy09sqk4lu7r"
+authorization = "signam1qrec9lhry3sg70dmeez5hx2hs4gty7fz4hzxw7ux9jt02thqm7h6yc0sj0zy5ysfz00x5ujzl336zrle2qndm3z950lt5uvd5t04lqcdnufz8h"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypqcx4vl37gaepmeem59jtnzuaygvfg2a2fa5l9lgvqe5scqzsghfq0wd53d"
+authorization = "signam1q80057zdgh95eas6v77jek382ml8f97yssdcytwz3w7jdjzrw2klw8gztghg97ngp3k7agxcvye3q79kcxvc5mqje50hxk0axjy5y6lrqqrkn8g5"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypqd7h5hrl25q86erxl3wdh3qkklh464ez3jtne9la0h5784nrp0hcy2hku7"
+authorization = "signam1qxq6pdv255grsg2g9l4hwwm6u2qyxj93dgrq9wrxjy8tl3llzk96u7tcadaha6lhe345dyh2wfeuzwsf4q5kl9ul4325c27vqna5g2yeqqcmsmvz"
+
+[validator_account.metadata]
+email = "outerspacestaking@tuta.io"
+discord_handle = "outerspace_staking"
+twitter = "@OuterspaceStake"
+elements = "azure-outerspace"
+telegram = "@outerspace_staking"
+
+[validator_account.signatures]
+tpknam1qqkpzw25s7gzheexmd3dh4hakdz94m95ns6hwlvcggq0e33exywq6eyaptj = "signam1qpawlazu2swv7kaf2k98fqlhl0343dur6z5t00rzes9c8gel7aw7exymc5rmq5ky6udsxq5rmcutmu9ldk4dvht7zp3squncrg6qyhgrlpseu7"
+
+[[bond]]
+source = "tnam1qypuzf5y67lw68gc4eaxhggj7pv8d8qr5s24all3"
+validator = "tnam1qypuzf5y67lw68gc4eaxhggj7pv8d8qr5s24all3"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqkpzw25s7gzheexmd3dh4hakdz94m95ns6hwlvcggq0e33exywq6eyaptj = "signam1qqrjex2lwz4847n80srspytmvep4nt5yfzgtlnf5j7wug2756dz5cug2wc5qva9a9sqjfn8cl8d332trcynpkfm4clfkesjtp9e8slcr7ee4eh"
