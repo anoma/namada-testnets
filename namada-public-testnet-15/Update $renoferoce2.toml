@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr054adv0wa0j4r20h39relj2gsn5jc4xsly0sw6z7z4wp34f00yvudy0m7"]
+
+[[validator_account]]
+address = "tnam1q9hh09nd7jcsj4q8vwwvechx8lm6s57udytthm90"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.100.231:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpnalz2ky3l69d8tgaa88m48ch9thvkuyu6dyhntpfdv66d079a0x4ze54j"
+authorization = "signam1qq049wrw3wcjk4r9jpg0sfvtzv2x7pqwt7kjwsctpz5hykmrr8v8ajfx802d76aw4x3dct0auyceqaac6aq2385pxpxl65ddsrf4eksxng6wrm"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpqt3t5335e4f5mhc3reh8tugayqf6w23l2mkh6ge7r9jxp2kunvufknk69"
+authorization = "signam1qrrlppnlfdjssts86znpcx9du9xvar77mxxd3dsrsx8fvg77rc2xjw6u0efx0lmv3sk659rm8wwyxf75h0afx47yq8u9ldzlqrju8fgwmuw8f3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrqzje3v4245kxuvmvvydeadmmkleselxmq022qtq5c9wxm6v2jaqcqv3yp"
+authorization = "signam1qqptmmgxwpnu3ecn4had48svjcjck5vyqpzlr0h0ux3ef8ddld52j07sqc2ewanznm5kgrrclsfqqn5wqzlwcpkgv9mfy29w84w582gts2r8pj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypmj7nvsu39qypcqa4tetfq9ywsycqxq627fxws0kcevgjc8zs8hyc8uhyme"
+authorization = "signam1qxgdxdus8h5w0ctfr0mq52nn5uv8e4s5nugeuuyp76d6sanw6pazqmk4jq7wyxyxd75v7cgwwg8rq3x0uxk3trame3r28s7zjtvey8lmqqa7ce9q"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypeqxykx0hzu0au9vrvlhl9t5ggtwu6yzcnvqg00jpwfxrzhn4grjge3t0n3"
+authorization = "signam1q9qnwk4vwqsjgds4k833n84pqzyh6vdy79zk0yw9gqmmexyc66kvc0undw54wrplrm69u0adamw5yml3tlnjp0uhmr7ff07lfxlp8celqynweu5n"
+
+[validator_account.metadata]
+email = "nicky.berthet2@gmail.com"
+
+[validator_account.signatures]
+tpknam1qr054adv0wa0j4r20h39relj2gsn5jc4xsly0sw6z7z4wp34f00yvudy0m7 = "signam1qq9z5wxncksuxfysehur346522xv9hngmgmxmrkyapk8wnz23kqy0mks8f8zqyfa385jzap7k62l9qp9hx94g0jl7jlaenmrd3w5y2gte2d5r8"
+
+[[bond]]
+source = "tnam1q9hh09nd7jcsj4q8vwwvechx8lm6s57udytthm90"
+validator = "tnam1q9hh09nd7jcsj4q8vwwvechx8lm6s57udytthm90"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr054adv0wa0j4r20h39relj2gsn5jc4xsly0sw6z7z4wp34f00yvudy0m7 = "signam1qqzquw7nfpuf6xkjzww2aevlk89g9a4ppr4qrn80dxwwk0cctqn3acj0v3nyps2w5dpl6pae4dx7q0dkm8ryj9pyjqd77n4qgu2vrysg3lh92e"
+
+- discord = "renoferoce"
+- twitter = "@Nicooberth"
+- elements = ""
