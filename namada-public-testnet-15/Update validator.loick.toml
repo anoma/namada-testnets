@@ -20,3 +20,6 @@ tendermint_node_key =
 "002119ccc3ef74255a0270c9d9312da1026748beeeddc39a627be1fa0972125398"
 Pre-genesis TOML written to /root/.local/share/namada/pre-genesis/loick/
 validator.toml
+
+mail: loick.chr@gmail.com
+discord : loick#9093
