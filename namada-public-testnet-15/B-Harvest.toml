@@ -33,7 +33,9 @@ authorization = "signam1qxe6j83m2ema94e2h22dh509whvszghl20efsf535hldgulnwqg9kdga
 [validator_account.metadata]
 email = "lucas.ku@bharvest.io"
 discord = "lucas_bharvest"
+elements = "@lucas.ku:matrix.org"
 telegram = "@lucas_ku"
+twitter = "https://twitter.com/b__harvest"
 
 [validator_account.signatures]
 tpknam1qpp6helthkm2lt4x6atq6fluc2hhy6m8my7dxud9jfavkj6tn4v9yu07n5c = "signam1qpkf8mmlzaelxeqwpmmgjnyw0fth3dkpf5t2da02sfnhs0k4zza6mdm8jakjz7dx6a3hjc3j9mhev4dw52xs0tcwlcp95w374a7e7mc23743cg"
