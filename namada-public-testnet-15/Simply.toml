@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzqajvx84eevdqjlxehrqj7kvwedt5flsgf0892ttxtnu7hxprzj22dc5eg"]
+
+[[validator_account]]
+address = "tnam1q9tl3f2dwkl94akredz0dw5y8pp7s46tayatmfah"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "80.64.208.172:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpda0cpu7xsnjgzqmllf2vnc6kek9zxle953vu87cjv8s9hvm9px2rvsxnr"
+authorization = "signam1qrkjh04zxa43f0wxfqrku9hmfllpny7a2stf9jp5ltcrp0t4kpjl3n8em8rntuef273dvsk0qfgkv8ftntcaaf6t0pm99khausem27cg55gphq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpp6rt6ulcsqx0xdruw8zn54jyl33r4480fl2k94a265jqcu2dx8ugemgfm"
+authorization = "signam1qqkvedvp6u85xr9gngahezp2p9csyas2zsxazerxv54ll0l94nvjswnv0tuu5tpl00gv6m9e37vjxcaq0ch6n2un8rz242kzmahph0cwwwl7zw"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr2ay3nfz9cpc7p5m89dm5y3h9p3kglktmjj08alrhrsd4qg646nc6ptys7"
+authorization = "signam1qpsjdd089r42kgsju0rpwhujyz475qg635kr8lx0k62s0r84cqcrakajgyee7aqs5s9hsu8kz29hxc3kkh7gr3q9ud9ku25n95p0h9s0syu9cd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4y7tdxf0acr6un4kukd7h7enq7rupykxru8xhzgl0s8c39fr6h7q9ytcr9"
+authorization = "signam1qxgqg49t660jdqrslxpslzcemn6hxqf08snfkd6zggkypxeeszyxzkpxpnrkcczx37na4fvwuzq22x0ndfrvptd6vyx48s840afkrazwqyyhxm8v"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypylkpjmwfdr4sq7q50c9twna92l05yp8m42v6lhyuu7349cj87lvgke80d9"
+authorization = "signam1qxw80qclt9sw3w028dyyxa8nr5hmdn9emulplpkks9e0j3gv06tqy6lngwm5vdvw0d20tkaqd3tr5q5dc7vwwf5mhwe6l4pvylwdrpsnqqlstpap"
+
+[validator_account.metadata]
+email = "staking@simplystaking.com"
+discord = "cabbache"
+elements = "@cche:matrix.org"
+telegram = "@FrancescoSimply;@rm_rf_1776"
+twitter = "@SimplyStaking"
+
+[validator_account.signatures]
+tpknam1qzqajvx84eevdqjlxehrqj7kvwedt5flsgf0892ttxtnu7hxprzj22dc5eg = "signam1qq6e4ks7cy764jp360g5cmdghvsmc6gcnkr5m4zauv3stymqyvnklew0x0vu0pt5z33rmp5gjkxcuvhnx5wsa0dz23dqfy9p3gcvm7sz67z2vc"
+
+[[bond]]
+source = "tnam1q9tl3f2dwkl94akredz0dw5y8pp7s46tayatmfah"
+validator = "tnam1q9tl3f2dwkl94akredz0dw5y8pp7s46tayatmfah"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzqajvx84eevdqjlxehrqj7kvwedt5flsgf0892ttxtnu7hxprzj22dc5eg = "signam1qqk5qe44psrzyutjzwyxck8w5ymsckq9fej9p8hgudkyhe7ur2v4qsmxyf7hyujh7qnw4jw9wmghmf0dxw3yern6y5qh4gcp8uw7a8sz4l3487"

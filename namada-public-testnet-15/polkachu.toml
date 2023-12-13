@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrtpekla2y43n7mslmqn3l80qfgq8yzsxkghfgjjrewlune6t5j72gnm8hr"]
+
+[[validator_account]]
+address = "tnam1qxggm9cjl532atrf46s5w2adcnf6jrhmeq028z6a"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.225.158:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz47e8vhgvvwc9mvxu57hgedaemca0hywk0tue7djujrjlu4k6mnsy7ghck"
+authorization = "signam1qr634kp95l87ylfy89476v9vq3cpu3xt264k2w94fntw6ktm59n7xcqp029ul2culeav8ctzca3ywuxnqyl7hkenfhkqvcqyhplkdes2nxktj6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqd48dffxzt8h5mart3xrsdrlynrdky8zr4rv3zmw487z7ljtrp47kq8566"
+authorization = "signam1qzjrurdh22ua70zatdv793ez375zamxe4jcetk5wwh4fpzq3ka47sh4rrvn9y7e9lpuqdevvuczp7qq845uufz3g5pfchxazlgws45gfscgg9a"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz7xkgj6280lhegryj7tux5v66ltsnftkmcfqxy3kgldkf8q9f9acluhn8p"
+authorization = "signam1qpa6vrzetyan84cut6ly74mdjjsza0zc2yc08a58qv2je306x9l8k3ujm05j4aejmk8vy444cxmpgpvr27zq00p0fmn22j5afl8kqmgyas6t47"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypy3lq86kaz4vrf8aq4a3tp8df3rku24c7s9j7wttlm4ek7dsf8cqsnsp6ld"
+authorization = "signam1q94j7rkpwrzdhe33ad8vhenvn99unf0ph30sw6phejwmnuas2ap77n5qhv9d7w5qrxpf4srhvhxzu5hyrhf3zwcqpsraycj35mt0xt0lqy0w98fv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypyhrv6gf7cc95mq8n0avtxn0g4zq7ql5l2pmrksd07amusfxgkvfgwfpcy8"
+authorization = "signam1qxx476w753qvefawk9fgxph0rwq7rwrc4szvlkc428ayz087xq4zxn8y66ar4rsvypa3ln9uz05phuujp7zvfah5l5k3t8gxkwx2ap93qqfd6n3l"
+
+[validator_account.metadata]
+email = "hello@polkachu.com"
+discord = "polkachu"
+telegram = "polkachu"
+twitter = "@polka_chu"
+
+[validator_account.signatures]
+tpknam1qrtpekla2y43n7mslmqn3l80qfgq8yzsxkghfgjjrewlune6t5j72gnm8hr = "signam1qz3agvectn0clg4h7w4f98dpqvfx6uxfhdfvzj40kppy903h5sg69zeghqyw5yyuzwxy2alu0qyf2tt4gsjqxaaqke4smjy79lp7rhcxd7wxhk"
+
+[[bond]]
+source = "tnam1qxggm9cjl532atrf46s5w2adcnf6jrhmeq028z6a"
+validator = "tnam1qxggm9cjl532atrf46s5w2adcnf6jrhmeq028z6a"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrtpekla2y43n7mslmqn3l80qfgq8yzsxkghfgjjrewlune6t5j72gnm8hr = "signam1qr4u58rvazcl44v46y46sy7dxh3g8fcgxr68djytcaj5sth5q0cr9tesga2534kuqawkyjequq55qp0j08wzn43vw7krwnvap3x3sscglst55n"

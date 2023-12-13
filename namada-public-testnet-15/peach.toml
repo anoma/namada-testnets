@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzl6c7pg7sh7yfld8ljresrtumgt0y43u8pp5elqw9dm9rnhjqtxxxnl025"]
+
+[[validator_account]]
+address = "tnam1qx2w05sftez3vr5cx3rep60cs9urjjl52vrak3j9"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.232.227:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq9y0lggumen8e5p2r0d2v9lcmzz3fhpdepe0g5q40642294jxztshyd7xl"
+authorization = "signam1qruguxc40pa8pezt86gw7whkz6xhwnklnlasmjwx4nf23de5sxst9fy02alu7krjacrn2uk0gcxpx4py2pqnmm7ytds028ke2auw5hgzgfclcc"
+
+[validator_account.protocol_key]
+pk = "tpknam1qz5r9t3v7p4qccsxqvnczvc3dglssugm08e04vwcd7hhw0a3wrvvstuxahf"
+authorization = "signam1qz3ahseusfe082pkkh880j5e7v9y9325468xqu0khattuewg5x4prdr54fy0txhmgfrhechshlgxzskz3m9f892xscx5fjs880qrlps0ype8t6"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq5e0e3ny79qsfvnwmwnvk8yc0njje2thv8taf2v75559hsj90xxculf03r"
+authorization = "signam1qzte8qq5unvfxp26gucdygjdlmjlpqzz4r5sqadm8h2u57gks0x3x4vhcqe8gfk8yrqj4f5mxql52whnudpyv24w7nl6pszkuaqhq4qvgvwznj"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypy06r8x55g8qycz9j2aqjclzr2mv3swc6aguzq28yhlxhx0zjgjqg92mk8x"
+authorization = "signam1qxqlns3xldaty6awuujk3dpt6nt9dln4m04h3j5r5cxljkdddk2773ddkuux2cyuyc956pnlv79npnuykw0gy8mggl90t3987mx3cssrqq760uly"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypq34ya5f93xatr4ev6u4xr6gg4cdxwd33724jtpnrg9x08yj6sffg52sj3c"
+authorization = "signam1q8mve83xufmwxpfe9gxegamfqs7c4xhekka3tfqxec8292vkq6dyzd03mpsg96klrqglvnesjd2vmmy3uyvmlqqj9qfn2e9jwwlmhltxqqsqmyy5"
+
+[validator_account.metadata]
+email = "81279589@qq.com"
+discord = "peachstake"
+elements = "@peachstake:matrix.org"
+telegram = "@PeachStake"
+twitter = "@PeachStake"
+
+[validator_account.signatures]
+tpknam1qzl6c7pg7sh7yfld8ljresrtumgt0y43u8pp5elqw9dm9rnhjqtxxxnl025 = "signam1qzrlrv79au6zwx0064nvy5jpn9z2yxqr26qkwygnmjg0w7ym0npg22dms54e5slvet0jjsq6qeuf4t9634n59tq07vaxsrdgsucyv5cyncart9"
+
+[[bond]]
+source = "tnam1qx2w05sftez3vr5cx3rep60cs9urjjl52vrak3j9"
+validator = "tnam1qx2w05sftez3vr5cx3rep60cs9urjjl52vrak3j9"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzl6c7pg7sh7yfld8ljresrtumgt0y43u8pp5elqw9dm9rnhjqtxxxnl025 = "signam1qplu7u7wcse55h8h6fn0s4s5kwytt8p9av9hgclv64ysprjd579sld3n00u2sjkzzsy3fz0jlvgeh9l6sr3444n42n5d9za63enqsucvz20uuu"
