@@ -1,0 +1,75 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzhgwjlvlu4c6h34jkmx0vc9jpc9d3nevw5xufkx73t2ygzlxlkdjeem69s"]
+
+[[validator_account]]
+address = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.1.1.1:26656"
+consensus_key = "tpknam1qze9720x2kz2ltq6xq4p3ah2eh4xu2sa606938d9qqhtfvhu02rhzfetwfq"
+protocol_key = "tpknam1qrnuqq6ysqmlafrjxzejnnmwt3y75gkzm89lsqleehd3eqns5nwm6lszy4q"
+tendermint_node_key = "tpknam1qqvufau3wnqu8ekmaamx4a6fymhady77a0zt9pwndm6fassxzsgewd29q6u"
+eth_hot_key = "tpknam1qypr9y9lj5wj0aykumtfxa48pqs2r58swnmr0hyyj0trqt0zdd2p27g69ae3l"
+eth_cold_key = "tpknam1qypp0jz4579daj6c7f9dvq86vjwhlw6qe8r25pmwcsnuxehd77qm9tc33klzr"
+
+[validator_account.metadata]
+email = "pbpxnwe@googlemail.com"
+discord = "Tommy0090"
+twitter = "@Tommy88776120"
+telegram = "@TommyS988"
+
+[[bond]]
+source = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+validator = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+amount = "1000000"
+
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzhgwjlvlu4c6h34jkmx0vc9jpc9d3nevw5xufkx73t2ygzlxlkdjeem69s"]
+
+[[validator_account]]
+address = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "1.1.1.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qze9720x2kz2ltq6xq4p3ah2eh4xu2sa606938d9qqhtfvhu02rhzfetwfq"
+authorization = "signam1qrvmrkt5mn9k8pfuvcewedzf2ww2v7pr8rr5x2522h0jlqcjz4hpulg4r298ukraexugg6cdgapuvxhlpc4g9hv9ptf9mapryhv49pcqhhvvm2"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrnuqq6ysqmlafrjxzejnnmwt3y75gkzm89lsqleehd3eqns5nwm6lszy4q"
+authorization = "signam1qztp8df6qmjxn72rwqm8gu4rltx5kseqtvpm4lzctqv76qmcg3y4c6c7r82ntjw62spz9e0rdgzc7ag2v3dksw0ln2mh3tzdyltmjzsvft77hq"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqvufau3wnqu8ekmaamx4a6fymhady77a0zt9pwndm6fassxzsgewd29q6u"
+authorization = "signam1qpvanrnch6l0mtlz3syc5xlyqkkxucqf3jpzk4mngkcp9040set992cfauqseqm4hy0vycregqw6smgtrj9x5xj7nr4wy0z3lsls7nqwashfll"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypr9y9lj5wj0aykumtfxa48pqs2r58swnmr0hyyj0trqt0zdd2p27g69ae3l"
+authorization = "signam1qy0tu3st2h098vlnu7psd4a45matdlmp4hjte96pxfnelzujchsdvp92hhjn6yhkc4q4tes3h8waa86yzuz4m7r2w8qfhfhgz0jqpputqy6gr8m4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypp0jz4579daj6c7f9dvq86vjwhlw6qe8r25pmwcsnuxehd77qm9tc33klzr"
+authorization = "signam1q8kn6kfdxxetyday89u0ve858ww0zmpxswuunhdyes9cajhpjksuqjvs5c7jdvev0j3rdwx8tjv9urjljmm868rzuxesedzkmehpmczdqqujqjx8"
+
+[validator_account.metadata]
+email = "pxpxnwe@googlemail.com"
+discord = "Tommy0090"
+twitter = "@Tommy88776120"
+telegram = "@TommyS988"
+
+[validator_account.signatures]
+tpknam1qzhgwjlvlu4c6h34jkmx0vc9jpc9d3nevw5xufkx73t2ygzlxlkdjeem69s = "signam1qrclajumcepg3j6pv5qk3ktejlm7tnemu3j60tl6jg6hjx49zjmad05m8rpquxl6dndgclhnrqjcw504ltv3p3ttrt0a2p9awlszd2sg9twxz2"
+
+[[bond]]
+source = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+validator = "tnam1qyea2xxh37fnh649f9chnrlhj6rpzc30mqq52lkw"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzhgwjlvlu4c6h34jkmx0vc9jpc9d3nevw5xufkx73t2ygzlxlkdjeem69s = "signam1qr2dtgq588d85a86ft9d0ut40xw76eh0x92540ywredcq306ylmsppcc4j6crdkwyqywunzsgukk2wymdl28nz7k8nj6t46kfttafts9rrvymu"
