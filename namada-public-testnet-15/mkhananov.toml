@@ -1,49 +1,49 @@
 [[established_account]]
 vp = "vp_user"
 threshold = 1
-public_keys = ["tpknam1qrrw5rk4pxqljtecwn9tnqmap4af5vtuafdp0ucscmy4860ahgywjxlyr5c"]
+public_keys = ["tpknam1qp7t7jp8fcap2at0840aslrz84l6ms5r02uyn6gsrr7ass247cqwc6xnntf"]
 
 [[validator_account]]
-address = "tnam1qxa3yyj6d7tcnumcsgr48s4yx0dd25r755dp58yt"
+address = "tnam1qxmaklp9s23gw5jw558wv7zvl984vnxr8u788k45"
 vp = "vp_user"
 commission_rate = "0.05"
-max_commission_rate_change = "0.02"
-net_address = "45.8.98.84:26656"
+max_commission_rate_change = "0.01"
+net_address = "81.200.156.29:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qrt8qv273y3y42x0unp0whqmvpdm68pmdzymwfegyafeq5akqtwfueuuf2m"
-authorization = "signam1qqltpku3a6mgvnstpdcfalm8s2wudhca0qeydzm8cs40ar4s8xe0q2ykx9uwpyhnj733scyv8ck8zf0kx7vz4lyuefze3p4vhfgyg9cyyp9acu"
+pk = "tpknam1qpfsy7p5dgwvhdr6ww86yxt4sarmvlh866ue9zc0sxnxsrha6aqcc9dxdrn"
+authorization = "signam1qrjqsaqcl8cru60t6av7gl6l3kaa9g4f4sk92jycea70dyvzkgmqpezcvwd747k56w6469sk3hwtlt2rg2xayy8aggx7eykuvj6ucmcg3097m0"
 
 [validator_account.protocol_key]
-pk = "tpknam1qqlsjmdfajqfpcz9amgsf7l4ffev6esh8g4umvl7ukce6k45yu5qky643x8"
-authorization = "signam1qz8plt5kk59vxav3tz46cc46jf28r7fjf3eaj24yag54fmv4yv98caa3lvl6lcw6qkr7fxndsr4ar70ndscwakvtj6jcpj4t5mt6slggddul60"
+pk = "tpknam1qqcwc8dtr49stvmvcdvr7drape4rqs0qapeg9ujgugqw7z2h3fjygtuwz8a"
+authorization = "signam1qz00hf3es7v7d75y5fr8y78mmqmd8g7yuytqpssegjtlny9rw0pxpdnyeleqnrg389yw0m9ewad037kcpdxa0nyc6md9l0z9u02lhpsdgt7k9r"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qrpev87anxqytjyvcw6lewnzhnqjqrjwf0qmghgrptf24yvdmaq8kmk6mdp"
-authorization = "signam1qphfasrghz4y3er7q7nkegcgtmnnnncu4r3x0eva6ccd8s0zrftyfmxd7g6cfpfmqvc6mck8e0lyf45lalcxnlxmycje6eexllrep0qfy2qq38"
+pk = "tpknam1qzf6ttzchkc9wncdfr4ja6jtwelmlxaxlzehswgk7szz609470l0yhk3jqu"
+authorization = "signam1qpl3su2leqcd0jkmkfyts9wpgnfxljy8l2zgsyuepqxzwt4j572du6ddz6qurgz3yjzs5cvdeq4pd0veexut9p3xrjua3uwr5dmmpwsxn5tjhu"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qyprlqzg6tzu20z42tkms9j78z2reyg7pv7aqmw98pm0h6ce0uw0myszwv0f6"
-authorization = "signam1qxtvph8ctyrtjgxljafszm4lrn0r0lh95yv7px9uctf6j5ahaqz7kdlw76g7rl4th9jkglrx3zjysnwwwtv5l7k6w3gc75gy7j4xx9wuqynjgwkr"
+pk = "tpknam1qypml72w66vfq992lufljsaja9kd47kv6zdnxgvy7p7te0cl0j7vumc5z5sjz"
+authorization = "signam1qxmscwjvjmy4zdzf7uvr2skklvwa9m4kdet2fk58l4tvy0c68u4f2aackau23ex6zfgk8j20xhgmjxpwq447qa5pa2854788uzhj7729qytq60tw"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qypkvl3qce76752fhvszjra62eggrxgmqsvtnd483e0vf3pfgm0me9gv2ktc2"
-authorization = "signam1q8rev4uqk5ucp460d07hl5vgk7mmhz8qzwwx7n0d5hvu4cxyekgj6u3h7crv4ys8xntypcgy8gh964pctvaxxzynms0mdqdvwmgr8zt4qqjzkpqe"
+pk = "tpknam1qypqnx48zgagtd3am5pmvqexdhzkh26dnzyl6yyduu9kggt8g9dwklgx0t490"
+authorization = "signam1q8rq0adjgps7zdk4l24vy6e3zsam63y6gjs9y046s3u6s3fzd0jrwhmqa4zkju9l3t9tf3eqv7pdx5d47k7u204squc53jzd6knadtuyqq9klkwz"
 
 [validator_account.metadata]
 email = "mkhananov@gmail.com"
-discord = "khanami.eth"
-twitter = "@khanami397359"
-elements = ""
+discord = "@mkhananov"
+twitter = ""
 telegram = "@mkhananov"
+elements = ""
 
 [validator_account.signatures]
-tpknam1qrrw5rk4pxqljtecwn9tnqmap4af5vtuafdp0ucscmy4860ahgywjxlyr5c = "signam1qqdqdd3xlg44kyyt9cr7sgt48mxfzd2pk764gm4jwpfsss37jx679vhen2esaje0kg802qytz8365xptyfwft50wyhxz4uwtz24q5uq2s7k0dm"
+tpknam1qp7t7jp8fcap2at0840aslrz84l6ms5r02uyn6gsrr7ass247cqwc6xnntf = "signam1qpsey5sc2hr7krcn7xxlnukexjad36ee6j0lwxtu3hwcw9mnmhe7p9r9g408pq46zd66j0szr87294v6ypfj38djr3cx4wrrr293cdgg2u5stl"
 
 [[bond]]
-source = "tnam1qxa3yyj6d7tcnumcsgr48s4yx0dd25r755dp58yt"
-validator = "tnam1qxa3yyj6d7tcnumcsgr48s4yx0dd25r755dp58yt"
+source = "tnam1qxmaklp9s23gw5jw558wv7zvl984vnxr8u788k45"
+validator = "tnam1qxmaklp9s23gw5jw558wv7zvl984vnxr8u788k45"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qrrw5rk4pxqljtecwn9tnqmap4af5vtuafdp0ucscmy4860ahgywjxlyr5c = "signam1qpgw6yzjtvyqj4q002v8xnzqnl0eq38fs5qfde0m0dwncsdc0ccy4dhfqv6jdq5umht47ahln3uctrh083xyk6fps46anfqe50k0exsq29nlaw"
+tpknam1qp7t7jp8fcap2at0840aslrz84l6ms5r02uyn6gsrr7ass247cqwc6xnntf = "signam1qrsnammu2r3dpllemzsv7zdwwrwhdp6zshmldcw22ykemlmg3ys0t5re8rjw6vj3jhspwcz7rn48atdelpqlahpp74k4zy22lk68wkqx06jzp8"
