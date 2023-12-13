@@ -31,9 +31,9 @@ pk = "tpknam1qrd8r20cahaha5h7ldmna7cdlr0t69rrxjl50xvhv497qy7vth7cz2cnpq7"
 authorization = "signam1q806c02930rdnac5jtxtnmdr6jwhfwteu4eqchu0xe5jgaqsv0znztam6u3tyatme6fh72les7d502wpajqa0v8l5kc8cpef4nv8py5lqyv80ct3"
 
 [validator_account.metadata]
-email = "weeklangduo@gmail.com"
+email = "weeklangduo"
 discord = "weeklang"
-twitter = "@yuriiasmankin"
+twitter = "yuriiasmankin"
 elements = ""
 
 [validator_account.signatures]
