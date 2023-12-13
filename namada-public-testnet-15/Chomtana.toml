@@ -32,6 +32,10 @@ authorization = "signam1q82cw8s0m9qgavesrq4yx3yrnrs26wvwth7atjncxlz9ppgn28yuxw32
 
 [validator_account.metadata]
 email = "Chomtana001@gmail.com"
+discord = "chomtana"
+twitter = "@Chomtana"
+telegram = "chomtana"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qp6lpsrgmq037sv4umxx2xvwsfnpkz55546843cajvmtafh0355wuzjvy5t = "signam1qqhwaewez9600h7xn4qj4jthykdps3grz8mh3y3vzz64wjnuamyad44qw6d4aed5llmnugwlt8ndxszpx50f4hfnwe2drrn77p2wzcsr3ux5dr"
