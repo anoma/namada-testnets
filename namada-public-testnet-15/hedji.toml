@@ -34,6 +34,7 @@ authorization = "signam1qyzwp5kl7csxrnywfkr28r60m0f9v094sgkm8utgm978th9f3ujlvzq5
 email = "majestica7@gmail.com"
 discord = "hedji"
 twitter = "@ZhukSergej"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qz2fgrf7q29pn2r8hk4y6fy55j0yxxvplpmww20sk4fvtwxhh0dqvp7fcpe = "signam1qpf972cdfykg7njh56yj79cn88z55lcavex556h5usv2w3ru3mxg5n3gmw949rkyjcune6rj8amy9fzdd2tl66tagvecydujgc64a2qdgzeucy"
