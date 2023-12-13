@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzk80rqtnn60dyrvrqq3tlqyqngnnjt8c34ml85nklxe77533cvmye68y24"]
+
+[[validator_account]]
+address = "tnam1qxkjwpxv4s8rukwl4kpfvzy2luegesqnt54f4csr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "154.38.173.35:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqncqy5eq3p6jrcwneq4ks9z8k2xutql9x94fcnff369mkc4egw7yh4a0h2"
+authorization = "signam1qzklxkd52marwqq2zu3xhxynhuhgtn59tjqyf7auvxyt7ce82nmm7thzw79qalxk3d67gstw6qea43fdsc0dt03yzp54e90ndq0ajgc0usq23k"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq3xkufzcn3r8xa346f284wtjhj00cgve0pus04ugfzkcz0pvgjrgelm57a"
+authorization = "signam1qzstkj9mfkr8r4n0f4ztay8kl06hgxm3r5y9extdwp38dlgtz50nxhdssmz53eyq9xmywmpg9h4hexed0tzv3m7a9ztt5jp9yjsuh0cwnuvsr0"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpqjsl4st5s5kh4npd5cz78amf6dk4w0k9hr37k6qm8vzrewl35fy95k04r"
+authorization = "signam1qr3yqxtw4ra8qkese5s7vwsqvy9wx3sqlcr2ply7d3ne5ueeutrf2p8thgqad3s3dcmspn4v0yrw5cnlccumd4yze7cxvxujqch09scpaevlnw"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypm789y6t83pwsfgqyklgftk6mqz634l9vv58p63uf6durtd8rpglsmvwqs0"
+authorization = "signam1qyxpykk3rl8uzfqptqhux2fk5295677wavugh99aaam93qmx3avm23aumx3uywqcazj0q907kvqhghef4mlsptskxdmmr53kwmzuzrmrqq2252mz"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyppwa9z3fnfknlkndpquzgqklkp8ccdx9hlr494aaear06rv9vsgxs3n0dvg"
+authorization = "signam1qytvx95hqe0aa8v4nm2ex2g9vevr8nmx7ecr2gtkqmd9fp2hf4hpuv3t7sxatzh9x432gpzqxzrhhydgxj9eh06tx5ypy8chvdcs07jcqq8aawhc"
+
+[validator_account.metadata]
+email = "vakhtangkhorbaladze92@gmail.com"
+discord = "636232849271423003"
+twitter = "@MRlurch1992"
+elements = "@sydnel:matrix.org"
+
+[validator_account.signatures]
+tpknam1qzk80rqtnn60dyrvrqq3tlqyqngnnjt8c34ml85nklxe77533cvmye68y24 = "signam1qz5ank6v46kmghtzz3sd6z2nwzuek6p7hgxwcq5m742zwa3hhh4j4kevaalvhqe4ujdpp28j0k6heemurdfzppejzx32xs2uvrttnns9ggd7pm"
+
+[[bond]]
+source = "tnam1qxkjwpxv4s8rukwl4kpfvzy2luegesqnt54f4csr"
+validator = "tnam1qxkjwpxv4s8rukwl4kpfvzy2luegesqnt54f4csr"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzk80rqtnn60dyrvrqq3tlqyqngnnjt8c34ml85nklxe77533cvmye68y24 = "signam1qqk034ty5lqayvfpsw6s0h2ye2y7r7wel69mn3ypemjndwh4qpxjpjfh397gs8ggyr2pwt84r23uwma4dh400th5g3jukl7jpnx4pgqw28k66r"
+
