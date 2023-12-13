@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqn4hlh9w0ulm9dfu47hndu3ynjk4r0t463day6236nspeg4qv2py67pryx"]
+
+[[validator_account]]
+address = "tnam1q8tw0ppayjpnlpcv6x3jggyxr39qzzpflvhwfl2n"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "213.246.39.89:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrxq78tfaxteu8j8hhgg7nz6vkwhyqvcxd6864khrtjrdhpzyre3kr3rn75"
+authorization = "signam1qqk4ux4mkda9m3pc8w6tqzme8uvpnfspu86ar6ecr2fuyzrfg2jlqeewmacvklx5eeh6cvs9yezww9wef5kppdmw09kp3lxm9e8czlsgptmaz4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqkauxm0yg0f8qwfhxlmtyqk5a4fq96rvtxjlf9m796n8awqcxt2u7fdwgu"
+authorization = "signam1qzmna2acmkaj3px74cl7ct2hr28zv34kk35wgcmdar0729rs64duhmn3de62dw9udnls9dnwsf35cdcdmcuaavw76g79zx09uhzzyrqd8w5jmj"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qryc0jstuld559swjd2ntff6uthgg6xpnp5hp3xrfekx857fyzp52psfr0r"
+authorization = "signam1qpn04k7gkyh3u9y5e93g2zkhz0g4ju9895uy99prrxyfkctazz29jf2gxq3jy3swtez907hsgn9n4q3effuhqk6zgfcxmfzwa5t7kygguem3cq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp00uudhgmcwnfzurelpsg9zwyzhyq23zjmtrpc4skfps6gmwsksgqm7ylph"
+authorization = "signam1q97p0c6m92lpg7w4m5mfjcgrgwlk6ajdyd2vglf0s6zqpkka8yvx5avlu2sq0t5d3nfyduhuqtq8k7l26580a3egydqfse8856wr4pm9qq8c9qfy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp4hj36vp5s7uqgmzlhq22m83jw9sdpa6zuf50pmm4pjwlunhwzp5cxj630c"
+authorization = "signam1qxdmq5dwwc0d00uxtk6s4dmpkm5a74slksjzqy3w73us30a20ta0cmeesn2hcqjc8ypf345frervmr67dm68qlcl9u9dj4va7kc9tj0zqyvh5t3u"
+
+[validator_account.metadata]
+email = "genzbit@genznodes.dev"
+description = "genznodes Validator in Namada"
+website = "https://genznodes.dev"
+discord_handle = "genznodes"
+twitter = "https://twitter.com/genznodes"
+
+[validator_account.signatures]
+tpknam1qqn4hlh9w0ulm9dfu47hndu3ynjk4r0t463day6236nspeg4qv2py67pryx = "signam1qq2392pay6yye3dt60nllj6l3yzgn6vcwjkm0ncymvenyjzyupe760nxanhdfqkkvsxvya7cjne70na2uql4vj60havztlcrfd8p9hcxtvq6nw"
+
+[[bond]]
+source = "tnam1q8tw0ppayjpnlpcv6x3jggyxr39qzzpflvhwfl2n"
+validator = "tnam1q8tw0ppayjpnlpcv6x3jggyxr39qzzpflvhwfl2n"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqn4hlh9w0ulm9dfu47hndu3ynjk4r0t463day6236nspeg4qv2py67pryx = "signam1qp3d3mhe02m5asqggaz0mtxl0eynf0dzfqyzrppfsdgu2n43x9gwe6sde5gteehdqzful89gw4cjf3hsedwy9t339mqga3zkrxmf7zcpdajtg3"
