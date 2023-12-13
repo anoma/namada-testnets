@@ -34,6 +34,8 @@ authorization = "signam1qy2yjn3yd34udwgdxnunqxxwwjjwlqfep06qtyldtktnpqgwzhcfccsn
 email = "fabryprog@gmail.com"
 discord = "402883796619362314"
 twitter = "@Fabryprog"
+elements = ""
+telegram = ""
 
 [validator_account.signatures]
 tpknam1qrvmm6fp3fgevchpth97xvkkz6ayz4eetz6z2lga0rgp7r3rspvzq96cteg = "signam1qrnaptxhmhesjtqwamh0wyrxskle08lklun33jdx22x8kw9ea5dvmsx8tg04zlemlz5e63pc3r3yqtxf98qqztw8x0ax9xajm0t4w7gf0652t6"
