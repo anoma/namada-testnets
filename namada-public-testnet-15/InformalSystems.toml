@@ -31,9 +31,9 @@ pk = "tpknam1qypyskn8vv8fmrae797kmqz9grnmpcsw4h4a0q4s7r63hhgq7gw293gafxaeg"
 authorization = "signam1q852sz2x4u9s6nwqgud549l96md9fch325jwn37edp8njheq2h90c88c2kj4ynqpy3ew0cjw7rjnm8tzrnw44k6k9vsnlal39hxu459sqqygt2mq"
 
 [validator_account.metadata]
-email = "aniruth@informal.systems"
+email = "validator@informal.systems"
 discord = "boris6035"
-twitter = "@an1r00"
+twitter = "@informalinc"
 telegram = "an1416"
 elements = "@an1416:matrix.org"
 
