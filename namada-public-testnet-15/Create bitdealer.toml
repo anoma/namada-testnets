@@ -33,6 +33,8 @@ authorization = "signam1qxta5h7c2ajr22duf7u8mtz7y003t5ns05furdgxkqgjux8zudnaymn0
 [validator_account.metadata]
 email = "bitdealer91@gmail.com"
 discord_handle = "bitdealer91"
+twitter = "bitdealer91"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qq4che8pmle4rvgw249mq5lhsk330ulxshur0mq39y2c09jrre3q68xxvp7 = "signam1qpexkkm9xzm4g4q4zt6x58jmrdzvyt59ud9zuxmcn53lsvv92nkwd05cranm05v25wad4s6v75yak7nxha00lty2j4aasdrue3mmy6srr452u0"
