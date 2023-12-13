@@ -1,0 +1,47 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqdxygm6a7p6yhzfuq9n5tyumfe5quwn087a2u3leexnwc6h20m4uuuut                                                                                                             tu"]
+
+[[validator_account]]
+address = "tnam1qx6pfxanhcsrzl7qlcsr868gcvgmk0k62uhewp2e"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "37.27.12.139:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzps7mrx8ht8g448cq4n472gxea6t3agem3r4kmpnhg34g9zjc9qcvg2emu"
+authorization = "signam1qrsfkrfmggfqznv4k6ten4xd40zk5htesazswcmq972ju6nhhwcts64z                                                                                                             ju8zcs5smfkpmzwpax8q4sy8ndwyq3n450un3nt5qqetezc9edul5y"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr0w9tzp3vqugukklmtegf6030wgtvp0w8lxz02sks8g9zcxzq46gazx6h2"
+authorization = "signam1qqymkdxd44xkwdmej5lyljvrf72mp9yj5fhal4fgejmkznszrpkf2tj7                                                                                                             ps66x3tp0at5d3neagwmqa8keh80fh9keg7wfmpazesdvdc8r5ua6q"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqgl72lt5pu7fg0safj3ng4rj7v2remsp98tzs30jfr9xu5q5v6xjnuvzh0"
+authorization = "signam1qqvt272cws32clkgsm3y4g28gunymwte4gs7k7qq8ctenrf2htl7djd3                                                                                                             6e0an98fc5069q9y0lmh2ph5wvc9jk3myegsfunq9z88sfcxdcksf2"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypfc9cvxsvapyxh9fuwu2xycc6atcnwv0f3v3ugt2ddau93a5le5acneqn38"
+authorization = "signam1qxpx85mrl5e2cpsdmealvyvr6tqpyawqz20dk8c9a9l79jel6rs2y5af                                                                                                             vprntmmlxsegzfktd4lrx0fp3vs3yewh506e7rncwzzeqgswqyqdsrct"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp23jvww3m4lvx20ekm836ql5utcy53e279f0r838syzpljng5u68gm0p7km"
+authorization = "signam1qy0xdu2vur7n3kxtlzdj48nqa52hw0yldnylh84an6y0ymw7rkg47w2l                                                                                                             02ehn756mwl03nvl3ygfaydr57quwd0wqpx6fk6k4exh0sycqqmvw7pd"
+
+[validator_account.metadata]
+email = "nathan7450@gmail.com"
+discord = "natk#6305"
+twitter = "@natkl74"
+
+[validator_account.signatures]
+tpknam1qqdxygm6a7p6yhzfuq9n5tyumfe5quwn087a2u3leexnwc6h20m4uuuuttu = "signam1qr9                                                                                                             u6lkc6x7cgm8su6d44zw9q36f9rskknrjnq974qwwxfpu8ysttmqts4dthstyd4rv9k26nytsfcnrgkl                                                                                                             920udjrxxt3vk3l67nhc9ps6vx5"
+
+[[bond]]
+source = "tnam1qx6pfxanhcsrzl7qlcsr868gcvgmk0k62uhewp2e"
+validator = "tnam1qx6pfxanhcsrzl7qlcsr868gcvgmk0k62uhewp2e"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqdxygm6a7p6yhzfuq9n5tyumfe5quwn087a2u3leexnwc6h20m4uuuuttu = "signam1qrf                                                                                                             mnc9dvtmzugm53877shvst8zr2wr2wvukmjxa7han6nq5ty6frrwf5eln6vx43a985p9eyt50xmxfu9l                                                                                                             58cdahglvvmnepfet9xcvk95nsx"
