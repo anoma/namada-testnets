@@ -39,7 +39,7 @@ elements = ""
 telegram = ""
 twitter = ""
 
-validator_account.signatures]
+[validator_account.signatures]
 tpknam1qqxce0dvv8fwh96nxj6m07kmlds504vhkj4ufjzxwlunry4sm6xfykdsesg = "signam1qrvpq5dxffrzvzgvfxf9rngpjww0y5cnzjggpj047ac4vzk83fqz7sjaru3kdrydjh0un29w849lgpa5cewdpgm3rx6xf0lj8397clqwt4dkrs"
 
 [[bond]]
