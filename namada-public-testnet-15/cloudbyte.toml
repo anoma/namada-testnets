@@ -1,46 +1,49 @@
 [[established_account]]
 vp = "vp_user"
 threshold = 1
-public_keys = ["tpknam1qz9mzwjc7c9mfxzu26crxyr2ydd8alwczk8au4erzsw4e9k7405gc58w94d"]
+public_keys = ["tpknam1qqvpt04r0297pm082m0wxnh8nv2mxq40rzxvsgh99etlhn3slcz6cm5gyw3"]
 
 [[validator_account]]
-address = "tnam1q8zwnkmchzfenchjymsgm9jxyjwqgurjpsa06a84"
+address = "tnam1qyutjjedc3lq9nppdsfywdyzcrku3wehfsfmw3c6"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "128.0.51.26:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qqhswycuqv8h5235wn3l86phl254u6hrcygvu9jfg9v3qy5gfyha6w8evcu"
-authorization = "signam1qzk9zux48mxdhwj4u5yk52v4c6se9sgrkku6rezhgx6ycuuyd2wh2yvyz2yg79e5zzn5ml0hnjqlnp57y9gzwkvqs3yqjtnpfqas9xs2s8lqa2"
+pk = "tpknam1qrsq50eu5t7vsyxp5nu3f3kcsx089zzd9zj7lxpkau9gmarjnmqpq5eemck"
+authorization = "signam1qpxpmdfy4p4wd5t6xkj4vcs40ygwg4lp2ayylh6gvt0p2uc0k5fjask4ul0a6shfv796sw2veg7ddj7xphgypu3cs7l4nkg7dcq0xhgt32vhxr"
 
 [validator_account.protocol_key]
-pk = "tpknam1qqduvum6wgxhlars83za3rxquznjjaekdg73v4lyajddjherqcke6qygxag"
-authorization = "signam1qrhpe84zt6aw69209eyl0wf9kylx66aelw4pethf549rdvlrsc7f22fxg626kpz8uhwftjexf9q8ysc2pzjhxs26agfhlc67vge0f8syp9atpf"
+pk = "tpknam1qrwpxf8kmzwzyv44swkzehf65fhyxjsxvmecd27wxl5yk58nhpw325jqt7h"
+authorization = "signam1qqg63jceyj4phrxf8z532zz7h5k7aedlkp96qnfsmzf6q4d6mjdwqq6qf5w6eue9dd53dxrvpkpgqdvws384psfv2v5jlrltqnd70jg9c5f2tr"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qr00jldgg2kn6lee5r0q7298032l4u4hy5czatmgcf5srgf0s27yqy8jgh5"
-authorization = "signam1qqq83zxnehhljp5ejxmw2dp4ut45fwy8uyqk86t3g9temyyvw4zdlu7rtcvvjk2uds5668pws4x3y0pr06xhw5c8wcl0qrp720qartcp498tay"
+pk = "tpknam1qqz04ltwa9388p2x4cdhqmrwkyta4pnz0awfetlahfj0737xeh9hwej2n9u"
+authorization = "signam1qrdd4l4hpt8fjxhdehmnpwxkkqp7tvc6wznwhvuyv85trk85wf3svrml57zzgwc9ky46zgwd6777rqta7z8wzale7rqkzh0avaed5acfev6jyg"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qypx23lt90hkm80yqc9l3sq0xg96zag0ekcvjftlg73nfth6ky65a8gr9dlpa"
-authorization = "signam1qyvpvznyh9n8yagnyecwdwk0z2kr0fw7a9lr0apmducwflej97ffsgf5pd6v0tnamxum8z2ra0kugm2keerh6sakdj2g0wrlnpas9k0jqq0fgw52"
+pk = "tpknam1qypvmuqrkdru383s497lqqta02m8dkyunefnmevyme8mvn2hk5sxanczlw6l0"
+authorization = "signam1q94g78fvswxp5gd3kwp86xch6l78tkrckz5jqn8vd96alty5lqaj286fqrn6f02tr5jeylxeaj5j92qhxjapu85a8zhzee54q7scwujkqqkt67cc"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qyprd8u6eat07a00aedh5cuj8rtxupreyhc9nmjaj5jq8f9ac6gs6gqp0edxa"
-authorization = "signam1qyac3rj6djcgm3l0z47vm43jxkncfxpe29apxr79fk65h30at3v6w9vnpmg9ak5gd7mck0zvqwmr5tjm0kf5a7jtlvxsnl78dtu8aua8qyvzh3g3"
+pk = "tpknam1qypjfham7qeqc0lwm0fcehv2cfqu2jzfadwm4spckuj69rmc3r0gcaqczck9z"
+authorization = "signam1qx67vrrp3k0gpsk768caetedu8p4rr6aeskgfq68w2vdek96gehc5fc85ul5pyvscu9x2ag6cdzuy9m823lc6k3rhntxycquv7y3m0dkqy2gz7sg"
 
 [validator_account.metadata]
 email = "namada@cloudbyte.ro"
-discord_handle = "dant5947"
+discord = "dant5947"
+twitter_handle = "@dantanasescu"
+telegram = "@dantanasescu"
+elements = "@dan.tanasescu:matrix.org"
 
 [validator_account.signatures]
-tpknam1qz9mzwjc7c9mfxzu26crxyr2ydd8alwczk8au4erzsw4e9k7405gc58w94d = "signam1qr5q4w7kw0aftlnkf68y7c2jcys9008j9t2csuzhrrce78yypkvsg2f4q2eqnpxxsngfyyfmh3ufwsrxqpwgn4ra7qctpynylg95h2q2nspfdd"
+tpknam1qqvpt04r0297pm082m0wxnh8nv2mxq40rzxvsgh99etlhn3slcz6cm5gyw3 = "signam1qrgy3gqpz6m7cu5j7pqq7glv7vtgmf9v8qdk06d979f089lscp9ukmvdwz6sptmwwfhv6v203esrdljjmsx04zjru8y6v6a7q9s0hmgg4ynn49"
 
 [[bond]]
-source = "tnam1q8zwnkmchzfenchjymsgm9jxyjwqgurjpsa06a84"
-validator = "tnam1q8zwnkmchzfenchjymsgm9jxyjwqgurjpsa06a84"
+source = "tnam1qyutjjedc3lq9nppdsfywdyzcrku3wehfsfmw3c6"
+validator = "tnam1qyutjjedc3lq9nppdsfywdyzcrku3wehfsfmw3c6"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qz9mzwjc7c9mfxzu26crxyr2ydd8alwczk8au4erzsw4e9k7405gc58w94d = "signam1qpd65yf37k8pnm9p0rafr8px0cu2qxutsdtvmtya3shhf9m7y5vh4yx3dl9zv7f7hhxkwzcv5a3n6jlh35pe3edwkersjs0tmmsuvqgpdzmxwv"
+tpknam1qqvpt04r0297pm082m0wxnh8nv2mxq40rzxvsgh99etlhn3slcz6cm5gyw3 = "signam1qp79jf9xye4km2wqmrfm4evsku2daxlxakrcay2v09rgj3jtt6kxvj3ysl4tkaly2yqaaazswxzeasf7f73ujz6rpqypm667294k4ggzdyhlf0"
