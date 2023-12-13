@@ -34,6 +34,7 @@ authorization = "signam1q8f95awttxh8wttyxz6ad6k9yzxrhehmdnv9kvnkrd6yw9y4tf4m7nfc
 email = "inmenta7@gmail.com"
 discord = "inmenta#9444"
 twitter = "@inmenta7"
+elements = "@inmenta:matrix.org"
 
 [validator_account.signatures]
 tpknam1qqp8wc7pnnax7h748qpyhfr4c2ljtfees6xnysq6jvdyk079tpsm7zmmenv = "signam1qpygzpvzw9f7eedt4kyaj4g4zrlfwy73yq3yt06psl3euru4l5lv3v4vz67677xyskql85lnhw46g99kah837f3h0fuk2frhm9cxqgs2snu5ts"
