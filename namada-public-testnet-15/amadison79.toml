@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrks35ef49kh24nmxvhx0nwy5m2j7j9vm7sjfqqrruug204v9c855jr89ls"]
+
+[[validator_account]]
+address = "tnam1qxdn8dwj8pkk0gz7alynfdazxahupsgrhy7l494s"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "109.205.182.127:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpee48xtjq5d4lsh4g6qryvhc5v2z0zzpwjry0g58u038c29lvn25lvkzud"
+authorization = "signam1qp3vu5hfq0uqcdejaxqqljc8av34kltt8rquw3ghhjjaesdstc6m0sc07fxtf42alwa9anue4u9rjw3q4pmyffm4f2z4a9xlqtykyxg9zqaax0"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp4c4wdympkx377kemkj2ul2k6cg5p43hffxstk4f7uatnklpjqmv3cckyq"
+authorization = "signam1qrxrss6e95m3zptw8hu5c8mau56ugjq56ee3nkmr3trrxzzrfyhvfxhwu323v5ah353zcfwxpk5nvjvcfwxf9vgvg4gqfzs09cky3tstqde6u7"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp0u2sm004sg0l8m0s2enf7xnj5llt0gm6zptyr0lg20dffm6ata2uuxaqu"
+authorization = "signam1qqgw45hf32t0sctyhpqw0tnaypgffntu3958syzusnv8l4ffgg3lu9zhkf8y58hfpaqyg7k7g3jagg64zw3zrxga2rwlx4kfkmrsqscf0etfma"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypav5cslpxgh6njvvmhl2rpsdc8dyv5m3vzvynmvflwxe4eudk2xwqv25h9w"
+authorization = "signam1q9mhzfvf7wn3ak3lyy2syda3n494g7j8el46d8d3ylf0e3rlqe7cu4ghhnxrm58rz88ktw668qzpy4q6lzr0ehcqe4875ys2q3lm8k5eqqqpqgy7"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypuw829kuwn5ctsa3dvpvw5lgnm2hyglw8608gz5y5f994nk6ccl3ce337ag"
+authorization = "signam1q95w9hs62h0g4u3qqr8gx89xjkmh0mp56fznat46vrtrelwksduhv5c9taqfhp0a0zjf4pdpkv5ktvmtmwr5vmzl5j4wesnghaea8fd6qyruefn2"
+
+[validator_account.metadata]
+email = "79nicolas79@gmail.com"
+discord = "amadison79"
+elements = ""
+telegram = "@amadison79"
+twitter = "@amadison7912"
+
+[validator_account.signatures]
+tpknam1qrks35ef49kh24nmxvhx0nwy5m2j7j9vm7sjfqqrruug204v9c855jr89ls = "signam1qps2ypkdpcfkf60zlkjtw46p33s4358fk3lr9rhjsutpapsg60p9kz6ytgntae8gzs22000qkx9mtjfywdaefememy5ufep5hhqkdmqtmz0c20"
+
+[[bond]]
+source = "tnam1qxdn8dwj8pkk0gz7alynfdazxahupsgrhy7l494s"
+validator = "tnam1qxdn8dwj8pkk0gz7alynfdazxahupsgrhy7l494s"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrks35ef49kh24nmxvhx0nwy5m2j7j9vm7sjfqqrruug204v9c855jr89ls = "signam1qrpyv0meud5cmltez3xprrexw5le2vmd9upjm6hwrn6wm2xx4slgf4pnxk7fdmp3ny0y2nv0ntz44smcqlhszyle53qpenqnz4rt32g0kxq2dk"

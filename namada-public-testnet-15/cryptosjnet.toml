@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr5zhcquc6j9pugcr5vs8qjka0a77fd7pe99asq4dq46zjyff44d2lqxnfh"]
+
+[[validator_account]]
+address = "tnam1q8yv025mt0mes8dmdq6a2hl7wgy08puw5yg6ffgg"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "142.132.194.124:10904"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr7sse6nsy4sjhk0zj2hg33mycugjasd960vc4kxt7x7mw39tlxnczu04d8"
+authorization = "signam1qqnr79tyfw0shu6lmumna3val7dhj6d5muj993dcn7qq8q7v84078wq2ld2q3redrcnary3zgjglauhuh4kvpyhdwvfe377lvtr8g5q8pdxmc3"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp38sas9s8ny9yv0vpfrtx3zgd799h8wcjmg9n04vm2xck4p8melwl5cz9d"
+authorization = "signam1qphw8du06yxq96rk2vcs754kalytcezhesutfpcshf7k0938gcfpmmhvj55mahq64358n6lvqgxn8u66wuqf0qgl5ky5c85y05p3x7grecfxwd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpxa79er7xtqxe03pd0cwgt2x7l9e5kzpgc88695qtjwe2jqvxma2cmv94g"
+authorization = "signam1qqskucf5afew93v6jaakwgpvse76jlafyxmnk6389yh5xps6hdcnnzywgly9q4mcq7f7rf807u22mfhfj3xzkp40ucppkf4lzxrnlzqwevpynz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp0t2jnhywgca3fnregm0ycyfv996ey8jxlhnx3v35klwkydqnywxgrl37rn"
+authorization = "signam1qyg2mawgvg0qhxsm52g4vgwkct38zzk4cywyvqx6g09hrhh9pja7v7n3p2hcnksehsqey3j3y7cjtqpv3zk8lwajwsuw5ts55zjzz50fqqz68s0e"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp29355x9fw45qcz9gffgf0j3pe3mgkvtau7d9sk0ucllhv29uz0mqka4jn5"
+authorization = "signam1qxjh9qc7e78xja76rsqlvun26hsm0slf84jcxq2l0npdwn4gw6cf2jqdadnl6z8nazm6lrc8983wjkc0u27npd9an2pmytsdrszfrwvgqy20qsrj"
+
+[validator_account.metadata]
+email = "cryptosjnet@gmail.com"
+discord = "Msobh-CryptoSJ.net"
+elements = "@cryptosj.net:matrix.org"
+telegram = "MNO1314"
+twitter = "@cryptosjnet"
+
+[validator_account.signatures]
+tpknam1qr5zhcquc6j9pugcr5vs8qjka0a77fd7pe99asq4dq46zjyff44d2lqxnfh = "signam1qzecu0rjszkv608rvkx6ec9k72dmpyf9lf466rzpagxqelxz2pwfqjutsjh760wdxznnpspe0kpppdnwhrezel6lr8mg9npywvllmwq8qclxa5"
+
+[[bond]]
+source = "tnam1q8yv025mt0mes8dmdq6a2hl7wgy08puw5yg6ffgg"
+validator = "tnam1q8yv025mt0mes8dmdq6a2hl7wgy08puw5yg6ffgg"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr5zhcquc6j9pugcr5vs8qjka0a77fd7pe99asq4dq46zjyff44d2lqxnfh = "signam1qzpfjq52cmr5tntfk5k880cuvwl03qaxzlresn30r493mfsad8uyu9uz245jgxzklkxjqystj9fj400y3pplgnj7arapq6e9g3s5uxggc8dfpt"
