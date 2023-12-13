@@ -32,6 +32,10 @@ authorization = "signam1qyqnzqx5e25dqmpptxv6tkfl0m90uelv3vnsedzzdrttnn7wzn7mcz3s
 
 [validator_account.metadata]
 email = "purpletestnet@gmail.com"
+discord = "purplemoney"
+twitter = "@Purple_M0ney"
+telegram = "purplem0ney"
+elements = ""
 
 [validator_account.signatures]
 tpknam1qq3l8r5r8w9m3qml9e0m6rsatz865vjw2nsv5u3pq2wypsn707awqdxs6wl = "signam1qqrdn8dy43utv7936nav8ypjccdj5ssskntyfda57e3yz8t0hhc99fjjzajmdyfhymu6c40dzjzrqqd3u95u7d8a20gnm6esrv7zklqzhqed4p"
