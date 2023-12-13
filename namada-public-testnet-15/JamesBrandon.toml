@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqya9pe8c2p2j47ydapv933hputsu7z4jmwcf4r870jt7lguu2ll7k6gyv5"]
+
+[[validator_account]]
+address = "tnam1qygnxes5vj3evjpejyv8j944paljsytveu30rypj"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.205.248:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzvzjw05vlp36fm4lkvtzue92g2rskv43kaskzjyy922ql0h03kp73thaw6"
+authorization = "signam1qpt4vac4qgwn6xfsx784d7gfh2mqysx3njerc2un2gempsq5rxnxf70265nt5yn9zrude3247uly24fv27w66txduzkap906s22pt3qrh9yv52"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpqjn6jr2apt83vm979uyzsp7kpsgv6jmn8m7v0et6v44rzr94f02pl5k77"
+authorization = "signam1qp0danp66x8vv7jq6sdfatuym4ffr6n47kuhw0uxu6j4gulz9phj9he3vmrj6wntxy08s3sjumrc6grg0l6cgzwym2f99j89w7tud2cw9c3wyu"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzdvhxl56wvkpdj8zsj3awqee8m7x9qanrwjefhr8ksaljas5t4yqam035m"
+authorization = "signam1qpt9fgk3wkflwlqnhygfpgmqr5zfumqlh2g9xj8su7xt08kny08ym0q0h6r7qkr32dd7gad3zuzr6mzus9p4s8m46shyfnqknj0r5zc9ep28n3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypq5a37ax6uy2p3g2tz2tp59049n94kf6zvkm8446l8sm8skw28kcq02q57r"
+authorization = "signam1q87hq9qjdymk4xrr5f90xazyhuuqnl4d36w9gduw8uwtlgzcrhkl703qjm45p9kre49kcnfr5ku3q23frvvj44hy376xp0wt342fha5gqy3nt4hz"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypzpxd5d7knwv2w78gaqypv96geuqvgdfp4c5tc49q989rsl2rqhlg4xnx9d"
+authorization = "signam1qyzaggqfwavwjwdl63f6qrl39kujmmtv0vkqp5yawtptu5dvm54dv39v8qmesplszrcaqs9e6xml9fn7jk797dhflhsxc2tjr0kxc23fqqlxvwkj"
+
+[validator_account.metadata]
+email = "Ternovodafone@hotmail.com"
+discord = ".jamesbrandon"
+twitter = "@JBTGrox"
+elements = "@jamesbrandon3"
+
+[validator_account.signatures]
+tpknam1qqya9pe8c2p2j47ydapv933hputsu7z4jmwcf4r870jt7lguu2ll7k6gyv5 = "signam1qpe48zmayrhcrfkcxjsh4hj7n6t98zh6cc520y42q7dvuu2nlsx2yp7x25czyfc3fs656cu9qsa6898302kascwxe8x504sf7d8ljxqgtwwu0j"
+
+[[bond]]
+source = "tnam1qygnxes5vj3evjpejyv8j944paljsytveu30rypj"
+validator = "tnam1qygnxes5vj3evjpejyv8j944paljsytveu30rypj"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqya9pe8c2p2j47ydapv933hputsu7z4jmwcf4r870jt7lguu2ll7k6gyv5 = "signam1qr9e24uq0lcnv5hvc2zxm5grme8z4trgghh3xdk5c0d5gknqnsspz9y9mt4zeev2ecehxae4neqxcvprhpzm7agvu95g0v8z0xjdk4cvwdpflx"
