@@ -1,16 +1,48 @@
-[validator.Andrewshka]
-consensus_public_key = "0022e901d196f5d84011dfbe887c3aba87925d5264c17d12ffc8b97dc6d374307d"
-eth_cold_key = "01030b9e03cd3515ff696f403bdaf3692a619a37e472f305c37554abe58ebecff655"
-eth_hot_key = "010303f0c37074048b73bd5fc2baeaff275cd7ab7ca443dd19897ec7d72168f3276f"
-account_public_key = "00195dd7784cdfb27b90123ce85c99c59784c7c15551148f4f3436a490dfa7fd15"
-protocol_public_key = "00cb95f5765c51c74323045d4a878b603874ac4b0f9d5908b0a0cb31c7978f2491"
-dkg_public_key = "60000000db20dee29562a63b7f0a25cd9165d8bdc325a0b592eb9570317436635a287d5d1355374ff5598b38600f551b5ce46f116d79d238c621d90b67bebb40532c6c86639f55609f3ab0a2d324db237d5f0ef446e8b5944e7508bcd44a10716737c210"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qq9fvhd7trmhxl5r30py9aas6p94mw0kdu2xagz2c7xuwvwhtsw35w2yav3"]
+
+[[validator_account]]
+address = "tnam1qxh4xwlzh54lztts2qkrvxfmhwl0r8rqx5z20ama"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "65.21.239.60:26656"
-tendermint_node_key = "004a6d75307ce59cbaddab6e9e7c1d910def9afb60b9d3c3ebecc19e96b45603fe"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz8yqryrhx7e03caze2pufv0scps7gvtej2hmmgemu29k2y3teyt695gxx8"
+authorization = "signam1qp36xv4dqh6l9mxnqym372yqunc8p7vszp4t42srs6za7nvp323f62ekfajfh2ly0jppvf7299qy7jsleankjlz45q6p532ul03c95c9mmc5m5"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrmx7wdnef05dyjy7jk4kaxxdaycwpduh7f8nm0kpe0xhcmazcf92apzd9k"
+authorization = "signam1qqcucc7pfq40q8hysh3za625cmk995f0er542t5h28vcyl8v3nkmyd77kkmcty5l286wkyjyr74ws5095904ct9gnrl0wskrq4v6jsgt649j4t"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqhwt4qmt56udd8x0zsqv6xykzv7h6yfahgwr6t60majq07gzyf3yfqyszg"
+authorization = "signam1qpwjxc6sysmvvpa7a9rdu83uw0zdht08sd2lu7jcf0s5g82s5fw0h86pm5tqr6rtn72yv7hfpvyr5usevmgcv6qel9kvqrtwy5m2qugvfz3yxd"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypppe0u3t2ma8ge78qka2d5h5w4sk4sp2teh749k0hpzuhtaesp0eqmvqdjq"
+authorization = "signam1qxrzks08kk99xm63merpgup40s024kkw578xkkd5gkrplmrzwpgx2wgjdkx7nrlngjz00te9vf9d6d49lfd35ztwwy7lxel8jnyxfy2lqquc4x4a"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypmqrgqlgj8u8sdt28249cxqenf2vu78x4jp6nvugls0qrz5vdnyegjc05m3"
+authorization = "signam1q8vjud4cxl6ff3awqfhu0rwtd47f7cj4t4xxzvdtcj2wy2v2d6dfz39wwrd8jlduqqa4p4lv568lwunu90h3zrzs458yzectyzyszdu5qql4nglj"
+
+[validator_account.metadata]
 email = "didiiiika@outlook.com"
 discord = "andrewshka01"
-elements = ""
-telegram = ""
-twitter = ""
+twitter = "@andrewwska_cute"
+elements = "@andrewshka"
+
+[validator_account.signatures]
+tpknam1qq9fvhd7trmhxl5r30py9aas6p94mw0kdu2xagz2c7xuwvwhtsw35w2yav3 = "signam1qqemzzfmgpavaggrgy9ur2tkdwnj7grnvq090lk6u5rdqsc88grwudk259929huun0240cfx5pt4cn7hcn0udmu7tks7e3lf88eertgzs6mne5"
+
+[[bond]]
+source = "tnam1qxh4xwlzh54lztts2qkrvxfmhwl0r8rqx5z20ama"
+validator = "tnam1qxh4xwlzh54lztts2qkrvxfmhwl0r8rqx5z20ama"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qq9fvhd7trmhxl5r30py9aas6p94mw0kdu2xagz2c7xuwvwhtsw35w2yav3 = "signam1qrgknvdshs2zxzrw39zz7al0486h3j8ell8g3u4wpkkkxx3r25kmjape5x6fzc3xgezx4x4gk7kn34ap6sj6hykqhmdsyqj8ex52pqs9xgclat"

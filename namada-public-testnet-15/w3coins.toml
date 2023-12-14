@@ -1,16 +1,48 @@
-[validator.w3coins]
-consensus_public_key = "00de199bd6fceb8c459974995e14c8c31d2f5bb0f5d3a3149a07c394ae851c110d"
-eth_cold_key = "01034ae451c1d80b541670e7db223cd0fe940d1bc6c3c1602b955c526a47b12e20b2"
-eth_hot_key = "0102c7a3c68a2e82e6cc95e178eb9b1c7026692969956ef5467d074c7d652d906cba"
-account_public_key = "00424cecae5ebd709975914a96988822336d4f1d891755cf8862dac4e5a7c91b1e"
-protocol_public_key = "00b6c1ee94a8ed775bfd66e26b0286ba28d471b473d7123e6bf0b9fd52d605c70a"
-dkg_public_key = "600000003e59fadfb2537793fb62b48d6f4b8db5fa51d1a6ec35524bc68a7bf1e63048fa866a9272a7de60f066e86346e4cc2504aa0946db5b2af8f4268df5e3f8e8b024c14f5033d1b51090b40a620e5e43a98dd4c4ab7b11452a9c567507d03af5bd94"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qruqx3gww34ud35tn2vd9cvd0tlvj72eglvy5frkz8st3qp0hnk6jlevfw5"]
+
+[[validator_account]]
+address = "tnam1qy8dj93ck2l4wdewhmste6kzsuzaxx45eg5l05nj"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "213.239.210.125:26656"
-tendermint_node_key = "00c7b73bdb7397e879085140eec214908defeecfc349e4842e939f20d5c43914ba"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqfr07zmfcrku8wfr2w4h4sm9v9hnyt3w6w5730sraljzt8wu4gqqm7scum"
+authorization = "signam1qpjpt97xwgm6ylmamu2ymnx3f47uk03srta30sq2fyvvzr322q7xtzcnrw9m0cjlpp3rs72nywc9zxvenms705ll9vxs4w36apd9xdgqemva8x"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqxvrjwkvlfs0z67jq6cly3gqcqqrfknsa9e8n0r3023f8z0j3h5ctpw7wj"
+authorization = "signam1qzccrszxa88l5m40s6d539cazrj9knarpq2d9e5ynjnptz79wla7nl8ypumsav4pluhmk07tlw4nqa6a4j06608rqkquejwfu38wsfcra50y3r"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrry7gn86685h4s6p3dpkn55xy6xjcz4kjn4700ee23gpvy76awtk4scp3v"
+authorization = "signam1qppah9wfus6699g68ptxccatwpkjwzp87fzgdgqay4jelp8xn09vslg630syjy6azvq48rltczp5talyc4ytkudq090vt34vke6dcgszqs4jcf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypq9tvuzckn2ahypvl0xx5evm6u57wefmlscsvu7sdu6vky7k47wuqkwrpws"
+authorization = "signam1qy933qxeayytxclu4rngzqj3uz9ymsl49zj6j9u707c8erfzwu3sk3t9ww32rsf3s6vc25u8hux849erm6prfp3ep42mt2cca2l722mdqqk47ylu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyprvhxmeeutxkv4e3c3haafg69fqm5khm4wj3rh72a45ng5k4gyncs7f89zn"
+authorization = "signam1qy6gsct5vm5y4ylsky996zt9kwvn9a3dx6hrrz3u3fxjj5072kqh2tzyc3plzj5mhqtdz8ylsqfsn3ad2dmx4vr0f3qjf2h5cee3waqsqqj5mana"
+
+[validator_account.metadata]
 email = "info@w3coins.io"
 discord = "Illia | w3coins#9304"
-elements = ""
-telegram = "@w3coins_Official_Group"
 twitter = "@w3coins_io"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qruqx3gww34ud35tn2vd9cvd0tlvj72eglvy5frkz8st3qp0hnk6jlevfw5 = "signam1qpd7y3cczpgt3x7lq2cueyfe5m4v4pqjgunyt68gwdu980zzq7924ncax4nzhdr5u8vjakh2ykaqzhfemee2py05gyxm0pn3te0d2ccxnel27q"
+
+[[bond]]
+source = "tnam1qy8dj93ck2l4wdewhmste6kzsuzaxx45eg5l05nj"
+validator = "tnam1qy8dj93ck2l4wdewhmste6kzsuzaxx45eg5l05nj"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qruqx3gww34ud35tn2vd9cvd0tlvj72eglvy5frkz8st3qp0hnk6jlevfw5 = "signam1qqkrt8fl98s5y0qdmuwws8rf4qeatgajhf56s52n5q2ynts4jwwazzqcj4cwydvnufxnecjdddmdx2tw30wpv4p5c9cuy6qcnvazv7sy7kaz4w"

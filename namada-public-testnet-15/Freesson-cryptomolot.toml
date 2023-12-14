@@ -1,16 +1,48 @@
-[validator.Freesson-cryptomolot]
-consensus_public_key = "0079f2f9568e3565f5895110353af58fb858b026343a982ccc732a91785c9a0945"
-eth_cold_key = "010248a7bc1077350b60dfbf304c19f9aaae5a6171af65ad56dc0df71062cc802f64"
-eth_hot_key = "010221a5d0a1e8230bbc8663e01fa3f1f71b147f963ddca32bb0697d351298b47483"
-account_public_key = "00aecbafa9562e1f551b1b0f67309aba984842dd2aca6bdb4e2809869c56597778"
-protocol_public_key = "007cd0f28d33f19e37bbd7934ff98f0d58cb9c9e9407a03fe355a35d2e8344afb3"
-dkg_public_key = "6000000007daadb2b390f7dadca96d182798d1e11d59df9e71c34bad88c69e37ef53f9476f04e2cd0f682309b27a3c1910a66300d543e27e3db13bdb547f6df9b9b5660b8b43a56a80c41cd85f9ffd3d798d6559fcbf4b44c30fb403073cad5c1945d610"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp0f37ka0rpqejv5g45zm0y39agpg98t7ajvqefgylmy2v03pvpwkru48m3"]
+
+[[validator_account]]
+address = "tnam1qyk9er80ka9axq9a0fagc5cm7vgatf6je53884ed"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "65.21.27.123:26656"
-tendermint_node_key = "00e42724d8ef97c90b6c0516a7d8fa14fff454e91a38faa3261db57255c8364917"
-email = "unlimitedmolotnorilsk@gmail.com"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzrvqyk94cf6lduwxtypaynlf5338nqvfymlecn6ah3kgkg3w4gf67wtm28"
+authorization = "signam1qqq06kquvf8mez5pacmg57yu0670umuedtzg83de6tk6d7k8rf66s3z3epyd9mavpjm55wuztjf3h2sfrr5pnjwwc0s734rk903qypszw769a4"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpl0t8usa3gnde7rc2m3elpz3x9reqjf25hzn29uxu4s9yhrl7ln7kydamq"
+authorization = "signam1qpf0tmnr9qesfvx877sm85dgfa6aal7ug02e4mf6226vr85dmq98q89gmf89j5f02fq65ptuv05eh3j4kqeflfcxv06ejygnxvar7dqpge2qat"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qptks5zw5nphcaqx8lxechdgrthkplj0h46xcz26v4un2xa59pyyyqpa4je"
+authorization = "signam1qqqsmwmexmnx56t4auwahf3wjhmht5dsqag562jyemjwlhcd268uzefptkdqda2v5tfwqewxch2lr8p2wwazqydlew47lsg0ukfucps8v7pzyn"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphn2xv278zt48f5pygvf6xxkdwafz4zd7cmyl2p24nj5j9ju9p9fs7vd9zq"
+authorization = "signam1qxdk466wetrya34estr7mh8ld64vgcsrvhat6sjwm02styekzd9tjmd67n9rfl69kp8nypnqjfn0dhfaken70ff60etld8smc760xqq5qyysxw5s"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypedlt0jxy3upz4zyh4v97d4gluzgz47q2vqmdf0984md0pwcylu8s6ggzdd"
+authorization = "signam1qy8hakfv009merjda5ajmfqucglucx5a5t8tg2lu7udnyy0eeydpkd84z9qsarwp759svaggg6gucfufwe4ytaeqr5qdpqe5uljps9l9qyzn3h4k"
+
+[validator_account.metadata]
+email = "semenikhinas@gmail.com"
 discord = "freesson"
-elements = ""
-telegram = "@Freesson"
 twitter = ""
+elements = ""
+
+[validator_account.signatures]
+tpknam1qp0f37ka0rpqejv5g45zm0y39agpg98t7ajvqefgylmy2v03pvpwkru48m3 = "signam1qr99e0rps36r7uv59zdl9ua502zxfcucs53h62ry7mfs8nzht3hz0x45vud4aqktzwm8epkt82hvzgwlpa47tt4sl88zx9yjvaa8whqp7eaplh"
+
+[[bond]]
+source = "tnam1qyk9er80ka9axq9a0fagc5cm7vgatf6je53884ed"
+validator = "tnam1qyk9er80ka9axq9a0fagc5cm7vgatf6je53884ed"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp0f37ka0rpqejv5g45zm0y39agpg98t7ajvqefgylmy2v03pvpwkru48m3 = "signam1qpqj4kp0zmt99zwe0fqr8teqwvvyqcqh6esfjd83kgplwf9as8vdh2z5t2taa2dfcmeyq9hzz2jd5g8y4v9098em0puadhjy78ye0egrpjav7j"

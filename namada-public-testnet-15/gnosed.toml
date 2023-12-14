@@ -1,16 +1,49 @@
-[validator.gnosed]
-consensus_public_key = "0048954173274d22804f3c3f60ffd42549453c39f6da03bae2b7d9de3f99a2cfab"
-eth_cold_key = "01022d5a4c70f15a0f5f8fa2b9cf6e6739bda1786fc838a5ae94eaa0e783308ef200"
-eth_hot_key = "010270baf7bf2e0aca5517106cdbc5fdb84e58843b4d4f6ee471dce7d9d6face88c0"
-account_public_key = "00cf27ea26ca716e88d6cc7211181c9fa447ab10b33fe73babbefd731b1fae0baf"
-protocol_public_key = "0000f4f1a7602bd6fd4ef8689597492e2bb1cd409370d3358d340641f186486544"
-dkg_public_key = "60000000c0521dabaca7e10d83202a445720f60cd6242f35431a61240238bac786fddaa64a941e34dc4b7f631cc6330f5db8c61903babb6a4566660d2d4d674047e66b7f61857f6dda1efa7e6250148ebcfdefa309ec535c79ec99abfee21b784768b300"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qre32mnr84x3euzrdf38k8yj27747dswktzjk0ek6q6jt0gvxnyvgx867qw"]
+
+[[validator_account]]
+address = "tnam1qywfg75mwwyg6x7s603tk5j4g0lx2vf3ys82j2pg"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "162.55.0.160:26656"
-tendermint_node_key = "0088071b1bbff5f75c163fd26eb5a7bca0728b3a588e87ce528f986b02e5883146"
-email = "hiwz2ster@gmail.com"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpfmunzepw74e2d2lgcsyl0e3cj6elhupgexqap82g4k4767p7nt7tstc76"
+authorization = "signam1qp4e06c08g965mvqmsp5hmhrkx9k3jsxzwcpqeyv2e2ulxh473ayx3wlnavnet6haksa2v244ps9lzre4f90rvs3gy8a7xkdtt9sahsxqx6shl"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrl73hqplffq76c0ckg00yl976dtsaqmm664e5pacfg6e0rmtxwfyzdca00"
+authorization = "signam1qqaa9jpjgjr5v24ryk7mre8astcg4h089yyzuuv0yrn9ukx8uvmkfus5drc7ahj9ma57jh64q3mau4mr9883tzymwlu07zzhpr3q56sxl96qk9"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrpfknjz2vxxdj30svf2jmaaczgp6vsfrhw5jsjv5zdq6sxmzj46uv3rn4v"
+authorization = "signam1qrcfnsc5hu9d6egs9rxh5hpz9w38w7eta33ud06xehj2ex7zecdypyf9ug3qv0m5hm3xgqekddzefnaem02jac0addg249sqcyzuffs9emkf4w"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppgddvkwy8q5sn7egg8033v35yy5qjyqkgkqw86u882fl89z22r4qf372f6"
+authorization = "signam1q9qanpyml20zscgjzzdktz6c7fp28s5yl96nqsgawcpvn0zqnnslcc8wyck44ggplvrdh7aqqs7a3ds4f9ppgscq5xrsfv2lna2tlklnqqgu07xl"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypp4ejnrc2cysu6nhg5ms4rcx3c292g6ck38tm5kvgy7v3kencyxes2tw0qu"
+authorization = "signam1q8wduf37tqnjpcs3sxxcwyk243wlg3j40s7m0cjdjwuyxxclxa53cvtuxses39pkdhtp9h8pjxye4ey88rvychmqt6yxk4qhvmfeq236qyuswgef"
+
+[validator_account.metadata]
+email = "g.alexandre.roque@gmail.com"
 discord = "gnosed"
 elements = "@gnosed:matrix.org"
 telegram = "gnosed"
 twitter = "@rockycrypt"
+
+[validator_account.signatures]
+tpknam1qre32mnr84x3euzrdf38k8yj27747dswktzjk0ek6q6jt0gvxnyvgx867qw = "signam1qzhqz9sndpve4wfcufu2ml9jekplpsfwzpag8xf4g9hg75c5puy34ej4xp9hrfkymqszl02333tdrge2qq6jqrmhqckvn2en4fqy7rstea62qk"
+
+[[bond]]
+source = "tnam1qywfg75mwwyg6x7s603tk5j4g0lx2vf3ys82j2pg"
+validator = "tnam1qywfg75mwwyg6x7s603tk5j4g0lx2vf3ys82j2pg"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qre32mnr84x3euzrdf38k8yj27747dswktzjk0ek6q6jt0gvxnyvgx867qw = "signam1qrk7c7a2j8s22nj2yl6tdussgrc3j67fng4pedj2jeny9xvrdwa9ffuq62qz2j2vfgp26l8pwlxfqnjuv4qj2f0u5h6gmd8uup7vhgs0q6f426"

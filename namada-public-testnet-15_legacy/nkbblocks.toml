@@ -1,0 +1,17 @@
+[validator.nkbblocks]
+consensus_public_key = "00a3160b24029378ff1f1d5b0f7259ac3eae2250598904798b50f2bc93d2f0873c"
+eth_cold_key = "01022df8c8e187281c66516e39abc009d9880c45900356d9f17d2ee544199f60b924"
+eth_hot_key = "0103a6796176102cd68e50310249a7ed863056c99a7c4e93fbc470e4f265fb533d87"
+account_public_key = "00a10a2fee1a4ea7495d713fbef54d1890fa0394b96ae69e5bd57b9d83d97146ec"
+protocol_public_key = "00028eac655a287b854c27ca19590a6292cc1abe4312ab901adb53d8eeabeb1be5"
+dkg_public_key = "60000000dbfb08941e072c8e2865e3c7890253f079c1044dc173f76491802eb3c164dba0a34e3da3c200d60a9ad9f0c4adfad419ea94c087ef9700412ba8156e79feb696335dccf49ee21f368f1911ce5020e58372dc14a431d556c2472c295198d60c08"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.21.139.150:26656"
+tendermint_node_key = "0066276d62e8d1916c98b3ed0fd9a2956b1e9bfc22c495caae6adb9dc2421ba2d5"
+email = "nkbblocks@gmail.com"
+discord = "anurag#9982"
+elements = " "
+telegram = "@anurgb"
+twitter = "@nkbblocks"
+

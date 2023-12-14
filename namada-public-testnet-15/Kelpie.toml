@@ -1,16 +1,49 @@
-[validator.Kelpie]
-consensus_public_key = "0017f8cab65f819ed632c1ecf777d5cdcecc59e1489beafb72a19c3e05877641d1"
-eth_cold_key = "01026c8a683df8e77dadf86e3e40b577a893f6cdc73443773725803c1c365d9e816a"
-eth_hot_key = "0103e7893a259eb5daf7fe89e2c4909750e02de0c52074098b5c6883b84fae2e1e35"
-account_public_key = "00b91e147203ae5bc9644727c4bd4a39c8bf9da86fde74173baab0a260b4489045"
-protocol_public_key = "00100800a14add813cabd6258a50f077c37615d27beaa637f031a43fad4de25fc4"
-dkg_public_key = "6000000076c857e448c3723aa531f203b066892d1557b138354a6349865017a47370dfbaafa0efee2022f2023cd9254f2ee84a0d67f3e2b3979767fec7f75c7dac00e0f8754d67f89039e2e85dad0c96e99a56b690728a3496b9e96aa991fac316beb584"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz0w4tj6tzc4wq8r0g7hflgmk9q5wsmnmv0v3kja85z9j68zwk2qs4ls3jy"]
+
+[[validator_account]]
+address = "tnam1q98y99lhdje8k4l3cumde338ajshes3f0q32rj80"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "144.91.87.99:26656"
-tendermint_node_key = "00d35d710c9c7faa65a7036e3945d6e0d555f38807f6c78d291fd96e51bb0a5190"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpnrmv39947yg772qtu4al03540t0plpvtl4mj2qxxv50h7fdwjtxedzt0k"
+authorization = "signam1qqz3wu0ehnfqeag2naxm97rs7pxflx24s90a6u9h4srfev6u7gyf56fwnsza7uwv7j6vgt854q59jsg2hwtwcsmvydtc9tge5tple5cxjk60dn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrd0xm7s4ztz80jvetvdu3zxk7rcw6jy52flh8w759zvegkj55m75tk5789"
+authorization = "signam1qz0dg0mmzd24kz4jv0gxk589v8q5z6hpwvvfa4kmurqakja36ccrss9qp3rqgvwe3jtngr3s4wl02peysfktgdcvlcjdjcd398ewltc2f2v2d4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqtk5we6fd7hermxxn03v7r2r57qkqc34sk03u5lqkpkuxmqdyshydpvxjk"
+authorization = "signam1qz467f7en4ve4mh5s82myapewcmna7mnxjyvgdyfyvgwju72kd62c0kjmr48y3h6fu3d0klax3q2hq3p8pfxd5jetzykkh5vn4nxjvqfh9zlvh"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp5hp26plu0l772tt9xfqrf8ptlzcpjdctr85zmc8us76lrhx4zflgate3g6"
+authorization = "signam1q89nagvry6fnvnmyueuwlkz4evs2mskrwf7uw52wyhzgwsjcqkdv753wj6h05eq5emwqmq7ck4r3c7tarh46j58g6ckfsxq89f2wv0npqyekwjt0"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypcehru4kcq5wasndz0p34jwkrlegm4a5yzpjz2rvhnt8rdvh96t5qcpdp9d"
+authorization = "signam1qxezwy7dv786hc0gnweeafumaprq75c5cnzqdr0dg6zm5j0w6mr9vrdfgzrkkdf0am6tlu9e3kgyw53gqk4s8zvtun83ycwm8k0km3a8qqx0tt3s"
+
+[validator_account.metadata]
 email = "kelpie26rus@gmail.com"
 discord = "ke1pie"
 elements = ""
-telegram = "https://t.me/kelpiess"
 twitter = "https://twitter.com/kelpiees"
+
+[validator_account.signatures]
+tpknam1qz0w4tj6tzc4wq8r0g7hflgmk9q5wsmnmv0v3kja85z9j68zwk2qs4ls3jy = "signam1qzxxkmaus8upxx9g08zk58hdv3nugue24xtpmj6d32kwvfq3pf69g3qqhfvqsnxxxxcharxqexuwldzmpcv5ue39qzv8s2xpjnn0l5qfmgswvt"
+
+[[bond]]
+source = "tnam1q98y99lhdje8k4l3cumde338ajshes3f0q32rj80"
+validator = "tnam1q98y99lhdje8k4l3cumde338ajshes3f0q32rj80"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz0w4tj6tzc4wq8r0g7hflgmk9q5wsmnmv0v3kja85z9j68zwk2qs4ls3jy = "signam1qpwadtlvva2v46l4r47urd5gcnmkdajfu0zlaypzdq72m6u7456jfh2vkcztz4zl0fgjm5d35r0z5g5wqzj2mfallc0hhsdvsfq7y8qp2k5823"
+

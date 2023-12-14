@@ -1,16 +1,48 @@
-[validator.NastyQueen]
-consensus_public_key = "0004fea97468e0cd2008ecab552dbdee05a62593b306dbd3ca2677e6358165559a"
-eth_cold_key = "0102022bb5c8525c831d359ae4fddf49f1b6e195e23434d30250855b8be4d69865d1"
-eth_hot_key = "0103b02cb7244bc6e6420be22de57e7df8dc3433f902fda62473c756d9cc6fadc2a5"
-account_public_key = "0092dbb3b2c238c36caf2bc1f78cf6c07c7a6f4921ebe5dbc885d1c16e25526b02"
-protocol_public_key = "003adba8ecdd80dc4e27d6ef08dc35d65440f7ab8f5a317483140526e0a9d92ef0"
-dkg_public_key = "60000000f901721b5e464f1213a37b12cd77083ab3881251d290622b0fd071392754e5690bd3eb77f6ef72df2ca2ee4736a843073e0d2cbeda33ab7152ab216911004f1f4362faf2aac5c20846d2b8e4d4527452f7403e48950078f3e904e84118857290"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpajf6xcpecc7fle5lyvcka4mr7j2408amwpmv94pkkvwcuhn38gu4sktwy"]
+
+[[validator_account]]
+address = "tnam1q9rcs6tj694g7j7t63r30wkkuzxfa46mzgclc7fc"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
-net_address = "95.216.65.177:26656"
-tendermint_node_key = "00396b506b123dbd648573d34cf2740c7ef604dfbe2bfad171220fc3b0938b821d"
+net_address = "148.251.11.99:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzyrf7yc5tl2mhmzc7ly4hek4vge9glue0cshgeycwpzp6hlum5lucejs20"
+authorization = "signam1qzayshdpaesm9lc68kmtyrp5yslw2tkjue82k2gzkllxmw7gehtq68qugd0myvrnfwq646gk6djzvvngenacankx4l7v6efu6yujn8qy7l244f"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrdg7u2gutxnxntl3hvcanryt5cz289j7x5jx2qcs552crg2ujz9zum3w0v"
+authorization = "signam1qz7clk9y0da5z4dvh3txxzchxa02zvj4cdlnc0r6pm8tszkdx8dtu8qqewcq3aqqhh68t46vlt5m45tgupaamtvadyf8a9fjkee2v8c2zt7czr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrwfpv9fsefc7qvn7qkzx04anhmmjqf0sw8tam6njlx4detnc727su33p84"
+authorization = "signam1qpz4r2tedvj4z3sx6tpyw95rg2duf96ga8q4d5eaqjc3gj9feaf65hcuv7qhew23kujt4y7s9fewp03tfd0zgdrgm7jnc4nnccsqtpgdaegypr"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypx64l3sj0n84zn8fs2fvxyr8hc8fynk2du7zy4uhjnl7563myc8lq6axrzk"
+authorization = "signam1qxnfjzc0sufn30rhh7mw8s3lrvvrkkmry2hz8zyaeu4pz6s4lpca7t0c8s2ssnr96g24hegrw6l3mwl3q9qkfstwzfcyctarcuwltrxjqqh3hjna"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypv55ztguwxr77m67e87uys3w8u9zjrlvs96wk43gnvnxqg43kztecpl5yvz"
+authorization = "signam1q8cuxm3y3wcqg7r3um75lnmj8l7wkswzrvxfqpp2xvmf4ue942crkv3w8yw8kzun2ut4h24a5pdkjwwcxc226s9g7c3jx9djvkzy0qveqqvam8wk"
+
+[validator_account.metadata]
 email = "Korshenko.Anastasia@hotmail.com"
 discord = "nasty_queen"
-elements = ""
-telegram = ""
 twitter = "@Cashmere173"
+elements = "@nasty_queen"
+
+[validator_account.signatures]
+tpknam1qpajf6xcpecc7fle5lyvcka4mr7j2408amwpmv94pkkvwcuhn38gu4sktwy = "signam1qqur04mjs4sm5raavmwy4a3adps7xjz3gj7wpkvkmf6txsc2va4nwwnctcvp3376kx8x7s2y9z34ure69azpryt0dg35m6xkjk53uls2f48ag8"
+
+[[bond]]
+source = "tnam1q9rcs6tj694g7j7t63r30wkkuzxfa46mzgclc7fc"
+validator = "tnam1q9rcs6tj694g7j7t63r30wkkuzxfa46mzgclc7fc"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpajf6xcpecc7fle5lyvcka4mr7j2408amwpmv94pkkvwcuhn38gu4sktwy = "signam1qrpmwftldhalvt3ffd27ehah627skr9lefleyle7e0pt9szcsmpfyjd4pfsje750l29uzq8lrt70r9mtj9vaqwjn0468jvt65fz2lug2xnm9lw"

@@ -1,16 +1,49 @@
-[validator.BwareLabs]
-consensus_public_key = "00ba650bc841b825ab033c663ffa4e8840819c8c257270c239a51f3c3ad4a2e410"
-eth_cold_key = "0103b9245199102899b14db378ed31c03b7fe4d968ea3075661e7b3628e4a3a37b1a"
-eth_hot_key = "01039ff7bf9972a28c0bcf63259946b9096dd5774efb9cfdd362eb01cfaecd89c8f7"
-account_public_key = "00f94ab5d10ef8dc2ac967c2bb379ce007866b648da2714d2bf684fbbbc3d9c5c4"
-protocol_public_key = "0046e0d6ab2bb2e0fe63fbdbfad9b613c42eaad2750ca7aacfb996b7aa9c59645c"
-dkg_public_key = "60000000fd078cac4210bc2d641a04dcf3eab1d14ea26bb2f8770b7429894589a0abd16cdda82250ea8b882de6979d7f7e911700d9b664ac3ce77d1abaa2c90db207de608900b936b475458f3546506fc0278344230d1a9f8c0268ac9779f2c4a20b3110"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz0zxr9nfs8mrk7rk64etnk35dj6szelu4nzn3fsxd09ajtmefv9g7yamt8"]
+
+[[validator_account]]
+address = "tnam1q9ue2404n6axlkh6ss9r3vvnqlew59pczcfjr4ev"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "65.108.76.60:26656"
-tendermint_node_key = "0024aadf4409025f9f593f34e439e7b9b1cb67baad2b1ee06ee6e4ee9c08590230"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzvysmqz6mj3mllprt8jfkk7063was3s54qqj4fftym9aumst9r9jjse7z0"
+authorization = "signam1qzrverwff0aec6zpysft4ueued2wur5keg5n3awwspwxmm5e7uw59y4fdvkq6gven5jrcgwemr7wa8u7zq7lmalq6xejzzx73pvxyhcf4e9wyl"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzw6sl3saa94jg834utd2n0h9qdvrvhm0a9czn4e90t7zsz6chtx504eghf"
+authorization = "signam1qqwnpkv4qsq3ha88msra5hcr04uplyjj38nm3clcdptxuxaz0guryq3kszp6pemc4rhjsjck3ht0ssxe7qqnsmt6wrmf329zh9yz6wcwcpf7hd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz0dhfmrkz9m2zwn2tcpmuk9atsazxvckp8r3wjxujrggug5xczpc7aup30"
+authorization = "signam1qpkjnt4rmj4y4vssgf0zeux9z2aq4plfzjaax48hcxuzmn62a75a8p2r3cenrdf0k67u8pztujeycseg30e7a3hmhj72wmcvpukkcwcyk8r5cc"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9c6t2pyx3hh0xtdadt4664pl7gdzjcne4dmjjmd2uhal78d8gt5c4xkq0m"
+authorization = "signam1qymhunk7nclmwxfuf7j6qwrfft3h3cmejfp3fl2rdpe5hf4slydrw3llk25d0z0dk8c4mdl6rleges8x9hdmzj5cusssxa4xnvmjacz6qqdha23q"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypw2wlpyyk09uc26dxtjf93x70fpq4ck38z7sf35fsxp0d4gvpeu2qsvvfrr"
+authorization = "signam1q89anah6kkfxcz577x7l7vgrt304c2dcnjulfvl3g3l6yzxkmpts5k2tsysw3zw8p4ylz8gjrznkvmghcuw8m4qjkqpmw7ysen2n3t39qq44jh58"
+
+[validator_account.metadata]
 email = "validators@bwarelabs.com"
-discord = "Mihai | bwarelabs.com#0524,silviubwarelabs"
+discord = "mihaiciuciu_bwarelabs,silviubwarelabs"
 elements = "@silviugae:matrix.org,@mihaiciuciu:matrix.org"
 telegram = "@Mihai3410,@silwhat"
 twitter = "@mihai3410"
+
+[validator_account.signatures]
+tpknam1qz0zxr9nfs8mrk7rk64etnk35dj6szelu4nzn3fsxd09ajtmefv9g7yamt8 = "signam1qpwqvlt6943v6ftxpahj5uqsv0ps0gn57785m00mnx7a3ng37rmzcrltf4axfgvwjm7wnj064w3xpj4fchjyumyx4syxnr7e23w9guqynz8dds"
+
+[[bond]]
+source = "tnam1q9ue2404n6axlkh6ss9r3vvnqlew59pczcfjr4ev"
+validator = "tnam1q9ue2404n6axlkh6ss9r3vvnqlew59pczcfjr4ev"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz0zxr9nfs8mrk7rk64etnk35dj6szelu4nzn3fsxd09ajtmefv9g7yamt8 = "signam1qr76l6jvnu5zz77ur5uz5r8cewgc822nzwyy00dhx9sn6gyxhh8pskq4ukhdutn2t9pwrgc77mrqtap7tugqpkygk7073x3jcy7jvesp8akmat"

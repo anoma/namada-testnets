@@ -1,16 +1,46 @@
-[validator.Weakhand]
-consensus_public_key = "00d0bdc1b8fd140363f034272b6e1a16f74427fde50dabdd039c0e7ae375c05c39"
-eth_cold_key = "01027a37038f8b593382174b5f28639c2a4690267d27d922091837846895860378da"
-eth_hot_key = "0103f4c5286f08256e1bf5a09e429f108be74468e57077e2f03f2fad904365bb53d7"
-account_public_key = "00d937175484634dafda156ae8bb8d21ded4c61494c2bc7879f6caa703ce7b24d5"
-protocol_public_key = "00818fa51b97844b3d7ff7849e352dbb79823ffda30a50041a3c2faf510bfbe9a6"
-dkg_public_key = "600000000493a64451ed6775af8e5fb0432cb2e5438ac22cdc426b28c059618d34ab2bcd7140341a58d075f784535bb67bf09d187dd45d0c6c5afdbfee99555e5a5ffbe232ce2630a10d6f51bc1a72cda93604643df2a9ecc10e40e386882260c2b30182"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrd2gh46ha6deaek5u7tendclarx6m0f7k4jx7zapny97vdtzvwtumzrfxl"]
+
+[[validator_account]]
+address = "tnam1q80sxj6z52kltgj6xxd9v333e2qeyh78pg5gdkgq"
+vp = "vp_user"
 commission_rate = "0.05"
-max_commission_rate_change = "0.05"
-net_address = "162.55.1.2:26656"
-tendermint_node_key = "0018eb30622e7321c519833acaf9861771e27d07a11eb79104d963813cd9b381e6"
+max_commission_rate_change = "0.01"
+net_address = "168.119.89.31:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrsh7g9gj7a39rdc8gsm39ylesvhezrht7dzk40mnxpvt5594xweuxexzr5"
+authorization = "signam1qzhwkr2jlr69njlr2eyqj069z2z6tfunj6xwvr972u2z8ttu5an2zf2aasexyvxmqt98xz3gzqkcvtu7ppwga40rdamd8trngdcyunszscways"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrqjncy379yzjk8h00h9uxdndnpds4xt0e0dx6ker4xnggx2wwtsv0xr96n"
+authorization = "signam1qrenr2lgz83nvuapkzvkjggfzzt5khfd4em308c0zdevrd0vgvwlh492tycx4ppc7734afcx3sn2ylc5acaf0dmgnql8kt2vhyqchwgtfkxs7g"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpnp4tsh6eulqz84jpcjn5m4usapguzzs33lhlgqmu6v0r2yfe8t2ymvenh"
+authorization = "signam1qq676q3fz2rtxaha9rm0tzplcq6puqaqfqwczyyrrs36hjwu05lt3pfyfgnzadcsl34d8esemd3agprpvty5zv2te37sw68s7tvmqrgy8x9dk3"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypy45hepyvep6at3xlpecn3hzj97gytuk0lq5lgpnht4al9euvtzssnvgjnn"
+authorization = "signam1q8k2j8d0jyjuxfh5247zvhyq4wyk2c7jp3tnd7pdzswuz2t8hzsvu4hkpwwy2nmgg84gl0yw9s95urjnf3wms76xegxtwss87707sl5rqqacn7ge"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdth65xvqxda3gapkc7us8ryzj829k7ud0zygt78ptcxxpn7ymlxsp0p0a4"
+authorization = "signam1qxtl429fcvxhg5dtrew2kkvgn8uw5q4ajldnpyjwszwpt4ydsw70w83kflfsqqgaraxre0tl4y9k4py0ax5kkjknusjn4ge0jk3y3jx0qyez6auz"
+
+[validator_account.metadata]
 email = "quochungbackup@gmail.com"
-discord = "TND#7025"
-elements = ""
-telegram = ""
-twitter = ""
+discord_handle = "TND7025"
+
+[validator_account.signatures]
+tpknam1qrd2gh46ha6deaek5u7tendclarx6m0f7k4jx7zapny97vdtzvwtumzrfxl = "signam1qzu8ynfa5jvtrf8499cr8ddk52vn990ujax5fe83u0xhs4j7pj5jg9a4lxg3luhg6pyvmrpancx0crfau66ngsd3frcp9ayrdcz8x4qg4dpdt4"
+
+[[bond]]
+source = "tnam1q80sxj6z52kltgj6xxd9v333e2qeyh78pg5gdkgq"
+validator = "tnam1q80sxj6z52kltgj6xxd9v333e2qeyh78pg5gdkgq"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrd2gh46ha6deaek5u7tendclarx6m0f7k4jx7zapny97vdtzvwtumzrfxl = "signam1qpuf9hrmcy6ll9kcmr9ypey20xg0wxa42yynn9u625plgnyjgq0u2gq5tpukezpn95a0kxqrq6tucztwtuw2mwpj2le922vx0nuxapsrmt9rxq"

@@ -1,16 +1,48 @@
-[validator.NODERSTEAM]
-consensus_public_key = "009ede266d9095f4ddc99bd0583d236fbf444203af4cd74de6fad7d4b10ada34f5"
-eth_cold_key = "010362728594b38a504f956c12ebc73680d3387cd39e183178ba173057c4442eb1b1"
-eth_hot_key = "010229844df6be22b906c5ab8d7e4a60cf84f2a80562befead2fa91b3347cc26555e"
-account_public_key = "00e6ec7704ae888bf3379628e3f3fe0b86c21b1bf6b4d4ba26b24cd7f20634fd39"
-protocol_public_key = "004c0eb0bf173a920924ccfd71867a4d0c03151d32e25f2bb63dc25bfe7806647b"
-dkg_public_key = "60000000e51dbf6ce336509f63ed028ad932e31086e696e14f0dedca256c429aaeb417e8e6ab0d87fbfcfdfcbec270b2791e5518abc7a684a1bfcc128121cdae4f33dd3573391f7f4641169ee7fb2c0bcca1d70d2eb585921fe964e6d75c8191be9ba189"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrcvrjvvt8mhrdd2j9p864cv378rv9jxl2uva6ljx265zqqg0kpvse7ah64"]
+
+[[validator_account]]
+address = "tnam1qxgj46kkg6fgj4jhx0wmgjek8086pftt6sun2a6k"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "139.180.217.51:26656"
-tendermint_node_key = "00213c31186c0c890c2f65a91cff0a0ad835e533878e6e65f15cfc92b006a02c9a"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqvjv0dp9t9e2zvcw2vhuldvr9w6pqu873c6n2yxpgr54qhqgug47rfk4nz"
+authorization = "signam1qp4d6vepdmqnqapfyxtm9njsfglzdf42vhsal7z6a9pdy8qua8ctz5hy73nc9993nku0nx82watgyap53epl496s5dxq5uqrp8htacgy2hpmr9"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrfzrm4z87gzx46m7gh3a0s25nr3zt05hx5wj326pw79luwfjjtx2rpm77p"
+authorization = "signam1qzx77vpdc8t6ud206wjkna5f9h5ut8xq84qg7yg29tuu8fpskfjd8un4mfyzz4gen7m54xatzn3dtkzvnwc493kyd7ev4nv9hk8y70crkyg7n4"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr0kf2aqthsa734ns29tq2hkgwg5yzwsm7d4h79cc6req0ma8tmzwzk28pp"
+authorization = "signam1qzm6nnsnrflvkqgjcucjrvud9ckxps0rr7el64hqszu3s49tdscjp9zc62yxuwpq9h8u6asjcthw7zupxyymzgz2sp7g8l52xurj0asd5d00h5"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp4xjae7rkgpgafumv3qvew5fss4lyrvcp4mdcr08ryj3jqz38pv5qfhuwej"
+authorization = "signam1q8e333eu3sm5sgna7h9qngm54jh3cpnd498g98uj0mlw9muhww96yycgtyna07wedewqzza5knthk04uvh0d7cmeqjryycr7axt76z5pqqjcmny8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypavu7vasyp3q3r2wnhzv3dunkq7plv8ma4353analhm9cj6n8lmwcvknt2v"
+authorization = "signam1q8qg4spf3hxwzxzw9amc2q6z35thaqkkknmrp4c8vppmk8c8337l7z0fpnp7v4uhcwzgx66s9eyharcm0h2333f4wxeuy5qcpl4knt6vqyad4mcl"
+
+[validator_account.metadata]
 email = "office@noders.team"
 discord = "nodersseptima"
+twitter = "NODERS_TEAM"
 elements = ""
-telegram = "@septima_noders"
-twitter = "@NODERS_TEAM"
+
+[validator_account.signatures]
+tpknam1qrcvrjvvt8mhrdd2j9p864cv378rv9jxl2uva6ljx265zqqg0kpvse7ah64 = "signam1qr7gz59mxu5cjk70hf4g25xhcu6ct3mg7vep7yufersev7w34s7palwqetanxccdqdt8pcxvy95khenqxw0gdx7uacua879rutdcz5svhmny7c"
+
+[[bond]]
+source = "tnam1qxgj46kkg6fgj4jhx0wmgjek8086pftt6sun2a6k"
+validator = "tnam1qxgj46kkg6fgj4jhx0wmgjek8086pftt6sun2a6k"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrcvrjvvt8mhrdd2j9p864cv378rv9jxl2uva6ljx265zqqg0kpvse7ah64 = "signam1qph7pmjjksrlwq89qjs2f8m7rqwaz4jqayt3m53zexzufrvr4aggymy0l4sjacejnk2r2ctv7vcp7qyh3mmy299j5pksv4r8qqdx3zcrwycvr8"

@@ -1,0 +1,17 @@
+[validator.banderoswall]
+consensus_public_key = "001caf323221cc4ac43c54ad5e8319f4244587bf9d737daa6cce1d25dd643bf134"
+eth_cold_key = "010399928916c85d4ef0cbb132410216b2151172bb52eb1a10376ca247d12b41b08b"
+eth_hot_key = "0102a44694317964f6c48093248ad335c6ce4c2c92dd26822434fd394d8d48246482"
+account_public_key = "0022a18097ff4f1c05ba0e4a1f1d521aed7ab6549be26ba27e59ddc18c0cbaa10c"
+protocol_public_key = "004026e9d128e29f8b67f6e9bb37d18806b91e6609ce2a9a2851833b508e8195f2"
+dkg_public_key = "6000000020e7facbd5815209d0f00f0a010d2a78fb9509821e35a8d7c441363021b5265389e0f6c03d1e91b2d2b09356d7a36a19bb61ad63d91f51ffa9091e35ac2d0ce0d00a2cb20b498cc12bf5994455348b97b1295b0af536cfd0dd6ee3a4d61bb417"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "162.55.99.181:26656"
+tendermint_node_key = "00bf819b450a643dd5ecb071f8158ac2ada11cd7079c6f20f28ec045a13ee16eee"
+
+email = "igoreweer@gmail.com"
+discord = "igorbunkoff"
+elements = ""
+telegram = "@QIWBDK"
+twitter = "@BitkoffI"

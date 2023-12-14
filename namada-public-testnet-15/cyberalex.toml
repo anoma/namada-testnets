@@ -1,16 +1,49 @@
-[validator.cyberalex]
-consensus_public_key = "0098583ab406795b7d06745f7a475e8f714045078351d78319340443cd67fe0918"
-eth_cold_key = "0102d7f06335ccb34e0c29fcb1ff0d0953c2de3a530ee7a23fa12f953f73f900d09c"
-eth_hot_key = "01023130d9414e564e4d31422d4261f219a71f59906f03cf9c2cd9dc0109957250de"
-account_public_key = "0011b593f6680b7ff2608ac83c5286eda8a7d88aaa4f47a5eb344a015eeeb53dc0"
-protocol_public_key = "00fb2d19e1a8c9d71567491ae2f0c9be47268b4d5b2a21ecf6864250be65d415c2"
-dkg_public_key = "60000000d84ba5cd21e71418e4603bc8cd3e7446ced2e5bf86796444b4785b1339a476946a4a75d1b3df0ffb9642e79ace6f720a685751acb2b79f75d80da2716dd5af87a36c58a0053dffdbdd462a697c217e7588f5bc974fe6e8ba0dbb878463d8c003"
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qztzm8xv2u0jhnjfgmnq9l9elzqp00eq0spc7e7snskmm6twfaql28dumty"]
+
+[[validator_account]]
+address = "tnam1q95f2mh3p5q8zu6sad06tknwy20su0m72vdw5s2q"
+vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "162.55.238.216:26656"
-tendermint_node_key = "00968fb731272fa897a2271a52f427e70ec9d5d5eae8eba07109c1fbe25b75f3e6"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz2jj2zvhugavcz2np8u40kcwe90qdafue2l4dkjefaqvawh73vtq9etg6x"
+authorization = "signam1qz32wrp3h9d3edn92pke7vsh0numpx0f68pd6f55xmft7x07yaall6pyx3af6jzat0q68dnjh7srmqpdk2psuhgj9k9utay58v0t3gqxg5z0ul"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp5awvn9960ye8ux2x5pfdy5h5dn7y84kphm9va7wng9nzal9vx45z6dlln"
+authorization = "signam1qpjwm3yy2ezcq9x5ppylnr4vkyndzmawm9um3hv0g6akzl0xvzhhhkun7890na2ze0uussuquexdvehypzqzugajxjydhyj2948smuqyzqppp3"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qze2ktq8tuh273fga5pd00cjux0ttv0kqrgqa5gc0txfq2zfjfx4zr9pqr5"
+authorization = "signam1qrsp2luy3p8muz7nhv2hgzmue465sc67u52txxzfts2sz8haesnad6d8wqvypyp7078ammagj85y550cfnn7ccxrlnqavfey5utxmwsgvs8ze0"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp69e4d9f9yektzud4p8sp69jx9xng5t0y36xcx4xgzmxrt7d50rhc28qe6d"
+authorization = "signam1qyzag86zhrprfrwhyh6juwreddd9a4kcf72jqhul3hqgcwdjlqgp53pqk0lt4lu2ma7syux0tgmm6slt0rv3f8d7wxmzddz0hts5zhgkqqnef5vx"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypa2n9hhkekqfgnuxjueh95d85jpcrylxmte2ej33luswcmm70lfwcha9a6k"
+authorization = "signam1q8wzv6jx54zejkqmyxyfrljhp6v4q0a2zl48lxsdt7u3w4tn5h0xx7tmnkvwr0dtujxf9shzr0p8xfsj0696ny95e7lm74w4nrfv9zckqy72pvrn"
+
+[validator_account.metadata]
 email = "cyberalex14@gmail.com"
 discord = "cyberalex14"
-elements = ""
-telegram = "@CyberAlex14"
 twitter = "@cyberalex14"
+telegram = "@CyberAlex14"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qztzm8xv2u0jhnjfgmnq9l9elzqp00eq0spc7e7snskmm6twfaql28dumty = "signam1qrr96ueux0nwrfeyueyy4hrl9grlr33zcz3zmn8jfkjdam7cqcwmtkgxfv903vre97s5dvxjqpz0acw4pcj4rvmyjs99ags75z8echgp49hjaz"
+
+[[bond]]
+source = "tnam1q95f2mh3p5q8zu6sad06tknwy20su0m72vdw5s2q"
+validator = "tnam1q95f2mh3p5q8zu6sad06tknwy20su0m72vdw5s2q"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qztzm8xv2u0jhnjfgmnq9l9elzqp00eq0spc7e7snskmm6twfaql28dumty = "signam1qp5gx49keu4j599qzj9gqz688fmz36lueg6m8hsw85ed4xrtnnw38hxwufqv0xm5lxy0d2fxxjnqz2xulgnn4lpafuplneskxzqa2pqdd358q4"
