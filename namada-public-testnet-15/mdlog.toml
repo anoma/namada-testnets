@@ -2,6 +2,7 @@
 vp = "vp_user"
 threshold = 1
 public_keys = ["tpknam1qq9zwvhxkym6j7ndtkh33dl2xhf53zzumy29hrgd5ngv4pfzhmhq2yyzcxm"]
+
 [[validator_account]]
 address = "tnam1q8ezxt4expj2cc9dqzzvq4p95n83ddk7pc37hhlu"
 vp = "vp_user"
