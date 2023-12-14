@@ -32,6 +32,10 @@ authorization = "signam1q8lfnrk9g8vpppdzhqkas0rzj7rnyfzp6gws5caet53e4yxhl9s4jsdx
 
 [validator_account.metadata]
 email = "vietpt.tlu@gmail.com"
+discord = "phamviet1510"
+elements = ""
+telegram = "phamviet1510"
+twitter = "mrvietpt"
 
 [validator_account.signatures]
 tpknam1qpfngqlvr0t6e7prnn84hphv77uqaxx52c40wdep92znh47c55dhcv3xard = "signam1qqntqkf48048tsrhk5hlkea62pk8kxfeustues6sf5zcx9gpnv4550p82wkq76sdqycg2sm7e3am3ud675tcfh8nluvjlcqhx43w4asv0zs0f7"
