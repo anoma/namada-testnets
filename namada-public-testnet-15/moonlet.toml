@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzll0zmzjqqaw6ampmllu4ld7pag5wqqzg3354z007jfqxvjvmfqy6pxxhg"]
+
+[[validator_account]]
+address = "tnam1q93ynwdnp5pk3k4sxgpqyg5zrwy9d6fcm5ewy7gk"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "157.90.176.184:36656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqe8e2r9g0u3nfme8qhp2rpg95p9jm56elc43wz7tpg5g8gpw25wurkprl2"
+authorization = "signam1qqh2yqlt58xklrhgmyj8cwjh7qltqdqemsw2cyce7x0sxgvuextafqenegmjfq4zlnfjphkgmuwm62qxym5peggzr4yj4zjwtklq0xqrp0gxfy"
+
+[validator_account.protocol_key]
+pk = "tpknam1qp7hpjucpc37aec3gh6w96a97c46f78tmz8sgxwq2gzmhw3u4nt47tn9pyr"
+authorization = "signam1qrteks2pwzjkd3vrssarjvqvw93rsm8g000l7qupaenewqhly4ddg7l7ky3g85dnzvsdv4kv6jkd9gh7ww8hqgt5zvtgxw6f3hjnn7gv9p3p75"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qp0m3ctshckrsnv7tgdt6cd8np7lf893hsgkq6fk3fd42stjaf57szd27hu"
+authorization = "signam1qzy6d8hwd9zpan0tzu0fpazd370p8v3nqqnfjxqxfraqpu7989n9dm57fle82xtg4278pn876uvddtcujfzshkr50hhxeef4fahpz0cxua4fnp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp6ewtm6h5jn04jjkt7q2ytjvrqwxnrs2ss5zdp9kjphxls3cnadgcnwdt2t"
+authorization = "signam1qxmepvwqg3age6r5nuur56nsf7cle9y7em4cuylt3za7lgv7t59j59n3u9yc6l502w07gcgxl2kmtqdrpv4fc78nqjkqt6lq9rpv4c8pqqshfdd3"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp2t4sjfsqd3wzaz5m0us8cz6q733k5krnym6f90udcpm27nf6yfkqg2820l"
+authorization = "signam1q9kgwfxm3sx2zc5x2z0u2y258ed93fgwm07l7aq0w93uvxfm4xj22303he90nssvct8gz8sga9xcvmmut485whmfp92qmqrcj5yws7rkqq5t9wrm"
+
+[validator_account.metadata]
+email = "team@moonlet.io"
+discord = "calinmoonlet.io"
+telegram = "@calintatar"
+twitter = "@moonlet_wallet"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qzll0zmzjqqaw6ampmllu4ld7pag5wqqzg3354z007jfqxvjvmfqy6pxxhg = "signam1qrv6myjjqts7ae00w0femqv50r285sfpvsg2vrh3a0v9y0nnqruya994rh9lwlpuunpleevwcmgr932en3m6yen5ermf8r8f2jvtnkc0482arz"
+
+[[bond]]
+source = "tnam1q93ynwdnp5pk3k4sxgpqyg5zrwy9d6fcm5ewy7gk"
+validator = "tnam1q93ynwdnp5pk3k4sxgpqyg5zrwy9d6fcm5ewy7gk"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qzll0zmzjqqaw6ampmllu4ld7pag5wqqzg3354z007jfqxvjvmfqy6pxxhg = "signam1qzexelvvd6ksnzapl0w0pjd79l7t0unngq78flnw8z6m44n2aczq0q8kzq7uzuag7s3pkhhajwc9e6het2cuagnj44ua984mmptfksqwk58mcw"

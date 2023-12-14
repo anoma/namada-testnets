@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpfefsksxxlg8a47mzuy86s2fjnw8a37klfw9f588sl82wwv7h6vk3ymgkp"]
+
+[[validator_account]]
+address = "tnam1qyxudc786ujky49ke0mk8hcaq2sgea4uruppwp8u"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "23.88.70.109:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq54wr09rc90gmhderamu76gxmve54hvct3wry8kj3s9smceqspw7d5pzqp"
+authorization = "signam1qzqdxa6sy672cl35l7x8ra7ggrlmpn9p230tw8p85m6cpwqelgnwdstnxkg5fr3ujkyaxqhdjk068rnsakqd4qydsmsml9nartvymmqw59ddez"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpsxjceannkwm8yrjv3zsw4nlkztu4jf0u079j8dl27hyfgyjt3eu9ze0qs"
+authorization = "signam1qp5us20a25gt2vmzxs857l8nwkq4k6x056d2ttlw6vdvzuzc2l4sv8jadj9gh7jsnlah4kww9n9ekaa3qanrkvq4wl0k4kzd0gufpggrr3aq4c"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrzdt6e9yez7ts92cmczyj2n2k8rdzgm0h443w4a7trptathzja05cfwlxx"
+authorization = "signam1qzygyezhkw4zvpjmyaj0lcmv0axls630rrurs25hu7fd22z7xgfvyhkn9qgqqfn5vsdddxk62k3y69vldqsqnlacp4wans2ltec0f6c2vjrmpp"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp9mzsk7r0ydl90uhy7996w4fve7tdyp2c5nzheqeewfqjv5fgp0xqd7yx82"
+authorization = "signam1qxrggv75px8qhtkx8f2v3x9qp5p39980379r52fzfpgwjm4lhfegz7n6jjnqcjznr09wml4z2g6g8lmsw6p8a26n77y7hdx2a6hav4a9qqhyf3xn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypyzeewkpqntymlzcdztrgdtffuyzesqj5jzg7an8eckn9fn85xk0s4qdn6w"
+authorization = "signam1q9nzuukysxt2r9pht69hgkps5f99w4q3xtcnl52a6m3edte9urrtuddv8f2mdv7j980lut7xvdfsaxypmdrg2jkndd4nd0egg4pp7vvqqqvvqqpe"
+
+[validator_account.metadata]
+email = "yuimmlarik@hotmail.com"
+discord = "oldenzel"
+twitter = "@Oldenzela"
+elements = "@oldenzel"
+
+[validator_account.signatures]
+tpknam1qpfefsksxxlg8a47mzuy86s2fjnw8a37klfw9f588sl82wwv7h6vk3ymgkp = "signam1qz5g39k0v5wu7kgus6k3nreaqqv4esu325aeh8wjynjnkt44elxw8e9gvjp362edsjca76m8mk6y9z5qqvtytxpvjvu2e63tsm8ccpg9hgtj2p"
+
+[[bond]]
+source = "tnam1qyxudc786ujky49ke0mk8hcaq2sgea4uruppwp8u"
+validator = "tnam1qyxudc786ujky49ke0mk8hcaq2sgea4uruppwp8u"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpfefsksxxlg8a47mzuy86s2fjnw8a37klfw9f588sl82wwv7h6vk3ymgkp = "signam1qrkm3rec6ev7tulcvhuq8ace70re2qjswyrfldvetmwpazkkfw66gvy0xpgq26wt8hyxa50n5xfhmx3lceunazpsjg429vch4skq2zg0k5hna2"
