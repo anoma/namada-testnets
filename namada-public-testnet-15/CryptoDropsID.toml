@@ -34,7 +34,7 @@ authorization = "signam1q86fwp53ac86fes58t5jyx7syt3cqmjmdqnvzdj3lv0c6zsvggs265mz
 email = "cryptodropsid@gmail.com"
 discord = "@ancryptodrops"
 twitter = "@CryptoDropsID"
-telegram channel : "@CryptoDopsID"
+telegram = "@CryptoDropsID"
 
 [validator_account.signatures]
 tpknam1qrffaxcxnnnd25zwrhkzq005z0k6lw6hqk7v87tgcxdzfnag07scsljf5nl = "signam1qpjmegwtnnvgty2uvg2cd2nlfecf8wdq2207flkerpdy54tn30d5td2s6522j54wjzusxuwusauttc2tpcupxneqy60jr8p0rn4fucs9xu2j9v"
