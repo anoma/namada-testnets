@@ -1,0 +1,93 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5"]
+
+[[validator_account]]
+address = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.129.150:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr94xaxh3f6hx3tdz5r644ndhxj08zdyh9r4cyv6ktrkdw2at43gzlwk7d3"
+authorization = "signam1qrqdv46jz0f2l6mws5h6km4084v09h9u9rrm3fvcsm52tkddld4s7cu4kgsvptfuntks7e60pzeus4jeh8mrp7v7hdpmeuaa5x0hphgzqme8mq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhrx8rvddmd0lh8ss08lk6rxnnkenyh50y0hwyfys5vleu5yad5vx27kdj"
+authorization = "signam1qqnxw7xmk32zcn2tndrrj8f9mn3dm8m4myw8p2vmljfw6suegalkrjnccqgwqzr3xj3fugvmn74v88y66r0xa4adgd7wn7g02wf303g8220s53"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr06n6gvd5g3ypl32kg070wr4fn5np5ada4tzr3eh8hp8dh8dc0v6k3d9kp"
+authorization = "signam1qz3lecvh770tf3jkehle5hedn49r4y8saecas0fu73v65n988tayq50udu4znjf3uqqpww78lzjv7dk5dru8lueen4jkt8wvfqwmrysfpj6ddf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypep00yl5y2nd8k0tvlqj268ykrh90x9gdzq55wc2ue9nu4jet5psqcrs36y"
+authorization = "signam1q9ztpluf40n7wlfrax6l75q2hwu37zwzutxff3rlewf8e9p0p7zjvldwpa0dxafu8mkz3qlcrkrsv7uj26y8xt6nxqp7fpasy6ch9dlqqy89m3eu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphfmk8xymc20dvfj9rdudcdkywzjac9ccufac3tzsz7q248k2glwqqflpwg"
+authorization = "signam1qxtw33tkw9qqgnyt7x6ftw4s5ptp6ddsnjnfmf0ql62m842q85usct4ta8zxmtezes86qf8hzm9gs6dttl69mr2qm3m38e4ppudwrhm8qyuv20wy"
+
+[validator_account.metadata]
+email = "aliefaisalanwar@gmail.com"
+discord_handle = "aliefaisalanwar@gmail.com"
+
+[validator_account.signatures]
+tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5 = "signam1qzu5u6x0mmndur3tl4kruedq92m07uy70cpujz9h2nhav8r75wn7qpj8zmdansaqn80travegdsxse2haljnk329tpvq9euct2qh8zqz6eqfd8"
+
+[[bond]]
+source = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+validator = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5 = "signam1qzlhd4cvh22jkcyjexw3ypeqfxt5x36y4kpqcnghvwu0m8u55vfkl6kdwng45r8tqycrenp5unaak0hfu60yjzdfhrg62fwn4a03g0gvayn6qy"
+root@Ubuntu-2204-jammy-amd64-base:~#  cat /root/.local/share/namada/pre-genesis/signed-transactions.toml
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5"]
+
+[[validator_account]]
+address = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.108.129.150:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qr94xaxh3f6hx3tdz5r644ndhxj08zdyh9r4cyv6ktrkdw2at43gzlwk7d3"
+authorization = "signam1qrqdv46jz0f2l6mws5h6km4084v09h9u9rrm3fvcsm52tkddld4s7cu4kgsvptfuntks7e60pzeus4jeh8mrp7v7hdpmeuaa5x0hphgzqme8mq"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqhrx8rvddmd0lh8ss08lk6rxnnkenyh50y0hwyfys5vleu5yad5vx27kdj"
+authorization = "signam1qqnxw7xmk32zcn2tndrrj8f9mn3dm8m4myw8p2vmljfw6suegalkrjnccqgwqzr3xj3fugvmn74v88y66r0xa4adgd7wn7g02wf303g8220s53"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr06n6gvd5g3ypl32kg070wr4fn5np5ada4tzr3eh8hp8dh8dc0v6k3d9kp"
+authorization = "signam1qz3lecvh770tf3jkehle5hedn49r4y8saecas0fu73v65n988tayq50udu4znjf3uqqpww78lzjv7dk5dru8lueen4jkt8wvfqwmrysfpj6ddf"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypep00yl5y2nd8k0tvlqj268ykrh90x9gdzq55wc2ue9nu4jet5psqcrs36y"
+authorization = "signam1q9ztpluf40n7wlfrax6l75q2hwu37zwzutxff3rlewf8e9p0p7zjvldwpa0dxafu8mkz3qlcrkrsv7uj26y8xt6nxqp7fpasy6ch9dlqqy89m3eu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyphfmk8xymc20dvfj9rdudcdkywzjac9ccufac3tzsz7q248k2glwqqflpwg"
+authorization = "signam1qxtw33tkw9qqgnyt7x6ftw4s5ptp6ddsnjnfmf0ql62m842q85usct4ta8zxmtezes86qf8hzm9gs6dttl69mr2qm3m38e4ppudwrhm8qyuv20wy"
+
+[validator_account.metadata]
+email = "aliefaisalanwar@gmail.com"
+discord_handle = "aliefaisalanwar@gmail.com"
+
+[validator_account.signatures]
+tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5 = "signam1qzu5u6x0mmndur3tl4kruedq92m07uy70cpujz9h2nhav8r75wn7qpj8zmdansaqn80travegdsxse2haljnk329tpvq9euct2qh8zqz6eqfd8"
+
+[[bond]]
+source = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+validator = "tnam1qxx5hqy6e99txlp3hw7lms26pz3uupv06gv2hydh"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qp7c5z45p3lpjdfgk5t2syk54qauwz2d4p4u25vu3x5xnj60snl6svu6yp5 = "signam1qzlhd4cvh22jkcyjexw3ypeqfxt5x36y4kpqcnghvwu0m8u55vfkl6kdwng45r8tqycrenp5unaak0hfu60yjzdfhrg62fwn4a03g0gvayn6qy"
