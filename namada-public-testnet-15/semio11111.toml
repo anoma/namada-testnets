@@ -1,0 +1,43 @@
+[[validator_account]]
+address = "tnam1qyx8eagsn62mlmq6l23yvaw692nrfxt7aqskfr2t"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "93.81.241.55:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qryxen60s0k4k0qu5vvw3ysfv9ej5w85lryzffr8hg47hzsdsj90jxct0a2"
+authorization = "signam1qz7fx33wky84l022rnqyvfze5znnnklrt4n2q0vjxhc44unpguqyrn4n8ztfr2e5fwkrt92pgsn098m05sgmuy265xzv2zxsxh0pktsy6r6q9x"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqekfyw6huxq27qhunlpmmjjtq92fgn97c9gz9ym0rj5elpfzz75s8vffqk"
+authorization = "signam1qz26qgw54sup48pr4jxx62jsc5wnqrflu854uu9kj2p5p7xh28yzvuh66juna2x9w54sp2cf8qdezswxtlmp5c7wf983ae8rtp593sgxny5f9r"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz03sfvfz93g298vgwels4ck2pwtzl35s5l8ffqw2v495dw6z43fuz0s7h2"
+authorization = "signam1qqjqmhva82lq2qqx9f4fl3g4et7c0wuqjvy23nlfdk78q5sy4mnzuj2jh0dveg7gf8e4n3skewu0vlmztwnhemr7esuk06rszhqauccys9uzkk"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypl4m3rf6yvs6azcmr0k9gsrgnmg50ne9xn6s9j708fcyf0aml52vcpkgsf3"
+authorization = "signam1q83pwuutpxhwnv88ddt3tqdu04umyusxqte3hn6zu9a2ep7fszukxwzwyhkc08hswhr93yjlf3vvsl7usurdx25p3dx5hj5dfylhlyz3qquu8kqy"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8p4aej4hue0z99zka0dzv29hewk7ds4vynz45y5qxvv0t0kj44fsy8m9lj"
+authorization = "signam1q8026w8vqar5lrlj2fqjnatl904879rwtsu5cfxcdy72m807l7l52eswh6xgryehle4q5fjakrnu55qk6nteaq50y203va6a9udm6pnaqyzye3rs"
+
+[validator_account.metadata]
+email = "Samovar11111@gmail.com"
+discord = "semio11111"
+twitter = "@Sergey_Gezhin"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qztgj75gzfc02dhxx0wktr4rmtspr2yvfa2ctyary3w8pr97rj26we4lgtx = "signam1qzpmtraut8mvatwys6yne02sp8mzeu5cns3rzzp8eg08mtawyagm7leu2d2ruvvpenmlh30k007ksvv3hjr7cjp0jflhqsa64cck6jc88slfk5"
+
+[[bond]]
+source = "tnam1qyx8eagsn62mlmq6l23yvaw692nrfxt7aqskfr2t"
+validator = "tnam1qyx8eagsn62mlmq6l23yvaw692nrfxt7aqskfr2t"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qztgj75gzfc02dhxx0wktr4rmtspr2yvfa2ctyary3w8pr97rj26we4lgtx = "signam1qreppzhcjtza96l8ytpzmm2za4t7u6phkrqsdjvc62qxqtzhfcmrlakfees5l3am8t4l4agaf9tcy4l5dht2p4k3qj4sv0yqwu2q0nqpj67acf"
