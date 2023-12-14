@@ -48,9 +48,18 @@ def _are_all_keys_present(data: Dict) -> bool:
 def _is_valid_ip(addr: str) -> bool:
     try:
         ip, port = addr.split(':')
-        socket.inet_aton(ip)
+
+        # Check if the port is a valid integer
+        if not (port.isdigit() and 0 <= int(port) <= 65535):
+            return False
+
+        # Use getaddrinfo to handle both IPv4 addresses and domain names
+        socket.getaddrinfo(ip, port, socket.AF_INET, socket.SOCK_STREAM)
+
         return True
-    except socket.error:
+    
+    # Catch all exceptions that getaddrinfo or if net_info is not a string
+    except (socket.error, AttributeError):
         return False
 
 
