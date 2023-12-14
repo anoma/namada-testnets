@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qru28mgmf8avqar6c8432gl6jcvyd3va22e0ay0dgyq6yqzvschlzzruupc"]
+
+[[validator_account]]
+address = "tnam1q9raezgmgfz6rr68uuv47y8rn0gnufl9zqvdaqes"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "95.217.60.22:60856"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrhkqct863h3kfy7wc4rpr7g7htv78g5g8c9d24un4lufvnwtqfac6ed3cl"
+authorization = "signam1qq40v6l7g5f47gkaw9kwmeq3re9szspvj9ygfsnwsjfehwx598aqprpl95e0mrnwutyphykhgv2ajupspaqs68p2zsz48mgnt038umc0mhpscv"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrl2qhg83gv83n3rrsulq7a6wycltj66874sg55jtphcffjxx5qy7hzzws8"
+authorization = "signam1qrsutytlacgsuenla8fva63s9x5504v040mxxezn5ke3t28q6atrxu7kmq3cynjppucra3cqvzd3rp2hcqv39yrtuj4a59q0fhl9wfgvy9xg8l"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qz9d44mu8wg0fkd92m2mhju9ka9zl6630skzfpktkq3mj3q09g7ng8rgqte"
+authorization = "signam1qrq9malnafjenus5fk2muudu0xf2scn38n4cv7xu57hhel9a7cjyvj0zzkvmem373khc0gjvtm02fwxeluw5gkwu07tac4w65045s5q0adfzkz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyprdq4pxznlfytdg8p6tdeqk9pxl820rrnjt03zekrkwznkvufr43caxsg8r"
+authorization = "signam1q9s6w8zkvdd8l6plq7cdql8hlm4xhw9xg2m7q7q4knupuwea44hvwyxm0vmehlgygcmcrx46mjaeumaj4praudwuqyk6vjhxkf8hm9qhqq4aedek"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyprxrd0pqz24lqe20z554jvg4gp8wh6ea28nj5gpae7r5d2jmnzz4su6gxty"
+authorization = "signam1qxa2tsrdn842lrwjsrg64l3ex9vme9aest7mvagczt0t0rxrasmvcz6yhhzuttk2rhlgtecmnnxcq94stglt9kf0a4mdvj6mcn3mvan5qqx0s0t7"
+
+[validator_account.metadata]
+email = "contact@dteam.tech"
+discord = "doodleoo"
+elements = "@dteam:matrix.org"
+telegram = "@doodle0o"
+twitter = "@dteamtech"
+
+[validator_account.signatures]
+tpknam1qru28mgmf8avqar6c8432gl6jcvyd3va22e0ay0dgyq6yqzvschlzzruupc = "signam1qp2pqeusyy8yw9rcwkkz45n7uml0rkg5wrs8a5z0p24szf447sxd2qnjlt3g0mmauq9ttnsvsalc2rv5lcwz3s62s30n77tkc8fye8gprz2hxk"
+
+[[bond]]
+source = "tnam1q9raezgmgfz6rr68uuv47y8rn0gnufl9zqvdaqes"
+validator = "tnam1q9raezgmgfz6rr68uuv47y8rn0gnufl9zqvdaqes"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qru28mgmf8avqar6c8432gl6jcvyd3va22e0ay0dgyq6yqzvschlzzruupc = "signam1qpfzuxegmy8mfe7g7v2ps540h2nrgyeylyfv44yzjffa6rpsfyqyfez6gmguvjgw0937tnqlwg5ew7vk72e4fysuyc3xjyarpx623lcxftrfnq"
