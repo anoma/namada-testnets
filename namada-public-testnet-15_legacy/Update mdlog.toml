@@ -38,6 +38,7 @@ twitter = "@mdlog123"
 
 [validator_account.signatures]
 tpknam1qq9zwvhxkym6j7ndtkh33dl2xhf53zzumy29hrgd5ngv4pfzhmhq2yyzcxm = "signam1qrwngvfnrt2vvj69cqjcn3vgqrp7rlfn6dylv7hasn3xxmu59w3xcae42df6js5w5n2y2scme2lnxaaen64e0e86pjk2tmwnxqt8afcywktek5"
+
 [[bond]]
 source = "tnam1q8ezxt4expj2cc9dqzzvq4p95n83ddk7pc37hhlu"
 validator = "tnam1q8ezxt4expj2cc9dqzzvq4p95n83ddk7pc37hhlu"
