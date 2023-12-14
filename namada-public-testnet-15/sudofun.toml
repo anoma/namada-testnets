@@ -32,6 +32,8 @@ authorization = "signam1qxm60ltg3pl9z8wzlzmty37kr993j96vd0vfazkqhr0xgnw7ust52wdf
 
 [validator_account.metadata]
 email = "sudohtp@gmail.com"
+discord = "sudofun"
+twitter = "@sudohtp"
 
 [validator_account.signatures]
 tpknam1qrj4uhg6jcrqxh2max0l57drd9qqksngrtkt8ugjcsnh2tvkd0wwww4zy48 = "signam1qpwj7ptlyqzdyyw2v8xjkca89f3735zgr47u03kxgezv499wh4ftx6w2lf7msgvh46gxln7m54lqu3q4vqm3t48thl5hu7pyslerkfcdw2le7w"
