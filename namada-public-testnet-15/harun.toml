@@ -31,7 +31,7 @@ pk = "tpknam1qypgyafn3a8x7k8nh9fmp8e58cys7wxhaywwnqnpd42g9kwz4nezyyg3j0pcv"
 authorization = "signam1q95exehdl74sf64l54q93g9swgmfzwp9hhtsj48kejd3k9lutlue7hht3yd0w7n4z0kll3eauah3xm0e04r49p9xyv54v5dez7lhrxkyqyvqfucy"
 
 [validator_account.metadata]
-email = "@harunbrgn@hotmail.com"
+email = "harunbrgn@hotmail.com"
 discord = "harunn2602"
 twitter = "@Harun1584"
 elements = ""
