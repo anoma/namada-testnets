@@ -32,6 +32,8 @@ authorization = "signam1qxwq2deuenmmp2t26hf0whhq84duhlvc2pnhf6s884d0xwp7txhp6567
 
 [validator_account.metadata]
 email = "varshavkasw@gmail.com"
+discord = "varshavka"
+twitter = "@varshavka_sw"
 
 [validator_account.signatures]
 tpknam1qqlj9pcp3r5hlqqk3jde6m7m62qlqe6j004jn56l5wr9rdjyzr806w6ypfd = "signam1qqxzhlkdzu3l7hhddsmhr6myaqtd72al69h5y92w7hazkrhkm0lsy7e8yt86uy8t5pm77wx95pssqsj2gsu6385cdzxh8ehkwq7k20gvexnfud"
