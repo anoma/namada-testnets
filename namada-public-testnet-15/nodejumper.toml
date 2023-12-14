@@ -1,0 +1,52 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr3v7j63myvak50ptxr7thqt3svwj59mj26qz26895zkx9cr72zgva8u3q0"]
+
+[[validator_account]]
+address = "tnam1qywza3u9rmsc7h88dyhvlred0z7v2whngqatah9v"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.84.33:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqs0yastuftwxkljpqdf80ukspdk2yzdqfyspjhqdcmenjs5rwlnytl376c"
+authorization = "signam1qpzcykvs48tt0t5v75045mlhvjzl5s0grp5d70mgh23vmmn4dha7euzt4awwuca40ue4704zzsjkr5s8277h5glyfcx5t82e7yqqn7sp70mfdn"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpcmf2ce280aqg04qgggdfq6wc2jefcjy4k3983wzusk6u4n3wqag9zf0s0"
+authorization = "signam1qzmufmt8ezhs2k7z9dc09lcgl8se420twulj4z56r2hyd57zhhp7t8g65wqpc3kcwuactcv4aalu426plzu62q7q4fh920qq95kyr9g8l335q5"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrfp6ls79uv6cmrhgfxxxjp2sj7qj9tq7y6udnrs94lh5335tjjjsp49mdd"
+authorization = "signam1qq5xks2fpsxfn2fperp4ntwr0dakqggr9w77yqvg7ex5man5t83tu776ak5ycrhdzhf5q7ce55d4p4wrtwaczfgtc03pwndhd60jhuqwrhqpt9"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp54dguczgexadkfn60jdq36hmck6lmtd3pwtpgxvnl4uhxkm8causdl7vk6"
+authorization = "signam1q99ejm7zeznx7e6d80v696ctxzqa220h3qezjfx30u3yyt5ulkqcvelclhucud88lacfuczn9pndhtm5nvnxy7gzp2pjhs0008ndt2dyqyh47dfg"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7vnwnz808kumf9uxkgx8jz0yj224efjm4x6d9daaz8c53dhmtc3qpkwa7n"
+authorization = "signam1qxqkk7qrve6ngwlhdk3jjehfam203hs5znt9fyree73e0hvfklzyufe2nym38w09km6gs5yh3f0x3l2vqwd48u7q0swhcq7q33v9yxj2qyts8mvm"
+
+[validator_account.metadata]
+email = "vbloher@gmail.com"
+description = "NODEJUMPER validator"
+website = "https://nodejumper.io"
+discord_handle = "vbloher"
+elements = ""
+discord = "vbloher"
+telegram = "@vbloher"
+twitter = "@nodejumper"
+
+[validator_account.signatures]
+tpknam1qr3v7j63myvak50ptxr7thqt3svwj59mj26qz26895zkx9cr72zgva8u3q0 = "signam1qpepyyxcdty5ksavm98jy6qmmgk5uhg8egkqyzj0q6570q2ryapgzus0ld0wzcjvq5hjct99w9k48x0wd0rct7y2mlzsyjkj0an7cccf5y53fk"
+
+[[bond]]
+source = "tnam1qywza3u9rmsc7h88dyhvlred0z7v2whngqatah9v"
+validator = "tnam1qywza3u9rmsc7h88dyhvlred0z7v2whngqatah9v"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr3v7j63myvak50ptxr7thqt3svwj59mj26qz26895zkx9cr72zgva8u3q0 = "signam1qqa48udkpyyrvyfxwyvxng4kc7cvjrvhhyaxn0838ajlxl4dhve54gftev5arynz0ay7tvx4cfnlawx7thtmsftjvgdmsvfppmy9a3qwmgj23r"
