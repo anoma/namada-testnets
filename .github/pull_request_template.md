@@ -1,17 +1,19 @@
 # Description
 
-All previous genesis validators should name their PRs "Update {validator_alias}.toml for tesntet-15" and provide links to previous PRs merged.
+## Links to previous PRs
 
-## If this is an UPDATE for a previous genesis validator
+(Insert here)
 
-Checks are made against your `net_address`. If this has changed since the previous testnet, make sure you provide links of previous prs merged from your previous git username.
+## Rules
+All previous genesis validators should name their PRs "Update {validator_alias}.toml" and provide links to previous PRs merged. 
 
-Thanks in advance!
+All new validators should name their PRs "Create {validator_alias}.toml" and provide links to their previously closed PRs, if any.
 
 ## Checklist before merging
 
 - [ ] Only one toml is added in this PR
+- [ ] The file being added has no special characters in its name (no '.' or ' ')
 - [ ] The file being added is indeed a .toml file
 - [ ] The toml being added is to the correct folder, and only to the correct folder
 - [ ] The `eth_hot_key` and `eth_cold_key` are present
-- [ ] The `email`, `discord`, `elements` `telegram`, and `twitter` fields are present and valid
+- [ ] The `email` is present
