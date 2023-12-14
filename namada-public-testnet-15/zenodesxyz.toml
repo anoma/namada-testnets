@@ -1,48 +1,46 @@
 [[established_account]]
 vp = "vp_user"
 threshold = 1
-public_keys = ["tpknam1qptvvsf0vdaj2pcv6dntupu7mw5md84lrpzww5f0thuy09r54h9xjpj2rsv"]
+public_keys = ["tpknam1qq0xl2ursadkx75ufxvkuch9q33wudwfvgs6s3g3405nnps7z7fhz3n4y50"]
 
 [[validator_account]]
-address = "tnam1q8w4tjauwhwzk2kp2kxsemy2u5eh4knvdsfwx5a5"
+address = "tnam1q9v3z2jw062prwvv93nxr6t0gltv3gp79yeuustl"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "72.20.6.53:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qrxtjxznmql88u0npkas0synu52h0g2wz83fgx7uw77hnq687fpukuq9py3"
-authorization = "signam1qqux73kd82w398jc7py42d0nhadt5aju2jx5cxxhrs8hasxdvmswr3h76t88qmkg9z6elvf9zc9zdxj4ckmturxcnrwkqwekep5rjsqpqv307x"
+pk = "tpknam1qqr6jwjskqf0ves66h9nf4k8d902cavnjvktwya8t2ejjn0hcvmfxv9vjr3"
+authorization = "signam1qru9mzjj50smscwz6s52pr2r90mkfwhk4cm3cpx2tn9eakl9xf658a34kgk7jqc3pyqdxhc3kagspth7sqj5gqzv3y3zmxdvvy2swlcwu5wvxa"
 
 [validator_account.protocol_key]
-pk = "tpknam1qqms95hxt8zgemu636mghvyagqw3v6qxw2m3z8tc9dp2vhcm4s8zvkkx7xf"
-authorization = "signam1qprc4erevsns2cw7ap58500v8r3qc0wp5ag6xvascymzkdtuesxxay5sq6x6g38h2wynnj6x3qrsnna3aygy9kwnv8l7yw6zgsk9yqspwn2ryc"
+pk = "tpknam1qp087lnz5nsdxc8tu57x09qzxqaz434256llpc4c5ggpu2cx9ef4vhmkn3s"
+authorization = "signam1qqcgkddnfpzkjp2z5cluhndwmurt8nj5llapq02ku3csevzjz4qlf6z0vskvaypefsl7hxaunk5ns2t60rmmr46v36d809yz5k3sgesdfsxhr5"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qpz5kszfz58qxv4tlxg9d4nuhxzwue08fh7chhep6d8nsmsa5eg5xspzdjk"
-authorization = "signam1qqjav5g4usgu9qw62suv6k63y5756u5wfescwyakzaadwrac6rp7pl0f96lzql9d8wgxxmtmaj6nhm24xevsk4c0mu9j25vfurka3ls2teascy"
+pk = "tpknam1qrutnhw78ce2e0pugpac23446xvw982q3ua4qhrvw8vj98gf33fs6rg745m"
+authorization = "signam1qrkv7f9wydee00rhuvevscnhghthd3jazy3fr4mf4hra6gppk5grnz38jpmpg4xk6yltvuy6urerjxtstw8av2hglwqaz9nqvnu7nggx0q6upp"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qypf6kzf0tw3fsx277su6fdyxnylcuecjgrq0efzxrmf7qjg5z7r42gn2t05u"
-authorization = "signam1q9erpjj2495l5kt26dgdyglstz3e5w8tcudzy4wvkkqau43dgt8ck80cydyt4x09ermjcqlktc79pszlkj6kt84hctflzztcx8lhq7eeqymf8gc2"
+pk = "tpknam1qypa3fqzlvxtxpyhn9g8epwdmwgkjrvpke4nh9pfsscg0jxk8tcyjnqke93kr"
+authorization = "signam1qy3etd989hvjsedtv3dw6azlysnh6u9ka7p5f4ca80xjk5nquz4ys5c8zxn7sptr4elmejy6tjlvcwgxs5xawsdv9n3v2m5wqxk0e8wjqyu7tksx"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qypkkvllzwg0ac6jg6pea9d8ea6squsgs23ncmqlzhj5cdf8nlprdpsaqzsdr"
-authorization = "signam1qyvxgw9mf3wzcwcfwtn36ldmh8e55z824ptjv3ucwsqdfznmwewsxeunqv74d7kelfw4vyllz65k2f4fscec6nr8lw0rnwl6e5zt65ggqypm9w8t"
+pk = "tpknam1qypjdusuys5v0fcem76ys83ppxrhra5a6agjn8h8w8hkr4fgrs3a26gnpsjgd"
+authorization = "signam1qyxv0w59cj04d77wz9x78xn6a8vz5gjqs6q73ac2xjxn0s6drqxt2e75j0kl80cqtc642k3m7x3g6fx0sg9hzg959w7ssr3jhag0uuuhqyue6zpv"
 
 [validator_account.metadata]
 email = "carry@zenodes.xyz"
-discord = "zenodesxyz"
-twitter = "@zenodesxyz"
+discord_handle = "zenodesxyz"
 
 [validator_account.signatures]
-tpknam1qptvvsf0vdaj2pcv6dntupu7mw5md84lrpzww5f0thuy09r54h9xjpj2rsv = "signam1qphrxred6sgntvhhfvv674as0j6setsgra87p6p04y2tjy2qzdtyndfqz9nzgwdc6jnt3fake3ktdefea47hurzzjjt582ftpryx2zqwlswf8d"
+tpknam1qq0xl2ursadkx75ufxvkuch9q33wudwfvgs6s3g3405nnps7z7fhz3n4y50 = "signam1qqeeskfvp7tcudtd28sjnq03eczwj6vt97v9uezyur4mpn9st8uzsyvuz5wcpkv7n5kww4nn8mjcf6wremz0armw2mj4sytmvw5657s2txpyvs"
 
 [[bond]]
-source = "tnam1q8w4tjauwhwzk2kp2kxsemy2u5eh4knvdsfwx5a5"
-validator = "tnam1q8w4tjauwhwzk2kp2kxsemy2u5eh4knvdsfwx5a5"
+source = "tnam1q9v3z2jw062prwvv93nxr6t0gltv3gp79yeuustl"
+validator = "tnam1q9v3z2jw062prwvv93nxr6t0gltv3gp79yeuustl"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qptvvsf0vdaj2pcv6dntupu7mw5md84lrpzww5f0thuy09r54h9xjpj2rsv = "signam1qzda5met5srty6k8zvgxw5jdh4wy62jlcq8cg64tetva0egs8wt7as7jt72phcl50dmxnrafm0fpx2z54elrqvc32e0dkqjcsxwp6qcp4zfv4j"
-elements = ""
+tpknam1qq0xl2ursadkx75ufxvkuch9q33wudwfvgs6s3g3405nnps7z7fhz3n4y50 = "signam1qpr4zz53agm7hy26zwuue9mfryly6w9ut4zpv2xr6vajxp9qerat9lmtnruhdj38hchszkxs48qaqfqm73ujj3ugk0tvrc462ldtm5gvp47qr0"
