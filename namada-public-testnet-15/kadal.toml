@@ -32,6 +32,9 @@ authorization = "signam1q8npmp29pn377508e3x9rqrtxl4qrewq2tkuu7yngdlpamfhpuw56dxa
 
 [validator_account.metadata]
 email = "agungrismawan3@gmail.com"
+discord = "agungrismawan"
+twitter = "@agungpng"
+elements = "-"
 
 [validator_account.signatures]
 tpknam1qppcp4s4qgwg78z53gs53v4f5cq3kw02suskh6ck7fr9z24qhzaxz53g7eq = "signam1qqn0rwqy5cqxq0aakchhmpf8hlsjsfeac5fm29jyx5de3gfkg83l7dat4pvtlahu2ew0gtm2zw8tywwxw5cjqecc6vksrg3l2xxqudqvjep5f9"
