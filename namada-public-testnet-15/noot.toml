@@ -32,6 +32,8 @@ authorization = "signam1qyhvey4mvefknalxk7mep3mznrr0gm3ggyg0fnu2y77cahqjdyt0vekv
 
 [validator_account.metadata]
 email = "nootnodes@gmail.com"
+discord = "noothx"
+twitter = "@nootnodes"
 
 [validator_account.signatures]
 tpknam1qpcj9u6mxz35rz5errjgfx7u3d4z3ua7m6zp52t9gc69kp7urwujw42nfpk = "signam1qqcf66tlhlc73k8p8lvgdzzxen4ekkmnew2kkj9hc4n9s8etc4xczja6h26wy6w9nzs2rdfvjhye3vume39naay0w6wcscsnh0va7jcrwa6r74"
