@@ -1,0 +1,12 @@
+[validator.NodeValidator]
+consensus_key = "tpknam1qzwp5fg4eazpy5fc6jxkq3q5yynwlmn0eahv8u45fa7h6a7ztavuqszmv85"
+protocol_key = "tpknam1qzel3cn2fwr5c8ngl8jy2tl55977gaqcqyla8c0cp6vpmyea3n49yavjm65"
+tendermint_node_key = "tpknam1qquxp2393cxfxavrerm2x800yrvnk8cyx3krjqf9p6xfd7yq8440u3cldk7"
+eth_hot_key = "tpknam1qyp8zpzsekssq26f72uq8syc408jxmcv9fskvgsl4w9a2qawpraxvvgkdggrs"
+eth_cold_key = "tpknam1qyprqnggnatdxh5samncknq385ta7spx4rwva3jrmscv04vwklqnazgps785r"
+public_keys = ["tpknam1qqlgyn4lkecdrkms3ve2ld0gs5zchmq5ha7ezfvxwy7anu9qyll6c6sv3sw"]
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.96.147:26666"
+email = "validatorvn@gmail.com"
+discord_handle = "nodevalidator"
