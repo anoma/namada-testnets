@@ -32,6 +32,8 @@ authorization = "signam1q9l4rf984m2uldhmjqsft3hslgevkekrtju24emhkrw3d8rz862nqenh
 
 [validator_account.metadata]
 email = "gusarrr76@gmail.com"
+discord = "imkira_eth"
+twitter = "@imkira_eth"
 
 [validator_account.signatures]
 tpknam1qqpldajc7swx680028cuwchf8hflzw9yhq2umz5zvgdq7a5mrm7v7ndz7lz = "signam1qq7u78x7unvunrsjwrkejr392ypjc63qfzygk76x6fxe4v4n3w9a3neqfkkesqk3tqnldwlmaawwt2mf7sydzdsuevtjj36c3cpplrg26shhl5"
