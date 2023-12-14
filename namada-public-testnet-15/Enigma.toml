@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f"]
+
+[[validator_account]]
+address = "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.216.54:3000"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzfe5vxu6ndhjvt2jwz7gy433yce2fg25l05ulqkkctn3mrg6973xa5q5wj"
+authorization = "signam1qz962jay5h4ukfaw7enppmyp7zxslhky49ug0t07ma96qyeac74496jhcg5gfsx89jp3wpmcspknykk3m2lx2qlhdz6me8yfts49z7srfmwd45"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrgv4lx7fadayt3wyvmexjzgh0thwnfcgvcghpyxzealrfm5xgezvrr636f"
+authorization = "signam1qq80kyswdu9xhpwvkhduax29k9dwuczuqu959as2c3m7khhp8ae4wjqvdlz9navttuxtwpvam92m4uez5pxjqkr8tkt6ejt7tugf7uszga0kgz"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzk3lxte73xjzwg47jjvdvrpnuacrfceyunms25ezz7l5atrjzh2k70lm5u"
+authorization = "signam1qrf248kzshzkm57h0ptegceevzvlqrz4wz545lx83yhcnk77t6fjtp0fx8psjkw8mnffd075rl82jnxn5g6yjrud35hqzp860rjelrczu4ykf7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypydahd9ezwyn24m09kgtywtn24r2mfwp8qcz8qdyjhvkfanxe5pggk6pwsr"
+authorization = "signam1qya93expx2dfj9k77qr98zsseeyyz8v325ze3mxeu5vdgtkqy6465j99jje4nslldvjejjwfyewrj549eccuskc692nsutqk5ymwt4hnqqcw6n82"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypdffm0p3509tr8lyhtvav02a0p46qywcaazlyt0a6h2an3jxx082qwgugl2"
+authorization = "signam1q9zssskunrq0hfz2ycprtwtwrvg3vxad4w0wa5y8970vwvx4csh057xf9tevlnquk4aulg88apjmjx7qx5fssqu96c9yrsfhr4u9asn2qqjtw7p2"
+
+[validator_account.metadata]
+email = "contact@enigma-validator.com"
+discord = "enigma_validator"
+twitter = "@EnigmaValidator"
+elements = "enigma-validator"
+
+[validator_account.signatures]
+tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f = "signam1qqecwvu44lara7dwjnhxh5rmykacn7m64zl86664cv3tgurud2ansu8n5hf76detseqhctawca8axu2h9885a73qygj5l5fue46arxgwmn6jfl"
+
+[[bond]]
+source = "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm"
+validator = "tnam1q89xnpnrfsefr9ynj4v8ngdu35me8xudzgn94afm"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpnftukzzk2gjp2gwjdvc7zm7rq0f4qw5wrueglkseg852vhlccrsp96v6f = "signam1qr50u9vrvkmg57r2d9scwgm4te2yeluazy8ffxwrap8arctpkyfk2e3lz8mutqqjw4mz3n04zsfevtdskrjkhynnv8dtfy6klwfgvvcyrzs645"

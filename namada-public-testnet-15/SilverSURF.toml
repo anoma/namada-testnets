@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrkyttgpjfd46whn9cjks6228khvvvah8zru0n5khtvuxqjjyhrlk8dqlh2"]
+
+[[validator_account]]
+address = "tnam1q8tvxt0p636r7zqf89tcewg3w0nr02x2eyxc24gz"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "135.181.215.212:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzxrztn6upmjncr4ct5g6k4muzn3nyxyq2pcfseqsphu672z5x2zyuf67kc"
+authorization = "signam1qzk9fhwfdz4vzwe6xhnretjjrvmpqlh54dqd39t72whasjpgjlze9zke08tnd8rqc9rd2qlfz5xctpj4288e96kxtc0z52wc0yz84eqgr7wlza"
+
+[validator_account.protocol_key]
+pk = "tpknam1qperrrrx252xc56uju2s8y9jkyvt30r99l6z75dskcytu7nk7844uvsmnkx"
+authorization = "signam1qpcuucgarn60ugtl6gvld3pwtddggeqxp6ry6lcyzxe603cpd2na576ng3jc2caql2c2qvpj5nr99cx9jl9rvx0jtzhmdvhs93387cqrth8a3p"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqg9k6cu9xa4y8n7yscz5ywuyw965lpqyrperyttn3ey8znqf068ypd76mp"
+authorization = "signam1qrk6v0p6g5ek8tujsns9dk770n855p34v905yt0kxww82jdzx222gzkjdh867q48amq03a46sdctwhte47rrmrdlql7tsuvg44vxplgvrxxqs7"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypu8jsxnvtjrhsza0n5g5q6s5uaufj4sm7yywacxc0n60jjz9cmg4g3c3hrh"
+authorization = "signam1qxpeuy3hw0hhmf0gpnejshw8uqcax96um5ednhru6u3a5gv7u75h5al8hnpwndzmrcryw2hvug7rthf2ldspf9n6wj3pqrztde7hpx53qqswrsrn"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypv9m7u960rqm48q2l9q3r7z5xzfyn73nc77uezpk7wy300fv7rtxgtstxl5"
+authorization = "signam1q8tqzc0cty0luq47vjf9vjnkzursp58yc9pjfgfstzkn67xa7umyu0s2trw7thdqyjvcmw0ujt0qxqwzyqex0ceum5ee9la0vd4psf65qydnr7ep"
+
+[validator_account.metadata]
+email = "mihalchuk.denis@outlook.com"
+discord = "silversurfer914"
+twitter = "@Podge548"
+elements = "@silver-surf"
+
+[validator_account.signatures]
+tpknam1qrkyttgpjfd46whn9cjks6228khvvvah8zru0n5khtvuxqjjyhrlk8dqlh2 = "signam1qruf7k25k4hcavq5uljyp8mn09pkj9vghc0tjlhlgvq0h9yqvh0lqq2rmk230u3nxvrmfzape38jnl9e37q5ep2vuhk7lngntx082zgt0nhcky"
+
+[[bond]]
+source = "tnam1q8tvxt0p636r7zqf89tcewg3w0nr02x2eyxc24gz"
+validator = "tnam1q8tvxt0p636r7zqf89tcewg3w0nr02x2eyxc24gz"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrkyttgpjfd46whn9cjks6228khvvvah8zru0n5khtvuxqjjyhrlk8dqlh2 = "signam1qpp733k55dfj0grhwd9dzks50u2d8ljhyl6qxplf7tpfxdsk8dw9593790j0vlrdyg4xn9ajsa2mhyjsshgxeg2mq0d7n6t3hffsk7gwyu7ejt"
