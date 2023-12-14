@@ -32,7 +32,8 @@ authorization = "signam1qymrct4lwgadzap2vtxna4q60yhp89g74cj3h5chtfu344aaupt965fc
 
 [validator_account.metadata]
 email = "blockscape@mway.io"
-discord_handle = "marcelmwsblockscape"
+discord = "marcelmwsblockscape"
+twitter = "blockscapelap"
 
 [validator_account.signatures]
 tpknam1qqlh9u8zrelaavqdml06n629l5he8v0u8x5x0awaz7c473p9f7zs5kgrt2f = "signam1qptzzv3xgq7jmvaxjthsawjufmrsm83mkaw3knuvxc3wwc2led4egak6req7y949n338qw0w22uu94klf9jz77x5j7xzy8u72z5lydgzzjf6su"
