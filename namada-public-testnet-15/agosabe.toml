@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqyvmeea7c7q40kd5tc0qfhkp9qjzx3m4tyg4a38qmdmd8w3fyemuxsp2gv"]
+
+[[validator_account]]
+address = "tnam1qyra5mqvvlxmxzgeegxe2jgfdt5rjafvncgsydaa"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "164.68.102.10:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qrclru64cf6fyl3vq2aenyaq693s2k0s8a544s7h2h8t6d47mcwvz3tsz0m"
+authorization = "signam1qr764pc5nhmy2ujnzh5t7txg56nfzxwta62h70y5jfv0u8nj7ytu9xqydezq2wn0kr7hsw4mwwdscxkrxjapx999g3vyw0j0x73r3ycx3j3l2k"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzya02jhexmdc4gj2grw6dqgwgyt629gmx65m9ulw9q50hzam28cydz7vjs"
+authorization = "signam1qpdjs30c892eex52k94e2mxes5hasjpa978egvx4q6t6lqh7zgus38xnnh9hz8yrn0frg2gqrswr5z8ce7c25tzzlvu2u5p39h8rhwqr9qcvjh"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrq2kxs4lrgh2z835fxg328xfwg59xnp4lm9f2vzez8zqzndr44hs8c50r2"
+authorization = "signam1qry2nm0a8s9egsvx9tms45ghju9qcgdav4a386c5pnl64wggthtpaayrydd9d7j4qg990h8yhyl5x0c4z5lt6u4fxyhldrgrnjj25pgvx8mv7t"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp92uxggye590gj2ac8kpqfeka79fdxq6c2kht5ka2w2dqsjt886wqhuvshn"
+authorization = "signam1qy0rntw7rur5k6anjxwquvjzlesxzu6rsqq6zyw8xppnyxeecz99z2khlk2kjl0z5ys6lz4xjd2r4lxk6yrwztmvzjn7vk9c2ecsxcgrqqkn08gc"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp87z7gcvkl8k2cvw9qzum86dc4j44lvguuzdu90d9c2fel0qc7c6c8wqq0k"
+authorization = "signam1q87gf6k72ktmjaachhw9a7mn97lqwww72eyyl64xmd828le5gdds6vjvrseaa8z6aqc99yw3kfkjpfdu9y8qczuvu9jvkesy68xndeqnqy0ylf6k"
+
+[validator_account.metadata]
+email = "zybast.skladany@gmail.com"
+discord = "Maxereum#0414"
+twitter = "@Cryptosabe"
+elements = "@maksereum:matrix.org"
+
+[validator_account.signatures]
+tpknam1qqyvmeea7c7q40kd5tc0qfhkp9qjzx3m4tyg4a38qmdmd8w3fyemuxsp2gv = "signam1qzg3jsjxqgndyyp66q5cg7vfla9rqt34rqqqkl9s0t4d5c3fv9au0hqvy0a4hwhntxtwnn92t09urrjhp4axcfjz9ne2rtxzu9qw9yqy0aqfcu"
+
+[[bond]]
+source = "tnam1qyra5mqvvlxmxzgeegxe2jgfdt5rjafvncgsydaa"
+validator = "tnam1qyra5mqvvlxmxzgeegxe2jgfdt5rjafvncgsydaa"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqyvmeea7c7q40kd5tc0qfhkp9qjzx3m4tyg4a38qmdmd8w3fyemuxsp2gv = "signam1qpf02gh35zxxpf20mqm7mgw9xagx502292l7t6nsds7vmev4j8vcpunp2gkhx089jp0zmahjnt8uvru8wtxrg67mr594847zv935mdgwmz7vpy"
