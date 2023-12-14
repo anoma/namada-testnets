@@ -32,6 +32,8 @@ authorization = "signam1qxchggngs2pc4c927uxrrjzu2hvndrc0hfeh3rnry7pg9r0lam9fw7xr
 
 [validator_account.metadata]
 email = "jacobswasm@gmail.com"
+discord = "jacobszxc"
+twitter = "@jacobswasm"
 
 [validator_account.signatures]
 tpknam1qqqahg3krp26v4s8hgywzjkwjpj0ajuh4m0z0wsy9esrc2e6cdh87ljpyjx = "signam1qrj757e90d2kqnegkedkftk5jmhhg4yxf85ffxv0me3kgry255uup7mkdh9uyaz9ujj5a5e8cgcr5k6229vh89n00pgzwhdhg7y7vustxnc4w8"
