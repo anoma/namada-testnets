@@ -32,6 +32,8 @@ authorization = "signam1q9aajatfas9g80d2n087m0f4w0xxrlk30ar9023ss8tsd6hyyyef6k7r
 
 [validator_account.metadata]
 email = "human.constanta312@gmail.com"
+discord = "0xconstanta"
+twitter = "@c0nstantaweth"
 
 [validator_account.signatures]
 tpknam1qrh5jnuscexpwl004z4ncg3ly4s579wthn05krueywhhkltn8gqe2nyr7lm = "signam1qppghrakhrhzk5hufky22qftuv0w9futrp8lm9d8c9xgtpl4yw83q0qthq6gpp23lsraxjhjkkwvwkfgy9ll5tr8utwumu977pxgtrq9lwrn68"
