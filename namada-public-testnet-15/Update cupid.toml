@@ -32,6 +32,8 @@ authorization = "signam1q9vqqnh9mhs9uzj736crf2ug8adal8dccpkrmmdjgz7r0c0udg0wz93l
 
 [validator_account.metadata]
 email = "fidyahnurfitriani@gmail.com"
+discord = "cupid7395"
+twitter = "fidycupid"
 
 [validator_account.signatures]
 tpknam1qq5v5eddxcegez7suf9uxxca4v7ekqdfr0ctqqkqxlssr4tn2vygjtvs6la = "signam1qzs4frljyt8jhjzjydm8kq70k4uk9jh3v3y2pmqht7qwaxph07mpagm4v9qpjfzqzndee2dt95y34ezr3c9wvv0z4ahjuvx4t5mklwqxt7hae2"
