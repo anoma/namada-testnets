@@ -1,0 +1,46 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr8x7yn239ttzyusyhyts9hv3rjghlq0d9cee02epeks9pgch4aqsnd7u8c"]
+
+[[validator_account]]
+address = "tnam1q8jza4ytmt8y6at32sx2vmrk98zaapy67szrv28e"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "127.0.0.1:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzckv036t7tsx55vdkhdu4vs602xsgtpxyl0m3smvncrz9r3n7utc7mja8m"
+authorization = "signam1qpgk7qha23n8xfyl6skmvjk8svat8k23fz2vs5qcet6tww8lpzwzmyw65tvhwd2fquy4ks75uh066zjkgdrpds92mu7hdf7eckp5l6sqggh8ss"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzdxp26839l27p59d6qfd2d76s0qtcx3aufytpxh22nz84shu0dhw45lu0y"
+authorization = "signam1qzljjj8s8sd8hpe5pe9jvd6fkf7sef99qaal2exu2p8f635msek224a7t6tvsl8yw8jrdjwa7j3zn79jzw2hals7ukam73z7gh5rd5cx8wjg87"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qr88ng6mzmyn73sulap903tdsn2rcmdwtqeshkeflg8sy9cr5a6exawy4hz"
+authorization = "signam1qpg9su0c5stxm9z4prup2cz2jdkcjl0kyg96nfyj9pgze26hklv347gze5pdjavxa5ugz4rspdwcz7tfuyavwzesyu6zs29yc2kd00cvwf5mqu"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphf6t6tzynps3ghfpk7cwce4v465ry4tcphe5mfyufnf7ep9zeckqj8pum2"
+authorization = "signam1q8zqszmxlks8f8gx06ahtzlflv5gym5p4urr93acjk80kkxg54yd70u3e0q7askj4m59ddfee5c9t82m797y6j7z7jd7q9he409r6e3eqq5vuy7p"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp7yvwnxlx7vl3aj29mmjanql46m3p90dzrptnzw5grc2jpupv6vqstcumwj"
+authorization = "signam1qxdns7dnqgvr8qjruw9wgwxvmx8752mp0vq4ema9s2y4hak6wuc7sdw3hvqdcnmh009vtgfjf63gpz8ev6ucxsggus3v5lrhfmk20eldqy86k5ne"
+
+[validator_account.metadata]
+email = "info@smartstake.io"
+discord_handle = "bigb4ever"
+
+[validator_account.signatures]
+tpknam1qr8x7yn239ttzyusyhyts9hv3rjghlq0d9cee02epeks9pgch4aqsnd7u8c = "signam1qqxa85agg6e54gcas5akl0azw54j35rw93m0gjhj8u3pufxp2lsfx396vf4aj3fkxkutcr33y6qe9mf80t7avm4a8vwj00nml8cue3qptqkn5h"
+
+[[bond]]
+source = "tnam1q8jza4ytmt8y6at32sx2vmrk98zaapy67szrv28e"
+validator = "tnam1q8jza4ytmt8y6at32sx2vmrk98zaapy67szrv28e"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr8x7yn239ttzyusyhyts9hv3rjghlq0d9cee02epeks9pgch4aqsnd7u8c = "signam1qz56m6qfkemty2l2fhawtsc2jhrvh20l0tf4e6fm2rg2e6fkanwjnyvhfqdx73gyttmc60yr5fh2vjdc569q886v06alqe4ncvl7q5g0lyn6n4"
