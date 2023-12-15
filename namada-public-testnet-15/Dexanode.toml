@@ -32,6 +32,9 @@ authorization = "signam1q8ee2sr9jc6dcg8lnvtnevnv9270ncemc69dnx5kvwhgu4uex9mdkl87
 
 [validator_account.metadata]
 email = "erulbathory@gmail.com"
+discord = "dexanode#2346
+twitter = "@dexanode"
+elements = "https://dexanode.com"
 
 [validator_account.signatures]
 tpknam1qqgdlltejy0akh02aay707kwaymehfvu534cggjy86tvp4ue6xzgsj5xqa2 = "signam1qqc94azmggtmmv04gf8a60a9wysxh7adzn9utthnceyx5sedwx7fq325wlt0hgx2ydnax4n8agp8w322m8uryv8nt6cuwg7vz3mkcpgp2atgjm"
@@ -43,3 +46,4 @@ amount = "1000000"
 
 [bond.signatures]
 tpknam1qqgdlltejy0akh02aay707kwaymehfvu534cggjy86tvp4ue6xzgsj5xqa2 = "signam1qq8skumjcu97j93e2luankkxelqezk83m67mlk09vx7906cpajlefu8kahvh87se533m8m2tsgy7qawg6eq27mw85xh4az3w0nc7e9c2j69ach"
+
