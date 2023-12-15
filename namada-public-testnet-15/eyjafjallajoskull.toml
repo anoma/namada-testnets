@@ -1,0 +1,25 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzplplxaq5ttul27uvxl793j40tt7x4gw58gmulxsygsvfac6jcrccdsnrq"]
+
+[[validator_account]]
+address = "tnam1q9xxfz9uhkw2dh3hrkgssgd6560yraez4uqkq2md"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "89.163.210.157:26656"
+consensus_key = "tpknam1qpvk7qxhmt0r4gh292nvhmnqwr082u0j7jj70lru7x3sln9ljqspgfue43s"
+protocol_key = "tpknam1qrfg5grce2g2aamudhchr2n6a6dsfnk8gzzmv6zqw92gcal0w8mzj9272nf"
+tendermint_node_key = "tpknam1qrpd7fg77dnfaehephn7gdh6ceaflxfyfx64packl70957gc4lwg5p2vfrz"
+eth_hot_key = "tpknam1qypuc87jcfj636y8ch7tc2z3kwktp49hdqv0muhfcadrlm4g5yvv50caru2gt"
+eth_cold_key = "tpknam1qypxkn3kya5059h6n9nv8nq0guq2y3ncznfkr5vg9gyfnsvnq5l7rxshe28qr"
+
+[validator_account.metadata]
+email = "nikita.linoks@outlook.com"
+discord_handle = "eyjafjallajoskull"
+
+[[bond]]
+source = "tnam1q9xxfz9uhkw2dh3hrkgssgd6560yraez4uqkq2md"
+validator = "tnam1q9xxfz9uhkw2dh3hrkgssgd6560yraez4uqkq2md"
+amount = "1000000"
