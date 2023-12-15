@@ -36,40 +36,6 @@ email = "yarnik.bitcoin+namada@gmail.com"
 [validator_account.signatures]
 tpknam1qza4yla3g7pctjpxu5dkwnqfn4zpuyakw7y6mp4v6wuw0xv8k5eazcf45a8 = "signam1qr0x6539ep9knk9fpgcljxhm2qrv46ry740e9njrpmul6nd7d5tygxrsrwlcg34v6k347d2u4vud6htetxfqe6zsew5c9u7gm0pdq3q0qkkpna"
 
-[[validator_account]]
-address = "tnam1qxhtj2464egyym7utdkayeuc9lpr5p8f3yxm8hwv"
-vp = "vp_user"
-commission_rate = "0.05"
-max_commission_rate_change = "0.01"
-net_address = "84.46.249.217:26656"
-
-[validator_account.consensus_key]
-pk = "tpknam1qzf9nemc7n5c8tuezpy06sgzu9wuv2geerlulthu2mxtsh3g2e396cqmltt"
-authorization = "signam1qq9gddwdpzu9sd9hlh4v2ydqxdavq6chg095crkn7e3hj3pppf8d2csgkwwvkpmsm0xnds4mc50nzxqx9dgekz8drnlsx6rswhl4w2sz785a2s"
-
-[validator_account.protocol_key]
-pk = "tpknam1qqdg23v83kkfegmtcvd5z77ayu98rqdtssc0pavhsv4c5ss92uhagspltjn"
-authorization = "signam1qqtjdteamtk738nrdkjzchntakvnynyp27cd73225emapz5dexx80hy0atj5l8xkm6pzu9r2wj76t92hdh2ed83eg5ax77tfcq9aurcys0cw3d"
-
-[validator_account.tendermint_node_key]
-pk = "tpknam1qzcr0mefgq379l3yqu0gxdu4h050vx5pvxx9q6dk56rgn5jf489eql5c6y0"
-authorization = "signam1qrq4ym0ncdlvjnwpxvahtxkjzar73du2g6rvcpensc5v8wacly3jhejgezhqdum2rd65s8uwp5lqcyhx9kdz7e0eac97cvjzdk9gzusq4rmqsk"
-
-[validator_account.eth_hot_key]
-pk = "tpknam1qypx9tkefmcn7gxr0y6hdla3wnurfduc9axuaw5y3gtkmw82wz92qeq3mxt8v"
-authorization = "signam1qxnj2s8mn7ptwu7xt5zs5msa4ucjmz3xu9ydrd43qsnx6uzvkyqqvglaz7exre4lapnfmlhzkfjka3ng0puure725lxgzstx9ge33d2tqygcckxm"
-
-[validator_account.eth_cold_key]
-pk = "tpknam1qypgdx0puh4f0rs9qxd6qgwtmwfajkpvda8r3ynln0k4kv2rv8ejp6sqaml0l"
-authorization = "signam1q9tlm4pqzdquzapk0se0juq285llru5dyptft64dxrta74whxfueqh89ee3690p4rqgcgz6uq76ntz0fgg5t4vr7zxptpukz5chfpnfnqyszte77"
-
-[validator_account.metadata]
-email = "yarnik.bitcoin+namada@gmail.com"
-discord_handle = "wellnode"
-
-[validator_account.signatures]
-tpknam1qza4yla3g7pctjpxu5dkwnqfn4zpuyakw7y6mp4v6wuw0xv8k5eazcf45a8 = "signam1qpjfqlmpk6yl7z3urkf43yy6ruuuff3n2mdz4jye6d7zqfyvrad8fv68gzze0p4su56g7af9u9vzavfydfyutflu0g9kq79hd7z295gw6ettm4"
-
 [[bond]]
 source = "tnam1qxhtj2464egyym7utdkayeuc9lpr5p8f3yxm8hwv"
 validator = "tnam1qxhtj2464egyym7utdkayeuc9lpr5p8f3yxm8hwv"
