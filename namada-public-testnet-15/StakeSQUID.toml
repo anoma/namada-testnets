@@ -32,8 +32,8 @@ authorization = "signam1q9skx5ufa9r472z8urytgr6pz5daz2cpdm6zsjlyfhz88hnx8apux7uf
 
 [validator_account.metadata]
 email = "asepcuwik@gmail.com"
-discord = "stakesquid"
 telegram = "stakesquid76"
+discord = "stakesquid"
 twitter = "stakesquidd"
 
 [validator_account.signatures]
