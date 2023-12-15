@@ -1,0 +1,46 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrldfwukxelm0m0vzjm5q50f2seyd6hjura3rltsk8yyy2wdkfrtuth8l0m"]
+
+[[validator_account]]
+address = "tnam1q864dderh52mzfh6dl89czwarp4p52vcmctvln38"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "88.99.52.108:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq6qzxllq8z3r8kajk6zm384u8tpvwx4gldh2f9lnhpf45xcx7vr5e58stn"
+authorization = "signam1qraqd254g2hn58rtlyf95euamjla0zah6gtrfeqyv8e3x2n3h9vnd9ypt7yheuphc4q5cpxpmzg0j3n0fc8tqejzv47knjfamlwmcasgfvhc4s"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpj0ppxssx3kuck3wtaschtdu3w00mwskknava8x9ssp4e6x02keqf9p0dj"
+authorization = "signam1qq0vam8e897fauh2tdfcpqndk0w4smerk0mhklgz6sachz0adly56ul5rg9k0wpcjpar69u2l8c8pzdms6x42xplgdhszf88d54trdc2r73fq8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qqkw5yhv6tlre2xprvc2df692vz624wprur7eku9p26zm52pvnuauy54056"
+authorization = "signam1qpzd2uynqzq6yqemmzpjv2m3ytd56n60s7n2ycagt9etw66udlu6qe2slvstqf8f4l06n69p9hgn4e8revt3cqxg7ghmtnk63mdhcjqgamfz0z"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp709u4n9c5x56msv8fgphxg9mrs33tmsfgrnswx6gwajvc4ptg7gcjul7yf"
+authorization = "signam1q8hnhu50lu395q6n2ys5x7e0zghtsfa5pw7cnpjqspf5cqn6dl7r2r4zau8xm9muxyq75flvsjlgek5ezmrng07wgf58uept0vua0twkqyl6xjxu"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypc6f0hq0fxfh2dt2nl0xmkyd4su9kk85cw923af74l8wnneqkx0wsfgp9gd"
+authorization = "signam1q9ne2rr2d32c6khadsgh0fxvmp47wj28xqzjrqnfwspdf97zs6lhydqaju9534xv0l53lhjag8q25hy8kcy5nt4uma3eu2pgd0uyy0meqqpdulra"
+
+[validator_account.metadata]
+email = "contact@quantnode.tech"
+discord_handle = "ks_quantnode"
+
+[validator_account.signatures]
+tpknam1qrldfwukxelm0m0vzjm5q50f2seyd6hjura3rltsk8yyy2wdkfrtuth8l0m = "signam1qzy8sqskfhfy8s738g2qz39hjf7cxkplfn3s4eq7tgjp56cxf9mmtvrxdwpta4d8g34x2tf3fm69nnl3g8rw6vj4trupecn3f4j7suqwg3egfp"
+
+[[bond]]
+source = "tnam1q864dderh52mzfh6dl89czwarp4p52vcmctvln38"
+validator = "tnam1q864dderh52mzfh6dl89czwarp4p52vcmctvln38"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrldfwukxelm0m0vzjm5q50f2seyd6hjura3rltsk8yyy2wdkfrtuth8l0m = "signam1qzn7t9hklmr4sps99yr9vujngmg5wxaharrzrcdjqmmexwn6zamfx2xz0ev9tqyc99fxxzwyr5xlmjd7ahjywsrdxwhk4pyr72msxqcdt6lzk8"
