@@ -1,49 +1,46 @@
 [[established_account]]
 vp = "vp_user"
 threshold = 1
-public_keys = ["tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg"]
+public_keys = ["tpknam1qrmde98m5n2ra4232glvl3xgc2z52y9u9x0wp0y4w65rmx2sv09qzth4h39"]
 
 [[validator_account]]
-address = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
+address = "tnam1q8z0zfx4yzy373skjt2c744p6jsfpdca7upw9rcu"
 vp = "vp_user"
 commission_rate = "0.05"
 max_commission_rate_change = "0.01"
 net_address = "162.55.94.142:26656"
 
 [validator_account.consensus_key]
-pk = "tpknam1qq57akcuree0aqh9r2nhrj9jwrlhmshw2fl9kwjqdy6ajux99ttqjq27v7a"
-authorization = "signam1qpar4ed7f326lm7a85fm2vt0z2sfl2lg33u39c6fwr0y78t0dv8rgta6qnxgjywlzhasje3mrevayx4ntzjlc49ax36qcdht2v6n5wsrj0tk6f"
+pk = "tpknam1qruu5lepsgc8x2uw6g9x533xgw482zkynlcy3zrqppspmvqx3rtlsngl3s3"
+authorization = "signam1qqmputxsc83qeq5zzxyacd6w0u27dvrpyn9z6edr0gyzqymmlgqvfrx9u8x9e22syf83jndffxc2zcr5a0d6xe6uvvdrf7sttmuh3wc2ce0yak"
 
 [validator_account.protocol_key]
-pk = "tpknam1qzkqmwvs3lq8cz33rg5c7ucvp674z3vj6s7nqldja2u7tmj40xzgv0h9utl"
-authorization = "signam1qrphcf3u32nr20np8pa36nncnhfp6trmueta42z4jw7cd97asjtk8v3225p24wa93sqsp3fpjy4rqyxh5syxcux4d2d57twlpz866pgtmtdek0"
+pk = "tpknam1qqn7ja0paq4xc7r4rqankful9cyj6f4zumxq8rxwn79yx4h970l7jxa5m85"
+authorization = "signam1qp0wgwhsd9tcmlurt2ssydf2zfltyczajt3r74mym0mkjjv27x3rff8gyj8m57jxu5y4p2snlvgs67e6utmv227h4dle95gvd9qjg5cr5lp5j6"
 
 [validator_account.tendermint_node_key]
-pk = "tpknam1qryqpv2pkjsr8dyk7psa76356hcycvh3qx5lcfs5egdza0ccz5udugeecsf"
-authorization = "signam1qpge9dkqslcav36n4g4xs4syq4m3daqdejd82jxpkyycx7c053ejeetg6twu2wlvk56h3au2fehf04e3v5328urx87he49vpay0q73sp90pnxm"
+pk = "tpknam1qqtq6ezfv0frvardu72akyn4trhwg745g3xyh9w3vgaxpzj6zfd8qkhkf7v"
+authorization = "signam1qz3xgqt7z6md80ffvudgxwvmg64eurahqlyqth8ym8taj8uktzyffzumt2zea6rrplahafq35wrr6lcanmayztuy54zalzf7umu9ddqgq6868m"
 
 [validator_account.eth_hot_key]
-pk = "tpknam1qyptsval6zqsfk3t9vzvtppe0pavpyxcdx5hxq5ggcaxhq5jd2yuzqspmfm6e"
-authorization = "signam1q8ktaqdpnz5yu3fw5r7evrfcz5wzmsxqmwtge65f2glhcwtc4al4jvv9mj8hkphwd88upvnte2nrfx8rrtkd88s09zc7rd2tg84gf2apqqxq0kex"
+pk = "tpknam1qypnqc0lvtk702vd9adq0sh396fce974afkd0ptmah5agkdmv47t3tcthmt0k"
+authorization = "signam1qyue6f8hfksg3u438nw4use7hqqgcezv0vq3wpvc04vghzjm7ng3czw74yptrt62nn2e9tzw9se528fl2x45rz3cdv95vhhh35pz0857qqdzrv02"
 
 [validator_account.eth_cold_key]
-pk = "tpknam1qypaag28f2mefvp4xl4ysf8mjldcpuf3yua2nz894d4x9phgdsv3hfc6lsvu7"
-authorization = "signam1q9ql3283aes3fz6k66dvdgsu8wehykdy4hxk089huuvj2veq89ww7dep2wzsz8nyvnj0f24t3526hyck8sewnct0rs7hxf3rthra2grwqq20pv3c"
+pk = "tpknam1qypc5r8th3c68xz67ejn6en3pnamre7pqv9w6el3vc8wlk5sdvy265g0zjmac"
+authorization = "signam1qxfsc6wxfkdcsnnc2atelgw9rtag627p29jhmqmmah8uy49k5ulfc2sglz6qk7zkgalde87twsdzgqwy9ym9zps7cacr3sp79cja6658qqnptw8t"
 
 [validator_account.metadata]
 email = "brendan@whispernode.com"
-discord = "whispernode"
-twitter = "@whispernode"
-elements = ""
-website = "https://whispernode.com"
+discord_handle = "whispernode"
 
 [validator_account.signatures]
-tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg = "signam1qrreevdw49vdzua8lnwg2yerf3mtwrlgcu82kulu4sm48et9yjg446pn07wm5jp9efwmgu4kn5lyrqcwx4vkgt8fhcl84uqvj632eycttakult"
+tpknam1qrmde98m5n2ra4232glvl3xgc2z52y9u9x0wp0y4w65rmx2sv09qzth4h39 = "signam1qq005r9sd6vsg8xra4fze2qk6vfm36uzgwuzptt82pajmdlau0mrdkyet4en29n73jhpuwyzcyee6mrw40xclg54vn250va6lhh22zc0qgd8v0"
 
 [[bond]]
-source = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
-validator = "tnam1q9kh690yge86uesgq32hs2en3382s7kj0gy699qq"
+source = "tnam1q8z0zfx4yzy373skjt2c744p6jsfpdca7upw9rcu"
+validator = "tnam1q8z0zfx4yzy373skjt2c744p6jsfpdca7upw9rcu"
 amount = "1000000"
 
 [bond.signatures]
-tpknam1qzf7qtxl4umerkfpmwyndwssase24d3snmqjrcg5cgans796qvkwk2flqhg = "signam1qp88qcuh7rmgnwp7ymgqw07q2k299nswku0qmt09dekyy783j0qf36l9fw26rr34vjvu0qvfq3x87gn9yxndh82gq2w9nhslpdnapqcrx0qnth"
+tpknam1qrmde98m5n2ra4232glvl3xgc2z52y9u9x0wp0y4w65rmx2sv09qzth4h39 = "signam1qzukce9lssnw0z9geuprrnt3nu9jztdu3fuu7jf300auvzvjgm78elcvq2mawt3dt72xvfhp8hqv5wt82ujup7n03dqlt4nk7g89vnq9023e2x"
