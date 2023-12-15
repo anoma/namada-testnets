@@ -1,0 +1,37 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qpkkzprftmmr0wjek5nu8v95qkwrkedeym496yd0zuuhs7y3veaajkm0z9n"]
+
+[[validator_account]]
+address = "tnam1qx8ypzjs903p3gxvchunat8x6xlljrcagc0ft8f8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "24.199.119.255:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qzyl6zqh6tqlw6p0n8ecaxs3sgzppqcwnrw4vy68mhyfc0znv3wr5tpcw5y"
+authorization = "signam1qpgyyk0mzcsnsf8egfd250t6gw9zksx9p3d7qjj80c0hdaju4gvv869s4w3hsrtfasxkgmvps2hv6plxfut2nvkw2emwpf4dpx93qzqqzf2us8"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrjreqv3pja3s4nvgxq8ccvkr2guv73phnclavvknaw0qls9yq48swwlaau"
+authorization = "signam1qpmlut755nef0fy3znxzvmr725h6urmlafe68nl572wqx3fcvr2atpmena53zmlrsl82jflw677jc8c7kach5l6ac3h7jrc7wr37n0qz4v0q5h"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpyls39cghms9qgatwc7v54jpll34hmeurl2jg9k3uwfft9lg48hu9gqzs3"
+authorization = "signam1qz35qhrzu9p67a60dvc32fq9wagjrw9cjkf0z8jg76uf0fq7geq9z4wdx0l274tnvahgrrc970a5j8avgpy7vz6djsxte4ymaakqt0cvte4jck"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp5zf5tzuj3zej4j54t6x0aj4lg38ceph4yvejrt58vhdv74dj7y6c8wgc7c"
+authorization = "signam1qya68mypsl9ap6wvydngw7xvvgrmzw7vaur5k7ycpa0z5kau59z06n2n3yq84ruafeya49dq3gdfc9mzvephqcmesmzl5u4y3k3gkgx6qy88mpy8"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypap442pc93z82w64qa2w66ghmkgck2w5at4w75j0mr34lfsapgp7sxfxjze"
+authorization = "signam1q9skx5ufa9r472z8urytgr6pz5daz2cpdm6zsjlyfhz88hnx8apux7uf7rwuq690tpcrzmwudhxasy94rkrldrrv5xlru9gjyum6ev22qqweyf5t"
+
+[validator_account.metadata]
+email = "asepcuwik@gmail.com"
+discord = "stakesquid#0"
+twitter = "https://twitter.com/StakeSQUIDD"
+elements = "https://explorer.nodex.one/planq/staking/plqvaloper15k7mlhgl3reec2aa8qp7l3qhjnm498kvhh2lxz"
