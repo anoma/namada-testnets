@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrjxtp04yzk7fn462clvykuw0t0q4xzjld2v6dy6ma3kw4eq6u6mxjx0akj"]
+
+[[validator_account]]
+address = "tnam1q9gw29mf2af05acsysts4lhjl4j452ml6s9maa2n"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.189.181.99:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp4nuw879ajfe2jd0x75hj8u4d7a0cx3jkccauz8j0hpkyhdfarqy07cfds"
+authorization = "signam1qzv48yse5m8277jus78a8ku8w8txlau75yg0jhvev76chfhs7y063nr2w3938puh9ssp4e2vr7djx7x68rdwxszxkzcefweee5wk3vs0f6lufu"
+
+[validator_account.protocol_key]
+pk = "tpknam1qpz8d2n4fxsglpux8pmzs6yu5mz5g45kpdepdx23fpqc9rm2t027xalhrcc"
+authorization = "signam1qrgy7x2avfgky6k3ka6qhd2acj8h8aqmkwltl26tnsczywpeajptdsccp88uad8th7qz9795r37tjwdz0tr0423cdr7r9ln875m6yxggxdv7nr"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzvxuwztntv6j87qfdaad3jmd0evfgy5cn6us0r56uz58phz8dqp5gswqpk"
+authorization = "signam1qpraxy5x3geady72rjxq4km2mv24at0627xy825jhcgn6l66ew2rg9kyslscj5q5fquwesm8ju2hh5lteg5y2fgpd4rngxhc29wf9jcfpy96aa"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphwvwsmszdgw0l26fkm97hevjys7e90ju2p578twuze4zlwjwql3qvsd2r3"
+authorization = "signam1q80hd8m6jjzd29r8w36mwd5ylvvr9sp2z6yctyzz25jpvf4lgzk8utjlak4kuwktq60rns5q45n6ns556pafsdv9agny53wueh82skweqyt24vug"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp3e69h3v0ev6c522cnze0xrasmg2l98z27wupverg7shdsc3gt24sxy4v76"
+authorization = "signam1q8cnhfqwrsa3u0c3rcsyl4eaw7dhwrkfwd49d4aju7egdtdde0gtkrk6r83dpu9s0wyhyh36ryp336pa26dfsqdx0xqdgkp39tsmp0kfqyj44s89"
+
+[validator_account.metadata]
+email = "e.fritsch@commons-hub.at"
+discord = "709507425190936727"
+twitter = "@Emil_CommonsHub"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qrjxtp04yzk7fn462clvykuw0t0q4xzjld2v6dy6ma3kw4eq6u6mxjx0akj = "signam1qz2z8g53e9egkvfmf4ej8nftwfx4vwljmauh2v4m7fwtel8p8d52vc4mepcqy0qyusjqam8teku8chw4epe2z0n23m5z0ayxsqyweygdeg6kwv"
+
+[[bond]]
+source = "tnam1q9gw29mf2af05acsysts4lhjl4j452ml6s9maa2n"
+validator = "tnam1q9gw29mf2af05acsysts4lhjl4j452ml6s9maa2n"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrjxtp04yzk7fn462clvykuw0t0q4xzjld2v6dy6ma3kw4eq6u6mxjx0akj = "signam1qqrdsads85wk2ayymc42r0wm4qmk35vgqd3szht9hsz2upuw65ttjrxesnlzkxrdzapx8uapeakm7ay4yr3v0ykzc0ut9tjgfkhmn2gxxzme6m"
