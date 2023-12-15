@@ -32,6 +32,17 @@ authorization = "signam1q9skx5ufa9r472z8urytgr6pz5daz2cpdm6zsjlyfhz88hnx8apux7uf
 
 [validator_account.metadata]
 email = "asepcuwik@gmail.com"
-discord = "stakesquid#0"
-twitter = "https://twitter.com/StakeSQUIDD"
-elements = "https://explorer.nodex.one/planq/staking/plqvaloper15k7mlhgl3reec2aa8qp7l3qhjnm498kvhh2lxz"
+discord = "stakesquid"
+telegram = "stakesquid76"
+twitter = "stakesquidd"
+
+[validator_account.signatures]
+tpknam1qpkkzprftmmr0wjek5nu8v95qkwrkedeym496yd0zuuhs7y3veaajkm0z9n = "signam1qz586xqcnzxe88hk2lh95yt5ake5f4v4yyme4x5vp424s75stnfea80cuhlvfrx9zs678vmnn4levtdvu0hqaj69yqxlf0lgkxxxu6s9dukjed"
+
+[[bond]]
+source = "tnam1qx8ypzjs903p3gxvchunat8x6xlljrcagc0ft8f8"
+validator = "tnam1qx8ypzjs903p3gxvchunat8x6xlljrcagc0ft8f8"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qpkkzprftmmr0wjek5nu8v95qkwrkedeym496yd0zuuhs7y3veaajkm0z9n = "signam1qr8nsjn0eedzpyj0yqalrwwqt6rzqhgdjdnln27g8st8wz8jnwyae97r4slptqckv6z9vx0j7rwnccyphjzphdas80tlvnghdz2cg6gqk596w0"
