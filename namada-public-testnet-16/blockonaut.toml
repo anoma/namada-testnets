@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqxu0pny889ptq9nf4dtct2a2lx9wzn6put448u88er3j8uf2gztsdxyynd"]
+
+[[validator_account]]
+address = "tnam1q9kanjenje5st6n6f30sz2cest2q4sgn3cf0p6dw"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.52.162:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz7eu9tpnrmcdh87turxqdan33ge6rvdj6t7wltdvfpz33jvwdz9qgtywcv"
+authorization = "signam1qze6nfu9fz6gx2mug7yn6wkjz69r7zalk9q6sxx3grnh95nmdlcjk4u2e68e8x026z8lsnzxecgxk5phl0dn053rerr0rz967pzu9dqx5d5fhx"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq02aj6kjs9qcghhsaj9jyaxnqzzm3kdtkvpzde2m70swaeea9c2w7w9cnd"
+authorization = "signam1qrrnp9vvt4e0lr5kfzv2ast9aa7j7vgmgmsy7t4d44ynxxfrhxp995ll8vxw8tkx6axyjt652r8qj8wh52njcjvrfxxcdaz4g4z25pc245gvmc"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrz8wjyufhpmt4v8jrc4y3afkzfyalv3vfn4sgk5dx7lpm8wzfs4qckpd4c"
+authorization = "signam1qze7r0ad50av6f6ductneg0kgcvjkuw3ye3l77gfr9jj3w67xmxmdkphkcu9eplvlhf9hen8dmzntgjvlck9uhk3rj3nwpzfdp2hj2sz6krpef"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypcx3p4e5zt4xfecvy55mn750cdwkrrknxskwhnz2w2aut978la93gr9djrj"
+authorization = "signam1qy5x5eelg5dgpjwf0l65culmswrtys6nquv5htrexnecvz2gjam4wk8kprm8sgj9sqc0z3mkkmk5nargvqg7mxt2kvt0pyzpragmvwtkqqtps2kf"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypchhftyzrd3vvq5s8mhua3k2twaze7h9uvjg8sndku29syakufrycyzgkqu"
+authorization = "signam1qykuezrzd35fyqu50djgv6a8lk05ffz9f5xpjwjvqeamsuae8mem6mn6z7ajuyek3l0ghvm8mmxzzgvkwuekgt046h35maaltd7aphltqq2zdcjw"
+
+[validator_account.metadata]
+email = "info@blockonaut.com"
+discord = "blockonaut.com"
+twitter = "@blockonaut_com"
+telegram = "@BlockonautGmbH"
+elements = ""
+
+[validator_account.signatures]
+tpknam1qqxu0pny889ptq9nf4dtct2a2lx9wzn6put448u88er3j8uf2gztsdxyynd = "signam1qq39hsuadkqnjrlp4kts36uhcc8vc9jt8n4dhs9n24l3ch27fsd8gw4yem6a099qshzp4eul0q2nt3u3cxz78snpe5yc5x3fzm623yc0y6td96"
+
+[[bond]]
+source = "tnam1q9kanjenje5st6n6f30sz2cest2q4sgn3cf0p6dw"
+validator = "tnam1q9kanjenje5st6n6f30sz2cest2q4sgn3cf0p6dw"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqxu0pny889ptq9nf4dtct2a2lx9wzn6put448u88er3j8uf2gztsdxyynd = "signam1qpnh2m5vf2d86uwmyn8ywe44tmkqcvnsyzq3eatfm9h33k0y4rzrkq5pq3m5cv5g3ldsgcr9jjsm0ggn665s2dg0pfa6u3dvltdv5lc94jf3x6"

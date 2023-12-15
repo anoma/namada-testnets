@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqp8wc7pnnax7h748qpyhfr4c2ljtfees6xnysq6jvdyk079tpsm7zmmenv"]
+
+[[validator_account]]
+address = "tnam1q8xzpux4eyvrph33mpdndsg3ar9kluzyvvn56z4l"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "65.109.72.14:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qqtctdadkvpspcy6zcgkjvjhcueprltwv7k7y99apt8dydkve7936y5rxd3"
+authorization = "signam1qr42lmj9lzhz5uxuw9n6s0p9xv6rtqu7k6yrj2n6g3mw73urh5dc03klj2tc43xzcvkl73x8vyxtadhz23ueckjgn888kc5z4heggdqqjgu8l6"
+
+[validator_account.protocol_key]
+pk = "tpknam1qprlel74zc7s5dy8cc7xqx6qnclwnlj3fvdd64f47dssygad7dlswc6dwp9"
+authorization = "signam1qz8yvz8hxql35cytcadlwrf9vpvef8sx6vsklprvqqvxm5q5ffr7qd5p964mrugqsgl42tq5sss4prxfr74fg8306m55xmdw9670kjgxjwh48y"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrnufk96qejwp058dxrk3zww5jwu6u67sygck5d6na8j05zwa67x76k05sz"
+authorization = "signam1qpem47yc8fznkfq5gqpyuacyu82f0tsv9un6a40fq2hugkzspzqwfdrn7prfep0727upp37nevhavcn7l7elsh8yc60rydz9mwaer0gzudz5rh"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypr87ec9caagwvrc0005suz0w7xeujgnkt0r0r4tn2pm3qs8h8jkhgltvtpa"
+authorization = "signam1qytwzfyft0zlax3kt3z3e3wxgyu95h67yyjzumrzpg7use6vkpjx5dcp4fmpp2ve96e0680sp8uk5z77ufdpny3axx5225uh2e6a39ceqq9x36w2"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypa688k0h3ehjd8j0k9fs50r65hkm3m0mdh4rxs062vmw6zwe9y08cd2v678"
+authorization = "signam1q8f95awttxh8wttyxz6ad6k9yzxrhehmdnv9kvnkrd6yw9y4tf4m7nfcqzjlshmpl4272z40euekgc52gtvrldwdk407kyak830xvy89qqzehgmh"
+
+[validator_account.metadata]
+email = "inmenta7@gmail.com"
+discord = "inmenta#9444"
+twitter = "@inmenta7"
+elements = "@inmenta:matrix.org"
+
+[validator_account.signatures]
+tpknam1qqp8wc7pnnax7h748qpyhfr4c2ljtfees6xnysq6jvdyk079tpsm7zmmenv = "signam1qpygzpvzw9f7eedt4kyaj4g4zrlfwy73yq3yt06psl3euru4l5lv3v4vz67677xyskql85lnhw46g99kah837f3h0fuk2frhm9cxqgs2snu5ts"
+
+[[bond]]
+source = "tnam1q8xzpux4eyvrph33mpdndsg3ar9kluzyvvn56z4l"
+validator = "tnam1q8xzpux4eyvrph33mpdndsg3ar9kluzyvvn56z4l"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqp8wc7pnnax7h748qpyhfr4c2ljtfees6xnysq6jvdyk079tpsm7zmmenv = "signam1qp6xx22mndmg3jnvs4jrc6td29v6dtqn3ngt5jg49rwuc623vyw2wxh5gceahltmsypxdwqqha37ppg443ejnuyhxcpx0z749cngm7gzp992je"

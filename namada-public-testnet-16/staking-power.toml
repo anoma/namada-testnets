@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qr3pdlsspta226djrkrpq9sxcm8l63qn6xluqfwef4rq6ay3ftg6w2pgqeq"]
+
+[[validator_account]]
+address = "tnam1q8vj0w8f038eedcfkzg69hjusegsv2788gu6z654"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "49.12.129.137:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qz9umfx4h6hfd8ql2cz2znnh3wu709d2ms7g6wu43gtlz3pd3a4z532xmwy"
+authorization = "signam1qzk0t84a2evmrlnrpa5rdnstlvv00cnsr95mn6y3dtzfl8l9j9dn6vmvzne0r7aee6vjczjjq36n45x9gh4cmtwgv55yzf8ckpjk2sqpzrcq9e"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrl53cmaadksmskfeg6dg38d4w7j8e8g9zpeshp00phfu0u03vx4z5wus99"
+authorization = "signam1qz7k3kdu8gt83au3pw2fy07pz9lycs5wkf3ztk6jpzax75km0xym94z0ukwk7ckjf4smn4khxlv592fs9rxu3cafkmfhe9y5r2ejdws2xn0xl8"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qppzna05uadp2p9y3xff0jsafpyrcqptujexc399xk3y3m89uhn6x4z2uwp"
+authorization = "signam1qzw9exlzfvcz7p5jc8mxkysmw6w0d2wur3sfqxg3nz0zhq7ptjps9mfn5kytnk73rqpmra3pzl7x9zaseaql8nhlqkdfy5ftqgx3nasv2jwhus"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypukcn4nwh0jt23fcmya7kx96wztymneer64a7mw8tm883e3ywyasc32dkc3"
+authorization = "signam1qywt4hf2w9rjvuqxg3xg5xa0jzae3t498gdutaclcgrekcj5v4uyw0q6gy540uj0tqvu5ylv5jcxjav6ay8j8fwsgs5aa2gek8847rhrqqrcpamw"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypsf0hhf0nlcqa04h2kcvq72l9vqe44c7dt4uc9zpxlrxw04zqkc2gwmq639"
+authorization = "signam1qxaa9n38lzqqh0f9lardpd8rduzz8e0wk2du8eeveyvh0ckest2vy7qg8a6s6qzuwy7cwepaa9w3zp4xja46yh5zsgfr7waudswgh859qq0qr53f"
+
+[validator_account.metadata]
+email = "aquariusluo@gmail.com"
+discord = "SY.Lai#0056"
+twitter = "@Rogers86088824"
+telegram = "aquariusluo"
+elements = "@aquariusluo:matrix.org"
+
+[validator_account.signatures]
+tpknam1qr3pdlsspta226djrkrpq9sxcm8l63qn6xluqfwef4rq6ay3ftg6w2pgqeq = "signam1qret9als5hh4tuc2p674d9pvg72l60u4xm42c6snj6k8yep9xm6phyyuzflwpedlf6grqe6gelwvu2wwcz2tqpc6y0xgpqht634q39c0dekajk"
+
+[[bond]]
+source = "tnam1q8vj0w8f038eedcfkzg69hjusegsv2788gu6z654"
+validator = "tnam1q8vj0w8f038eedcfkzg69hjusegsv2788gu6z654"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qr3pdlsspta226djrkrpq9sxcm8l63qn6xluqfwef4rq6ay3ftg6w2pgqeq = "signam1qqczmaad4jwqnmrrykmwlx8p43jyef5d9vkqhwz2qygh57c5pmvnxs2vg7y793zj33rx3452jxt9ud8zg22f40rmxrp94hlma49r5vqr5q5ww7"

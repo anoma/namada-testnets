@@ -1,0 +1,46 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w"]
+
+[[validator_account]]
+address = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "185.190.140.93:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq8qmgglks8a8kgcwf2zxfkle4agw47n3qsvd26y2e908sdcfx0actwapm3"
+authorization = "signam1qzxg7373n4m9y2ytp9mg0j22e5ckefe4ue5v5jjggda7mcr7qgp2z57q0ffld79jgellqj00sxmsr2498g0pu07rawrehluwnjpxvaqtsfwate"
+
+[validator_account.protocol_key]
+pk = "tpknam1qqk9ypytr3keky3pfg9rzpqnkle4crzve8ylu7m3gysja0a0wpamxu6nym8"
+authorization = "signam1qqvgcmnw7vcn6x7v5qp8lu7t5pr8shkfvxc8cqlcpaswcppcx4ycew4su4gu0mgsdz66s450yzfy3nspmm3np9thnxeany5ttzxkf2cthslrye"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qzx5xrdn5kjsu8est3jvp0sy0t2tu4qf0mpu5xhxw2kl2e9e9akz75e0wey"
+authorization = "signam1qpvx59v3ky8ejeawjynzuv0hyk2jr8qpdght9px9tzhhypk9p69vej9sxmm2cnjtwf7gqgf58jkukak8y3rlfh83uzp6eg992udy3kqwm65cqq"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypv0ep8fwawnc307u4sr5rpcna8fa68wcen5459jzsml6d4z35sdrq72z6sg"
+authorization = "signam1q8znscpj3md2ds0kf33ppxjl08uv73xkgfgwxnjzn2dqj97ukuelzv57hp2sujevln07wtx3zgqng6aundck6m7mfmhk42zmx0kj980eqyyvktka"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qypg66u27ynardtc669re5w0dgw35l56uu5y2w40durhnn3hfkhezusqwesry"
+authorization = "signam1q868ppn2fmyjtflz8m3makd6w3fjp7vk6m7fxytcph08kjvwnd8xqsmm6wx0f9lnv4kx9f0qdzsu2mdlhecsrp8jm02zsppdmmeujjk5qy8h32j7"
+
+[validator_account.metadata]
+email = "gbuchukuri@gmail.com"
+discord_handle = "ggbb.geonodes"
+
+[validator_account.signatures]
+tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w = "signam1qp4adf8cmtdz8jcsa0spec8vy687dyl4k560vedv9k00uz0hwvaamlgpm9qjxgqxx337y42futegysvlxtls5lgedl54nsj3kukcnkgqj2mk8k"
+
+[[bond]]
+source = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
+validator = "tnam1q8ru7wk7s7t2xyrp7s8mmepjj8nrgflk7yeapejn"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrq0uyeeahlkgl7ec3zh2yemtaagx6c9w36u5w3jnt6luefn4d9wckpcl8w = "signam1qqpg6wt8cf6pxlgkqg2m00ny3qs7pxudujp864jrkh02kg4wzwmkkvlw62zz7wltepyarhmu5gtvxrw0gmvzfhnv4fvjrw3wkmmxchs8eeu8h8"
