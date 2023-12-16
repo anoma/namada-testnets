@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qrffaxcxnnnd25zwrhkzq005z0k6lw6hqk7v87tgcxdzfnag07scsljf5nl"]
+
+[[validator_account]]
+address = "tnam1q8tr2n585p96389n4kdeahcextrszer29s2w0gu8"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "146.190.37.62:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpuc9wjpka7d43lshhgf3lcztxrjf6af68nms8uqj8q8z0shler2jhk5eut"
+authorization = "signam1qr53ukx2rymk826kj787ejv949jlgha2nhkrvq7rsf5swwxucp3s77awp0jvk8lqrwkntsqsg07wy92cx2qfnlz90yq70fd5v9w9khg94vrn20"
+
+[validator_account.protocol_key]
+pk = "tpknam1qzrt4dapnnfg4nuekgnxaxgr4gtk0mt20ssm29jxcrlsrm6w5aqkvn86apv"
+authorization = "signam1qrh2wm23nlquc9gnuqdqdrfd8gk5yfuzgd9cl4vx8ufh8lz45r5phgdmy5wa53stz0fjz9uxmakm3cqdv3rnuwflmjtftkv9dh4yayc24fg8le"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrzxfjwrgwzrkg8anm7gktklqndcjf5kzgpd34ful07a3naa9jppye2h7vj"
+authorization = "signam1qzm33pwqfx3mz8rrrlcnqgc04dk9tphu0q9xkhpmka6xppcqdx9tf3armqh0mxvk64pesjelcvc2mkmwv66f02x6yp5ye4vu4z03q3gtxnhpjx"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyp79kxu6vr88cf4m0ua4wxds6xj426rfrv5a34advaee8v8y4rfwegn5xm2a"
+authorization = "signam1q88rgyfrh4nfqkggl7qhg79kyf8hrcljsv0vek5v8vrsfyyc58vmw6p4z76cgl96tu5eqdpzz6zg757xhphl0su8nygmvrp8d4n0shl7qyg7mfcq"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp8k3afrpydjwcj7gyjv9rapr6f9et7q62r4ru4nfdutqdaxcq3zeg5cz8du"
+authorization = "signam1q86fwp53ac86fes58t5jyx7syt3cqmjmdqnvzdj3lv0c6zsvggs265mze2qhgmt9w44ym4ffaa72l52xmfqj0yugjwhyzpeefzl4tcvqqyx7ufs9"
+
+[validator_account.metadata]
+email = "cryptodropsid@gmail.com"
+discord = "@ancryptodrops"
+twitter = "@CryptoDropsID"
+telegram = "@CryptoDopsID"
+
+[validator_account.signatures]
+tpknam1qrffaxcxnnnd25zwrhkzq005z0k6lw6hqk7v87tgcxdzfnag07scsljf5nl = "signam1qpjmegwtnnvgty2uvg2cd2nlfecf8wdq2207flkerpdy54tn30d5td2s6522j54wjzusxuwusauttc2tpcupxneqy60jr8p0rn4fucs9xu2j9v"
+
+[[bond]]
+source = "tnam1q8tr2n585p96389n4kdeahcextrszer29s2w0gu8"
+validator = "tnam1q8tr2n585p96389n4kdeahcextrszer29s2w0gu8"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qrffaxcxnnnd25zwrhkzq005z0k6lw6hqk7v87tgcxdzfnag07scsljf5nl = "signam1qqmg5wenezklaqk70t36cw3w0uzgukstwaekhzpzzcxefwa236y9d45k9vsenx5kp87at4ermqw6mnztvjaeuscknycedna3gfp540syu6dchl"
