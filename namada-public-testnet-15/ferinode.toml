@@ -1,0 +1,48 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qqmv5rsnmptndlk03ccckgmfhs6gfhl9gj7vzlxrmu7edlmncuaw53a63gw"]
+
+[[validator_account]]
+address = "tnam1q87agr2ztdml49kvdldpulpvjcwruc0jfy9vv7ja"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "38.129.16.202:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qq2dfn093v2p8yeaay745s72ay5s7ezqgvr2ruz520px53gsyk2tkf3d3wn"
+authorization = "signam1qps6tdx2mjptaa9358kafyu4k6jaszkkurj85ksrpzy4uls2z9lgcrv4yzq2e5dkr47nvety28knscchcurszds4jtf54glnd34uljgx94wkum"
+
+[validator_account.protocol_key]
+pk = "tpknam1qrynwt2wesjmv47dq8q9uah5ae4vr8s4t6yjhc4g5w9nx9v94qx0vltdh20"
+authorization = "signam1qqtvxxymqgtm0fjscanmm9lljt5ztt8wd9vze4xzj664vnxturw0qha3kt3hkjyxx84dv9umkkknjka8zwq84nkk94h6apqa6ytejdqw26xy36"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qq27vuw30u6kzvwcz0aees044h8ft7tmnaml3s3rrk5njlj3c6uh64qraul"
+authorization = "signam1qqrdhhqkr69k3h6hwwc7zrx3l7devh3hcsups86p0hks5achm705hexusapca84wmjkuc4hjlxy76ymmsr7wf33vuuptdz7348a8vzqpsfzez9"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyphndjyyq9leh88j2q4uaaz9z7amq8hg3nur45jwa24wdk0wyrcnpcgg9f9x"
+authorization = "signam1q8a2y6sps94fut2v4lnze75u5d77vd0rvsuqvsc9vft0csdwmtueclp7h3m5laqz7xgju6xss5geu4cqwglgj65nk5wtujnupa5hnvp2qyv0hkjs"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp60e97r9434wnk4xdz4m9ygn28g73uxnzqndy2k9t8qp7wgsmaecqk56wfz"
+authorization = "signam1q8sdymrq7rdj95m2egqwad9s84zvmw7lvv64nyaxslepq4vdx0lrk05yzxzw6w387gsyrl6rv4fr70znhrchqslpah3w5rlps5ew39hzqqk79t4p"
+
+[validator_account.metadata]
+email = "feriyantores@gmail.com"
+- discord = "feriantogumulia"
+- twitter = "@feriyantores"
+- elements = "https://ferianto11s-organization.gitbook.io/ferianto-services/"
+
+[validator_account.signatures]
+tpknam1qqmv5rsnmptndlk03ccckgmfhs6gfhl9gj7vzlxrmu7edlmncuaw53a63gw = "signam1qzvuv0dwz06dgsel465elucwuwnq7c5l6dvqnayaqqac8xzmk63g07fflumlk6ugvh7kcg7cwdddrxkysq2efzcaskudjvxdc8d950cyflzaje"
+
+[[bond]]
+source = "tnam1q87agr2ztdml49kvdldpulpvjcwruc0jfy9vv7ja"
+validator = "tnam1q87agr2ztdml49kvdldpulpvjcwruc0jfy9vv7ja"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qqmv5rsnmptndlk03ccckgmfhs6gfhl9gj7vzlxrmu7edlmncuaw53a63gw = "signam1qp9g9n272mc6n9xa8zpyt3j3u6fq47vrmluj7my552jjymage223p69y6yye8jra85q5u5qa9mu0scu5eclv63507qpjvkz5h3dfvrgrk4wpe5"
