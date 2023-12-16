@@ -1,0 +1,49 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qz27gl8yt5m5lvkr24s2l9d5wcf0mymjdwlzj35h7pmtst3028807n95s9x"]
+
+[[validator_account]]
+address = "tnam1q8c7a2kx22t6vn5t2aw8647c5rfl8hqnqg3seddu"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "5.161.55.130:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qpwu2r53q59uckthcf0p9vyygvy77xcmgaterf43xw3vs8yyeq42jpwgjmw"
+authorization = "signam1qqn59yaljs6xg08sxsq6scchel4n4cq2dlc4a3rqj600cusm5kl70p6a7t9f7yclftqj2ve56d38j6vre4uayt0fwrrhwjyp70zevpsrn86vql"
+
+[validator_account.protocol_key]
+pk = "tpknam1qr8r3nz62v76srd4g302wlxwk2tc4tp9pws4zu6tex0nwwp8p40ckkyuyvy"
+authorization = "signam1qq69tq89ungyxlm3sk84hxwx99syawva4tv35y63dhca2hg3jw6zvxrvjp8a2rvvzx4pu98ysx8gkwxk7rmuykzs442xl0tw33uqknqyxzqmcd"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qpe2lk6fxe50lvs9q55fq0wy2m98yfvezz3d5s2a5sz0tzertms5cms4g9y"
+authorization = "signam1qprvtujhc8qylkk339nlrr9j4daxtf3u6n86jswv9ry4fk5dwjgechmjgpv9xwfwyzrfsfdp4gvv8335e9na6y6sykj27g8rdex86pq2gu7jsz"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qypn3je5plcnnzz7zsnpe00rfrlx0pp0xeqmhxm8qldj277gc96ju6s4xyw0d"
+authorization = "signam1q9ltpu5f8flaspdrpsajcnz8hut9ssadpvl26u66p7pc5r0mz963uygk2uegw2mff73rx4e232c2rh9fem765a4nph6ayk84qmf337jnqy59uvjv"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp30z7k466428f0e884pu3dkvrnnvnfx9a4daf32vvwxrt8n0x2wscj8zqgt"
+authorization = "signam1q9huqmu57qvnkcm58jthmvu7xzzuzwyn42zza4fznrqge3eqkp3myk5zjgne8k22tqhz63ad7rhqx7kxphy7d0cpxng06fpulvc8j7fgqysz2rx8"
+
+[validator_account.metadata]
+email = "dipa.maginov@evosys.co.id"
+
+[validator_account.signatures]
+tpknam1qz27gl8yt5m5lvkr24s2l9d5wcf0mymjdwlzj35h7pmtst3028807n95s9x = "signam1qrlz4wqxm98cceuuygwvral6mxv83dp60xgq9000hj4cl0rwug55xgsjs5wvmfa3cgs5hmz826sx8usej49yzn4v4ffq5fggywsa3usva5nu9q"
+
+[[bond]]
+source = "tnam1q8c7a2kx22t6vn5t2aw8647c5rfl8hqnqg3seddu"
+validator = "tnam1q8c7a2kx22t6vn5t2aw8647c5rfl8hqnqg3seddu"
+amount = "1000000"
+
+[bond.signatures]
+tpknam1qz27gl8yt5m5lvkr24s2l9d5wcf0mymjdwlzj35h7pmtst3028807n95s9x = "signam1qrwx9fahv0tkkk2yed6gd8j5dnhc04q47qpyg0ezkcer3f60q4s2kukmzugqm45rxr6rky472xru87zy6ru5xae4kj5dkft45q56rfgzq385qj"
+
+- discord = "YOUR_DISCORD_ID"
+- twitter = "@YOUR_TWITTER"
+- elements = "@YOUR_NAME:matrix.org"
