@@ -43,7 +43,3 @@ amount = "1000000"
 
 [bond.signatures]
 tpknam1qz27gl8yt5m5lvkr24s2l9d5wcf0mymjdwlzj35h7pmtst3028807n95s9x = "signam1qrwx9fahv0tkkk2yed6gd8j5dnhc04q47qpyg0ezkcer3f60q4s2kukmzugqm45rxr6rky472xru87zy6ru5xae4kj5dkft45q56rfgzq385qj"
-
-- discord = "YOUR_DISCORD_ID"
-- twitter = "@YOUR_TWITTER"
-- elements = "@YOUR_NAME:matrix.org"
