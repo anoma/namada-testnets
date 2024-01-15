@@ -1,0 +1,46 @@
+[[established_account]]
+vp = "vp_user"
+threshold = 1
+public_keys = ["tpknam1qzfj8yk4eqmwy9fewfq4p9kcfcrl5yzgkqve0duqxee6ys8zcw7pcpcwaqk"]
+
+[[validator_account]]
+address = "tnam1qyl03jqx3nafc2dcjgymx8jmc75ex946v56wangr"
+vp = "vp_user"
+commission_rate = "0.05"
+max_commission_rate_change = "0.01"
+net_address = "136.175.9.205:26656"
+
+[validator_account.consensus_key]
+pk = "tpknam1qp4hd75n467x0eelw4u0htaypwuyv5e89gs58e22thyrntfve758qmw0yma"
+authorization = "signam1qqquwgwmmey867lwpz2agzystuuy69n7c7lhel6ldn9ezeke3q7cy64a55zv5mhud95ydcugut4ehcxj0ycknm4t94ddaqmj9p0vyhs2vj9auz"
+
+[validator_account.protocol_key]
+pk = "tpknam1qq26dx0p2phs6y4hkg7ylwexdhjelk5xay9892ta7e4tnyl00mf0w4xg0x0"
+authorization = "signam1qzgtfjev7gftk32gwcqccs57emejv4kr29wy6r2k888uz9cl05r7yetaruz0jr8rhhxjd8f2qq58s3kc0m0l0t0q05lgx8lyc8wtjrgf83rs3t"
+
+[validator_account.tendermint_node_key]
+pk = "tpknam1qrx9v7zzz94s2zzxplz2k9ssa5h0wu4kcwtrj0mu7h5hdapdcdwlyr0qnjd"
+authorization = "signam1qznj70hux24e25ph7jx0y39ley63ysj3u2k5ewg0ee2ps4hdxryas5syfxr5lshql4n6al4txfyss8a2ga2pgl7se2thwjl6va7nhwgy7a627h"
+
+[validator_account.eth_hot_key]
+pk = "tpknam1qyppyccqq9r4x9eu4sunz7xwv4snd4fljncwfutly0emytmlyhdlwhsz8umsh"
+authorization = "signam1q88k6tjyrp78zcg6g7m06uwgmhdrgy7ywqgz86jzglvpvutcucp5whwusljkt43g4z2p9lm7rudhpk94mxx4ms9kr74sxed7a6l9hufpqymlhgd4"
+
+[validator_account.eth_cold_key]
+pk = "tpknam1qyp0vx84xj09fxsgddxqhv8m7ptwnjzdlfs3fy044mvu4l9sfmmwdkq283pf4"
+authorization = "signam1qydvyjjnpeywppvced2w32z9xse4rr746a3a22gmxsxcfrum2tpgwqtsmhuuns9mn7dlz9wy7p8yu6z0dghgxp06y7vmq27em2xr0p87qyz2a3f0"
+
+[validator_account.metadata]
+email = "tvboxsupreme@gmail.com"
+discord_handle = "sirouk"
+
+[validator_account.signatures]
+tpknam1qzfj8yk4eqmwy9fewfq4p9kcfcrl5yzgkqve0duqxee6ys8zcw7pcpcwaqk = "signam1qpjf9h69wxvhtedvlg0qldj952yqk2urn0ds6pt08ftwdz56f3utms74ysaulgnxz93p5zjcvf2rmwxdjnxr57ce5hlrelvflwsxndg0ye3m3s"
+
+[[bond]]
+source = "tnam1qyl03jqx3nafc2dcjgymx8jmc75ex946v56wangr"
+validator = "tnam1qyl03jqx3nafc2dcjgymx8jmc75ex946v56wangr"
+amount = "2610000"
+
+[bond.signatures]
+tpknam1qzfj8yk4eqmwy9fewfq4p9kcfcrl5yzgkqve0duqxee6ys8zcw7pcpcwaqk = "signam1qpnkt2h55rl7443f2gxra4zqaryult6kldmk5lvqfc7dgg38n2es20qsrxzftknd7npv9z0cwe07xy7nvl5ruy75zned587cgga6cwgg67nhu0"
